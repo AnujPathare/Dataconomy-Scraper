@@ -1,0 +1,58 @@
+Title: Blockchain Found a Shortcut to the Universal Sharing Economy
+
+Article Link: https://dataconomy.com/2018/06/14/blockchain-found-a-shortcut-to-the-universal-sharing-economy/
+
+Author: Ralph Tkatchuk
+
+Publish Date: 2018-06-14
+
+Article:
+Today, we have the liberty to source an apartment space globally, with AirBnB, or to find a qualified person for manual labor via TaskRabbit. In spite of this accessibility, there are still gaping inefficiencies for users of these systems. It was blockchain that identified these flaws, and it will be blockchain in the hands of innovative tech leaders that will solve them.
+
+The internet and mobile technology together have a weighty impact on the global economy, but one of the most prominent trends to single out is called ‘the sharing economy’. Though it conjures up images of cooperative workspaces or urban co-ops, the sharing economy has its roots in a strong emphasis on individual mobility that technology has fostered. Individuals with valuable skills and assets can more easily share them in a global network, thanks to technology, and make a living without relegating themselves to the traditional employment model or antiquated intermediaries.
+
+Thanks to a new generation of applications and platforms that make it easy for a single person to leverage their value, it’s possible to find quality services anywhere in the world, no matter what is needed. However, the digital environments that spawned the sharing economy haven’t yet reached peak efficiency.
+
+CHINKS IN THE SHARING ECONOMY’S ARMOR
+
+To use AirBnB as an example, the service drastically revolutionized the short-term living arrangements industry. Previously, people stayed in hotels or motels, with those who had extra space more likely to rent to longer-term tenants for stability and lower involvement. AirBnB made it easy for these landlords to easily organize an endless and lucrative series of short-term tenants, by handling payment and providing a platform where global renters could easily identify dwellings in any location.
+
+On its own, AirBnB is an amazing tool, but one only needs to take a step back before realizing that it could be better for the sharing economy. The problem goes beyond AirBnB and addresses how the modern internet stratifies services and helps its biggest platforms entrench themselves for their own benefit. Essentially, centralized applications and platforms hosted on the internet (as opposed to the decentralized blockchain) still act as intermediaries, just more convenient ones.
+
+Platforms like DogVacay, on which dog-sitters and dog-walkers hire themselves out to a larger and more mobile audience of working dog owners in their area, still charge fees that cut deep into users’ profits. AirBnB does the same thing. Once a platform has become a destination for high internet traffic and users, it can use its position as a source of income to raise prices with little justification.
+
+Moreover, the wide array of apps that help people take advantage of shared services and assets is highly disparate. Using an app or finding the most relevant one depends on your current location, the money you’re using, the specific item or service you need, and a host of other considerations that make juggling a personal rolodex of shared service providers a frustrating experience. However, blockchain and the notion of decentralized hosting is already promising to give consumers and providers in the sharing economy a better deal.
+
+BLOCKCHAIN BRINGS GREATER EFFICIENCY TO THE SHARING ECOSYSTEM
+
+Blockchain innovators are running with the idea of a sharing economy on the decentralized ledger. Platforms like Blocklancer or Moneo use the same benefits of decentralization to consolidate providers and users, by making it simple to find freelance talent in a more streamlined fashion. Another great example is AverSpace, which takes the convenience that AirBnB lent to the real estate market and improves it with the use of adjustable, enforceable smart contracts. Averspace is a digital peer-to-peer (P2P) real estate portal which connects homeowners directly with potential buyers or tenants.
+
+The decentralized method of hosting ensures that intermediaries can’t build toll roads to force users into paying for access to the most popular services. Additionally, settlement and exchange of cryptocurrency makes payments easy and inexpensive, without the processing costs of sending fiat money across borders. The crux of the issue isn’t overheads, however, it’s the lack of a hub where sharers of every variety can connect with the blockchain’s vast source of demand.
+
+While this notion runs somewhat perpendicular to the idea of decentralization, it’s possible to decentralize a series of services and yet establish sharing relationships between them as well as their customers. Some have indicated that the ability to connect blockchains through similar multi-signature protocols will be the answer, yet most blockchain services still represent individual unconnected islands in a sea of demand.
+
+Users may be able to save on fees and enjoy a more transparent, fair relationship with their freelancer, for example, but they’ll still need to use another DApp for ordering groceries delivery immediately afterwards. Companies like ShareRing and Origin Protocol will answer this problem not with cutting-edge multi-layer technology, but simply by using blockchain to replicate and consolidate a multitude of existing sharing services in a single ecosystem.
+
+The degree of separation between platforms precludes the existence of any single sharing marketplace, which is ironic given that the goal of the sharing economy is to reduce barriers to these services. ShareRing will address the issue head on and will combine many of the most popular under one blockchain-powered roof. On ShareRing, users will find any number of completely unrelated services in one concentrated place, and use (or get paid in) cryptocurrency for greater transactability and a lesser impact on their wallet. Whether it’s for finding a dog walker, getting a ride to work, renting a short-term apartment, or hiring someone to mow their lawn, ShareRing aims to be a one-stop global hub for the truly sharable economy.
+
+Origin Protocol has the same ambitions but is using the Ethereum blockchain to build a platform where companies can onboard their own sharing marketplaces. Billed as a tool for business, Origin will be the turnkey platform that helps companies in the sharing economy build more efficient infrastructure, and then get a place to host it. CanYa is another impressive sharing tool, though it’s focused instead on the P2P sharing dynamic. The company represents an upgrade on the older gig economy’s best tools, such as Craigslist or Letgo, which is long overdue to be unseated as a middleman. Here, people can better leverage their skills and find demand outside of a centralized system.
+
+All these platforms share one aspect that can significantly optimize the sharing economy—tokenization. Because blockchain allows companies to create their own tokens that are pegged to cryptocurrency values and thus exchangeable even for fiat, there are financial incentives to participate.
+
+Blockchain allows sharing economy ecosystems to consistently add value instead of extract it because there are no fees to intermediaries. When paired with tokens that can easily be exchanged for financial gain, there is a force that can help incentivize adoption and participation.
+
+THE GREAT EQUALIZER
+
+The internet began a revolution whereby individuals could not only exchange ideas but also transmit and transfer value more seamlessly. As the next phase of its technological evolution takes hold, the tolls for exchanging goods and services will continue to fall, bringing about a more equitable transactional dynamic that shuns the need for gatekeepers large or small. Thanks to blockchain’s decentralized design, this eventuality is fast approaching in nearly every area of our existence. With the growing ability to share unused resources with fewer barriers, the next leg of the blockchain progression means giving individuals greater freedom to exchange value without rentiers there to collect fees.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Though it conjures up images of cooperative workspaces or urban co-ops, the sharing economy has its roots in a strong emphasis on individual mobility that technology has fostered.
+However, the digital environments that spawned the sharing economy haven’t yet reached peak efficiency.
+However, blockchain and the notion of decentralized hosting is already promising to give consumers and providers in the sharing economy a better deal.
+BLOCKCHAIN BRINGS GREATER EFFICIENCY TO THE SHARING ECOSYSTEMBlockchain innovators are running with the idea of a sharing economy on the decentralized ledger.
+Blockchain allows sharing economy ecosystems to consistently add value instead of extract it because there are no fees to intermediaries.
+
+Other Blogs by Ralph Tkatchuk: https://dataconomy.com/author/ralph-tkatchuk/

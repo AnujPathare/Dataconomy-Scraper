@@ -1,0 +1,36 @@
+Title: IoT, Big Data And Preventative Predictions
+
+Article Link: https://dataconomy.com/2015/08/29/iot-big-data-and-preventative-predictions/
+
+Author: Matt Reaney
+
+Publish Date: 2015-08-29
+
+Article:
+The leading car manufacturers are currently investing huge amounts of money integrating Big Data knowhow into their manufacturing processes. In the future, it will also undoubtedly have a direct impact on the driving experience – and before long your car will drive itself.
+
+If your in-car computer tells you that your engine is 70% likely to fail, most people would want to do something about it. If it tells you that your braking distance is 85% likely to cause a rear-end collision, you might drive with a little more caution…. Data has the power to change behaviours – more than education or prohibition ever could.
+
+[bctt tweet=”Data has the power to change behaviours – more than education or prohibition ever could.”]
+
+This emerging trend in Big Data will be driven by the businesses who will stand to profit from it (they will sell more cars, parts, etc), but it will soon move across to other areas of our lives, and it may not be universally welcome.
+
+If, after a detailed examination of your marriage, you were told that you had a 95% chance of getting a divorce over the next five years, would you feel any less determination to work at it? When emotions are turned into cold and hard facts, they are much harder to ignore. “We’ll get through it, we’ll be fine” might be so much harder to believe in. There are lots of things in life that aren’t just about the “data”, but they will be analysed anyway.
+
+On the other hand, within the healthcare sphere, preventative predictions will cause a revolution in the way we understand out bodies and the affects of what we are doing to them. If you understand that not going on that morning run has a 75% chance of shortening your life by three years, most of us would rush to put on our trainers…. If you understand that a stroke was imminent, you could rush to a hospital and get yourself treated before it took hold.
+
+From a recruitment perspective, what if your employer could tap into your online habits to tell when you might start to look for a new job. The moment you start to browse certain websites is the beginning of the end. What may have been a flirtation with temptation previously might now be viewed as a heinous betrayal. “How dare you check out their career page. You’re obviously not fully engaged anymore. Goodbye.” Sounds silly, but a variation on this may not be so far away.
+
+With the advent of the “Internet of Things,” this predictive analysis could turn us into little robots, governed by algorithms and not by our hearts. There could be a Google Glass type headset to tells us how we should be interacting with others based on their reactions. It could analyse all the tiny “micro-expressions” that our intuition takes for granted and give us hints as to how we should be behaving…. This for me would be the beginning of the end!
+
+Preventative predictions will form a big part of the Big Data revolution, but we should be careful not to let their conclusions get out of hand.
+
+(Image credit: Teradata)
+
+Summary: The leading car manufacturers are currently investing huge amounts of money integrating Big Data knowhow into their manufacturing processes.
+Data has the power to change behaviours – more than education or prohibition ever could.
+There are lots of things in life that aren’t just about the “data”, but they will be analysed anyway.
+On the other hand, within the healthcare sphere, preventative predictions will cause a revolution in the way we understand out bodies and the affects of what we are doing to them.
+Preventative predictions will form a big part of the Big Data revolution, but we should be careful not to let their conclusions get out of hand.
+
+Other Blogs by Matt Reaney: https://dataconomy.com/author/matt-reaney/

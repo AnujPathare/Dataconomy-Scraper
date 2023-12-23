@@ -1,0 +1,48 @@
+Title: Making Better Economic Forecasts with Machine Learning
+
+Article Link: https://dataconomy.com/2017/11/08/making-better-economic-forecasts-machine-learning/
+
+Author: Nicolas Woloszko
+
+Publish Date: 2017-11-08
+
+Article:
+GDP forecasting for the world’s major economies is no easy task, but new tools and ideas are always offering us ever more pragmatic insights. For that reason, I am very optimistic about the possibilities that machine learning opens up for us in macroeconomic forecasting. In my work, I try to combine economic research with machine learning research by working both as an economist and a data scientist. In doing so, much of what I focus on each day involves creating bridges across these disciplines and designing algorithms that are informed by both methods of problem-solving.
+
+Forecasting with Different Models
+
+One of the main challenges in economic forecasting is the fact that some well-known relation between two variables, say inflation and unemployment, may change across time. This phenomenon is referred to as structural change by economists. Machine learning experts talk of concept drift. This is a major concern when doing forecasts because a forecast may be built upon relations that are subject to structural change. Having a good understanding of this economic question helped me devise a new predictive algorithmthat is specifically meant to deal with structural change in economic time series. It is based upon previous literature but includes new components that have it adapt to structural change when it identifies sudden breaks in the series.
+
+For my work at the OECD, I have produced forecasts for G7 countries. For each country, I use a specific set of variables. Most of the time, economists use linear models in order to perform forecasts. Linear models assume linear relations: a rise in housing prices should have a given impact regardless of where we are, when we stand, or what housing prices currently are. There may be key counter-examples. Rising housing prices signal economic growth, because when people get wealthier, demand for housing increases and pushes housing prices up. Sill, that is true only up to a point. Past a given threshold, high housing prices may signal a bubblewith gloomy prospects for the economy. A forecaster working with classic methods may explicitly specify that there is threshold in housing prices and let their model figure out its value from the data. The kind of forecast I work on would learn that there is a threshold implicitly from the data.
+
+The main differences between econometrics and machine learning lie in their relationship with theory. Econometrics is model-based: we start with a certain idea of how things work and use the data to calibrate the model. On the other hand, machine learning has a data-first approach. Algorithms may uncover hidden patterns in the data, patterns for which we do not have a theory yet.
+
+Data and Theory
+
+Linear models are constrained where economic complexity is concerned. Economic complexity refers to the chunk of reality that is not explained well by theory or intuition. Economic complexity includes multiple discontinuities and multiple interactions between economic variables. Complexity also includes structural change. Some economic relations may be context-dependent, or path-dependent. Human intelligence is good at explaining qualitative relations: why A is greater than B, or why A is increasing, or why A should become close to zero. It is much harder to explain why A should be equal to 0.58790 rather than 0.6. Hopefully, artificial intelligence can do that, and capture patterns in the data that may serve to make very precise forecasts. Of course, algorithms that capture a lot of complexity are by far more difficult to interpret. But that’s part of the work I do to explain why the algorithm behaves like it behaves, and why it predicts what it predicts.
+
+Economic models map the economy along dimensions that are easy to understand for a human mind. That is the reason why linear models are easy to interpret and somehow homogenous with theory. Machine learning algorithms are not tied by the necessity to fit with human understanding. They map the economy along a larger number of dimensions. And that is why in most cases they are much more accurate.
+
+Still, it is necessary to use economic intuition as a means of defining the variables that matter to us. When it comes to constructing better forecasting algorithms, choosing the right variables is paramount. Data contains information that the algorithm is meant to extract. However good your algorithm, it will not predict, say, the 2008 crisis, should you fail to include variables about the US financial or housing markets. Still, one cannot include all possible variables. The economy is measured through thousands and thousands of dimensions: policy, institutions, finance, monetary indicators, budgetary indicators, consumption, investment, savings, debt, inequalities, geography, resources, global markets, capital flows etc. Economists are working in high dimension. Unfortunately, we are constrained by the number of available observations. In my forecasts, I have quarterly observations of the GDP for up to three decades. High dimension and relatively small data make it necessary to use economic intuition in order to select the variables we feed to the algorithm. I want to stress that variables that are good predictors of the GDP may cease to be and vice-versa.
+
+Economic intuition is the first step. Second, I use data-driven feature selection methods to tell apart the signal from the noise. That is not so easy, because a given variable may be a poor predictor of the GDP when used by itself, but considerably improve forecast performance when interacted with another. Meanwhile, given the number of variables, it’s not possible to try and test all possible variable subsets. I use a variety of algorithms to address these problems.
+
+“Better Policies for Better Lives.”
+
+Modelling tools have an impact on life quality because they can help governments devise better policies. Somehow this comes down to the OECD’s motto: “Better policies for better lives”. Using state-of-the art machine learning techniques will help us get a better understanding of the economy and the impact of policies. Analysing policies can be seen as the statistical problem of measuring the impact of a certain event in a complex system. Data scientists talk of “uplift modelling” to refer to the measuring of the impact of an action. This could be, for example, the impact of a new advertising campaign on a client’s behaviours. Similarly, new tools will yield new means of measuring the impact of policies. That is as major challenge for policy makers.
+
+In order to make policy decisions about, say, employment protection, governments first need a precise assessment of the impact of change in employment protection in the past – both in their country and in other countries. Second, they need to know whether a change in employment protection would have the same impact yesterday as it would have if implemented tomorrow. The impact of employment protection may depend on a series of factors: economic conjuncture, other regulations (in the product market or at the fiscal level for instance), institutions, or the current degree of employment protection. Most of the time, some of these interactions are well known by economists, but there may remain some obscure zones where machine learning will be particularly helpful in order to uncover new patterns in data.
+
+As the capabilities of machine learning continue to increase, so too will the opportunities for algorithms to work alongside economic theory to make GDP projections and evaluate the impact of policies. Bridging the gap between economics and machine learning is a scientific challenge that I believe will bring new insights to key policy problems.
+
+For more insights from Nicolas, get your Data Natives Ticket Here.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Summary: For that reason, I am very optimistic about the possibilities that machine learning opens up for us in macroeconomic forecasting.
+The main differences between econometrics and machine learning lie in their relationship with theory.
+Machine learning algorithms are not tied by the necessity to fit with human understanding.
+Using state-of-the art machine learning techniques will help us get a better understanding of the economy and the impact of policies.
+Bridging the gap between economics and machine learning is a scientific challenge that I believe will bring new insights to key policy problems.
+
+Other Blogs by Nicolas Woloszko: https://dataconomy.com/author/nicolas/

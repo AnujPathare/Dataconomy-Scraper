@@ -1,0 +1,34 @@
+Title: US National Science Foundation Funds $31m Boost to Big Data Infrastructure
+
+Article Link: https://dataconomy.com/2014/10/08/us-national-science-foundation-funds-31m-boost-to-big-data-infrastructure/
+
+Author: Eileen McNulty
+
+Publish Date: 2014-10-08
+
+Article:
+The U.S. National Science Foundation wants to tap the benefits “Big Data”. But even with rapidly advancing technical prowess, there remains a “lack of interoperability, missing tools and hardware that is still evolving” to cater to varying demands of scientific communities.
+
+In order to upend the situation the NSF has announced $31 million worth of new funding to support 17 innovative projects under the Data Infrastructure Building Blocks (DIBBs) program.
+
+“Developed through extensive community input and vetting, NSF has an ambitious vision and strategy for advancing scientific discovery through data,” clarifies Irene Qualters, division director for Advanced Cyberinfrastructure at NSF. “This vision requires a collaborative national data infrastructure that is aligned to research priorities and that is efficient, highly interoperable and anticipates emerging data policies.”
+
+The DIBBs awards grants in two separate schemes; firstly, it’s available to researchers carrying out early implementations of research projects that are more mature, and secondly, pilot demonstrations dealing in advanced cyberinfrastructure capabilities of existing research communities to address issues in science and engineering research. Early implementation awards provide $5 million over five years, while the pilot projects receive $1.5 million over three years.
+
+Started in 2012, DIBBs awards support research in 22 states dealing with research topics in computer science, information technology and other fields of science supported by NSF, according to their press release. DIBBs awards has supported initiatives like development of cyber-infrastructure to visualize geo-chronological data, data capture and curation for materials science research, and efforts to manage data emerging from the Laser Interferometer Gravitational-wave Observatory or LIGO.
+
+The National Science Foundation (NSF) is an independent U.S. federal agency that supports fundamental research and education across all fields of science and engineering.
+
+Read more here.
+
+Follow @DataconomyMedia
+
+Image credit: “A model of a geodynamo showing convective flow caused by the rotation of earth”, courtesy of the National Science Foundation
+
+Summary: The U.S. National Science Foundation wants to tap the benefits “Big Data”.
+Started in 2012, DIBBs awards support research in 22 states dealing with research topics in computer science, information technology and other fields of science supported by NSF, according to their press release.
+DIBBs awards has supported initiatives like development of cyber-infrastructure to visualize geo-chronological data, data capture and curation for materials science research, and efforts to manage data emerging from the Laser Interferometer Gravitational-wave Observatory or LIGO.
+The National Science Foundation (NSF) is an independent U.S. federal agency that supports fundamental research and education across all fields of science and engineering.
+Follow @DataconomyMediaImage credit: “A model of a geodynamo showing convective flow caused by the rotation of earth”, courtesy of the National Science Foundation
+
+Other Blogs by Eileen McNulty: https://dataconomy.com/author/eileen-mcnulty/

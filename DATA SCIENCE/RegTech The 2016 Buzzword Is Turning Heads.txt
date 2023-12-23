@@ -1,0 +1,46 @@
+Title: RegTech: The 2016 Buzzword Is Turning Heads
+
+Article Link: https://dataconomy.com/2016/05/03/regtech-the-2016-buzzword-is-turning-heads/
+
+Author: Hannah Augur
+
+Publish Date: 2016-05-03
+
+Article:
+FinTech is disrupting the banking world—and bringing consumers along for the ride. Of course, such a major shift in policies and the way companies do business is bound to have equally powerful effects on legislature. Regulations have been strict since 2008, and many US banks have been hit with huge fines for not being compliant. New regulations are constantly popping up, and the entire process can seem like an uphill battle. That’s why this year has deemed the year of RegTech.
+
+The idea behind Regtech is a simple one. In fact, Regulatory Technology sounds so obvious that it should already exist. In part, it does. But the recent shifts caused by FinTech have helped push it to the forefront. Since late 2015, Google searches for “RegTech” have skyrocketed, and it should come as no surprise. In a world where new disruptive technologies are almost the norm, regulatory measures need to be easy to grasp and to implement. FinTech is not the only reason for the shift, but it is a big reason. The financial services market is being upset around the globe. Startups are undermining, and also partnering with, big banks. Cryptocurrency has amassed a huge, evangelical following as well as skeptical detractors. The speed with which the market is changing is monumental, and regulations are beginning to catch up.
+
+Major Uses for RegTech
+
+RegTech could perform mundane tasks, like streamlining anti-money laundering checks. Some startups want to update how companies perform due diligence. Thanks to all the new ways people can send money, there is also a host of new ways to commit fraud. Thorough, reliable and easy to understand technology will be necessary to help companies keep track of all these new holes. Upcoming tech should also help expedite the KYC process, and ensure that financial inclusion can really happen. Another major goal is to help make use of data lakes. Banks are not only receiving absurd amounts of data, they are receiving it in all kinds of forms and formats. RegTech may not only make the regulatory process more data acquisitive, it will help companies fully grasp the data they possess. Cluttered data sets can be taken apart and reconstructed into something meaningful and accessible. RegTech will also mean the use introduction of analytic tools to mine existing data.
+
+Agility is perceived as the single most important characteristic of new RegTech solutions. Regulations on data and reporting will continue to increase, and it will take a lot of effort to not only drown, but to turn it into a profitable scenario. By opening the area of RegTech to disrupters, new solutions can be creating to replace those old, unbearably slow and out of date one. Many large banks and companies are somehow chained to their old hardware. While big banks do spend a lot of money on technology, they don’t actually tend to buy entirely new systems. All of those fast and sexy new solutions out there are almost useless. Traditional tools may be powerful, but they are not readily adaptable, and often require work in a proprietary language. New solutions made specifically for these types of scenarios, however, will open up a lot of data, speed, and possibility that has thus far been locked away.
+
+Advantages as a Cost-Saving Solution
+
+After automating tasks, reducing risks, and putting data to use, the opportunity to utilize new technology to save money is a major factor in RegTech’s rise to the spotlight. It allows banks not only to save money by complying with regulations and avoiding fines, it could lead to totally new models for compliance. If startups can turn the compliance process into a paid service, banks can save money by cutting down on man hours spent dredging through data. Similarly, if startups can create new, more affordable software, they could save banks a lot of money wasted on updating their system.
+
+RegTech also offers another level of practicality due to the fact it will most likely always be a cloud-based service. Cloud solutions offer a variety of advantages. It allows data to be shared quickly, easily and, most importantly, securely. By outsourcing the process, services can be customized, and companies have the option to easily add features or to scale. The cost of cloud services is usually usage-based, and that will be a major advantage for banks looking to cut back on regulation-related costs.
+
+Can RegTech Really Make It? Or is it Just Another Buzzword?
+
+One important question, given that the topic is regulation compliance, may be: How do governments feel about RegTech? A report published by the UK Government Chief Scientific Adviser tells us they might just like it. Governments, just like other companies, want banks to be compliant, and this paper outlines several reasons the RegTech movement should continue to developed, as well as suggestions. One of particular interest is the suggestion “regulators collaborate with FinTech.” Regulators need to know what kind of data is being collected in this new market, and how. Without the help of the FinTech scene, it could prove difficult for regulators to fully grasp what they are dealing with. Furthermore, that knowledge could be used to fuel a fully integrated analytics infrastructure for regulators.
+
+Despite the power of this new, and likely lucrative, new field, the talent pool may be a huge problem. With the rise of this style of regulation, few are ready to actually deal with it. The UK government report suspects that the problem will become worse over time as regulation and compliance becomes exponentially more analytical. As a result, there are three suggested counter measures, including regulator-recognized qualifications courses and commercial training courses, as well as new university programs specializing in the new Financial Regulation. A RegTech/FinTech Training Academy was even suggested.
+
+While FinTech has already made its root in the UK, the sudden appearance and power of the RegTech scene seems like a surprise. Of course, it not only makes sense, it might appear to be a godsend for those banks looking to keep up with the times. In the upcoming months and years, RegTech startups are expected to start popping up at FinTech hubs around the world.
+
+image credit: Ken Teegardin
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Since late 2015, Google searches for “RegTech” have skyrocketed, and it should come as no surprise.
+RegTech may not only make the regulatory process more data acquisitive, it will help companies fully grasp the data they possess.
+Agility is perceived as the single most important characteristic of new RegTech solutions.
+RegTech also offers another level of practicality due to the fact it will most likely always be a cloud-based service.
+In the upcoming months and years, RegTech startups are expected to start popping up at FinTech hubs around the world.
+
+Other Blogs by Hannah Augur: https://dataconomy.com/author/hannah-augur/

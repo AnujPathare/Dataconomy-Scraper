@@ -1,0 +1,52 @@
+Title: What can data-driven startups gain from Ruhrgebiet region in Europe?
+
+Article Link: https://dataconomy.com/2018/10/09/what-can-data-driven-startups-gain-from-ruhrgebiet-region-in-europe/
+
+Author: Diksha Dutta
+
+Publish Date: 2018-10-09
+
+Article:
+The Ruhr region known to be a steel and coal mine hub in Europe is reimagining the entrepreneurial spirit which was it’s foundation 150 to 200 years ago. This time lies a huge opportunity for data-driven startups to innovate and collaborate with the big traditional corporates that exist in the region. Here is look how.
+
+The year 2018 is a significant one for the Ruhr region in Europe. At the end of this year, Prosper-Haniel mine in Bottrop, the last coal mine in the region will be closed. Decisions which were made more than a decade ago are now reaching its inflexion point. To refresh the memory : In February 2007, the German federal government, the NRW (North Rhine-Westphalia) and Saarland State governments (where hard coal mining still took place), and RAG, the coal mine company owning and operating all of the Ruhr’s coal mines since 1969, reached an agreement on the final phasing out of underground coal mining in Germany and its subsidies by 2018. Over the last 50 to 60 years, there has been an economic transition from a steel and coal based economy in Ruhr to a serviced economy which now has huge potential for smart manufacturing and internet of things. This has lead to discussions whether Ruhr area could be the new hot spot for startups and tech innovation? The region is one of the five largest conurbations in Europe and is home to approximately 5.2 million people.
+
+Whenever there are significant changes like these, there are also immense opportunities. While this is an end of an era of coal mines, it is a birth of a new one. When we ask Marc Weimer-Hablitzel, Lead, Data Hub, Gründerallianz Ruhr about what this will change for existing big companies in Ruhr and what opportunity lies ahead for startups in the region, he says, “ If you look at data science from the perspective of B2B traditional companies, they are just starting to understand that data is not just a technical topic- rather it is their main source for competitive advantage which further leads to revenue generation. They realise that there is huge potential if you apply machine learning in processes like quality measures, energy consumption, etc. This industrial revolution in Ruhr region emphasises on the role of companies to care more about reducing pollution and saving energy. The right use of data by these traditional huge corporates can solve the problem. ”
+
+Germany has a target of reducing greenhouse gas emissions by 55 per cent by 2030 compared to the 1990s levels, and data-driven solutions can help in a big way to achieve this goal. And, startups are the ones who are innovating constantly to come up with these solutions. What is missing is a framework where startups can connect to these giant companies who have existed for years.
+
+Catering to this, Gründerallianz Ruhr supports the innovation ecosystem in the Ruhr region in Germany and bundles all startups activities in the area. The goal of this initiative is to strengthen the local startup scene and nourish it’s growth. Gründerallianz Ruhr was founded by Initiativkreis Ruhr and the initiators of „Glückauf Zukunft!“, RAG-Stiftung, RAG Aktiengesellschaft and Evonik Industries.
+
+What problem can startups solve in the Ruhr region and how?
+
+Marc draws an interesting analogy between how the Ruhr region started with an entrepreneurial and startup mindset around 150 to 200 years ago when people were driven to build a steel and coal based economy from the region of Ruhr to now when the same mindset will bring the next wave of change in the region through data-driven solutions.
+
+He says, “We want to bring out the same attitude of innovation but in a way where data science and machine learning is being adopted by traditional B2B companies. We want to make the Ruhrgebiet an attractive location for data-driven startups .” The Data Hub Program by Gründerallianz Ruhr creates the framework conditions and promotes cooperation between startups and companies based on concrete use cases.
+
+A whitepaper by The World Economic Forum says that while the European economy is growing faster than the US economy at present, the European innovation ecosystem is stronger than ever before but still trails other markets in terms of available nance and collaboration. The European economy’s continued success requires a better connection between both worlds: the traditional businesses and new market players. Both benefit from collaboration to create markets they would struggle to create alone, and to ensure they remain at their competitive edge. This exactly resonates with the mission of what Data Hub Program is trying to do by connecting startups with big corporates.
+
+The program is now inviting startup applications to solve challenges/use cases listed by top corporates such as Vivawest, Kolumbus and RAG in Ruhr Region and Gründerallianz Ruhr is the glue between these alliances of startups and companies. Marc shares, “ We are the facilitators between the two. This is a time when companies feel that they should be using data-driven solutions and they are beginning to share information with the outside world. For the last 15 years, data has been a CTO topic and it was hard to imagine that it could have some return on investments or be monetised. It was collected and stored as a practice, but without a purpose. CEOs have now started realising that good customer experience comes from developing data in the most efficient manner. In a recent etventure study, we asked CEOs what’s the most important source for competitive advantage and 63 percent of them answered it was “data”. This was not the case five years ago.”
+
+The challenge right now is that while corporates have huge amounts of data and though they also have data scientists employed, these scientists end up working in silos struggling how to use heaps of data, not being able to differentiate between good data and bad data. On the other hand, there are young startups who have data sets and don’t know how to use them as they don’t know which are the use cases available by big companies.
+
+“We are the point to bring these two sides together and reduce friction that is hindering them to work together. The legal work to collaborate with a big company could be a lot for a startup and we take care of these necessary logistics. In return, we expect startups to deliver a solution that gives a corporate enough confidence that they can solve the problem overcoming the first hurdle by developing a proof of concept,” shares Marc.
+
+What are the use cases and how are they developed?
+
+One of the use cases that is open for startup applications at this point is listed by RAG, one of the ten partners of Gründerallianz Ruhr.
+
+Sample this from the perspective of RAG: The last two RAG mines will close at the end of 2018. As a result, the challenges of post-mining and structural change will become the focus of our activities starting in 2019. We are already setting the course today – for example with a variety of measures for socially responsible personnel adjustment, the planning and implementation of responsible water management or the revitalization of former mining areas.
+
+To help keep the Ruhr area safe, RAG conducts flights that measure exact ground elevation levels. These measurements reveal ground depressions that can be used in the future. Spotting these depressions is a difficult task. Can we develop an algorithm that spots ground depressions better than the human eye? There are similar challenges by a total of seven big global companies based in Germany at present and startups can apply by 31st October in an attempt to solve these use cases.
+
+Marc explains the unique data thinking approach which is used to develop these use cases, “ Data Thinking is a new innovation method that moves away from traditional big data consulting. The focus is not on technology and data collection, but on data design for high-potential use cases. In the systematic identification of these data use cases, the data thinking method follows that of design thinking – placing the needs of the customer or user at the center of all considerations. Data Thinking is a highly iterative and cost-effective data science approach that demands fast feedback directly from the user and continuously tests, analyzes and optimizes potential solutions and hypotheses.”
+
+With the right financing for startups and a framework where big corporates can collaborate with younger innovative companies- there possibly is a big industrial revolution waiting yet again for Ruhr region. This time backed by the adoption of machine learning and data science.
+
+Summary: This time lies a huge opportunity for data-driven startups to innovate and collaborate with the big traditional corporates that exist in the region.
+The year 2018 is a significant one for the Ruhr region in Europe.
+This industrial revolution in Ruhr region emphasises on the role of companies to care more about reducing pollution and saving energy.
+Catering to this, Gründerallianz Ruhr supports the innovation ecosystem in the Ruhr region in Germany and bundles all startups activities in the area.
+What problem can startups solve in the Ruhr region and how?
+
+Other Blogs by Diksha Dutta: https://dataconomy.com/author/diksha-dutta/

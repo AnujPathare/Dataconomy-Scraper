@@ -1,0 +1,38 @@
+Title: Bank of England’s Advisory Panel Believes Big Data Can Help Cull Illegal Trader Practices
+
+Article Link: https://dataconomy.com/2015/02/26/bank-of-england-data-science-illegal-trading/
+
+Author: Dataconomy News Desk
+
+Publish Date: 2015-02-26
+
+Article:
+The Market Practitioner Panel (MPP), an advising panel assisting the Bank of England has revealed that in the near future, Big Data could be utilized by financial institutions to detect illegal trading practices carried out by City traders.
+
+The MPP noted that current methods of spotting trading malpractices like ‘key word surveillance’, had flaws citing Big Data as a “possible longer-term solution” to discerning irregularities, reports the Out-Law.
+
+Speaking on the matter financial services litigation and compliance expert Michael Ruck of Pinsent Masons, noted: “It is understandable that monitoring technology will be used as part of a wider compliance programme run by financial institutions given the risks of sanctions and to reputation if trader malpractice is uncovered.”
+
+However, MPP also believes that Big Data is still to proven effective at gleaning such situations and warned against the investment of time and money for such deployments. As an alternative, it suggested the implementation of ‘predictive coding’ to being out misconduct.
+
+The MPP explained: “[Predictive coding] goes beyond simply looking for key words and instead looks to identify irregularities in patterns of behaviour such as; communications through unofficial channels (personal e-mail, messenger / chat forums); leaving the office at peculiar times or unusual working hours; missing mandatory block leave; consideration of previous roles and responsibilities within the organisation.”
+
+On the other hand, Pinsent Masons’ Data protection law expert Kathryn Wynn was sceptical about such use of Big Data, saying that usage should be justified and intrusion into individual trader activity should only be carried out after doubts are raised through regular observation.
+
+She said: “With big data analytics, there is the temptation to use the technology to build up a precise profile of each individual traders’ behaviour and practices. However, intrusions into individual privacy must be proportionate and necessary to comply with data protection laws.”
+
+Established in 2014 as an independent body to advise the Bank on FEMR matters, the MPP’s report to the Bank of England’s Fair and Effective Markets Review (FEMR) has details on the matter, Out-Law pointed out.
+
+Follow @DataconomyMedia
+
+
+
+(Image credit: Duncan, via Flickr)
+
+Summary: The Market Practitioner Panel (MPP), an advising panel assisting the Bank of England has revealed that in the near future, Big Data could be utilized by financial institutions to detect illegal trading practices carried out by City traders.
+The MPP noted that current methods of spotting trading malpractices like ‘key word surveillance’, had flaws citing Big Data as a “possible longer-term solution” to discerning irregularities, reports the Out-Law.
+As an alternative, it suggested the implementation of ‘predictive coding’ to being out misconduct.
+She said: “With big data analytics, there is the temptation to use the technology to build up a precise profile of each individual traders’ behaviour and practices.
+Follow @DataconomyMedia(Image credit: Duncan, via Flickr)
+
+Other Blogs by Dataconomy News Desk: https://dataconomy.com/author/dataconomynewsdesk/

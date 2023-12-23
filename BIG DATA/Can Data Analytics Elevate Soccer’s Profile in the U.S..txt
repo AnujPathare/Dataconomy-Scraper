@@ -1,0 +1,42 @@
+Title: Can Data Analytics Elevate Soccer’s Profile in the U.S.?
+
+Article Link: https://dataconomy.com/2018/04/27/can-data-analytics-elevate-soccers-profile-in-the-u-s/
+
+Author: Kevin Minkus
+
+Publish Date: 2018-04-27
+
+Article:
+In the world of IT, data’s role as MVP is rapidly becoming an industry standard. But when it comes to athletics, there’s still some room to grow — at least in the case of American soccer. Where some sports have adopted the use of data analytics to shape predictions and inform strategy, soccer lags behind on the data and analytics field. As new tools emerge that capture and leverage the untapped value of data, soccer may find itself in the position of many other sports (and non-sports) industries: sprinting to catch up.
+
+Soccer & analytics: behind the ball, but catching up
+
+Baseball and basketball have already paved the way for data analytics in sports (remember Moneyball?), leveraging data to gain an edge over competition and inform team infrastructures. American professional soccer teams, however, are more resource-constrained than their counterparts – making it challenging to follow in baseball and basketball’s path.
+
+Some soccer teams employ a full-time analyst or two, and some utilize external consultants, but very few have built up larger analytics departments. Finding themselves behind the ball – digitally, at least – can affect how teams compete against one another, both on the field and in the front office.
+
+Analytics is becoming increasingly important for satisfying fans, too, as data-driven conversations have gained greater currency in other sports industries. As soccer in the U.S. catches up to the sport’s global popularity, there is a growing appetite for analysis — professional and amateur — to help soccer keep the pace and help facilitate more engaging fan experiences.
+
+Adding value and shaping decisions with analytics
+
+As soccer teams, administration, media and fan bases demand introducing data analytics to their favorite sport, the overarching approach to soccer will fundamentally change. Analysts are working to shape important context around statistics and approach strategy more holistically. The field is moving away from looking solely at players’ counting and descriptive statistics — such as how many goals they score or passes they intercept — and toward how players’ actions serve the greater goal of the game. As that maturation occurs, teams must also consider how these new statistics inform decision-making and add value. This shift, from looking at the small picture to modeling the big one, is something businesses across all industries are facing in digital transformation.
+
+For both soccer teams and companies, it’s necessary to determine what type of data to capture, how best to capture it and how to gain and leverage insights from it. The last step can be the hardest, especially when it comes to delivering business initiatives. While IT needs data experts, business analysts must have access to this data to make strategy and go-to-market decisions. In the case of soccer, as in all fields, communication across these teams is vitally important.
+
+Communicating data, driving the industry forward
+
+Sports data analysts need to be able to effectively convey their discoveries to decision-makers — usually coaches or GMs. Right now, that communication can be a bottleneck, as leaders often lack the ability and familiarity to translate quantitative data to qualitative thinking. Those analysts who can speak both to math and soccer can have outsized impacts within their organizations. More broadly, individuals with mathematical skills who can join a business, in any industry, and pick up and learn that domain’s subject matter can fulfill this growing role of the citizen data scientist across a myriad of industries.
+
+Soccer is just one example of an industry that could benefit from a data facelift – or at least some creative integration. Data is no longer exclusive to IT or tech-driven companies. Looking at how soccer data analytics can scale from a data analyst’s hobby to a revitalized, revolutionized industry standard begs other industries to consider how data collection and analysis can change how people work, play and live. It calls for tools and resources made to enable divergent thinking – optimizing the value and assets that might be placed right under a company’s noses.
+
+Considering how a small interest in sports can spark such a change in storyline, all industries, businesses and organizations should consider how data analytics can change their game. Making a play like this can launch even the most aging industry into the modern era by allowing it to connect with its members and audience to deliver a personalized, comprehensive experience.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Summary: Where some sports have adopted the use of data analytics to shape predictions and inform strategy, soccer lags behind on the data and analytics field.
+Soccer & analytics: behind the ball, but catching upBaseball and basketball have already paved the way for data analytics in sports (remember Moneyball?
+American professional soccer teams, however, are more resource-constrained than their counterparts – making it challenging to follow in baseball and basketball’s path.
+Communicating data, driving the industry forwardSports data analysts need to be able to effectively convey their discoveries to decision-makers — usually coaches or GMs.
+Looking at how soccer data analytics can scale from a data analyst’s hobby to a revitalized, revolutionized industry standard begs other industries to consider how data collection and analysis can change how people work, play and live.
+
+Other Blogs by Kevin Minkus: https://dataconomy.com/author/kevinminkus/

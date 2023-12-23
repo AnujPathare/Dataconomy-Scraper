@@ -1,0 +1,40 @@
+Title: Ford Focuses on Big Data Ambitions with the New Silicon Valley Research Centre
+
+Article Link: https://dataconomy.com/2015/01/26/ford-focuses-on-big-data-ambitions-with-the-new-silicon-valley-research-centre/
+
+Author: Dataconomy News Desk
+
+Publish Date: 2015-01-26
+
+Article:
+Ford have been at the forefront of top-down big data analytics from the get-go. In our interview with Ford’s Chief Data Scientist Mike Cavaretta last year, he alluded to the opening of a research centre, to propel Ford’s big data research to dizzying new heights. Now, this plan has come to fruition- Ford’s Silicon Valley Research Center had its grand opening last week. The research center aims to drive innovation in connectivity, mobility, and autonomous vehicles.
+
+Mark Fields, Ford’s President and CEO, hopes the centre will keep Ford at the cutting edge of innovation. “This new research center shows Ford’s commitment to be part of the Silicon Valley innovation ecosystem – anticipating customers’ wants and needs, especially on connectivity, mobility and autonomous vehicles,” Fields stated. “We are working to make these new technologies accessible to everyone, not just luxury customers.”
+
+The announcement outlined that:
+
+Ford and Stanford started an alliance to deliver Fusion Hybrid Autonomous Research Vehicle to university engineers for next phase of testing. Dragos Maciuca, an experienced Silicon Valley engineer, joins Ford from Apple to serve as senior technical leader at Research and Innovation Center Palo Alto; additional hiring plans will support Ford having one of the largest automotive research teams in Silicon Valley.
+
+This facility is the latest in Ford’s global network of research and innovation centers, including its location in Dearborn, Michigan, which focuses on advanced electronics, human-machine interface, materials science, big data and analytics; and Aachen, Germany, which focuses on next-generation powertrain research, driver-assist technologies and active safety systems, reports their press release.
+
+Situated in the Stanford Research Park, the facility will accommodate 125 researchers, engineers and scientists.
+
+Some of its projects in key areas, include:
+
+Connectivity : Ford is integrating with the Nest application programming interface, targeting home energy and emergency system management while on the road through a series of research experiments. Mobility: As the next phase in Ford’s Remote Repositioning mobility experiment, the Palo Alto team is now testing the ability to drive vehicles located on Georgia Institute of Technology’s campus in Atlanta from the Bay Area to prove out the new technology. Autonomous vehicles: While Ford’s research and development in autonomous vehicles is a global effort, including ongoing work with University of Michigan and Massachusetts Institute of Technology, the Palo Alto team will expand collaboration with Stanford University that kicked off in 2013. Customer experience Big data and analytics: Ford is leveraging its OpenXC platform to help learn how customers are using their vehicles, and is conducting analytics to detect patterns and learnings that can lead to product improvements or new mobility services.
+
+The opening of this centre marks the beginning of an exciting new chapter in Ford’s development, as well as the development of the automotive industry as a whole.
+
+Follow @DataconomyMedia
+
+
+
+(Image credit: Marco Ely, via Flickr)
+
+Summary: In our interview with Ford’s Chief Data Scientist Mike Cavaretta last year, he alluded to the opening of a research centre, to propel Ford’s big data research to dizzying new heights.
+Now, this plan has come to fruition- Ford’s Silicon Valley Research Center had its grand opening last week.
+The research center aims to drive innovation in connectivity, mobility, and autonomous vehicles.
+“This new research center shows Ford’s commitment to be part of the Silicon Valley innovation ecosystem – anticipating customers’ wants and needs, especially on connectivity, mobility and autonomous vehicles,” Fields stated.
+Dragos Maciuca, an experienced Silicon Valley engineer, joins Ford from Apple to serve as senior technical leader at Research and Innovation Center Palo Alto; additional hiring plans will support Ford having one of the largest automotive research teams in Silicon Valley.
+
+Other Blogs by Dataconomy News Desk: https://dataconomy.com/author/dataconomynewsdesk/

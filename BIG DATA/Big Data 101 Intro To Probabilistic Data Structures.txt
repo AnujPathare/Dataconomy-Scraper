@@ -1,0 +1,40 @@
+Title: Big Data 101: Intro To Probabilistic Data Structures
+
+Article Link: https://dataconomy.com/2017/04/17/big-data-101-data-structures/
+
+Author: Christopher Low
+
+Publish Date: 2017-04-17
+
+Article:
+Oftentimes while analyzing big data we have a need to make checks on pieces of data like number of items in the dataset, number of unique items, and their occurrence frequency. Hash tables or Hash sets are usually employed for this purpose. But when the dataset becomes so enormous that it cannot fit inside the memory all at once, we need to use special kinds of data structures known as Probabilistic Data Structures. Streaming applications usually require data processing in one pass and then incremental updates. Fortunately, probabilistic data structures fit that processing model very well. Such data structures ignore collisions but errors are controlled under a certain specified threshold. They trade in a small margin of error for considerably less memory footprint and constant query time. This article discusses some commonly used probabilistic data structures:
+
+Bloom Filter
+
+Bloom filter is a probabilistic data structure used to efficiently determine whether a given element is a member of the dataset or not. Structure-wise it is a bit array of m-bits initialized to 0. A query returns either “maybe in set” (with some margin of error) or “definitely not in set” (with full confidence) but not “definitely in set”. This means that false positive matches are possible but false negative matches are not. The more the number of elements, the greater is the probability of false positives. Only addition of an element is possible. To add an element, it is fed to n number of hash functions to obtain n array positions and the corresponding value at these positions is set to 1. When checking for membership, the element is again passed through n hash functions to obtain n array positions. If any of the corresponding values that these positions is 0, the element is definitely not present in the dataset. If all are 1, the element might be in the dataset.
+
+HyperLogLog
+
+Count-distinct problem (or cardinality estimation problem) is the problem of finding number of unique elements in a streaming dataset with possibly repeated elements. This problem is a common occurrence in various fields like estimating the number of unique visitors to a website, or motifs in a DNA sequence. Calculating the exact cardinality of a dataset requires an amount of memory proportional to the cardinality – which would require a large amount of memory for large datasets. HyperLogLog solves this problem by providing an estimate of the cardinality instead. It can count up to one billion distinct items with an accuracy of 2% using only 1.5 KB of memory. It is based on the fact that for a stream of randomly distributed numbers, if there is a number with the maximum of leading 0 bits equal to k, the cardinality of the stream is likely equal to be 2^k. This means that in a stream of random binary numbers, the probability of encountering a “1” in the beginning is ~50%, and of encountering a “01” is ~25%. Thus an observation of “01” in the stream’s start indicates that the cardinality is likely to be 2^2 = 4.
+
+Count–min sketch
+
+The count-min sketch data structure records the frequency of element occurrence in a stream. Unlike a hash table, it trades the ability to obtain a perfect frequency count with using very less (sub-linear) memory space due to over-counting of elements in case there is a hash collision. It is similar to a Bloom filter, which represents the dataset as a bitmap, while Count-min sketch is a two-dimensional array of w columns and d rows – where the w and d parameters can be varied to obtain a desired matching point between accuracy and the probability of that accuracy.
+
+MinHash
+
+Minhash is a technique to determine the level of similarity between two datasets. It finds its applications in document clustering. Minhash uses Locality sensitive hashing (LSH) which involves generating a hash code such that similar items will tend to get similar hash codes. Precomputed LSH are compared to determine if two objects are similar enough to be examined in detail or the comparison should be discarded. Exact implementation details can be found here.
+
+Probabilistic data structures are a very powerful tool while working with big data in a streaming format. The implementation details can be a bit daunting at first but the underlying concepts are very simple. If you haven’t tried them before, head over to Amazon AWS or Microsoft Azure and fire up a VM to hack on. You may want to use Twitter’s Algebird library which has implementations for the first three data structures described above.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: But when the dataset becomes so enormous that it cannot fit inside the memory all at once, we need to use special kinds of data structures known as Probabilistic Data Structures.
+Fortunately, probabilistic data structures fit that processing model very well.
+Such data structures ignore collisions but errors are controlled under a certain specified threshold.
+Probabilistic data structures are a very powerful tool while working with big data in a streaming format.
+You may want to use Twitter’s Algebird library which has implementations for the first three data structures described above.
+
+Other Blogs by Christopher Low: https://dataconomy.com/author/chris-low/

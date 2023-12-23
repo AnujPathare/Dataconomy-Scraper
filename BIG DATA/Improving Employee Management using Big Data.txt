@@ -1,0 +1,56 @@
+Title: Improving Employee Management using Big Data
+
+Article Link: https://dataconomy.com/2017/08/16/employee-management-big-data/
+
+Author: Jacob Koshy
+
+Publish Date: 2017-08-16
+
+Article:
+Google regularly gets voted as the best company to work for in USA – its employees get generous paid holidays, free food and are even encouraged to take power naps during the work day in those ‘nap pods’. Google has been providing an excellent workplace atmosphere to its staff – not because they are lovely people. As with everything they do, these decisions are purely backed by data – data showed that treating their employees like this would improve employee satisfaction and ultimately their bottom lines.
+
+Although most businesses have adopted big data as a critical component of their customer experience enhancement and market analytics practices, there are more applications that are being overlooked by many. Big data can effectively be used to improve employee management in an organization which would ultimately improve their operational efficiency and employee retention rates among countless other benefits.
+
+Most companies still use the traditional method of measuring employee performance which uses the key performance indicators (KPI). Although this method may still work to an extent, it does not factor in some of the crucial points like the motivation level, derived work satisfaction and the actual potential of the employee. Tying the organization’s long-term HR goals to certain data points that can be tracked from the employees would be the first step towards innovating employee management. Let’s see how this can be achieved.
+
+Don’t just collect data, listen
+
+Although organizations use employee surveys with good intentions, this process is riddled with deficiencies. For one thing, getting access to the real data is always better than data provided via surveys as it tends to be less reliable.
+
+Just like listening to the customer isn’t a one-time thing, listening to your employees shouldn’t be limited to an employee satisfaction survey. The data is never static, which means your data gathering pursuit should be a never-ending one. It helps to make your employees actively participate in the discussion. The prime focus should be on gathering multiple data points from different internal departments which should give you the bigger picture. It should also be noted that there’s a thin line between employee data collection and privacy intrusion. The data collection activities should be ethical and within the limits.
+
+Make the KPIs Employee-Centric
+
+The KPIs being used by high-level executives fail to address some of the key factors that affect employee performance like the satisfaction level and whether or not the employee is incentivized enough to make things happen. Simply put, you should make the KPIs more employee centric and also make sure to include them in the process. If long-term metrics like tenure and retention rates are what you seek, it’s important to define a list of KPIs that factor in employee satisfaction and motivation.
+
+You can begin by quizzing them about what they consider to be the indicators of motivation and satisfaction and then incorporate the responses into your metrics to track. Considering the cost and challenges associated with hiring and training, ignoring this would be a big mistake.
+
+Measure, Recalibrate and Adjust
+
+It’s important to revisit your HR objectives once in a while and check if the data backed employee management strategy is helping you improve the retention rates and employee performance. It’s better to tie the employee KPIs into your HR objectives as it helps assess the progress better. The review periods will also help you stay on track or recalibrate when needed.
+
+Collect the data, review and analyze it and make the necessary adjustments on a continuous basis. Making big data work internally will take exactly the same commitment as it would externally. It’s understandable if you track the wrong data in the initial stages, since employee metrics to be tracked can vary across industries and organizations, it’s tough to establish a standard set of metrics here. You will have to go via the trial and error method to find out what metrics give you the most accurate results in terms of employee management.
+
+Intel used the same approach in their organization and found out certain attributes that make employees leave or stay loyal to reduce attrition by 20 percent during a six-month trial, according to The Wall Street Journal.
+
+Filling the gaps
+
+Data collection, as we discussed above is a continuous pursuit. As you collect data, it’s important to revisit the collected data in order to evaluate its quality. This should be followed by filling the gaps in your big data funnel. Analysis is the final and most crucial step in the process. It’s important to be unbiased while deriving insights from the data collected as this could skew your results and lead you to bad decisions.
+
+Conclusion
+
+Gathering data from employees is a controversial topic and many employees might resent this level of analysis of their activities. But the issue can be resolved by implementing it the right way. In fact, there are many less provocative uses for employee data collection and analysis.
+
+If the end result of this data collection practice is the employees getting their paid holidays doubled, free food or a better workplace atmosphere, who’s complaining?
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Big data can effectively be used to improve employee management in an organization which would ultimately improve their operational efficiency and employee retention rates among countless other benefits.
+Most companies still use the traditional method of measuring employee performance which uses the key performance indicators (KPI).
+It should also be noted that there’s a thin line between employee data collection and privacy intrusion.
+Making big data work internally will take exactly the same commitment as it would externally.
+In fact, there are many less provocative uses for employee data collection and analysis.
+
+Other Blogs by Jacob Koshy: https://dataconomy.com/author/jakob-koshy/

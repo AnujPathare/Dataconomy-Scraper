@@ -1,0 +1,40 @@
+Title: The Data Science Disruption That’s Coming To Banks (And How To Help Lead It)
+
+Article Link: https://dataconomy.com/2014/11/06/the-data-science-disruption-thats-coming-to-banks-and-how-to-help-lead-it/
+
+Author: Sudhanshu Ahuja
+
+Publish Date: 2014-11-06
+
+Article:
+Take a large quantity of jelly beans. Put them in a tall glass jar. Ask a group of children to guess how many are inside in exchange for a prize, then watch their faces light up with excitement.
+
+No one would call this an exercise in predictive analytics, but at least the consequences of losing aren’t dire. For financial services firms, on the other hand, there are similar challenges in gauging how much money needs to be stored inside an ATM, but no bank can afford to have a bank machine that runs out of cash. Particularly in Singapore, where ATMs dispense 20,000 cycles a month compared with 2,000 in the U.S., getting the numbers right is critical — and incredibly difficult.
+
+This is just one example of where data scientists are making a huge impact, not only on how financial services firms operate, but on the kind of experiences that consumers are coming to expect from organizations they trust. Data scientists can go beyond the sensors and other technology tools to track what’s happening on a given ATM today and looking at what will happen tomorrow. The people who take up these challenges will quickly emerge as key players in the international financial scene.
+
+The growing skills gap
+
+In a recent report from Infosys, for example, 67 percent of more than 100 retail banks around the world said they were hoping to leverage big data as a way to further innovation in the way they serve their customers. The insights they gain from banking customer analytics will also help guide their investments and approach to other innovation priorities, such as the use of social media as a customer service and sales channel, the delivery of products via mobile devices and more.
+
+Unfortunately, many organizations are quickly realizing the lack the right talent to properly tackle many of the opportunities that banking customer analytics could bring to their future growth. “Banks must integrate large volumes of data across organization silos to develop an enterprise-wide analytics capability. They must weave analytics tightly into key business processes throughout the organization,” consulting firm Accenture noted in a report entitled, The Looming Global Analytics Talent Mismatch in Banking. Perhaps most importantly, they must have people who can translate untapped data potential into business results.”
+
+This is arguably the ideal inflection point for those with a background in applied mathematics, statistics or related specialization to apply their skills to problems that have never been solved before. More importantly, the actionable outcomes from their work will not only contribute value internally to financial services organizations, but potentially improve the daily lives of thousands of people. Data science in banking will eventually transform the relationships between financial services firms and their customers in ways that can’t even be imagined today. In other words, it doesn’t take a data scientist to recognize that there has never been a better time to become a data scientist.
+
+
+
+Try your hand at this to get a chance to interview for a VP, Analytics position at a top bank in Asia.
+
+Follow @DataconomyMedia
+
+Sudhanshu Ahuja is the founder of Ideatory Pte. Ltd., who organize open-innovation challenges to help companies discover, attract and hire great tech talent. Ideatory is a recipient of the ACE Start-ups Grant. Ahuja is also a Technology Scout for Electrolux, where his role involves searching and identifying technologies or products that could be of strategic importance to Electrolux in existing and future product lines.
+
+(Image credit: James Lee)
+
+Summary: Unfortunately, many organizations are quickly realizing the lack the right talent to properly tackle many of the opportunities that banking customer analytics could bring to their future growth.
+“Banks must integrate large volumes of data across organization silos to develop an enterprise-wide analytics capability.
+They must weave analytics tightly into key business processes throughout the organization,” consulting firm Accenture noted in a report entitled, The Looming Global Analytics Talent Mismatch in Banking.
+More importantly, the actionable outcomes from their work will not only contribute value internally to financial services organizations, but potentially improve the daily lives of thousands of people.
+Data science in banking will eventually transform the relationships between financial services firms and their customers in ways that can’t even be imagined today.
+
+Other Blogs by Sudhanshu Ahuja: https://dataconomy.com/author/sahuja/

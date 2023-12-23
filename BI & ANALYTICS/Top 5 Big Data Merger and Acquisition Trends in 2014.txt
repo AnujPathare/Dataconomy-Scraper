@@ -1,0 +1,50 @@
+Title: Top 5 Big Data Merger and Acquisition Trends in 2014
+
+Article Link: https://dataconomy.com/2014/12/09/top-5-merger-and-acquisition-trends-in-2014/
+
+Author: Eileen McNulty
+
+Publish Date: 2014-12-09
+
+Article:
+To say that the big data market is thriving would be an understatement. The IDC predicted that the big data sector would be worth $16.1 billion by the close of the year, growing six times faster than the wider IT market. When you consider one single company, Micros, was bought out by Oracle for a dazzling $5.3 billion this year, the IDC’s estimate may even be slightly on the conservative side.
+
+Mergers and acquisitions were active throughout the year, across a range of industries and verticals. Yet at Dataconomy’s news desk, we noticed five key trends in the acquisitions space which came up time and time again. If you’re looking to get a foothold on this market, investing in one of these five areas- or even starting your own enterprise within them- seems like a solid bet for the near future.
+
+1. Cloud Computing
+
+Some are hailing cloud as the latest IT revolution, others are dismissing it due to the immaturity of the technology. A recent survey of UK IT Professionals by Reconnix found only 8% had currently adopted cloud technologies, with only 10% more considering their business “ready” for cloud adoption.Regardless of the divide in opinion, many of the biggest names in IT- including Microsoft, Oracle & VMWare– have been quick to snap up cloud computing startups and increase their product line.
+
+2. Data Security
+
+Undoubtedly, the biggest pain point to wider cloud adoption is security concerns. With everyone from big business to celebrities reeling from the fallout of data breaches this year, data security has undoubtedly been a hot topic, which has been reflected within the acquisitions space. Microsoft bought Aorato; Cloudera bolstered their Enterprise Data Hub with the acquisition of Gazzang; Facebook brought PrivateCore in-house to fortify their defences. Google alone acquired no less than three data security startups this year. The intersection between data security and cloud computing became a hot market of its own, with IBM purchasing CrossIdeas and Lighthouse- hopefully, off-premise storage with airtight security will quell doubts and lead to wider cloud adoption.
+
+3. Image Recognition
+
+Neural networks have undoubtedly flourished within the past couple of years, with the task of image recognition in particular seeing astounding improvements. Pinterest bought out VisualGraph, Twitter acquired MadBits, and Google snapped up three deep learning/image recognition teams: DNNResearch, Jetpac and Vision Factory. We spoke earlier in the year to Cloudera’s Sean Owen about the trend, and why he thought there was so much movement in what seems to be a very specific corner of a much wider machine learning market:
+
+We’ve got a small group of people without a real product to sell, but that they have a very interesting take on a hot topic in research, like deep learning or multi-layered convolutional neural nets. Interestingly all of these small start-ups have managed to make deep learning do something related to image recognition. It’s not surprising that image classification is a problem the tech giants have, so it’s not surprising that they want to buy these technologies at almost any price. In a way I’m not sure this is reflective of a lot of trends in machine learning and in the industry, even if these are the most visible transactions in this space. All of these seem to be of a similar pattern – tech giants buying a deep learning start-up, of a couple people, to enhance some kind of image recognition capability. It’s interesting, but it’s not what 90% of companies out there do when they do machine learning.
+
+4. BI and Analytics
+
+Hardly a new or surprising entry on this list, but innovation in the BI and Analytics space is still going strong. The main buyers were tech companies in the data processing & analysis space, bolstering their respective offerings with the latest analytical capabilities. As such, Cloudera incorporated Datapad; Teradata added Think Big Analytics, and TIBCO added Jaspersoft– with TIBCO themselves having just been acquired by Vista Equity Partners this week.
+
+5. Database Tech
+
+Although technologies in the data capture and processing space have been innovating and flourishing for many years, some of the larger players are still acquiring startups at the cutting edge of this field to ameliorate their existing offerings. IBM acquired Cloudant back in the first quarter. Teradata have again been active in this field, buying out Revelytix and Hadapt, the latter of which focuses on SQL-on-Hadoop. With wider demand for real-time and operational analytics, it’s a safe bet that we can expect to see further SQL-on-Hadoop acquisitions (or adoptions of Spark, Storm and Flink) in the coming year.
+
+As with every year, 2014 proved that with innovation comes acquisition. It’s difficult to predict where the next great IT evolution will spring from, but the future looks good for these five spheres heading into 2015.
+
+Follow @DataconomyMedia
+
+
+
+(Image credits:- Pixabay, Continuent; Garret Heath; Shutterstock; Datapad; See-Ming Lee)
+
+Summary: To say that the big data market is thriving would be an understatement.
+Data SecurityUndoubtedly, the biggest pain point to wider cloud adoption is security concerns.
+With everyone from big business to celebrities reeling from the fallout of data breaches this year, data security has undoubtedly been a hot topic, which has been reflected within the acquisitions space.
+Google alone acquired no less than three data security startups this year.
+Image RecognitionNeural networks have undoubtedly flourished within the past couple of years, with the task of image recognition in particular seeing astounding improvements.
+
+Other Blogs by Eileen McNulty: https://dataconomy.com/author/eileen-mcnulty/

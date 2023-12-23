@@ -1,0 +1,74 @@
+Title: What kind of industries will expand their use of fast data in 2016?
+
+Article Link: https://dataconomy.com/2016/03/03/what-kind-of-industries-will-expand-their-use-of-fast-data-in-2016/
+
+Author: Dennis Duckworth
+
+Publish Date: 2016-03-03
+
+Article:
+Organizations are being driven to be sophisticated in their use of data, and specifically in acting on fast data, to make critical business decisions. Fast data is data in motion, not data at rest (that is, stored for longer-term analysis). Studies have shown that data has the greatest value immediately after it is generated, as it enters an organization’s data pipeline, and loses value with time. This makes it critical for companies to harness the “actionable power” of data as soon as possible.
+
+Early adopters include enterprises in telecom, mobile, IoT, ad technology, and financial services, but companies in just about every vertical can benefit from making fast data part of their operational systems. Many of these organizations are doubling down on fast data in 2016 to boost their ability to:
+
+Personalize interactions and serve relevant offers;
+
+Detect fraud before the company (or its customers) sustains a loss;
+
+Ensure compliance with operational SLAs;
+
+Respond in real time to data events;
+
+Create applications that drive business value from fast-moving streams of data;
+
+Achieve accuracy in operations, billing and service delivery; and
+
+Enrich customer decisions and interactions.
+
+Benefits of a Fast Data Strategy
+
+Most companies have Cloud, Big Data, and storage strategies. Developing a plan to deal with fast data ensures you can build a program to execute on the strategy and have the methodologies and process to measure results.
+
+It’s key to keep in mind that fast data is streaming into the organization at wire speed. That’s the greatest challenge in working with fast data – you don’t have the luxury of “time”. You have milliseconds to decide what to do and to act, not minutes, hours or days. Simply pushing data directly into a long-term analytics or storage engine is a lost opportunity to act on data in real-time. Among the benefits of a fast data strategy are the ability to offer end users a better experience through micro-personalization; the ability to respond in real time to per-event data; and the ability to lower cost and complexity in application development.
+
+Industries Moving to Fast Data
+
+Mobile, telecoms, IoT, financial services, ad tech and gaming are industries that need more than analytic insight: they need to act on fast data as it comes in to the enterprise. But all industries need to start thinking about fast data, just as they needed to start thinking about big data several years ago. The rise of the Internet of Things (IoT) and machine to machine (M2M) networks mean more fast data for companies to take advantage of and to act upon. As we witnessed with the disruptive companies of the recent past who have capitalized on big data, the next disruptors will use fast data as their main weapon.
+
+Take mobile. A provider of a leading real-time, adaptive contextual marketing platform for mobile service providers estimates that providers have less than 250 milliseconds to respond to a dissatisfied user before that user considers switching providers. For this company and its customers, waiting more than 250 milliseconds to ingest, analyze and act on data – about the amount of time it takes to blink an eye – is too long. Responding to data events in real time – such as the end of a call, use of a mobile device in a particular location, or a user hitting a data usage threshold – helps Communications Service Providers (CSPs) personalize service offerings for each subscriber. With a fast data strategy, CSPs can create usage and trigger- based campaigns to reduce churn and increase average revenue per user (ARPU) by tailoring offers, rewarding the consumer with a better data plan, or notifying the subscriber of data thresholds.
+
+Fast data strategies are equally important in financial services. Tracking the performance of investment portfolios and analyzing performance risks; trade verification; fraud detection, and bid and offer management are all fast data use cases.
+
+A broker/trader operation might have tens to hundreds of applications generating data for consumption by traders managing investments. Each application needs to know the current trading status of the firm, encompassing the bank’s market position in key securities and the status of that day’s active investors. These applications all require the same understanding of ‘state’ to provide value.
+
+Perhaps the most exciting example of the need for a fast data strategy comes from the Internet of Things.
+
+In IoT, interactions happen at the speed of machines, not at the speed of humans. A smart thermostat relies on its sensors to learn the patterns of heating and cooling in a house; uses sensors to detect the patterns of human residents and adapt temperatures to their schedules; and enables users to communicate with the thermostat via a mobile app. As the thermostat learns, it requires fewer interactions with its human owners. Smart thermostats rely on both fast and Big Data to reduce energy consumption and save money.
+
+National efforts to manage energy consumption also rely on IoT sensor data. Using smart meters, utilities can track power consumption patterns, ensure meters are functioning properly, alert consumers and businesses when they exceed standard usage patterns, and structure pricing and programs to encourage energy efficiency. Smart Meters measure site-specific information, allowing utilities to analyze usage to forecast consumption patterns. The availability and abundance of fast, streaming data from Smart Meters presents an opportunity to extract intelligence, gain insight, and take actions based on policies to influence energy conservation.
+
+What’s in a fast data strategy?
+
+There are four major activities required to put a fast data strategy into action: ingestion, real-time analysis, acting and fast export.
+
+A fast data strategy must include architecting a solution that enables ingestion of high-speed, event-oriented data; the ability to perform real-time analytics on the live data feed; the ability to take action on that data; and rapid export to longer-term analytics stores. See Figure 1 below.
+
+Figure 1: The Fast Data-Big Data architecture
+
+Ingestion is the first stage in the Fast Data architecture, where the architecture provides interfaces to data sources and transforms or normalizes incoming data. Ingestion is the first point at which data can be transacted against.
+
+As data is ingested, it is used by one or more analytic or decision engines to accomplish specific tasks. Real-time analytics engines then consume the high-velocity data while maintaining results in the form of counters, aggregations and leaderboards, which are used by real-time decision engines to process complex logic – enforcement of business rules such as authorizations, campaign balance tracking, triggers for subscriber engagement and optimization campaigns, and real-time billing and policy management. The decision engines trigger an action in the live data feed, after which the data is exported for longer-term analytics and storage (to Big Data systems, shown to the right).
+
+Enterprises adopting Big Data strategies quickly realize that high counts of small data events add up to massive amounts of Fast Data. To meet the challenge of Fast Data – to ingest relentless feeds of data, while capturing business value from them – is the reason to move quickly to create and implement a Fast Data strategy.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Fast data is data in motion, not data at rest (that is, stored for longer-term analysis).
+But all industries need to start thinking about fast data, just as they needed to start thinking about big data several years ago.
+Figure 1: The Fast Data-Big Data architectureIngestion is the first stage in the Fast Data architecture, where the architecture provides interfaces to data sources and transforms or normalizes incoming data.
+Enterprises adopting Big Data strategies quickly realize that high counts of small data events add up to massive amounts of Fast Data.
+To meet the challenge of Fast Data – to ingest relentless feeds of data, while capturing business value from them – is the reason to move quickly to create and implement a Fast Data strategy.
+
+Other Blogs by Dennis Duckworth: https://dataconomy.com/author/dennisd/

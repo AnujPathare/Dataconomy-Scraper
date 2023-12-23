@@ -1,0 +1,70 @@
+Title: Windows 11 23h2 brings generative AI to your PC
+
+Article Link: https://dataconomy.com/2023/09/22/windows-11-23h2-generative-ai-pc/
+
+Author: Onur Demirkol
+
+Publish Date: 2023-09-22
+
+Article:
+Microsoft will release its next big Windows 11 update on September 26th, Windows 11 23h2. The update will include the new AI-powered Windows Copilot feature, a redesigned File Explorer, a new Ink Anywhere feature for pen users, big improvements to the Paint app, and much more.
+
+Microsoft is gearing up to unleash a wave of fresh features and enhancements with the release of Windows 11 23H2 on September 26th. This eagerly awaited update promises to bring a slew of exciting changes to your PC. Among these, the headline feature is the AI-powered Windows Copilot, set to revolutionize how you interact with your computer.
+
+Windows 11 23h2 brings Windows Copilot
+
+Windows Copilot is the star of the show in the Windows 11 23H2 update. It takes center stage, making your PC experience more intuitive and seamless. Imagine having a helpful assistant right on your desktop. That’s what Copilot brings to the table.
+
+This feature appears as a handy sidebar within Windows 11, ready to assist you in various tasks. Whether it’s adjusting settings, launching apps, or answering your questions, Copilot is at your service. It seamlessly integrates into the operating system, allowing you to compose text messages using data from your calendar, navigate through Outlook, and much more.
+
+This is Microsoft’s latest effort to provide a digital assistant inside Windows, following the retirement of the Cortana app. Copilot, powered by Bing Chat technologies, delivers real answers to your queries, though accuracy may vary. It’s a promising step towards making your PC smarter and more responsive to your needs.
+
+Revamped file explorer for a modern look
+
+If AI assistants aren’t your cup of tea, don’t worry; there’s something for everyone in this update. File Explorer, the trusty tool for managing your files, is getting a makeover. The updated interface features a modern home screen with large file thumbnails and a user-friendly carousel interface. This design revamp aligns File Explorer more closely with the overall Windows 11 aesthetic.
+
+Ink Anywhere
+
+For those wielding styluses like the Surface Pen, there’s a game-changing feature called Ink Anywhere. Now, you can jot down notes, sketches, or handwriting in any text box across Windows. Your writing is converted into text and seamlessly integrated into your tasks.
+
+Hassle-free PC migration with Windows backup
+
+Moving to a new device has never been easier. An enhanced Windows Backup app simplifies the process. It automatically transfers your settings to your new PC via the cloud. Pinned apps on your Start menu and taskbar, along with Microsoft Store apps, are seamlessly restored.
+
+Snipping Tool gets a text upgrade
+
+Snipping Tool receives a welcome upgrade with the ability to detect text in screenshots. You can effortlessly share text from your screenshots in various apps. It’s reminiscent of the text extraction feature found in mobile platforms like Android and iOS. Additionally, Microsoft introduced a feature to redact and hide emails and phone numbers from images, enhancing privacy and security.
+
+Background blur and more in the Photos App
+
+For users of the Photos app, a new background blur option adds a touch of creativity to your photos. It automatically identifies the background in an image, emphasizing the subject while blurring the background. You have the freedom to customize the blur intensity and adjust which areas get blurred.
+
+What’s missing and what’s next
+
+While this update brings exciting improvements, it’s essential to note that Microsoft has more in store. A larger 23H2 update is on the horizon, featuring even more significant changes. This includes a new volume mixer, native support for RAR and 7-zip, Dynamic Lighting for RGB accessories, and enhanced customization options for the Windows 11 taskbar.
+
+Microsoft has yet to confirm the release date for these upcoming changes, so stay tuned for further updates.
+
+Microsoft unveiled the 23H2 update during a press event on September 21st in New York City, showcasing some of these new features.
+
+When and What to Expect
+
+As the release date approaches, here’s what you need to know:
+
+Release Date : Windows 11 23H2 is set to launch on September 26th in preview form, with a wider rollout expected later.
+
+: Windows 11 23H2 is set to launch on September 26th in preview form, with a wider rollout expected later. Name : Historically, it’s been referred to as the Windows 11 October 2023 Update .
+
+: Historically, it’s been referred to as the . Pricing : The update will be available free of charge, with the main differentiator being a single small feature reserved for Windows 11 Pro users.
+
+: The update will be available free of charge, with the main differentiator being a single small feature reserved for Windows 11 Pro users. Installation Time: While downloading Windows 11 23H2 can occur in the background, the installation and reboot process may take between 20 minutes to half an hour, depending on your system and Microsoft’s update application.
+
+Featured image credit: Sunrise King/Unsplash
+
+Summary: Microsoft will release its next big Windows 11 update on September 26th, Windows 11 23h2.
+Microsoft is gearing up to unleash a wave of fresh features and enhancements with the release of Windows 11 23H2 on September 26th.
+Windows 11 23h2 brings Windows CopilotWindows Copilot is the star of the show in the Windows 11 23H2 update.
+This feature appears as a handy sidebar within Windows 11, ready to assist you in various tasks.
+: Windows 11 23H2 is set to launch on September 26th in preview form, with a wider rollout expected later.
+
+Other Blogs by Onur Demirkol: https://dataconomy.com/author/onurdemirkol/

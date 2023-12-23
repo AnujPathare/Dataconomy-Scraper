@@ -1,0 +1,46 @@
+Title: Getting Off to a Great Start in Your Big Data Career
+
+Article Link: https://dataconomy.com/2016/09/14/great-start-big-data/
+
+Author: Rick Delgado
+
+Publish Date: 2016-09-14
+
+Article:
+Big data isn’t just a career for the future, it’s a promising field today with room for incredible growth. More businesses have come to realize the numerous benefits they stand to gain through adopting big data analytics, and that has lead to a surge in hiring data scientists and those with the right analytics skills. No doubt you’ve become interested in this career and want to get started in the strongest way possible, but you’ve likely encountered a number of roadblocks and dead ends on the journey. After all, big data is a relatively new field, and there’s no predetermined path you can take that will guarantee you a position in the years to come. There are, however, ways for you to get started that will increase your chances. Think of it like a sprinter coming off the blocks cleanly. In a field that’s become highly competitive, knowing these tips can give you a clear advantage.
+
+Education
+
+Any good career needs to start with the solid foundation of education, and big data is no exception. The problem, as many have found out, is that universities have generally been slow in getting their own data science programs off the ground. This isn’t the case everywhere, though. Some colleges have charted their own course by establishing programs and degrees designed to prepare the new generation of data experts for big data careers. Some of these institutions include the University of Iowa, DePaul, Ohio State, and the University of Wisconsin. If you want to have a big data career, get your education at a place that offers the right programs.
+
+Tools
+
+In many jobs, the worker is only as good as his or her tools. Big data has plenty of tools to work with, so getting familiar with them should be a priority. Some tools, like Apache Hadoop, have numerous elements to consider before you become proficient. Those components include Hive, Pig, MapReduce, HBase, and more. Some tools, like R and SAS, are easily available and can provide you with a chance to practice your skills. Not knowing how to use the tools in the big data arsenal, like cloud Spark, will severely limit your capabilities while also diminishing your chances at finding a good job.
+
+Skills
+
+Related to tools, there are a host of different skills you’ll want to learn to increase your chances at having a successful big data career. Becoming familiar with techniques like machine learning and data mining are essential elements for any job out there that regularly uses big data. You should also brush up on your data visualization skills as they’ll be needed more likely than not as a way to communicate insights discovered through data analysis. Those who are successful in big data careers also also hone their skills in creativity and problem solving. Business want to be able to use big data to solve problems, so data experts who know how to apply that skills will be highly valued.
+
+Knowledge of Roles
+
+Big data may be a new field, but it can also cover a lot of ground. Simply saying you want to go into big data does little to narrow your focus. A big data scientist has much different responsibilities compared to a Hadoop developer, which in turn is quite different from an information architect. Knowing what each role does and what is required of them will help you prepare by focusing on the right skill sets and tools for the job you’re targeting.
+
+Knowledge of Industries
+
+At the same time, industries have very different ideas in mind for how they want to employ big data solutions. A financial firm is going to want to utilize big data in a different manner when compared to a medical institution. Manufacturing, security, transportation, software defined storage, and even sports organizations want to use big data in their own way. You need to know how these industries will use analytics, and if you have a particular preference, become familiar with that industry of your choice that you wish to pursue. Being an expert in big data and a specific industry will be a great help in getting hired.
+
+Businesses have a high demand for people with big data expertise. Positioning yourself in such a way to increase your chances of having a great and lucrative career is paramount. Gain knowledge of skills, tools, roles, and industries, and you’ll be set for a long and productive career in big data.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Image: Robert Voors
+
+Summary: EducationAny good career needs to start with the solid foundation of education, and big data is no exception.
+Some colleges have charted their own course by establishing programs and degrees designed to prepare the new generation of data experts for big data careers.
+If you want to have a big data career, get your education at a place that offers the right programs.
+Becoming familiar with techniques like machine learning and data mining are essential elements for any job out there that regularly uses big data.
+Being an expert in big data and a specific industry will be a great help in getting hired.
+
+Other Blogs by Rick Delgado: https://dataconomy.com/author/rick-delgado/

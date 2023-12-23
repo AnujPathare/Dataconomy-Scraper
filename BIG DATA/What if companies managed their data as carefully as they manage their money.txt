@@ -1,0 +1,48 @@
+Title: What if companies managed their data as carefully as they manage their money?
+
+Article Link: https://dataconomy.com/2017/08/30/copanies-manage-data-money/
+
+Author: Andy Palmer
+
+Publish Date: 2017-08-30
+
+Article:
+Rich Miner — Android co-founder, formerly Google Ventures, now Google — asked me recently “What if companies managed their data like they manage their money?”
+
+It’s a basic but profound question that merits some thoughts based on my 25 years managing both information and financial functions in technology and data businesses.
+
+The surface-level analogy here, data is to money, is too apparent to linger on for long. In the information age, data has massive tangible value — especially now that businesses are applying machine learning to data in analytics and applications to accelerate cost savings and revenue growth.
+
+The question gets more nuanced and interesting in unpacking the analogy to compare how data and money are handled as strategic assets within a business. By definition, businesses manage money, along with employees, as their most strategic asset — not just as cash flow (savings and revenue) on the P&L, but as growth-inducing capital on the balance sheet (M&A). And the tools for managing financial assets have naturally followed. Fortunately for them, Chief Financial Officers (CFOs) have a host of well-defined mechanisms to manage their company’s financial assets — frameworks, systems and tools that help them understand where the money comes from, where it goes and how much they currently have on hand. To this they’re adding ever more advanced predictive financial analytics as a way of guiding their decisions.
+
+Chief Information Officers (CIOs) and newly created executive positions of Chief Data Officers (CDOs) and Chief Analytic Officers (CAOs), are not that fortunate. For many good historical reasons, they lack a clear understanding of where information comes from, where it goes and what their current data inventory looks like. While their CFO counterparts can lean on common financial management frameworks dating back to the year 1340 and the advent of general ledger accounting, CIOs, CDOs and CAOs lack these sorts of common frameworks for managing data as a true asset. As a result, they find it difficult to answer some of the most basic questions: What information attributes do you have, how many records are there in those attributes, and who is using those attributes and records in their analyses?
+
+This challenge, however, goes deeper than frameworks, systems and even tools — down to a fundamental conceptual flaw that the Fortune 1000 is still paying the price for. For decades, large businesses managed their data as “exhaust” (a byproduct of their systems, applications and transactions) to be contained, rather than as fuel for growth. The best-led companies — the ones with the highest Corporate IQ — have made the mental switch. Companies like GE, which to quote a recent Forbes piece by Randy Bean and Tom Davenport, “is leveraging AI and machine learning fueled by the power of Big Data” to accomplish its “digital transformation.” Or like CapitalOne, which has always used data as a strategic asset to drive its growth. Or younger companies like Upstart, which views itself less as a loan processing business and more as a data operation that uses the asset to make better loans.
+
+These companies, and many more enlightened ones like them, see the transformational power of data and analytics, use it as a strategic weapon and — importantly — commit not only to the technology required to transform, but the behavioral and organizational change needed to operationalize it.
+
+One more common thread now links these companies: those most successful at digital transformation have CDOs, CAOs and CIOs behaving aggressively like CFOs. Bill Ruh, GE’s Chief Digital Officer and CEO of GE Digital, is a great example. Beyond leading the company’s drive on the Internet of Things, he has overseen GE’s integration of data within its business operations. This includes its collaboration with Tamr to integrate GE’s global supplier data, which in the Forbes article Bill refers to as:
+
+… a big win. It’s easy for suppliers to charge different prices for the same product when you can’t compare them across business units. We might spend $250 million a year on nuts and bolts, but that only becomes salient when you look across business units and see if they’re coming from the same suppliers. If they are, you are in a much better position to negotiate.”
+
+Bill’s quote may very well be the answer to Rich Miner’s question: What if companies managed their data as carefully as they manage their money? They would, like GE did with Tamr on the supplier integration side:
+
+Optimize Sourcing Strategies for ~$50 billion in material spend across business units
+
+Renegotiate Contract Terms to identify $80 million in savings
+
+Reduce Total Landed Cost of Products by unifying/cleaning tens of millions of shipping records
+
+In other words, they would manage data as the most strategic of assets — committing as much C-level attention, as much analytical firepower and as much ROI-based measurement to data as they do to money.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: The surface-level analogy here, data is to money, is too apparent to linger on for long.
+The question gets more nuanced and interesting in unpacking the analogy to compare how data and money are handled as strategic assets within a business.
+By definition, businesses manage money, along with employees, as their most strategic asset — not just as cash flow (savings and revenue) on the P&L, but as growth-inducing capital on the balance sheet (M&A).
+Chief Information Officers (CIOs) and newly created executive positions of Chief Data Officers (CDOs) and Chief Analytic Officers (CAOs), are not that fortunate.
+If they are, you are in a much better position to negotiate.”Bill’s quote may very well be the answer to Rich Miner’s question: What if companies managed their data as carefully as they manage their money?
+
+Other Blogs by Andy Palmer: https://dataconomy.com/author/andy-palmer/

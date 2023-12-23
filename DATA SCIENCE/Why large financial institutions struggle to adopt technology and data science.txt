@@ -1,0 +1,50 @@
+Title: Why large financial institutions struggle to adopt technology and data science
+
+Article Link: https://dataconomy.com/2017/09/01/financial-institutions-data-science/
+
+Author: Kathleen DeRose
+
+Publish Date: 2017-09-01
+
+Article:
+Data innovation and technology are a much discussed but rarely successfully implemented in large financial services firms. Despite $480 Billion spent globally in 2016 on financial services IT, the pace of financial innovation from incumbents lags behind FinTech which received a comparatively puny $17 Billion in investment in 2016. What lies behind the discrepancy?
+
+We provide a unique vantage point, having pushed for enterprise-wide innovation from inside Credit Suisse and having worked closely with a dozen major financial institutions to develop and train their big data and innovation talent at The Data Incubator. Drawing on that experience, we have identified four consistent obstacles to adoption of data and innovation. These obstacles are: organizational structure, constrained budgets, data talent gap, and legacy cash-cow businesses.
+
+Organizational structure
+
+Large bank’s organizational structures block digital innovation, which demands a re-imagined value chain or further, true platforms that cut across traditional functional and hierarchical divisions. Functionally, a typical bank organization consists of IT, usually a cost center, a product/solution manufacturing department, and client-facing or sales units. In an digital born company, these divisions do not exist and the firm leverages a single automated platform that operates seamlessly across these activities.
+
+It’s not just divisions but bank hierarchies that can impede innovation. Visionaries at the top may see the threat but be too distant from the day-to-day to adequately address it. Millennial employees at the bottom are eager but not institutionally powerful enough, and the largest population, the middle management layer, defend their hard-won positions, fearing job losses to automation.
+
+Constrained IT budgets
+
+We often hear the argument that banks’ multi-hundred million dollar IT budgets allow them to outspend FinTech upstarts operating with limited resources. But observers fail to note that keeping legacy systems alive and compliant with regulations consumes 80-90% of those bank budgets. This is particularly for banks that run on disparate systems, loosely glued together, built through multiple acquisitions (which is the majority). Despite large budgets, banks actually have very limited resources for IT innovation.
+
+They also operate on a timescale incompatible with contemporary technological developments. Many still rely on a sequential (non-iterative) waterfall model for software design designed in the same era as their computer systems. Meanwhile nimble FinTech upstarts use agile development processes that center on iterative feedback, cloud platforms, open-source code, mobile-first approaches deploying a structurally cheaper technology cost curve to reach customers.
+
+Data Talent Gap
+
+Companies (especially legacy ones with tonnes of historical databases) often speak about data as a strategic asset. But even more important than having lots of data is the capacity to derive actionable analytics from it. Often, data sharing is inhibited by competing departments looking to protect their database turf or an overly-strict division of responsibilities where IT needs to pull data from the system before analysts can analyze it. These problems are compounded by non-standardized database systems that are a legacy of multiple acquisitions. In contrast, Fintech startups employ a “permissions on by default” philosophy that democratizes and breaks down barriers to data access. They invest in standardizing their data systems and hiring and training the best data scientists. These jack-of-all trade analysts are capable of handling both data extraction and analysis and embedded across the company, building a self-service culture that cuts out delays and potential sources of error in the analytics pipeline.
+
+Legacy cash-cow businesses
+
+Banks are reluctant to cannibalize existing high margin businesses threatened by automation. Digital businesses reconfigure value chains, and operate at 1/10 to 1/100 the cost. Prices for many financial intermediation services are falling broadly, and digital automation and programmable APIs are facilitating interoperability and adding fuel to the fire. Banks realize this, and will milk cash cows as long as they can rather than accelerate the transition to the disintermediated digital world. Further, they may even miss the strategic implications of automation by co-opting digital solutions to defend established businesses. For example, using a robo-advisor to distribute proprietary ETFs defeats the very purpose of the robo-advisor and defers the inevitable unbundling of mutual fund and ETF structures that are no longer needed in a digital world that can assemble optimal portfolios with fractional shares tailored to a client’s unique risk profile.
+
+How financial firms can innovate
+
+To overcome many of these barriers, companies need to stop viewing data and innovation as cost-center functions and start viewing them as potentially business transformative capabilities. We’ve helped clients at large firms successfully implement “Innovation Groups” or “BIg Data Centers of Excellence.” Regardless of the name, these departments spearhead efforts to drive innovation and data literacy throughout the company, working with key stakeholders to defining internal best practices, hosting firm-wide trainings to increase data literacy and data culture, and sponsoring internal accelerators to identify and promote innovative ideas originating from throughout the company. When new innovative projects are identified, they often need to be put into a new division to free them from traditional org-chart bureaucracies and legacy cash cow businesses.
+
+This risks involved can be daunting, especially given the substantial investment required to see any new initiative through. Managers can mitigate the risks by borrowing a page from the VC handbook: making scaled, strategic bets, looking for quick wins and doubling down on early successes while being disciplined about shutting down unsuccessful projects. Today’s financial-services incumbents face a true innovator’s dilemma and they must make the hard decisions necessary to innovate, sometimes at the expense of their own businesses, or face extinction in a rapidly innovating environment.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Data innovation and technology are a much discussed but rarely successfully implemented in large financial services firms.
+Despite $480 Billion spent globally in 2016 on financial services IT, the pace of financial innovation from incumbents lags behind FinTech which received a comparatively puny $17 Billion in investment in 2016.
+But observers fail to note that keeping legacy systems alive and compliant with regulations consumes 80-90% of those bank budgets.
+They invest in standardizing their data systems and hiring and training the best data scientists.
+Digital businesses reconfigure value chains, and operate at 1/10 to 1/100 the cost.
+
+Other Blogs by Kathleen DeRose: https://dataconomy.com/author/kathleen-derose/

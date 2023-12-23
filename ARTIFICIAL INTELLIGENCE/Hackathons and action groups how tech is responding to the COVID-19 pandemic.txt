@@ -1,0 +1,84 @@
+Title: Hackathons and action groups: how tech is responding to the COVID-19 pandemic
+
+Article Link: https://dataconomy.com/2020/04/09/hackathons-and-action-groups-how-tech-is-responding-to-the-covid-19-pandemic/
+
+Author: Stewart Rogers
+
+Publish Date: 2020-04-09
+
+Article:
+The global COVID-19 pandemic has generated a wide variety of responses from citizens, governments, charities, organizations, and the startup community worldwide. At the time of writing, the number of confirmed cases has now exceeded 1,000,000, affecting 204 countries and territories.
+
+From mandated lockdowns to applauding health workers from balconies, a significant number of people are taking this as an opportunity to step up and help in any way they see fit. And this is true of the various tech ecosystems too.
+
+And while some are repurposing their existing startups and businesses to assist with the pandemic response, others are joining an ever-expanding number of hackathons across the globe to come up with fresh ideas and feasible solutions.
+
+One such hackathon, #HackCorona, gathered over 1,700 people, and during the course of the 48-hour long online event, 300 people delivered 23 digital solutions to help the world fight the outbreak. Organized by Data Natives and Hacking Health Berlin, the event was created in record time, a hallmark of people’s response to the situation. There really is no time to waste.
+
+Attracting hackers from 41 countries, the teams worked tirelessly to produce solutions that were useful, viable, and immediately available to help in a multitude of areas affected by the spread of the novel coronavirus. Mentors and jurors from Bayer Pharmaceuticals, Flixbus, MotionLab.Berlin, T-Systems International, Fraunhofer, and more both assisted the teams with their applications, and decided which would win a number of useful prizes.
+
+“We are happy to have created a new community of inspired, talented, and creative people from so many different backgrounds and countries eager to change the course of this critical situation,” CEO at Data Natives, Elena Poughia, said. “This is exactly the reason why we, at Data Natives, are building and nurturing data and tech communities.”
+
+Distrik5, born from members of the CODE University of Applied Sciences in Berlin, developed a digital currency that is earned when one of its users provides assistance to the elderly, those that are at the highest risk of dying from COVID-19 and its associated complications. The team won a fast track to join the current incubator cohort at Vision Health Pioneers.
+
+Homenauts created a participatory directory of resources to help maintain strong mental health while isolating. Polypoly.eu developed Covid Encounters, a mobile app to track exposure and alert citizens without compromising privacy. HacKIT_19 created a solution that uses data to help you make better decisions with self-reported symptoms.
+
+In total, eight teams created winning solutions that are viable and instantly applicable to the crisis. And #HackCorona is just one of many such examples around the world.
+
+“The solutions created were a good mixture of ‘citizen first’ solutions with the aim to assist people with limited technology,” Poughia said. “However, what really stood out to me was that we need more data scientists working closely with epidemiologists to predict and understand the current outbreak.”
+
+Poughia warns that we mustn’t slow down now, or become complacent.
+
+“I think it is admirable to see institutions, academic universities, incubators, and accelerators joining in to support the projects,” Poughia said.
+
+“What we need is immediate action and immediate support to keep the momentum going. Volunteers should continue to come together to help but we also need the support of governments, companies, startups, and corporations, so that we can accelerate and find immediate solutions.”
+
+Data Natives is now bringing the #HackCorona concept to Greece. With the support of the Greek Ministry of Digital Governance, Hellenic eHealth and innovation ecosystems and co-organised by GFOSS and eHealthForum, the second edition of HackCorona aims to find creative, easily scalable, and marketable digital solutions. Its aim is to help hospitals manage the supply and demand chain, provide real-time information for coronavirus hotlines, offer telehealth solutions allowing doctors to care for patients remotely, use data to create an extensive mapping, create symptom checkers, and more.
+
+HackCoronaGreece is currently gathering teams of data scientists, entrepreneurs, technology experts, designers, healthcare professionals, psychologists, and everyone who is interested in contributing for a weekend-long hacking marathon which will conclude on Monday, April 13th with a closing ceremony. Applications are closing on April 10th at 23:59 Central European Time.
+
+Head of Marketing for TechBBQ, and co-organizer of Hack the Crisis DK, Juliana Geller explained the motivation behind creating hackathons at times of need.
+
+“It’s the potential of getting people of all walks of life together to create solutions to a problem that affects all of us,” Geller said. “By doing that for this particular challenge, we can prove it is possible to do it for all the other challenges we face as a society.”
+
+Hack the Crisis is, in fact, not one hackathon, but an entire series that have been set up to find solutions pertaining to COVID-19. Hack the Crisis Norway ran for 48 hours on March 27, 2020, and was won by a team that used 3D printing technology to put visors in the hands of medical staff on site, saving time and reducing the supply chain dramatically.
+
+Of course, bringing people together to create apps, products, and services is one thing, but getting to market quickly enough to make a difference is an entirely different proposition. Almost every hackathon I looked at when researching this article has built deliverability into the judging criteria, so that those who can put the solution into the hands of those that need it are rewarded.
+
+“One of our judging criteria is actually that the solution is delivered as an MVP by the end of the Hackathon and had the potential to be developed into a go-to-market product quickly”, Geller said. “Besides for the ‘saving lives solutions,’ which are obviously the most urgent, we want to see ideas to help the community and help businesses, and it is already clear that those will be affected for a much longer period. So we are positive that the solutions will indeed make a difference.”
+
+Hack the Crisis was originally created by Garage48 AccelerateEstonia, and other Estonian startups, but it has become an entire hackathon community, determined to not only support the efforts against the novel coronavirus, but to supporting other hackathon creators.
+
+Anyone can organize a hackathon and post it on the Hack the Crisis website, which at the time of writing has 46 hackathons listed in over 20 countries. Geography, of course, it not important at this time, since every hackathon is being run remotely, but it does illustrate how global the response is, and how everyone, everywhere, is looking to solve the biggest COVID-19 challenges.
+
+“It is a worldwide movement,” Geller said. “And on April 9-12, 2020, there’ll be a Global Hack. But that is not where it stops, absolutely not. We want to generate solutions that will have value after this crisis, that can actually become a startup and keep benefiting the community later on.”
+
+But there are also groups that are forgoing the traditional hackathon format and are coming up with solutions created in WhatsApp, Telegram, and Facebook Messenger group chats. One such chat was created by Paula Schwarz, fondatrice of the Cloud Nation and founder of Datanomy.Today.
+
+By bringing together like-minded people, and through constant curation of the chat and calls to action to incentivize members to come up with solutions, Schwarz has created a pseudo-hackathon that never ends.
+
+One such solution is Meditainer, which helps get important supplies to those in need. It’s a simple solution, but one that was created quickly and effectively.
+
+Meditainer is a project very close to Schwarz’ heart. “My grandfathers started a medical company shortly after the second world war,” she said. “This is why I have very good connections in the pharmaceutical sector.”
+
+“Since I had mandates from the United Nations to organize the data of 25 cities and I watched the supply chains of the United Nations fall apart, I realized that right now is the time to leverage my network and the background of my family, together with sophisticated usage of data in order to provide next-level healthcare innovation for the people,” Schwarz said.
+
+So how does it work?
+
+“Meditainer works directly with governments and strong institutional partners inside and around the United Nations to close supply gaps in healthcare through our effective public-private partnerships,” Schwarz said. “It operates as a distributor of thermometers, smart corona tests and apps that will hopefully help to reduce the spread of the virus.”
+
+So whether you organize a hackathon, participate in one, or create your own “mastermind group” on a messaging platform, there’s one thing that is for sure – you’re making a difference and you’re aiding those in need, when they need it the most.
+
+The benefits for society are obvious, and the growth you’ll witness by getting involved in some way is also extremely apparent.
+
+“I’m grateful to be working with so many active masterminds and I look forward to getting to know key players in the industry even better,” Schwarz said.
+
+The startup industry, and those connected to it, have really stepped up at a time when it is needed the most, and long may that spirit continue.
+
+Summary: The global COVID-19 pandemic has generated a wide variety of responses from citizens, governments, charities, organizations, and the startup community worldwide.
+HacKIT_19 created a solution that uses data to help you make better decisions with self-reported symptoms.
+In total, eight teams created winning solutions that are viable and instantly applicable to the crisis.
+“The solutions created were a good mixture of ‘citizen first’ solutions with the aim to assist people with limited technology,” Poughia said.
+By bringing together like-minded people, and through constant curation of the chat and calls to action to incentivize members to come up with solutions, Schwarz has created a pseudo-hackathon that never ends.
+
+Other Blogs by Stewart Rogers: https://dataconomy.com/author/stewart-rogers/

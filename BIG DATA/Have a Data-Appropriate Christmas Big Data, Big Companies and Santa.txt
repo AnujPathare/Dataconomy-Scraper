@@ -1,0 +1,48 @@
+Title: Have a Data-Appropriate Christmas: Big Data, Big Companies and Santa
+
+Article Link: https://dataconomy.com/2015/12/16/have-a-data-appropriate-christmas-big-data-big-companies-and-santa/
+
+Author: Hannah Augur
+
+Publish Date: 2015-12-16
+
+Article:
+Don’t think data analytics play a major role in the holiday season? Everyone from consumers, to retailers, to CEOs will be crunching numbers this December.
+
+PCA Predict’s Big Data Labs 2014 Christmas Report notes that 25% of ecommerce transactions in the UK last year were in the months of November and December. They also found that 2014 was their biggest Black Friday, yet. Unfortunately, businesses are having to cope with a new layer of complexity: the rapid transition to online sales and smartphone deals. According to Barclaycard, online Black Friday shopping skyrocketed by 37.5% in 2014.
+
+Customers Aren’t Loyal—Especially During The Holidays
+
+The failure of loyalty schemes and the seeming futility of surveys makes dealing with this shift to digital purchases tough. Businesses don’t need iffy surveys at the busiest time of the year—they need facts. Now that customers can compare fifty vendors in an instant, they make decisions based on their wallet rather than loyalty. There is no “one stop shop.” This makes it harder than ever to predict what will happen during the holiday shopping flurry. Proper data is needed to warn businesses about peak shopping days, expected popular items, and most likely shopping methods. It also allows businesses to tailor their products and promotions to consumers in almost real-time. Many shelf items are already outfitted QVC codes. When scanned, a customer can be met with a well-timed promotion, or other information that turns a window shopper into a sale.
+
+Personalization doesn’t just make customers happy. It makes them far more likely to spend. Research has found that proper personalization can lead to five to eight times the ROI on marketing. It even lifts sales by 10%. This is because consumers want the right deals and the right products. They will engage with whichever company can deliver.
+
+PCA Predict’s report found that 56% of consumers made purchases via computer. This is one of the unseen battles of modern sales. There is no one Christmas Catalogue. There is no one point-of-sale. Businesses have to attack from all angles. They also have to manage these different venues in a way that can still get products to customers in time. Companies like ShopperTrak and TIBC Spotfire help stores make the most of the holidays by leveraging powerful up-to-date data.
+
+ShopperTrak works in three ways: perimeter, marketing and performance analytics. They compile data to find peak hours of foot traffic. They analyze the effectivity of window displays and marketing efforts. They also try to specifically understand and utilize zone traffic. Shoppers don’t just come into a store; they linger by the shoes, or next to the gloves. They think about buying this or that. Data helps unravel the mystery of what turns a window shopper into a customer.
+
+MasterCard SpendingPulse is all about tracking retail and seeing value in the overarching big data. They’ve released a full-season spending report from the 2014 holiday season and predicted the biggest shopping days of the year. This big picture information is useful for businesses big and small. It helps them properly plan marketing campaigns, make staffing decisions, and know which days they are by no means allowed to get sick on.
+
+Why Don’t More Companies Leverage Data in December?
+
+Perhaps the single most jarring point about Santa’s use of big data at the biggest time of the year is how underutilized it is. Perhaps mega-companies are already entrenched enough in data that everyday is equally filled with analysis. Target already assigns every customer a Guest ID number that follows them and compiles information year-round. Perhaps medium- and small-sized companies are still trying to get the hang of data, and are unable to make that extra push around the holidays. A study from Tableau found that 24% of UK retailers don’t effectively use data for the expected peak shopping day of the year. That’s a lot of missed opportunities.
+
+Given how complex big data can be, trying to roll out a brand new strategy for the holidays could in fact, prove dangerous for some companies. While logistics greatly benefit from big data, it has its share of set-backs. Namely, data use is not always a perfect. In 2014, a combination of sales promotions and bad weather spelled big trouble for several retailers (and consumers). While these established companies may have done a great job of mining their data and appealing to customers, no predictive systems could have foreseen the results. When the weather deviated from expected patterns December of last year, it was clear that shipping would be a little tougher than usual. That didn’t stop the many happy shoppers on Amazon from taking advantage of the popular marketplace’s free shipping promotions through December 22nd. The onslaught of packages in those last moments had no chance of arriving on time, leaving companies and customers fuming.
+
+How can consumers leverage that data?
+
+Companies aren’t the only ones using data around the holidays. Data is also leveraged to compile those shopping guides that seem increasingly necessary each year. Properly analyzed data allows customers to know what’s popular, where, since when, and just about anything else imaginable. One great example is the WatsonTrend app, which has been making serious waves in recent months. By analyzing data from comments, ratings, reviews, social media, and seemingly anything else on the web, it can create the ultimate shopping guide. The app’s lists are regularly updated, making them almost real-time trend guides. Thanks to the power of data and algorithms, it can also predict what will be trending in the future.
+
+Big data isn’t only used to send out personalized ads and promotions, but it helps people to make better decisions. It helps consumers shop better and smarter. The Christmas of 2015 (and onwards) won’t just be a hodgepodge of shoppers in brick-and-mortar stores, online catalogues, and surfing for deals on their phone. It means you can find better gifts. It means all more and more information can be readily accessed.
+
+Expect big data to keep pushing its way into the holiday season. Once companies fully grasp the numbers and realize how many opportunities are being missed, it will be hard to go back. Not to mention, keeping up with all the new technology and products gets harder each Christmas. Having some real numerical insight into what’s hot and what’s not means a little less headache during the busiest time of the year.
+
+image credit (COD Newsroom)
+
+Summary: PCA Predict’s Big Data Labs 2014 Christmas Report notes that 25% of ecommerce transactions in the UK last year were in the months of November and December.
+MasterCard SpendingPulse is all about tracking retail and seeing value in the overarching big data.
+This big picture information is useful for businesses big and small.
+Perhaps the single most jarring point about Santa’s use of big data at the biggest time of the year is how underutilized it is.
+Expect big data to keep pushing its way into the holiday season.
+
+Other Blogs by Hannah Augur: https://dataconomy.com/author/hannah-augur/

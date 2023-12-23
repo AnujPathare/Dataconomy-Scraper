@@ -1,0 +1,68 @@
+Title: Here is a New Resource for Your Organization and it’s called Big Data!
+
+Article Link: https://dataconomy.com/2016/07/08/here-is-a-new-resource-for-your-organization-and-its-called-big-data/
+
+Author: Sujain Thomas
+
+Publish Date: 2016-07-08
+
+Article:
+One of the terms being used quite commonly in today’s business circles is big data. This term is used in many of the corporate departments dealing with processing information. Big data can be described as sets of information that are large and complicated. They’re so complex that they are difficult to process using traditional data management applications.
+
+Some of the challenges that big data presents include: searching through it, storing it, capturing specific data as well as transferring it from one location to another. Big data arrives at computer systems at very high speeds in significant volumes. As such, this type of data requires a large amount of processing capability, analysis as well as a specialized skill set to manage it.
+
+Effects of big data
+
+Big data affects the interaction patterns between colleagues at companies. Today, business people and Information Technology (IT) professionals cooperate to solve business challenges using big data.
+
+This information helps employees make reliable decisions in their day-to-day work. As a result, they are able to fulfill the following:
+
+Create deep engagement with customers Create operations that are optimized Eliminate threats and fraud in their organizations Find and capitalize on new sources of revenue for the company
+
+There is a continued and pressing need for more innovation in business organizations today. As such, big data is required even more than before.
+
+Why is big data so important to organizations today?
+
+Data is recognized as a resource that organizations can utilize for competitive advantage. The more data that a company has, the more capacity it has to leverage the data to beat its competitors. As such, big data is highly sought after.
+
+With so much data and information around us, many people are being empowered to make decisions on their own. Initially, decision-making was confined to an elite group of professionals. Today, everyone has access to information enabling them to can make decisions pertaining to their lives, businesses and future. This is a direct effect of the dissemination of big data.
+
+Business stakeholders understand the value of big data. Therefore, they all search for more and more of it. Thanks to this overload of data on organizations, the systems that are in place today are unable to satisfy the need. As such, special database technologies have been developed to hold big data.
+
+Analytical and operational database technologies
+
+There are two main technologies that are used to store and manage big data. Operational database technologies are used to store real-time data. This data comes from interactive processes that capture and store data continuously. An example of such a situation is a commercial airliner. A typical Boeing 737 will capture and store more than 200 terabytes of information in a single flight. This much information can only be stored in form of big data.
+
+Analytical technologies have been developed with advanced capabilities of processing data. An analytical system is able to store big data and provide the administrators with tools to perform thorough analysis of the data. In addition , the tools allow administrators to perform retrospective analysis of data sets. The analysis can span the whole database or specific sets of data. Operational and analytical technologies are often deployed together in an organization. Some examples of databases that are used to store big data include Mongo DB, CouchDB, Cassandra, CouchBase and Neo4J.
+
+Benefits of using big data for companies and organizations
+
+Not only does big data provide more, actionable information to modern companies, it also offers a number of benefits including:
+
+Creating new business solutions
+
+By collecting billions of packets of data, a company can leverage them to create solutions that improve overall performance. It can collect information on products, customers, resources and competition. This data can be further repackaged to create solutions that improve customer relations or help it to utilize its resources better.
+
+Save costs, improve efficiency and comply with modern regulations
+
+The database services that are used to manage big data can help a company save costs and improve the efficiency of business processes. There are many legacy systems that are used by companies to manage day-to-day activities. They are costly to maintain and are slower than the latest data management technologies. By adopting the use of big data, companies can get rid of the inconsistencies associated with legacy systems and embrace the new, open-source big data technologies available today. This results in faster performance and more efficient business performance. Moreover, adopting big data technologies assists a company to comply with current IT regulations.
+
+Enjoy a new resource for competitive advantage
+
+Companies are constantly searching for sources of competitive advantage. Big data offers an effective source that they can use. It allows a company to have significant sources of information for business decisions and them be more proactive, to changes in their environment. By adapting quickly , organizations are able to stay at the forefront of their industry. For example, a company can use big data about current demographics to respond faster to the demands of their consumers.
+
+We’re currently surrounded by big data. People and corporations are constantly sending and receiving data to one another from various platforms. And the Internet is a conduit for this data. By tapping into this mesh of big data, organizations can leverage it to promote growth and improve profits.
+
+image credit: Luc Legay
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Some of the challenges that big data presents include: searching through it, storing it, capturing specific data as well as transferring it from one location to another.
+An analytical system is able to store big data and provide the administrators with tools to perform thorough analysis of the data.
+Some examples of databases that are used to store big data include Mongo DB, CouchDB, Cassandra, CouchBase and Neo4J.
+By adopting the use of big data, companies can get rid of the inconsistencies associated with legacy systems and embrace the new, open-source big data technologies available today.
+By tapping into this mesh of big data, organizations can leverage it to promote growth and improve profits.
+
+Other Blogs by Sujain Thomas: https://dataconomy.com/author/sujaint/

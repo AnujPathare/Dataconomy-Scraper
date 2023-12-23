@@ -1,0 +1,50 @@
+Title: “Companies are finally able to start a data culture” – Interview with Frank Bien, CEO of Looker
+
+Article Link: https://dataconomy.com/2016/10/05/data-culture-frank-bien-looker/
+
+Author: Juan Salazar
+
+Publish Date: 2016-10-05
+
+Article:
+With over 20 years growing and leading technology companies, Frank Bien built his career on nurturing strong corporate culture and highly efficient teams. Prior to Looker, Frank was SVP of Strategy for storage vendor Virsto (acquired by VMware) and VP of Strategic Alliances at big-data pioneer Greenplum, leading their acquisition by EMC (now Pivotal). He led Product Marketing and Strategy at early scale-out data warehousing company Sensage and was VP of Solution Sales at Vignette/OpenText. Earlier in his career he held executive roles at Dell and the Federal Reserve. Frank recently co-authored the book, Winning with Data: Transform Your Culture, Empower Your People, and Shape the Future (Wiley), which takes a deep dive into big data in business, explores the cultural changes it will bring and discusses how to adapt an organization to leverage data to its maximum effect.
+
+
+
+Frank, could you describe the first ‘a­ha’ moment when you realized the power of data?
+
+When you work every day in data, you constantly hear fun stories about how data helped in some one-off way. It’s kind of like data trivia. My big ah-ha moment came about eight months after starting at Looker. I visited several customers in San Francisco one day when we were shooting testimonial interviews — they were completely unscripted and un-prepped. But all of the customers said the same thing — that they had finally been able to start building a data culture. They actually had a lot of their business team users going into the tool to ask questions or get information that guided what they did that day. They would get facts because they were easy to access. The projects had moved from traditional analytic “rearview mirror” analysis to using massive amounts of data to inform very practical business questions. My experience until then was that people just stopped asking questions because it was too hard — even with expensive new tools. But here was a rapid succession of customers I was talking to that all were telling us that Looker had actually moved them to the next level. It was a huge ah-ha moment that we were onto something. That shifting culture was actually possible given the right environment and toolset.
+
+When should a company start building a data culture? At what stage of growth does data start to make a difference?
+
+I think new companies are almost always starting off with data in mind. Generally, they’re trying to disrupt some entrenched larger company that’s moving too slowly or not seeing things clearly. Data is often part of their business plan. So it may actually be a different question — how do you build data culture before it’s too late. I’d bet a lot of taxi companies might be asking that question now. It’s never too early, but it’s often too late.
+
+If a company has its data and BI tools in place, what’s the biggest impediment to spreading a data­-driven culture? What steps can help overcome the challenge?
+
+I think the problem is often in the data supply chain — the myriad of piece-meal tools people have put in place often to replace some monolithic beast like Business Objects or Cognos. But this mess of tools is probably even more complex. There are pieces to do integration, transformation, wrangling, governance, visualization and exploration. We’ve really created a mess in data supply chains right at the time everyone woke up and realized data is important. We haven’t seen the new, modern data stack that solves these piece-meal problems. Looker is hoping to be that platform.
+
+What are the biggest pitfalls or common mistakes that people make when interpreting data?
+
+We actually have a phrase for it: “data brawls”. So often, as people have tried to do self-service visualization, everyone is describing the same data metrics differently. For example, Lifetime Value of a customer (LTV) or even more core questions like what is a “customer”. Marketing Ops uses a different formula, Sales is using the wrong data, Finance is stripping out tax but other teams aren’t. When you don’t have a common language, you end up with a Tower of Babel… everyone is screaming, but nobody can hear each other. Nobody can agree. Because everyone is working in silos, often they don’t even know that they’re disagreeing until it’s too late. This underlying failure to have reliability in data makes people think they are all right, when clearly that can’t be true.
+
+How do you decide which data you should be collecting? Is it really best to just store everything you can, or does that create a mess later?
+
+We think this is the big disrupter. It’s when people can capture enormous amounts of data in really inexpensive analytic data stores, and they don’t have to know how to organize it toward specific questions up front. Call it a data lake, or call it something else — it doesn’t matter. What we have to do as technology vendors is provide that last mile of value on top that lets organizations take advantage of the giant steps forward on the data infrastructure side. So far, the tools on top have only just evolved slightly. We’re trying to cause a revolution.
+
+What do you see as the next significant innovation in how businesses use data? Where is this movement headed?
+
+A. We have to clean up the mess first. We’ve only solved how to capture and store the information — now we need to help people get real value out of it. Not just for science experiments, but to engrain data into the core decision-making processes in companies. To actually wrap data around business process in the same way transactional systems like Salesforce.com did. That’s where data moves from an out-of-cycle business step to part of the core work process. When we solve that, the next big evolution can take place.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Image: reynermedia
+
+Summary: But all of the customers said the same thing — that they had finally been able to start building a data culture.
+The projects had moved from traditional analytic “rearview mirror” analysis to using massive amounts of data to inform very practical business questions.
+When should a company start building a data culture?
+So it may actually be a different question — how do you build data culture before it’s too late.
+We’ve really created a mess in data supply chains right at the time everyone woke up and realized data is important.
+
+Other Blogs by Juan Salazar: https://dataconomy.com/author/juan-salazar/

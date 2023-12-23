@@ -1,0 +1,42 @@
+Title: The NHS A&E Crisis and a Big Data Solution
+
+Article Link: https://dataconomy.com/2015/01/14/the-nhs-ae-crisis-and-its-big-data-solution/
+
+Author: Jack Raeder
+
+Publish Date: 2015-01-14
+
+Article:
+Medical data is already being collected in vast quantities by healthcare agencies around the world. It comes in countless forms: doctors’ notes, admittance records, medical test results, and so on. However, despite much current buzz and discussion around the future of a more data-driven healthcare sector, concrete progress so far has been relatively limited. In a recent IBM report it was noted that around ‘80% of medical data is unstructured and clinically relevant’.
+
+Australia & PAPT: Blazing the Trail for Big Data in Health Services
+
+One major area in which concrete progress is already being made is in the efficiency of health services, particularly in the way in which they structure their staffing. A strong precedent here is being set in Australia, where the Commonwealth Scientific and Industrial Research Organisation (CSIRO) have utilised a wealth of historical data concerning patient records to develop the Patient Admission Prediction Tool (PAPT). PAPT is used for forecasting future emergency room admissions, something that has conventionally been considered almost entirely unpredictable due to its complexity. However, not only can PAPT make claims about overall patient volume, but also the variety and urgency of the cases, and the numbers that will need to be admitted following initial treatment.
+
+This tool has been put into practice by Gold Coast Hospital near Brisbane with extraordinary success. The predictions PAPT makes are astonishingly accurate, with an average match of 93% to the actual admissions on each day of the year. This subsequently allows hospital management to accurately tailor staffing to the actual needs of their patients. Staff requirements can be planned effectively before anyone has entered a hospital, even before anyone has actually injured themselves. This results both in a reduction of situations in which the hospital finds itself swamped by an unexpected rush, but also that overheads are kept to a minimum by limiting periods of overstaffing. James Lind, Direct of Patient Flow at Gold Coast has said that they now “use the forecasts up to 6 months in advance in planning so we can be prepared for events such as the winter influenza. This has led to much better hospital planning of emergency and elective admissions.” CSIRO and Gold Coast are now looking at how they can expand PAPT and the improved efficiency it offers to the entire hospital, for example to bed requirements and surgery waiting times.
+
+How Big Data Could Curb the UK’s A&E Crisis
+
+Such a great leap in efficiency is something that can be undertaken with relatively low costs in most large emergency room systems in the world, given that so much of the data required is already being recorded. In the UK the potential savings are clear, as staffing costs currently represent 65–70% cent of total hospital expenditure. The lack of structural efficiency in the NHS and its inability to eliminate wasteful spending is a source of constant political discussion, and this precedent seems to offer a genuine opportunity for substantial improvements and savings.
+
+However benefits would be felt by patients as well as budgets. Currently the NHS is being stretched beyond its capacity: there were a total of 21.8 million attendances to NHS A&E facilities in 2013/14, a number that grows year on year. Figures released last week have shown A&E waiting times rising to their highest level in 10 years. In the last quarter of 2014, only 92.6% of patients were seen within four hours, significantly below the target of 95%. Hospitals have claimed an increasing number of ‘major incidents’ are largely to blame, times at which exceptional patient volumes require extra staff called in at short notice, and then the postponing of non-critical care. The conventional solution offered to this issue by experts is pointing to the necessity of recruiting more doctors and nurses, claiming that our health service is simply not large enough to cope with increasing demand. Interviewed by the BBC on the 6th of January, Mike Proctor (Deputy Chief Executive of York Teaching Hospital) claimed simply that ‘the major issue is recruiting doctors and nurses’.
+
+However the avenue of more efficient staffing utilising big data is not being sufficiently explored. If these major incidents could be more accurately predicted, staffing could be organised in such a way as to significantly improve waiting times for patients. Mike Proctor does admit the benefit of this approach, pointing towards the use of recent analysis by public health experts relating to the issue of unexpected pneumonia spikes in the elderly population. But the NHS should look to Gold Coast Health and the accuracy of the predictions that can be made when big data is utilised effectively.
+
+This discussion should also be placed in the wider context that the UK has some of the best A&E performance figures in the developed world. Jeremy Hunt noted in rather desperate defence of the newly published A&E figures that the UK “is actually better than any other country in the world that measures these things.” This chiefly demonstrates that the potential benefit for healthcare services and patients is of global significance.
+
+About Jack Raeder- Jack is a recent Philosophy and Theology graduate from Oxford University. His work and interest in big data lie chiefly in its application in the public sector, particularly in its great potential as a tool for policymaking. He lives and work in London as a writer, musician, and a research analyst for Global Insider focusing on the African energy sector.
+
+Follow @DataconomyMedia
+
+
+
+(Image credit; Flickr)
+
+Summary: In a recent IBM report it was noted that around ‘80% of medical data is unstructured and clinically relevant’.
+Currently the NHS is being stretched beyond its capacity: there were a total of 21.8 million attendances to NHS A&E facilities in 2013/14, a number that grows year on year.
+However the avenue of more efficient staffing utilising big data is not being sufficiently explored.
+But the NHS should look to Gold Coast Health and the accuracy of the predictions that can be made when big data is utilised effectively.
+His work and interest in big data lie chiefly in its application in the public sector, particularly in its great potential as a tool for policymaking.
+
+Other Blogs by Jack Raeder: https://dataconomy.com/author/jraeder/

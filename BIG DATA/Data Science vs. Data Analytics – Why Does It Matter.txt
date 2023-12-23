@@ -1,0 +1,74 @@
+Title: Data Science vs. Data Analytics – Why Does It Matter?
+
+Article Link: https://dataconomy.com/2017/03/20/data-science-vs-data-analytics/
+
+Author: Brooke Campbell
+
+Publish Date: 2017-03-20
+
+Article:
+Data Science, Data Analytics, Data Everywhere
+
+Jargon can be downright intimidating and seemingly impenetrable to the uninformed. While complicated vernacular is an unfortunate side effect of the similarly complicated world of machines, those involved in computers, data and whole host of other tech-intensive sectors don’t do themselves any favors with sometimes redundant sounding terminology. Take the fields of data science and data analytics.
+
+Any sports fan will be familiar with the term analytics. They made a whole movie about baseball analytics and nearly won an Oscar for their trouble.
+
+As far as science goes, I think most of us who went to grade school should be familiar with the basic premise at the very least.
+
+So what is it about the word ‘data’ set in front that puts us all at such unease?
+
+Let’s get to sorting out these two terms, the differences between the two, and what it all means. After all, getting things right when it comes to data these days is absolutely crucial. Big data is only becoming more important in our world, and there’s a ton of different facets to the concept worth exploring.
+
+What is Data Science?
+
+Data science, when you get down to it, is a broad umbrella term whereby the scientific method, math, statistics and whole host of other tools are applied to data sets in order to extract knowledge and insight from said data.
+
+Essentially, it’s using multifaceted tools to tackle big data and derive useful information from it.
+
+Data scientists essentially look at broad sets of data where a connection may or may not be easily made, then they sharpen it down to the point where they can derive something meaningful from the compilation.
+
+And just in case you weren’t already super excited about data science (how could you not be?), the Harvard Business Review declared data scientist the “sexiest job of the 21st century” not too long ago.
+
+What is Data Analytics?
+
+Data analytics, or data analysis, is similar to data science, but in a more concentrated way. Think of data analysis at its most basic level a more focused version of data science, where a data set is specifically set upon to be scanned through and parsed out, often with a specific goal in mind.
+
+Think back to the “Moneyball” reference I made earlier in this piece. Those guys are data analysts. Why? Because they look at the aggregate data of all these baseball players that people tossed aside and found that, through the numbers, these athletes may not have been flashy but the numbers showed that they were effective.
+
+Data analysis is the process of defining and combing through those numbers to find out just who those ‘moneyball’ players were.
+
+And it worked. Now teams across every league of every sport are in one form or another applying some manner of data analytics to their work.
+
+Since data science is a relatively new term, and as such there’s a lot of discussion as to what exactly qualifies as the definitive definition. But what we’ve got here is a start.
+
+Besides, we’ve got to talk about the sexiest job of the century and a movie about baseball, all in a post about Big Data. That’s an accomplishment all on its own.
+
+Why Does it Matter?
+
+Well, you would ideally want to know what you’re getting yourself into when you apply to that dream position or need to make that crucial hire.
+
+But besides that, data science plays a huge role in machine learning and artificial intelligence. Being able to sift through and connect huge quantities of data, followed by forming algorithms and functions that allows virtual entities to learn from that data is hugely in demand in today’s marketplace.
+
+Machine learning is one of the most exciting developments in the tech world as the innovation continually impress. Take IBM’s Watson and its victory on Jeopardy!, or Google’s DeepMind beating the best human players in the world at the board game, Go. Both examples of our future mechanical overlords bringing us to heel under their cold metal boots . . . I mean, of the advances in machine learning.
+
+Speaking of Google, the company recently purchased Kaggle, an online community that hosts data science and machine learning competitions. The fact is that this tech is the future – and Google knows it. That’s why understanding the distinctions between these terms is important.
+
+At the end of the day, there’s nothing to be afraid of in either term. Both are essentially data detectives, who sort through large collections of stats, figures, reports, etc., until they find the necessary information that they came for. How they go about it and what the end goal is may differ, but the two are not all that dissimilar.
+
+We Did It
+
+There you go! We were able to navigate the shroud of ambiguity that is loosely defined data terms and exit from the other side all in one piece.
+
+But this is just the start of your learning. There’s so much more to data than just these two terms. And, as I’ve said multiple times in this piece, data is important. It’s only becoming more prominent in our lives as it takes over everything from sports to dating to business to medicine. Data driven actions are the present and the foreseeable future, so you can never learn too much about Big Data and what it will mean to your life.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Data Science, Data Analytics, Data EverywhereJargon can be downright intimidating and seemingly impenetrable to the uninformed.
+Take the fields of data science and data analytics.
+And just in case you weren’t already super excited about data science (how could you not be?
+Data analytics, or data analysis, is similar to data science, but in a more concentrated way.
+Think of data analysis at its most basic level a more focused version of data science, where a data set is specifically set upon to be scanned through and parsed out, often with a specific goal in mind.
+
+Other Blogs by Brooke Campbell: https://dataconomy.com/author/brooke-campbell/

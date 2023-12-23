@@ -1,0 +1,54 @@
+Title: “To avoid losing great people, they need to be developing all the time.” – Interview with GoCardlesses Natalie Hockham
+
+Article Link: https://dataconomy.com/2015/11/27/to-avoid-losing-great-people-they-need-to-be-developing-all-the-time-interview-with-gocardlesses-natalie-hockham/
+
+Author: Peadar Coyle
+
+Publish Date: 2015-11-27
+
+Article:
+Natalie leads the data team at GoCardless, a London startup specialising in online direct debit. She cut her teeth as a PhD student working on biomedical control systems before moving into finance, and eventually Fintech. She is particularly interested in signal processing and machine learning and is presently swotting up on data engineering concepts, some knowledge of which is a must in the field.
+
+What project have you worked on do you wish you could go back to, and do better?
+
+Before I joined a startup, I was working as an analyst on the trading floor of one of the oil majors. I spent a lot of time building out models to predict futures timespreads based on our understanding of oil stocks around the world, amongst other things. The output was a simple binary indication of whether the timespreads were reasonably priced, so that we could speculate accordingly. I learned a lot about time series regression during this time but worked exclusively with Excel and eViews. Given how much I’ve learned about open source languages, code optimisation, and process automation since working at GoCardless, I’d love to go back in time and persuade the old me to embrace these sooner.
+
+What advice do you have to younger analytics professionals and in particular PhD students in the Sciences?
+
+Don’t underestimate the software engineers out there! These guys and girls have been coding away in their spare time for years and it’s with their help that your models are going to make it into production. Get familiar with OOP as quickly as you can and make it your mission to learn from the backend and platform engineers so that you can work more independently.
+
+What do you wish you knew earlier about being a data scientist?
+
+It’s not all machine learning. I meet with some really smart candidates every week who are trying to make their entrance into the world of data science and machine learning and this field is never far from the front of their minds. The truth is machine learning is only a small part of what we do. When we do undertake projects that involve machine learning, we do so because they are beneficial to the company, not just because we have a personal interest in them. There is so much other work that needs to be done including statistical inference, data visualization, and API integrations. And all this fundamentally requires spending vast amounts of time cleaning data.
+
+How do you respond when you hear the phrase ‘big data’?
+
+I haven’t had much experience with ‘big data’ yet but it seems to have superseded ‘machine learning’ on the hype scale. It definitely sounds like an exciting field – we’re just some way off going down this route at GoCardless.
+
+What is the most exciting thing about your field?
+
+Working in data is a great way to learn about all aspects of a business and the lack of engineering resources that characterizes most startups means that you are constantly developing your own skill set. Given how quickly the field is progressing, I can’t see myself reaching saturation in terms of what I can learn for a long time – that makes me really happy.
+
+How do you go about framing a data problem – in particular, how do you avoid spending too much time on a problem and , how manage expectations?
+
+Our 3 co-founders all started out as management consultants and the importance of accurately defining a problem from the outset has been drilled into us. Prioritisation is key – we mainly undertake projects that will generate measurable benefits right now. Before we start a project, we check that the problem actually exists (you’d be surprised how many times we’ve avoided starting down the wrong path because someone has given us incorrect information). We then speak to the relevant stakeholders and try to get as much context as possible, agreeing a (usually quantitative) target to work towards. It’s usually easy enough to communicate to people what their expectations should be. Then the scoping starts within the data team and the build begins. It’s important to recognise that things may change over the course of a project so keeping everyone informed is essential. Our system isn’t perfect yet but we’re improving all the time.
+
+How do you explain to C-level execs the importance of Data Science? How do you deal with the ‘educated selling’ parts of the job?
+
+Luckily, our management team is very embracing of data in general. Our data team naturally seeks out opportunities to meet with other data professionals to validate the work we’re doing. We try hard to make our work as transparent as possible to the rest of the company by giving talks and making our data widely available, so that helps to instill trust. Minor clashes are inevitable every now and then, which can put projects on hold, but we often come back to them later when there is a more compelling reason to continue.
+
+What is the most exciting thing you’ve been working on lately and tell us a bit about GoCardless.
+
+We’ve recently overhauled our fraud detection system, which meant working very closely with the backend engineers for a prolonged period of time – that was a lot of fun. GoCardless is an online direct debit provider, founded in 2011. Since then, we’ve grown to 60+ employees, with a data team of 3. Our data is by no means ‘big’ but it can be complex and derives from a variety of sources. We’re currently looking to expand our team with the addition of a data engineer, who will help to bridge the gap between data and platform.
+
+What is the biggest challenge of leading a data science team?
+
+The biggest challenge has been making sure that everyone is working on something they find interesting most of the time. To avoid losing great people, they need to be developing all the time. Sometimes this means bringing forward projects to provide interest and raise morale. Moreover, there are so many developments in the field that its hard to keep track, but attending meetups and interacting with other professionals means that we are always seeking out opportunities to put into practice the new things that we have learned.
+
+Summary: Natalie leads the data team at GoCardless, a London startup specialising in online direct debit.
+The truth is machine learning is only a small part of what we do.
+How do you go about framing a data problem – in particular, how do you avoid spending too much time on a problem and , how manage expectations?
+Our data team naturally seeks out opportunities to meet with other data professionals to validate the work we’re doing.
+Since then, we’ve grown to 60+ employees, with a data team of 3.
+
+Other Blogs by Peadar Coyle: https://dataconomy.com/author/pcoyle/

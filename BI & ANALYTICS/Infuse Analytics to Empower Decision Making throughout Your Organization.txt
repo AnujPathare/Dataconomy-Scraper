@@ -1,0 +1,46 @@
+Title: Infuse Analytics to Empower Decision Making throughout Your Organization
+
+Article Link: https://dataconomy.com/2021/06/17/infuse-analytics-empower-decision-making/
+
+Author: Scott Castle
+
+Publish Date: 2021-06-17
+
+Article:
+Like oil or money, data is a valuable resource that holds great potential. But too many organizations set their sights on amassing data, or worse, using it only in isolated processes or departments when they should be focused on applying data throughout their everyday operations.
+
+Technology is, of course, part of the puzzle, but in an authentic data culture, execs have the ability to spark innovation and identify new business opportunities via more efficient processes. Lasting success relies on smarter analytics-infused processes and the merging of culture and people. It’s a bold move that requires commitment from the top – fueling strategic decision-making by all stakeholders, no matter their title or department.
+
+A new perspective
+
+Organizations that take full advantage of data and analytics hold this strategic mindset. They see, use, and perfect data to gain a competitive edge. In a December 2020 Harvard Business Review (HBR) survey, close to 90 percent of respondents felt analyzed data was critical to their company’s business innovation strategy. Yet, while data analytics was cited as enhancing the customer experience (CX) and operational efficiency, participants said it was not routinely applied to fuel innovation or new business opportunities. So, what’s the holdup? It is far easier to acquire data than it is to convert it into usable insights. In addition, moving to a data-led business culture is challenging. It can seem risky, for example, if those in charge lack confidence that the right policies, ethics, and governance are in place for ideal enterprise-wide sharing of data. But leaders in a healthy data culture know better and accept the risk, doing what is necessary to make the data useful.
+
+Start at the top
+
+The infusion of analytics throughout an organization requires strategic planning, thoughtful execution, and unwavering commitment from executive leadership for real and lasting impact – a big task for any company.
+
+Leading a data-centric organization doesn’t necessarily require data science degrees across the C-suite, although it is imperative that those in charge have a working knowledge of standard data principles. Armed with an understanding of the insights desired, an appreciation for clean data, and the ability to identify data gaps, leaders are better equipped to revamp the decision-making process. Leading by example, executives have an opportunity to educate their workforce on the importance of data literacy ahead of infusing analytics into existing workflows.
+
+Within the comfort zone
+
+Respondents in the HBR survey voiced concerns around poor training and lack of employee skills as impediments to broad use of data. They highlighted a lack of quality data as well. But in a data-driven culture, routine applications, workflows, and processes are infused with analytics, making training unnecessary or minimal at best. Multiple steps can more easily be automated for a frictionless user experience. Analytics capabilities are woven into actively-used tools, putting insight and actionable intelligence within reach – it’s there when and where it’s needed, enabling informed, real-time decisions in context.
+
+Consider that devices such as smartphones, ‘fitness’ watches, and immersive applications and websites have us craving instant gratification and personalization. It is no different in the workplace. Employees want relevant, up-to-the-minute insights delivered when and where they need them, in context, and without having to learn how to use new software. Alerts to changing conditions or issues are a welcome bonus that extend the utility of infused analytics.
+
+Weaving analytics into current technology
+
+It’s important to note that an organization’s technology choices can reduce data visibility. In contrast, analytics infusion presents data and actionable intelligence to the people who need it, when they need it, in the workflows, they are accustomed to.
+
+How data will be used simply must influence technology choices. This presents an ongoing opportunity to reinforce the adoption of data strategies throughout the organization – and even outside the organization, with partners, suppliers, and customers. With consensus at the C-level, goals are defined, assessed, and modified as needed. While democratizing data is not without risk, it defines leadership that recognizes the intrinsic value of a data-centric organization.
+
+The analytics-infused enterprise
+
+Data can be a blessing and a curse, especially without the infrastructure and processes in place to tap into that data’s inherent value – compounded by the constant stream of data being gathered and added to your existing arsenal. Data that is dirty, inaccessible across systems, or shared with only a handful of stakeholders only exacerbates the matter. Fortunately for most organizations, leveraging data to its full extent can be accomplished with an adjustment in company mindset. Enabling data access – throughout systems, processes, and people – provides the foundation to an analytics-infused environment. It’s a new landscape where smart decision-making happens at the point of need. For company leaders, it is a bold step toward fostering a data-driven culture, empowered and motivated for success across the organization.
+
+Summary: A new perspectiveOrganizations that take full advantage of data and analytics hold this strategic mindset.
+Yet, while data analytics was cited as enhancing the customer experience (CX) and operational efficiency, participants said it was not routinely applied to fuel innovation or new business opportunities.
+In addition, moving to a data-led business culture is challenging.
+But leaders in a healthy data culture know better and accept the risk, doing what is necessary to make the data useful.
+But in a data-driven culture, routine applications, workflows, and processes are infused with analytics, making training unnecessary or minimal at best.
+
+Other Blogs by Scott Castle: https://dataconomy.com/author/scott-castle/

@@ -1,0 +1,72 @@
+Title: Big Data Is Revolutionizing The Way We Develop Life-Saving Medicine
+
+Article Link: https://dataconomy.com/2017/06/14/big-data-develop-medicine/
+
+Author: Savaram Ravindra
+
+Publish Date: 2017-06-14
+
+Article:
+Big data sets are so complex and large that common data processing tools and technologies cannot cope with them. The process of inspection of such data and uncovering patterns is called big data analytics. The basic question which arises in our mind is, “In what way is the drug discovery related to big data analytics?” or “how is data analytics useful in the process of drug discovery?”
+
+The process of drug discovery requires the analysis, collection and processing of unstructured and structured biomedical data which is of large volume from surveys and experiments gathered by pharmaceutical companies, laboratories, hospitals or even social media. These huge amounts of data may also include data regarding sequencing and gene expression, molecular data which is included in drug data, data consisting of drug and protein interaction, data of electronic patient record and clinical trial, self-reporting and patient behaviour data in social media, data of regulatory monitoring, and literatures where protein-protein interaction and drug repurposing and trends may be found.
+
+To examine in detail such diversified types of data in huge volumes to be able to discover new drugs, we need to have algorithms that are scalable, efficient, effective and simple. We now discuss how recent innovations in big data analytics improve the process of drug discovery. Algorithms are developed to uncover the patterns which are hidden in such data as unreported, discussions on drug side-effects in social media communications, sequencing and patient record data, drug-protein interaction and regulatory monitoring data, data regarding chemical-protein interactions etc., for the prediction of drug side-effects and how these types of predictions can be used to identify the possible drug structures with different necessary features. Big data analytics also contributes to much better drug efficiency and safety for regulators and pharmaceutical companies.
+
+Upon implementing several measures of big data which are technology-enabled, pharmaceutical companies can enlarge the data they gather and enhance their approach to analysing and managing this data.
+
+1.Integration of all the data
+
+One of the biggest challenges facing the R&D organizations of pharmaceutical companies is having well-linked, consistent and reliable data. Data is the foundation upon which the value-adding analytics are built. Integration of efficient end-to-end data establishes an authoritative source for all the bits and pieces of information and correctly links different data which cannot be compared regardless of the source. Smart algorithms which link clinical and laboratory data, for example, could create automatic reports that identify applications or compounds that are related and raise red flags related to efficacy or safety.
+
+2.Internal and external collaboration
+
+R&D in pharmaceutical organizations is a secretive activity which is conducted within the R&D department with little external and internal collaboration. Pharmaceutical companies can extend their data networks and knowledge by enhancing their collaboration with external partners. Whereas end-to-end integration improves connecting the elements of data, the main aim of this collaboration is to improve the connections among all the stakeholders in delivery, commercialization, drug research and development.
+
+3.Make use of IT-enabled portfolio for data-driven decision making
+
+To make sure the allocation of scarce R&D funds is appropriate, it is critical to speed up decision making for pipeline and portfolio progression. Pharmaceutical organizations find it really challenging to make accurate decisions to about which assets to retain and which ones to kill. The financial or personnel investments they have made already may affect the decisions at the expense of merit and they lack decision-support tools which are appropriate to facilitate making calls which are tough. IT-enabled portfolio management enables the decisions which are data-driven to be made seamlessly and quickly. Smart visual dashboards must be used whenever there is a possibility to facilitate effective and rapid decision making.
+
+3.Influence the new discovery technologies
+
+Pharmaceutical R&D must continue using cutting-edge tools. These include systems biology and technologies that produce huge data very quickly. One of the examples for the technologies that produce huge data quickly is next-generation sequencing. This technology will make it possible to sequence an entire human genome within 18 to 24 months and at a cost of $100. The improved analytical techniques and wealth of new data will intensify the innovations of the future and feed the pipeline of drug development.
+
+4.Deployment of devices and sensors
+
+The advancement of instrumentation using miniaturized bio-sensors and the evolution of the latest smartphones and their applications are resulting in increasingly sophisticated health-measurement devices. Pharmaceutical companies are using smart devices to gather huge real-world data which was not available previously to scientists. Monitoring of patients remotely through devices and sensors constitutes an immense opportunity. This type of data can be used to analyse drug efficiency, facilitate R&D, create economic models which are new combining the provision of drugs and services and enhance future drug sales.
+
+5.Raise the efficiency of clinical trials
+
+A combination of smarter, new devices and exchange of fluid data will enable improvements in design of clinical trial and outcomes as well as higher efficiency. Clinical trials will become much highly adaptable to respond to drug-safety signals which are seen only in small but subpopulations of patients which are identifiable.
+
+The following are the challenges facing transformation of bigdata in pharmaceutical R&D
+
+1.Organization
+
+The silos in an organization result in data silos. Functions usually have responsibility for their data and the systems they contain. Adopting a data-centric views, with a clear owner for each type of data through the data-life cycle and across functional silos, will greatly enhance the ability to share and use data.
+
+2.Analytics and Technology
+
+Pharmaceutical companies are following legacy systems containing disparate and heterogeneous data. These legacy systems have become a burden for these companies. Enhancing the efficiency to share data needs connecting and rationalizing these systems. There is also a scarcity of human resources supplied with a specific task of improving the analytics and technology needed to extract maximum value from existing data.
+
+3.Mindsets
+
+Many pharmaceutical organizations believe that unless they find a future state which is ideal, there is very less value to investing in enhancing the analytical capabilities of big data. Pharmaceutical organizations should gain knowledge from smaller, more entrepreneurial enterprises that see a lot of worth in the incremental improvements that get emerged from small-scale pilots.
+
+Using Big data in pharmaceutical companies could slowly turn the tide of diminishing success rates and sluggish pipelines.
+
+Conclusion
+
+Effective utilization of big data opportunities can help pharmaceutical organizations better determine new ways to develop approved and effective medicines more quickly.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Big data sets are so complex and large that common data processing tools and technologies cannot cope with them.
+The process of inspection of such data and uncovering patterns is called big data analytics.
+Upon implementing several measures of big data which are technology-enabled, pharmaceutical companies can enlarge the data they gather and enhance their approach to analysing and managing this data.
+Using Big data in pharmaceutical companies could slowly turn the tide of diminishing success rates and sluggish pipelines.
+ConclusionEffective utilization of big data opportunities can help pharmaceutical organizations better determine new ways to develop approved and effective medicines more quickly.
+
+Other Blogs by Savaram Ravindra: https://dataconomy.com/author/ravindra-savaram/

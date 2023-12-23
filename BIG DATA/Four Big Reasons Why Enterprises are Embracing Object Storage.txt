@@ -1,0 +1,56 @@
+Title: Four Big Reasons Why Enterprises are Embracing Object Storage
+
+Article Link: https://dataconomy.com/2018/08/07/four-big-reasons-why-enterprises-are-embracing-object-storage/
+
+Author: Daniel Gilfix
+
+Publish Date: 2018-08-07
+
+Article:
+The days of terabyte data storage are quickly becoming history for many organizations. Now, many enterprises are managing petabytes of data to provide a myriad of data intensive services from media streaming to file backups. Increased demand for these services has thrust object storage firmly into the spotlight.
+
+As services like Netflix, YouTube, and others deliver larger volumes of content in the form of unstructured data to more and more users, they require solutions that can provide limitless amounts of storage flexibility. Traditional storage solutions that offer fixed storage capacities work well for certain tasks like database management, but they can be inadequate for enterprises with less constrained storage needs.
+
+Conversely, on-premises object storage eschews traditional file system hierarchies in favor of a simple, flat storage structure with far greater scalability. With object storage, enterprises can address their data storage needs into the petabyte range and beyond.
+
+Object storage has been around for awhile and, over the past several years, rapidly matured into more than just another single protocol storage solution. Object storage has become a proving ground for features that are considered by many to be the cornerstones of modern storage platforms, such as load balancing, geo-replication, and multi-tenancy. Indeed, it has evolved to the point where it can now be considered as a primary storage platform for organizations managing large workloads across highly distributed environments.
+
+Here are a few reasons why object storage has come into its own as an indispensable asset for many enterprises.
+
+Reason #1: A lot of bang for the buck
+
+Organizations might be generating a lot more data than they were five or six years ago, but that does not necessarily mean that their storage budgets have increased. While data might be limitless, funds are not, so companies need to find ways to expand their storage capabilities cost effectively.
+
+Traditional storage solutions generally require organizations to purchase both hardware and software technologies simultaneously, typically in one vertically-integrated, proprietary unit. While object stores also require hardware, they tend to run on less expensive, industry-standard servers, storage arrays, and disks. Moreover, object storage systems can scale up and down elastically in small units, which means users only have to buy what is actually needed at the time; the rest can be added incrementally through a small series of investments in accordance with business needs. And unlike many appliances, the hardware doesn’t have a limited lifecycle that requires users to upgrade both compute and storage at the same time.
+
+Reason #2: Improved data access, anywhere at any time
+
+As enterprises become more geographically dispersed, they often need to be able to offer employees in different locations quick and easy access to the same data. Traditional storage methods typically limit access to a single person at a time; if someone else wants the same information, she may have to wait for her colleague to copy, paste, and send it to her. This inefficient process can hinder productivity.
+
+In contrast, object storage platforms are designed in a way that can make them intrinsically accessible and a gateway for advanced features like geo-replication. Some object storage offerings even allow simultaneous access to the same data pool from multiple locations in real time. This capability can be enormously beneficial, particularly for companies distributed across a range of geographic locations. For instance, workers in the regional offices of a film studio can have access to the same data as their colleagues in Los Angeles, and people working out of a New York office do not have to wait to get information from their Tokyo headquarters.
+
+As companies continue to grow, they will expect object storage platforms to keep their data in sync, replicated, and easily accessible. As such, the ability to offer unfettered data access is a key feature that should continue to propel object storage as a preferred storage method for the foreseeable future.
+
+Reason #3: Stronger storage for hybrid clouds and containers
+
+Object storage has always been a de facto storage mechanism for applications born in the cloud, and its inherent flexibility makes it ideal for public or private cloud environments — or any combination of the two. For instance, organizations may want to provide their employees with access to data that resides on a public cloud, but also give them the option to bring that data on-premises while maintaining the same levels of consistency, reliability, and access. Object storage affords them this option by functioning consistently in a wide variety of hybrid cloud environments.
+
+Object storage can also be used to provide permanent and persistent storage, something that is critical when deploying applications in containers. Containers are stateless, which can make data storage within a container a challenge that traditional storage methods are not well-equipped to answer. Modern containerized applications can avoid this challenge by storing their data in elastic object storage platforms like Ceph, making that data consistently available across their entire operational lifecycle.
+
+Moreover, applications storing data in object storage platforms enable operators to create and destroy containers as-needed, scaling the required infrastructure up and down to meet demands without worrying about data availability. In other words, since the data isn’t directly in the container, the containers are disposable, and operators need not worry about losing any of the data as scaling occurs. In the same way, decoupling software from hardware can bring greater flexibility in terms of growth and acquisition with minimal disruption, decoupling applications from their data means increased flexibility and agility for IT practitioners in a variety of environments spanning containers, hybrid cloud, and beyond.
+
+Reason #4: Better reliability and availability
+
+Finally, object storage platforms can provide enterprises with various security benefits. Copies of the same object can be automatically stored on multiple nodes. In the event that something goes amiss, enterprises can rest assured that their data will still be available as a result of their object storage platforms’ built-in redundancies. In contrast, as a company accumulates more and more appliances to address its needs (dozens or hundreds are quite common), the operational burden of replicating and balancing data between the appliances can become untenable.
+
+While all of these benefits have led many organizations to object storage and differentiated it from traditional storage methods, there have been some barriers to adoption, at least until recently. In the not-so-distant past, companies were forced to decide whether to go all-in with object storage or stick to traditional block and file storage methods. That is a difficult choice to make for any organization, particularly one that has accumulated massive amounts of data. The thought of moving everything onto a new platform, regardless of how much promise that platform offers, is understandably daunting.
+
+Fortunately, organizations no longer have to make that choice. Greater interoperability between traditional and modern storage platforms means that enterprises can now more easily move some, if not all, of their workloads into object storage on a gradual basis without experiencing any disruption. In that way, more departments within these enterprises can take advantage of the aforementioned benefits associated with object storage and incorporate the technology more proactively — something that can undoubtedly help companies systematically address their expanding storage needs.
+
+Summary: Conversely, on-premises object storage eschews traditional file system hierarchies in favor of a simple, flat storage structure with far greater scalability.
+With object storage, enterprises can address their data storage needs into the petabyte range and beyond.
+Object storage has been around for awhile and, over the past several years, rapidly matured into more than just another single protocol storage solution.
+Object storage has become a proving ground for features that are considered by many to be the cornerstones of modern storage platforms, such as load balancing, geo-replication, and multi-tenancy.
+Here are a few reasons why object storage has come into its own as an indispensable asset for many enterprises.
+
+Other Blogs by Daniel Gilfix: https://dataconomy.com/author/daniel-gilfix/

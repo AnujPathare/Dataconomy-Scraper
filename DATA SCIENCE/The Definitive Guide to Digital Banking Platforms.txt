@@ -1,0 +1,56 @@
+Title: The Definitive Guide to Digital Banking Platforms
+
+Article Link: https://dataconomy.com/2017/03/06/choosing-digital-banking-platform/
+
+Author: Andrzej Szewczyk
+
+Publish Date: 2017-03-06
+
+Article:
+Did you doze off and miss the digital banking revolution?
+
+If so, here is your indispensable guide to choosing a digital banking platform
+
+The innovative nature of the financial services industry calls for constantly introducing new solutions to the market. Nowadays, implementing digital banking platform is a must, and should be thought of as a continuous evolutionary process, and not as a project with a beginning and an end.
+
+Banking customers are insistent in their demand for modern banking platforms, and banks are falling over themselves to provide innovative solutions. Those banks that did not keep pace with the development of platforms in recent years may find themselves having to board a moving – or in some cases, speeding – train. True, the first wagons have left the station, but late adopters may make use of the experience of entities that have already ridden this track. Although no implementation process of innovation can pass without a hitch, you can and should avoid the errors made by the early pioneers.
+
+User Experience is the key
+
+In times of very strong competition, when all manner of bank fees and charges have been trimmed, banks no longer compete on price. The importance of the parameters of banking products has been reduced, outweighed by the increasing demand for enhanced user experience, and paving the way for a properly designed interface for internet and mobile banking to take centre stage. Financial products have always been perceived as somewhat complicated, but the right kind of user experience can ensure that a customer’s dealings with a bank are convenient, comprehensible and rewarding. The kind of user experience that turns tedious tasks into a pleasant experience, at the same time reflects the specifics of the banking brand (brand personality, brand communication, tone of voice), will also go a long way in turning ordinary customers into loyal brand ambassadors. In this sense, every single cent spent in properly designed customer experience is an investment with a potentially huge rate of return.
+
+Personal Finance Management must be simple
+
+The fact that a large proportion of banks still cannot offer a fully online or mobile account opening process shows that there is still a great deal to do in facilitating the digital customer journey. But banks should also tread carefully and not push blindly ahead. The previous experience of banks which first implemented a Personal Finance Manager (PFM) as part of their platforms showed that inadequate integration of this element into the customer journey can be counterproductive. Instead of assisting customers by presenting clear reports and recommendations, the PFMs discouraged them through over-complicated interfaces.
+
+Thankfully, modern data-driven PFM can be integrated throughout the whole digital banking platform. Categorization should be accessible from every level of the transaction history. Budget management and savings targets should be instinctively available in places where the customer is monitoring the state of their finances. PFM tools should prepare forecasts for bank customers and support them in the automation of payments. Such solutions are a real help for users, and increase the usability of the application..
+
+Bots and data are the fuel powering innovation
+
+Bots are one of the trends seeing explosive growth. These conversational mechanisms with elements of artificial intelligence can hold a conversation with the customer using natural language. These solutions reinforce the fundamental role of the bank as a friendly customer advisor in the complex world of finance.
+
+Information is the fuel driving the digitization of all processes. In banking, this is particularly true. Bank customers are willing to provide detailed information about themselves and their needs, expecting in return to be offered specifically tailored solutions. This is where self-learning conversational mechanisms come into play, becoming invaluable tools to understand the needs of bank customers, and target the right kind of offers to them. Financial institutions other than sophisticated relationship-based private banking institutions are rarely able to acquire this knowledge.
+
+Context matters
+
+Banks should naturally aim at varying the channel and context of their services according to the product. There is a tremendous difference between the process of taking out a mortgage, which is of occasional interest to customers, and everyday payments like buying coffee or a public transport ticket. Each of these everyday activities involves interaction with the bank, and can be implemented using a range of devices. Nowadays, users are more likely to access content on the Internet using mobile devices, and banks must take this into account – mobile banking tools are much more powerful than desktop-based platforms.
+
+Another looming revolution in banking is associated with the European PSD2 directive. External entities will be able to access a customer’s banking data, making it possible for such an entity to aggregate all banking products the customer holds, regardless of where the products are held. Furthermore, the entity giving access to these banking products does not have to be a bank itself, meaning that banks may lose out to independent operators that build up a client base by offering better user experience. The bank in this situation is reduced to being merely the supplier of the product, losing direct access to the client, severely limiting any opportunity for upselling or for active management of the bank-customer relationship.
+
+The bottom line
+
+Banks need to adapt to these changes. Only interfaces that can integrate data from other banks, and allow management of all financial products from many financial institutions, will give banks a key to maintaining customer relationships and building loyalty.
+
+Any process of implementation today of a modern, user-centred digital banking platform must take into account the experience of competitors, and current trends. However, merely cherry-picking the best solutions is not a set recipe for long-lasting success.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Did you doze off and miss the digital banking revolution?
+If so, here is your indispensable guide to choosing a digital banking platformThe innovative nature of the financial services industry calls for constantly introducing new solutions to the market.
+Banking customers are insistent in their demand for modern banking platforms, and banks are falling over themselves to provide innovative solutions.
+Thankfully, modern data-driven PFM can be integrated throughout the whole digital banking platform.
+Any process of implementation today of a modern, user-centred digital banking platform must take into account the experience of competitors, and current trends.
+
+Other Blogs by Andrzej Szewczyk: https://dataconomy.com/author/andrzej-szewczyk/

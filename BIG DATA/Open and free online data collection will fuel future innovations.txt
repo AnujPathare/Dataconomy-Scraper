@@ -1,0 +1,54 @@
+Title: Open and free online data collection will fuel future innovations
+
+Article Link: https://dataconomy.com/2020/12/18/open-free-online-data-collection-fuel-innovations/
+
+Author: Ron Kol
+
+Publish Date: 2020-12-18
+
+Article:
+The saying “knowledge is power” doesn’t just apply to individuals but also businesses. While individuals can learn from books and life lessons, businesses need a tool to gather market insights. This is where online data collection comes in. It is one of the best tools because it provides up-to-date and reliable information for businesses to stay informed – and make critical business decisions.
+
+Fortunately, there is no shortage of online data being generated. In fact, a recent survey from Frost & Sullivan found that 49% of IT decision-makers use data collection for business-critical operations, such as market research. Another 44% said they use data collection to gather competitive public data.
+
+As online data continues to be generated at record rates, it also continues to be a driving force behind decision-making for businesses that embrace data collection. We have created a lot of online data this year, in large part because of the tremendous digital shift we experienced starting in March. Take online shopping, for example. Those who wanted to avoid crowded stores because of the pandemic turned to online retailers, like Amazon, for quick and easy delivery. This resulted in Amazon shipping 6,659 packages per minute in 2020.
+
+Given the increased need for data-driven insights in these unprecedented times, we expect to see the following trends emerge in 2021.
+
+Fraudulent online activity will keep online data shielded
+
+Sometimes, a few bad apples spoil the bunch. This saying is especially true for fraudsters who, even during these challenging times, continue to improperly use online data to conduct illegal activities, including fake reviews, illegal purchases, and phishing.
+
+For example, a scam called brushing emerged this summer, where fraudsters sent free merchandise to addresses that are publicly available online. In reality, the scammers were only using the addresses to make people look like verified buyers of those products so they could write glowing (and fake) reviews. This is obviously a clear breach of ethics and not the way online data collection is intended to be used. Unfortunately, the amount of fraudulent activity like this is on the rise due to the pandemic and recent US presidential election season.
+
+As would be expected, these fraudulent activities lead companies to take security precautions to protect themselves. Such precautions include limiting the amount of data they make freely and publicly available online. Those responsible for abusing open data are causing these limitations, which affect everyone else, especially the business community that only seeks to use online data for legitimate purposes. This is a trend that I, unfortunately, believe will continue well into 2021.
+
+Online data will continue to drive decision-making
+
+It’s expected that companies will continue to legitimately protect confidential and proprietary information with data privacy and copyright restrictions. However, plenty of online data that is publicly available and free for businesses can be leveraged to make informed decisions. This includes using data to drive innovation and product development forward, pricing products competitively, improving customer service, and enhancing the quality of products.
+
+For example, in the world of e-commerce, shipping data can help companies estimate how much they should ramp up or slow down their e-commerce efforts. Online data can also give insight into purchasing trends. Another example is a study from earlier this year that found that sales of electronics, cooking appliances, and grocery items significantly increased year-over-year from April 2019 to April 2020.
+
+Data can also be used to predict and react to market shifts as they unfold by following financial or consumer behavior trends in real time. For instance, 2020 has certainly been an unpredictable year, and in 2021, I expect businesses across industries will continue to turn towards online data to guide their decisions.
+
+Evolved data markets will promote open and on-demand data
+
+The Frost & Sullivan survey also found that 54% of IT decision-makers expressed a need for large-scale data collection to keep pace with their businesses’ growing demand for data. However, in order for businesses to be able to utilize online data, it needs to be accessible – not blocked. Today, businesses often block public data collection attempts while collecting it themselves. This situation is caused by two major factors: the continuous need to block malicious online activity, and the notion that somehow this public data is part of what gives a company its competitive edge.
+
+I believe that during 2021 and onwards companies will realize that public data collection is part of the general ongoing business conduct and is necessary for everyone. They will also realize that when it comes to a business’s competitive edge, areas such as inventory, prices, product quality, service quality, etc. play big role as well. Once that realization settles in, blocking data will serve only to protect against abusive online activities.
+
+So, how do we ensure that the right people get access to ethical public data while blocking out the abusers? While this is not a simple task it is certainly a doable one. One solution that could serve all is promoting the open exchange of information in central data hubs. Sites will continue to block abusers; this will not change. However, maybe they will permit ethical data collectors. Why? The answer does not rely on ideals but on numbers.
+
+It is estimated that 40% of internet traffic is based on bots, for better and for worse. Therefore, reducing your website traffic by 15-20% will improve the quality of your user tracking statistics. This, in turn, will boost the quality of your service and reel in more revenue while driving down costs. Talk about a huge motivator! So, actually, by allowing your openly available data to be collected by ethical data hubs, you can significantly increase your bottom line.
+
+The good news is that central data hubs are already in use, and I predict that they will only grow in popularity as data markets expand over the next few years. Research shows that IT managers already desire on-demand, quality, and verified public data. It will be interesting to watch these data markets take shape.
+
+Ultimately, the future of online data collection is up to those who control it. At the rapid rate data is being produced, future data collection efforts will need to evolve and grow. Companies will need automated data collection to keep up with their competitors and be able to gather data at a rate that would otherwise be impossible to complete manually. After all, the speed at which companies can collect fresh data will determine their relevancy and success.
+
+Summary: Another 44% said they use data collection to gather competitive public data.
+As online data continues to be generated at record rates, it also continues to be a driving force behind decision-making for businesses that embrace data collection.
+This is obviously a clear breach of ethics and not the way online data collection is intended to be used.
+Ultimately, the future of online data collection is up to those who control it.
+At the rapid rate data is being produced, future data collection efforts will need to evolve and grow.
+
+Other Blogs by Ron Kol: https://dataconomy.com/author/ron-kol/

@@ -1,0 +1,294 @@
+Title: 16 Best Big Data Programs at Prestigious MBA Schools
+
+Article Link: https://dataconomy.com/2018/09/27/16-best-big-data-programs-at-prestigious-mba-schools/
+
+Author: Jennifer L. Gaskin
+
+Publish Date: 2018-09-27
+
+Article:
+We live in a world of 1’s and 0’s, a world of data. Consumers and businesses send and receive enormous amounts of data all day, every day. From smartphones that learn how the user behaves to purchasing decisions that inform marketing messaging to analytics that can isolate flaws in a supply chain — Big Data is powering business today.
+
+That’s why Big Data literacy is becoming a highly sought-after skill among hiring managers and recruiters. According to one study, nearly 70 per cent of employers expect to favour candidates with serious data science chops over candidates lacking that skill set.
+
+Simply getting an MBA degree might not be enough today. Future-proofing your education means making sure you’re equipped with a solid foundation in Big Data, data science, machine learning and automation. While many institutions haven’t exactly been on the forefront of change, most prestigious business schools are beginning to embrace the potential of Big Data.
+
+We analyzed a total of 16 prestige programs, the ones largely considered the best of the best. Some of these are Ivy League programs and some aren’t. Most are in the United States, though two of them are in the UK. We looked at more than 160 courses among those 16 schools.
+
+What we found was that the bulk of schools don’t yet require a great deal of Big Data education for their MBA students.
+
+In fact, just one school required more than two courses, and two-thirds of schools require just one class on data science. Only one school we looked at offers more than 30 classes between core and electives in data science, and more than half don’t crack the double digits.
+
+Several schools do offer special programs or immersive experiences, and each of them does at least provide a foundation in Big Data.
+
+Not all courses are offered during each term. We’ve looked at the most recent academic term for which class listings are publicly available at each institution. In most cases, that was fall 2018, though some courses listed are for future or past terms.
+
+Stanford University
+
+Santa Clara County, California
+
+Stanford Graduate School of Business
+
+With its close proximity to the heart of the tech world, Silicon Valley, it’s no wonder that Stanford has by far the most robust MBA offerings focusing on Big Data, data science, machine learning and automation among the dozen-plus prestige MBA programs we studied. While offering only one required course in Big Data, Stanford Graduate School of Business lists an incredible 30 elective courses to help business students build their skill set in data analysis. With literally hundreds of companies applying those principles on a daily basis just a few minutes from their campus, Stanford’s students are uniquely positioned to take on the future of business.
+
+Required or core
+
+Data Analysis and Decision Making
+
+Elective, seminar or immersion
+
+Business Intelligence from Big Data Data, Learning, and Decision-Making Topics in Social Network Analysis: Structure and Dynamics Causal Inference Data Science for Platforms The Startup Garage: Testing and Launch Data and Decisions (Base and Accelerated) Decision-making and Learning under Model Uncertainty: Theory and Applications Statistical Methods for Behavioral and Social Sciences Data-Driven Decision Making Designing AI to Cultivate Human Well-Being Seminar on IT for Business Data-driven Decision Making and Applications in Healthcare Designing for Happiness People Analytics Data for Action: From Insights to Applications Designing Story in a Digital World Online Marketplaces Digital Marketing Information Technology Monetization Intellectual Property: Financial and Strategic Management Leading Creativity and Innovation Modeling Culture Machine Learning and Causal Inference Marketing Analytics Micro Research Methods Marketing Management, Accelerated Marketing Research Media Entrepreneurship
+
+Northwestern University
+
+Evanston, Illinois
+
+Kellogg School of Management\
+
+With 16 regularly offered electives and one required course featuring Big Data, Northwestern University’s Kellogg School of Management offers students a chance for a broad data-centric education, covering business segments as diverse as healthcare, retail and human resources.
+
+Required or core
+
+Business Analytics
+
+Elective, seminar or immersion
+
+Analytics for Strategy Data Analytics Decisions Decision Modeling and Optimization in Excel Customer Analytics Data Exploration Digital Marketing Analytics Health Analytics Marketing Analytics: Leading with Big Data Marketing Research and Analytics Methods and Data in Consumer Behavior Research People Analytics and Strategy Problems and Solutions in Applied Data Analyses Programming for Analytics Retail Analytics Social Dynamics and Network Analytics Technology in the Age of Analytics New York University New York City Leonard N. Stern School of Business Located in New York City, the financial heart of the United States, students at NYU’s Stern School of Business must take just one course related to Big Data but have the option to take 16 more classes to build a foundation in theory and hands-on applications of data science. Required or core
+
+Statistics & Data Analysis
+
+Elective, seminar or immersion
+
+Analytics & Machine Learning Data Bootcamp Data-Driven Decisions Data Governance Data Mining for Business Analytics Data Visualization Dealing With Data Decision Analytics for Sports Fintech Analysis: Data-Driven Credit Modeling Forecasting Time Series Data Marketing Impact Analytics Practical Data Science Real-World Analysis of Economic Data Regression and Multivariate Data Analysis Social Media and Digital Marketing Analytics Sports Economics
+
+Duke University
+
+Durham, North Carolina
+
+Fuqua School of Business
+
+For full-time MBA students at Duke University’s Fuqua School of Business, the lone required course on statistics is complemented by 15 other courses grounded in Big Data and related areas. Given Duke’s location in the so-called Research Triangle, several courses focusing on data science as it relates to health are offered. In addition to the traditional MBA and other flexible MBAs, Fuqua also offers two Master of Quantitative Management degrees, one in business analytics and one in health analytics.
+
+Required or core
+
+Probability and Statistics
+
+Elective, seminar or immersion
+
+Advanced Data Analytics and Applications Analysis of Healthcare Effectiveness and Outcomes Applied Probability and Statistics Data Analytics and Applications Data Infrastructure Data Visualization Data Analytics for Business Data Science for Business Decision Analytics and Modeling Electronic Health Records and Data Structures Ethical & Legal Issues of Data Analytics People Analytics Empirical Economic Analysis Fraud Analytics Provider Operation Analytics
+
+Massachusetts Institute of Technology
+
+Cambridge, Massachusetts
+
+Sloan School of Management
+
+Though just one required course is related to data science, it’s a big one, as Data, Models, and Decisions goes beyond a general statistics education. And the elective courses in the Sloan School of Management provide MBA-seekers with in-depth, hands-on experience in working with data for a broad range of business purposes, including making MIT among the few prestige MBA schools to offer courses devoted specifically to machine learning.
+
+Required or core
+
+Data, Models, and Decisions
+
+Elective, seminar or immersion
+
+Action Learning Seminar on Analytics, Machine Learning, and the Digital Economy Advanced Data and Analytics and Machine Learning in Finance Data Mining: Finding the Models and Predictions that Create Value Communicating with Data Digital Marketing & Social Media Analytics Econometrics for Managers: Correlation & Causality in a Big Data World Engineering Statistics and Data Science Financial Data Science and Computing Machine Learning Under a Modern Optimization Lens Predictive Data Analytics and Statistical Modeling The Analytics Edge Statistical Thinking and Data Analysis The Analytics of Operations Management Statistical Learning and Data Mining
+
+University of Chicago
+
+Booth School of Business
+
+With four required courses related to Big Data or data science, the University of Chicago’s Booth School of Business has by far the most required courses among the institutions on the list, as there are only three other schools that require more than one data science-related course. Booth doesn’t have as many overall courses as some of the other schools on our list, but with such a strong core curriculum in addition to four possible concentrations in Big Data-related areas, the program ensures all graduates have a sturdy foundation in understanding and using data.
+
+Required or core
+
+Business Statistics
+
+Applied Regression Analysis
+
+Data-Driven Marketing
+
+Data Mining
+
+Elective, seminar or immersion
+
+Big Data Healthcare Data Analytics Data Science for Marketing Decision Making Integrated Strategic Management
+
+Booth also offers concentrations around Analytic Finance, Business Analytics, Econometrics and Statistics and Marketing Management.
+
+Carnegie Mellon University
+
+Pittsburgh, Pennsylvania
+
+Tepper School of Business
+
+Offering both traditional on-campus MBAs (full-time and part-time) as well as a part-time online MBA, Tepper School of Business at Carnegie Mellon aims to instill all graduates with strong analytics skills they can apply to business today and far into the future. With two required courses and a half-dozen others related directly to Big Data, Tepper also offers an MBA concentration in business tech and a Master of Science degree in Business Analytics, for those who aren’t looking to complete an MBA.
+
+Required or core
+
+Probability & Statistics
+
+Statistical Decision-Making
+
+Elective, seminar or immersion
+
+Applications of Operations Research Data Mining Optimization Big Data Marketing Research Statistical Applications in Management
+
+In addition to a broad, program-wide focus on analytics, Tepper also offers a variety of concentrations, including one in Business Technologies, which heavily employs data science principles.
+
+Columbia University
+
+New York City
+
+Columbia Business School
+
+The highest-rated Ivy League school on our list, Columbia requires a relatively high number of data-related core classes, as well as being among the few programs to include hands-on training in specific programming languages, with the course Data Analytics in Python.
+
+Required or core
+
+Business Analytics
+
+Managerial Statistics
+
+Elective, seminar or immersion
+
+Analytics in Action (Master Class) Data Analytics immersion seminar Data Analytics in Python Data Driven Dollars Quantitative Pricing & Revenue Analytics Sports Analytics
+
+Cornell University
+
+Ithaca, New York
+
+Samuel Curtis Johnson Graduate School of Management
+
+Offering just one required data course but a half-dozen electives, Cornell University’s Johnson Graduate School of Management focuses its data-related MBA education on statistical modeling and analytics, as well as being among the few schools to offer cloud-related courses.
+
+Required or core
+
+Data Analytics and Modeling
+
+Elective, seminar or immersion
+
+Advanced Data Analytics Applications and Methods Data Modeling Financial Data Analytics and Entrepreneurial Decision Data Driven Marketing Designing Data Products Technology Management: Cloud Computing & Big Data
+
+Dartmouth College
+
+Hanover, New Hampshire
+
+Tuck School of Business
+
+Dartmouth’s Tuck School of Business offers an Ivy League education with a general foundation in statistics and analytics. With two required courses for the MBA and five electives related to data science, Tuck is among the leaders in the Ivy League.
+
+Required or core
+
+Analysis for General Managers
+
+Statistics for Managers
+
+Elective, seminar or immersion
+
+Consumer Analytics Data Structure and Analytics Quantitative Digital Marketing Data Mining for Business Analytics Marketing Research
+
+University of California Berkeley
+
+Haas School of Business
+
+Witjust one core data-related offering, UC-Berkeley’s MBA electives do the heavy lifting here, including traditional courses on marketing analytics in addition to more unique data courses covering healthcare and presentation design for data.
+
+Required or core
+
+Data and Decisions
+
+Elective, seminar or immersion
+
+Healthcare in the 21st Century Marketing Analytics Marketing Research: Tools and Techniques for Data Collection and Analysis Presentation Design for Analytical Communications
+
+Harvard University
+
+Cambridge, Massachusetts
+
+Harvard Business School
+
+With no required courses related directly to Big Data or data science but a few electives that fit the bill, Harvard is only just beginning to step out of the staid, traditional business education mind-set and shift to more forward-thinking classes. Though it’s the only school on our list with no required Big Data-related courses, Harvard is still Harvard, and an MBA from this school is considered a ticket to success. In addition to its impeccable MBA programming, Harvard also offers a separate business analytics program for working professionals.
+
+Required or core
+
+No required courses related directly to Big Data
+
+Elective, seminar or immersion courses
+
+Managing with Data Science From Data to Decisions: The Role of Experiments People Analytics: Leading in a Data-Driven World
+
+Also offers standalone Harvard Business Analytics Program, aimed at working professionals. https://analytics.hbs.edu/
+
+University of Pennsylvania
+
+Philadelphia, Pennsylvania
+
+The Wharton School
+
+With just three MBA courses grounded in data science, Penn’s well-regarded Wharton School is among the stragglers on our list, but the classes is does offer are effective in instilling some hands-on skills in Big Data and analytics. Being an Ivy League school doesn’t hurt, either.
+
+Required or core
+
+Statistics: Regression Analysis for Managers
+
+Elective, seminar or immersion
+
+Applied Probability Models in Marketing Data and Analysis for Marketing Decisions
+
+Yale University
+
+New Haven, Connecticut
+
+Yale School of Management
+
+Yale’s School of Management requires only one data-related course for MBA students and offers just two other electives strictly for MBA students, but the integrated curriculum at Yale means students could potentially create a more data-heavy course load by looking outside the School of Management.
+
+Required or core
+
+Probability Modeling & Statistics
+
+Elective, seminar or immersion
+
+Big Data Sports Analytics
+
+London Business School
+
+https://www.london.edu/
+
+Though it offers just three data-heavy MBA courses (including just one required course), London Business School’s MBA is among the most flexible in the world, with several program lengths, including a 15-month degree. With its location in the heart of Great Britain’s financial core, the school also offers a robust internship program, which allows students to get a taste of the real world, whether in England or around the world.
+
+Required or core
+
+Data Analytics for Managers
+
+Elective, seminar or immersion
+
+Customer and Marketing Analytics Data Mining for Business Intelligence
+
+Oxford University
+
+London, England
+
+Saïd Business School
+
+Offering both a full-time and part-time experience, Oxford University’s Saïd Business School requires just one data-related class and two electives for MBA students, but as a leading research center, the school academics and researchers regularly publish on areas like management science, healthcare and large-project management.
+
+Required or core
+
+Analytics
+
+Elective, seminar or immersion
+
+Leveraging the Power of Networks Marketing Analytics
+
+The Bottom Line
+
+These are all incredibly good schools, and if you can get into any of them, you should strongly consider going. But for those lucky or smart enough to have options, an education at a forward-thinking institution may just provide you the leg-up you need over the competition. Disagree with our rankings? Tell us about it below.
+
+Summary: That’s why Big Data literacy is becoming a highly sought-after skill among hiring managers and recruiters.
+Future-proofing your education means making sure you’re equipped with a solid foundation in Big Data, data science, machine learning and automation.
+While many institutions haven’t exactly been on the forefront of change, most prestigious business schools are beginning to embrace the potential of Big Data.
+What we found was that the bulk of schools don’t yet require a great deal of Big Data education for their MBA students.
+Several schools do offer special programs or immersive experiences, and each of them does at least provide a foundation in Big Data.
+
+Other Blogs by Jennifer L. Gaskin: https://dataconomy.com/author/jennifer/

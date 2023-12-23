@@ -1,0 +1,50 @@
+Title: Three Unexpected Uses for 3D Printing in Big Data
+
+Article Link: https://dataconomy.com/2016/05/16/three-unexpected-uses-3d-printing-big-data/
+
+Author: Hannah Augur
+
+Publish Date: 2016-05-16
+
+Article:
+The future of 3D printing is heavily reliant on the power of data. The Internet of Things means users will be able to access and print files remotely, as well as create incredible scans and share prints. But, there are also several more opportunities for big data and 3D printing to work together. 3D printing will help manufacturers and researchers and see uses that expand far beyond our expectations. Here’s three of the more exciting possibilities for 3D printing and big data to work together.
+
+3D Printing and Data Visualization
+
+Data means nothing if it can’t be understood. This is not only true for major companies looking to turn numbers into profit, but also ordinary folks and smaller institutions. The world has seen pie charts, interactive graphs, and even videos to portray data, but what if you could touch those visualizations? The results would not just be pretty, they would lead to more thorough understandings and faster insights. Previously unnoticed patterns would be given a physical presence, and viewers could absorb information with greater depth.
+
+Two researchers at MIT made this solution popular back in 2014. Their study started with a 3D printed model of the university campus. Twitter data was then streamed onto the mock-up according to geographical location. These tweets could also be described by topic or time. “Other demonstrations may include animating twitter traffic volume as a function of time and space to provide insight into campus patterns or life,” they add.
+
+Possible cited applications include understanding traffic flows or other duties performed by city planners. Small companies are finally growing and utilizing their data, and proper visualization is the next step. Some enthusiasts aren’t just sharing their data, they’re sharing tips for turning datasets into 3D printed models. One research agency even took data from live streaming video platform Twitch and turned it into physical prints. While written numbers can tell the basic story, a 3D model allows everyone involved to see the data from all angles at once. The Twitch researchers managed to create visualizations that could be physically held and even compared to one another in the real world.
+
+Printing Data Storage
+
+One of the biggest problems looming in the shadows of big data is just how much space it requires. The world is generating 2.5 quintillion bytes of data daily. Companies big and large are going to continue storing (maybe even hoarding) data. For some, this detail overshadows the many possibilities big data has to disrupt the modern world. In order to keep all of that information, companies need lots of space—and that gets expensive. Not just for the user, but for those cloud solutions who are looking after it all. This will also lead to negative environmental impacts, so future data do-gooders will be stuck dealing with a double-edged sword.
+
+3D Printed electronics are not yet the norm, but they are on their way. Printing these electronics pieces could lead to less wasted time and resources in the manufacturing process. At the moment, printing technology is still in its relatively early stages. Printing storage devices and pieces wouldn’t necessarily be faster than traditional manufacturing methods—yet. More importantly, one huge reason that 3D printing is being pushed in many sectors is the complete lack of waste. Traditional manufacturing leads to ample waste, but printing uses only the material necessary to create the object. Once 3D printing masters the electronic (which it likely will, based on how many people care about the field), printed storage drivers and circuits board will become as common as traditional technology. In fact, they could become more common, and that will be a huge relief for data science.
+
+Monitoring Manufacturing
+
+One of 3D printing biggest roles is the future of manufacturing. It’s disrupting the way companies create and produce. Many seem to think printing isn’t yet capable of creating truly useful prints, and they picture some awkward hunk of plastic that clearly looks printed. That, however, is only what the consumer sees. Major companies are already turning to printing in prototyping and even for end-product creation. However, whenever technology progresses at rapid speed, there are always drawbacks and steps that can go wrong. That’s why big data is needed to keep 3D printing safe.
+
+GE recently reported on their own creative use of 3D printing in the aviation sector. The company, like many others, is using 3D printing to create powerful new parts. A recent jet engine fuel nozzle was 3D printed to be lighter and more durable than its predecessors. The problem is that creating such an exact tool isn’t simple, and new quality control methods need to be developed fast.
+
+“We are dealing with a microscopic weld pool that’s moving at hundreds of millimeters per second,” says GE Aviation mechanical engineer, Todd Rockstroh. “Every cubic millimeter is a chance for a defect.”
+
+These prints take anywhere from 10 to 100 hours to produce, occur on minuscule scales and at extreme temperatures. Engineers can’t just press “print” and come back the next week to check it out. Instead, they must develop new data-driven technologies to actively prevent possible issues. Thanks to data analysis, temperature anomalies can now be easily spotted. It can even help retrospectively determine why a failed print. GE expects this kind of inspection is increasing production speeds by 25%. It also keep post-print work to a minimum.
+
+The exponential growth of 3D printing is fueled by the technology’s great impact in almost every field. Hobbyists, international manufacturers, hospitals, NASA—nearly everyone has a use for it. Without data science, however, it would have only limited uses and a much shorter lifespan. The low-cost, highly customizable, zero-waste solution will become completely entwined with data, and it will be a huge victory for both sides. Best of all, the combined solution will lead to possibilities neither printers nor data scientists have yet to consider. Future warehouses will, no doubt, be full of incredible, connected opportunities.
+
+image credit: MKzero
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: But, there are also several more opportunities for big data and 3D printing to work together.
+3D printing will help manufacturers and researchers and see uses that expand far beyond our expectations.
+Here’s three of the more exciting possibilities for 3D printing and big data to work together.
+Printing Data StorageOne of the biggest problems looming in the shadows of big data is just how much space it requires.
+That’s why big data is needed to keep 3D printing safe.
+
+Other Blogs by Hannah Augur: https://dataconomy.com/author/hannah-augur/

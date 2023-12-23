@@ -1,0 +1,258 @@
+Title: The data governance framework is an indispensable compass of the digital age
+
+Article Link: https://dataconomy.com/2022/08/04/data-governance-framework/
+
+Author: Eray Eliaçık
+
+Publish Date: 2022-08-04
+
+Article:
+To achieve business results, all businesses must establish a data governance framework that ensures that data is treated similarly across the organization. Without effective data governance, tracking when and from where erroneous data enters your systems and who is utilizing it is impossible.
+
+Is it hard to follow your company’s strategic, tactical, and operational duties and responsibilities? We have some good news for you; they are all covered by a well-designed data governance framework. So let’s take a closer look at it.
+
+What is a data governance framework?
+
+A set of rules and procedures protects an organization’s corporate data management and role delegations called a data governance framework.
+
+Every organization is led by business drivers, which are crucial elements or procedures for the company’s ongoing success. What data needs to be carefully controlled and to what extent in your data governance strategy depends on the specific business drivers of your firm.
+
+The tasks and responsibilities of a well-designed data governance system include strategic, tactical, and operational aspects. It guarantees that data is reliable, well-documented, and simple to find within your business. It also guarantees that the data is secure, compliant, and private.
+
+Data governance framework: Inconsistencies in various systems can’t be handled without proper data governance
+
+Data governance (DG), based on internal data standards and policies regulating data consumption, regulates the accessibility, usability, integrity, and security of the data in corporate systems. Effective data governance protects against misuse and maintains data consistency and reliability.
+
+As businesses increasingly rely on data analytics to help them run more efficiently and inform business decisions, it is becoming increasingly important. If you want to understand what is data governance deeply, do not worry we have already explained it for you.
+
+How important is data governance? Data inconsistencies in various systems might not be handled without proper data governance. For instance, customer names could be listed differently in the sales, logistics, and customer service systems. As a result, data integration projects may become more challenging, and problems with data integrity might arise that would impair the accuracy of business intelligence (BI), corporate reporting, and analytics systems. Additionally, data inaccuracies might not be found and corrected, reducing BI and analytics accuracy.
+
+Regulations and compliance activities can be hampered by poor data governance. That could be problematic for businesses that must abide by the growing number of data privacy and protection laws, including the GDPR of the European Union and the California Consumer Privacy Act (CCPA).
+
+Check out the best data governance practices for 2022
+
+Data governance framework components
+
+The policies, regulations, procedures, organizational structures, and technology implemented as part of a governance program make up a data governance framework. Additionally, it outlines the program’s mission, goals, and metrics for success, as well as decision-making roles and accountability for the several components that will make up the program.
+
+The Data Governance Institute (DGI) states that the following are requirements for every organization for a data governance framework:
+
+A set of guidelines outlining how various parties collaborate to create and implement these guidelines (policies, requirements, standards, accountabilities, controls)
+
+Making and enforcing the regulations are individuals and institutional entities.
+
+Processes that will control data while generating value, controlling cost and complexity, and assuring compliance
+
+The data governance framework of an organization should be established and distributed internally so that everyone engaged is aware of how the program will operate from the outset.
+
+Data governance framework: Data governance is not a job that can be completed in a week
+
+On the technical side, managing a governance program can be automated using data governance software. Data governance tools don’t have to be a part of the framework to enable program and workflow management, collaboration, the establishment of governance policies, process documentation, and other tasks. Additionally, they can be used in conjunction with tools for master data management (MDM), metadata management, and data quality.
+
+The following criteria must be met for data to be useful in making trustworthy decisions:
+
+Relevant
+
+Of high quality and accuracy
+
+Trustworthy
+
+Easy-to-understand and use
+
+Additionally, for data to meet legal requirements, it must:
+
+Enable source-to-lineage tracking
+
+Add metadata to a data dictionary or catalog together with its context
+
+Make sure you check and report on data quality
+
+Establish, uphold, and record access policies
+
+Your data must satisfy the requirements listed above to be accurate, usable, and auditable. Good data governance makes sure this happens.
+
+What are the 4 pillars of data governance?
+
+The data governance framework has four pillars that help firms make the most of their data:
+
+Identify distinct use cases Quantify value Improve data capabilities Develop a scalable delivery model
+
+Data governance framework examples
+
+Top-down and bottom-up are the two traditional techniques for creating a data governance system. These two approaches come from different ideas. To improve data quality, one gives control of the data first priority. The other gives rapid access to data top priority to maximize end users’ data access across business units.
+
+Data governance framework: As businesses increasingly rely on data analytics, finding the right data governance framework is crucial
+
+Traditional approaches: The top-down method focus on data control
+
+The centralized strategy for data governance is the top-down approach. It is supported by a small group of data specialists who use established best practices and well-defined processes. This indicates that data modeling and governance are given top priority. The data is not first made more widely accessible to the rest of the firm for analytics.
+
+The top-down method, meanwhile, produces a serious scaling problem. This approach distinguishes between data consumers and suppliers, often in IT (typically business units). The data providers are the only people with any control over the data. This was less of a problem in the past because there was less data that needed to be managed and fewer teams that required access to it.
+
+Today the demand from data consumers is too great for these small teams of data providers to handle. The availability of clean, comprehensive, and unharmed data to anyone who wants it at any time has become a corporate need. Simply put, there are simply too many requests from business users for these teams to continue acting as gatekeepers.
+
+Traditional approaches: The bottom-up method focus on data access
+
+In contrast, the bottom-up approach to data management enables far greater agility. The bottom-up strategy begins with raw data, whereas the top-down approach begins with data modeling and governance.
+
+Structures can be built on top of the raw data (a process known as “schema on read”), and data quality controls, security rules, and policies can be implemented after the raw data has been ingested.
+
+This framework is more scalable than the centralized method and became popular with the introduction of big data. Nevertheless, it generates a fresh set of data problems. Because anyone can enter data, it is more difficult to establish control because data governance isn’t introduced until later in the process.
+
+As we’ve already mentioned, a lack of data governance can also result in increased regulatory risk, a decline in stakeholder confidence in the organization’s data, and higher data management costs for a disorganized, expansive collection of data assets.
+
+The modern approach: Collaborative data governance framework template
+
+The main goal of a collaborative data governance system is to strike a balance between top-down and bottom-up issues. The success of this framework is based on teamwork with data; otherwise, the amount of labor required to confirm the reliability of the data will be prohibitive.
+
+The collaborative architecture is scalable, enabling an increasing number of individuals from throughout the organization to introduce an expanding number of data sources.
+
+Clear guidelines for collaborative content curation must be developed to keep this scalability. This may entail choosing data stewards who are subject matter experts in each business unit to assist preserve excellent data quality for the datasets they are most familiar with.
+
+Anyone can collaborate as long as they adhere to the requirements after setting these guidelines for data curation. This guarantees to scale without lowering a predetermined degree of trust in the material.
+
+The process of transforming unorganized raw data into a dependable, well-documented body of corporate data prepared to be shared and utilized can involve the entire organization, including IT, subject matter experts, and decision-makers.
+
+For instance, data like consumer credit card information or risk data aggregation in financial services might not be the greatest fit for this technique. In these situations, a more controlled top-down strategy can supplement the collaborative framework rather than take its place. Which data governance approach is appropriate in these kinds of circumstances should be determined by the organization’s data governance team.
+
+Best data governance framework practices
+
+Data governance is not a job that can be completed in a week, and not simply because there is too much to do. These are some of the best data governance practices for those wanted to succeed:
+
+Analyze your current situation
+
+A combination of people, procedures, and technology is used for data governance. Start with the people, develop your processes, and ultimately incorporate your technology to develop the broader picture. Building the effective processes required for the technical implementation of data governance is challenging without the right people.
+
+Data governance framework: How to build a data governance framework?
+
+The correct people for your solution will help you construct your procedures and find the technology you need to accomplish the job well if you can find them or employ them.
+
+Gather data
+
+As with any goal, if you cannot measure it, you cannot reach it. When making any change, you should measure the baseline before to justify the results after. Collect those measurements early, and then consistently track each step along the way. You want your metrics to show overall changes over time and serve as checkpoints to ensure the processes are practical and effective.
+
+Establish privacy regulations
+
+Data governance is characterized by the safety of your customers’ and business’ personal information. Establishing your organization’s policy for handling personally identifiable information (PII) and personally identifiable health information is crucial (PHI).
+
+Here is a list of privacy aspects to be aware of since any of these elements could be used to identify a person. To learn more about your company’s privacy strategy, speak with your chief privacy or security officer.
+
+Outline your supply chain of data
+
+Each organization has its own data supply chain. This supply chain is part of the actions required for information gathering and transmission to stakeholders. These activities enable those on the front lines to find the appropriate data, aid in creating policies and procedures to support data processing correctly and reliably and act as a framework to guarantee that the entire data supply chain is utilized to support the achievement of business objectives.
+
+Assess the risk and security of your data
+
+It’s more challenging than ever to protect data. Customers are increasingly attentive to potential threats, data breaches are rising, and brands’ reputations are at risk. When conducting data security and risk assessments, keep the following in mind:
+
+Identify related roles and responsibilities
+
+Data governance calls for collaboration between all of your departments with deliverables. Every data governance program needs clearly defined roles, and assigning different levels of responsibility within your organization is crucial.
+
+Organizations differ somewhat in terms of the data governance roles, but some examples of the more common positions might be:
+
+Data governance council (steering committee/strategic level): The strategic direction of the data governance program, project and initiative prioritization, and organization-wide data policies and standards are all handled by a data governance council, which is a governing body.
+
+The strategic direction of the data governance program, project and initiative prioritization, and organization-wide data policies and standards are all handled by a data governance council, which is a governing body. Data governance board (tactical level): An organization’s rules and procedures for treating data as a strategic asset are developed by a group of people known as a data governance board.
+
+An organization’s rules and procedures for treating data as a strategic asset are developed by a group of people known as a data governance board. Data managers: For the data that an organization intends to collect or has already collected, a data manager develops database systems that satisfy those needs.
+
+For the data that an organization intends to collect or has already collected, a data manager develops database systems that satisfy those needs. Data owners: An person responsible for a data asset is the data owner.
+
+An person responsible for a data asset is the data owner. Data stewards: Utilizing your data governance procedures, a data steward is in charge of guaranteeing the accuracy of all data pieces, including content and metadata.
+
+Utilizing your data governance procedures, a data steward is in charge of guaranteeing the accuracy of all data pieces, including content and metadata. Data users: Team members that directly enter and use data as part of their everyday tasks are known as data users. They can immediately access and explore integrated unit record-level datasets for statistics and research reasons.
+
+Automate anything you can
+
+Any enterprise’s data governance is a difficult and complicated task.
+
+Data governance framework: How to build a data governance framework?
+
+Therefore, it is neither possible nor trustworthy to follow these efforts using documents or spreadsheets. Organizations should instead choose solutions that automate tasks like data discovery, quality assurance, profiling, categorization, lineage, and creating business glossaries.
+
+Check out our blockchain glossary and AI glossary
+
+Education and training
+
+Do you offer a course that teaches employees and data owners the fundamentals of data governance? Do you train new Data Stewards? Create a continuing education program to keep data governance at the forefront.
+
+Data governance ultimately revolves around people, processes, and technology. A good data governance framework clearly understands who owns what and where the data comes from.
+
+What is the best data governance framework?
+
+Here is a list of the data governance frameworks that are most frequently cited:
+
+Let’s focus on them more closely.
+
+Data governance framework DAMA DMBOK
+
+One of the most well-known data governance frameworks is DAMA DMBOK. It represents data management as a wheel with data governance and nine surrounding knowledge domains at the hub, which as:
+
+Management of data architecture
+
+Data development
+
+Database operations management
+
+Management of data security
+
+Reference & master data management
+
+Data warehousing & business intelligence management
+
+Document and content management
+
+Management of metadata
+
+Management of data quality
+
+DGI
+
+Ten common components that address the why-what-who-how of data governance are included in the DGI framework.
+
+To make the concepts more understandable, DGI organizes each of its parts into three main categories: rules, people, and processes.
+
+McKinsey
+
+According to McKinsey, the best way to ensure success with data governance is to start by reevaluating the entire organizational structure. Their strategy focuses on three main areas:
+
+A data management office (DMO) establishes guidelines and standards, mentors and develops data leaders, and ensures that data governance is integrated with all other organizational functions.
+
+Domain-based roles manage the day-to-day operation of the data governance program.
+
+A data council oversees the overarching strategic direction of the data governance program. It brings domain leaders and the DMO together to assess progress, approve financing, and address problems and barriers to efficient governance.
+
+Eckerson
+
+39 components make up the six layers of the Eckerson Group’s framework. This framework emphasizes that people are at the center of data governance by establishing roles like data owners, stewards, curators, and stakeholders to clarify their roles and responsibilities while accessing, utilizing, and modifying data.
+
+SAS
+
+The framework’s main objective is to demonstrate how organizations may effectively manage and administer their data while valuing it.
+
+PwC
+
+To account for next-generation data environments, the PwC enterprise data framework goes above and beyond traditional models like DAMA, DMBOK, and DGI.
+
+PwC’s structure consists of five parts, starting with a data governance plan and continuing with a management layer that covers every facet of a data ecosystem.
+
+The lifecycle management layer includes all the regulations necessary to guarantee smooth data flow throughout its lifecycle. The governance enablers consider the people, procedures, and technologies required to provide successful governance, while the stewardship layer focuses on enforcing governance.
+
+Check out the best data lifecycle management frameworks
+
+Conclusion
+
+A data governance framework’s organizational structure is intended to assist businesses in defining roles and duties connected to data, directing decision-making, and facilitating the use of data to uphold data quality and guarantee data protection.
+
+A data governance framework is essential to maximize the benefits of data governance programs. It specifies data collection, use, and storage procedures and offers organizational norms guidelines. The framework for data governance identifies data owners, produces catalogs, enhances data accessibility, raises data literacy and access levels, and establishes protocols for enforcing data policies.
+
+In today’s data-driven era, you should build your own data governance framework as a compass for the future.
+
+Summary: Data governance framework: Data governance is not a job that can be completed in a weekOn the technical side, managing a governance program can be automated using data governance software.
+Data governance framework: As businesses increasingly rely on data analytics, finding the right data governance framework is crucialTraditional approaches: The top-down method focus on data controlThe centralized strategy for data governance is the top-down approach.
+Which data governance approach is appropriate in these kinds of circumstances should be determined by the organization’s data governance team.
+Data governance framework: How to build a data governance framework?
+Data governance framework: How to build a data governance framework?
+
+Other Blogs by Eray Eliaçık: https://dataconomy.com/author/eray-eliacik/

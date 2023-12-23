@@ -1,0 +1,42 @@
+Title: What makes organizations successful with data?
+
+Article Link: https://dataconomy.com/2017/08/14/makes-organizations-successful-data/
+
+Author: Juan Salazar
+
+Publish Date: 2017-08-14
+
+Article:
+Artificial Intelligence, Machine Learning, GDPR, Building up a Data Science Team: Trends that impact every modern organization. What is the best way to deal with these challenges and become a successful data driven organization?
+
+For the third consecutive year, Big Data Expo and GoDataDriven conduct Big Data Survey: the international benchmark of business data applications! Only one thing is missing: your help! Can you participate in Big Data Survey?
+
+In the past three years, Big Data Survey has developed into the largest European research on big data and data applications. Already, this has resulted in some interesting insights. One of the key findings last year was that organizations saw an increase in budget. Quite paradoxically, the expectations of data applications were tempered. Reason for this is mainly that organizations experienced first-hand that success with data doesn’t come naturally but is the result of hard work, experimenting, and learning.
+
+Besides an insight in the trends in the fields of data, technology, and the data driven organization, Big Data Survey also covers developments about GDPR, the data portability legislation that takes effect in 2018.
+
+Your participation is important to paint the full picture. You are rewarded with the extensive report, including in-depth analysis and lots of graphs, for free.
+
+The knowledge impairment
+
+Despite the budget increase for many organizations, building up a data team proved to be a big challenge for many organizations in 2016. The demand for talented data scientists is larger than ever. Organizations have the choice to invest in the development of an in-house team, and/or to work with external consultants. In 2017, Big Data Survey answers the question whether organizations that indicated that their current level of knowledge was too low, have been able to invest in education and/or attracting talent. Do large organizations still work with external consultants more than smaller organizations?
+
+Have organizations prepared for new legislation?
+
+This year, besides data and technology, the research will also cover GDPR and the readiness of organizations for this new legislation. Will organizations understand the impact of GDPR and make adequate preparations?
+
+Comparing this year’s results with the results of the past years, allows us to spot trends and market developments in an early stage. Participating can be done online via www.bigdatasurvey.nl
+
+Report and Prizes
+
+Participants receive the full research report and are eligible to win great prizes, including an Apple Watch, Moleskine Notebooks, VIP-Access to Big Data Expo, and online gift vouchers.
+
+The results of Big Data Survey will be available in September 2017.
+
+Summary: For the third consecutive year, Big Data Expo and GoDataDriven conduct Big Data Survey: the international benchmark of business data applications!
+Can you participate in Big Data Survey?
+In the past three years, Big Data Survey has developed into the largest European research on big data and data applications.
+Besides an insight in the trends in the fields of data, technology, and the data driven organization, Big Data Survey also covers developments about GDPR, the data portability legislation that takes effect in 2018.
+The knowledge impairmentDespite the budget increase for many organizations, building up a data team proved to be a big challenge for many organizations in 2016.
+
+Other Blogs by Juan Salazar: https://dataconomy.com/author/juan-salazar/

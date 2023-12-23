@@ -1,0 +1,62 @@
+Title: Why Is Moving Data So Expensive?
+
+Article Link: https://dataconomy.com/2021/09/03/why-moving-data-so-expensive/
+
+Author: Devin Partida
+
+Publish Date: 2021-09-03
+
+Article:
+Many company representatives commit to moving massive amounts of data to a new location and anticipate numerous advantages. For example, a small business could become more competitive after transferring some content to the cloud. Managing data on-site is a labor-intensive exercise that often becomes prohibitively challenging.
+
+Off-site service providers typically have the infrastructure needed to help customers scale up as their needs change. However, moving data elsewhere is not always the reasonably priced option people expect. That’s one reason why executives who are initially eager to proceed with migration are later shocked by the bill.
+
+Cost-control measures exist, and they’re easier to implement once people understand the factors that drive up migration prices. Here are four reasons why moving data is often such an expensive venture.
+
+People Lose Track of How the Data Travels
+
+Many people who need to move their data don’t realize there are associated costs with certain types of travel. Additionally, customers typically don’t realize their content doesn’t progress in the straightforward way they might imagine.
+
+For example, people pay to move their data to Amazon Web Services (AWS), as well as between Amazon’s various storage offerings. The same is true if clients need to move their information across multiple AWS availability zones or regions.
+
+A related issue is that people don’t always look for less-expensive alternatives that may be appropriate, particularly if they don’t need many additional services. They embrace the name recognition AWS enjoys and quickly assume it must be the best option, if not necessarily the most budget-friendly one in all cases.
+
+Increasing Data Accumulation
+
+Individuals interested in moving their data often want to take advantage of related technologies, such as edge computing. It distributes the cloud’s functions and can be particularly advantageous for companies that often use Internet of Things (IoT) devices.
+
+However, as the number of internet-connected devices rises, so does the data they gather. Besides charging customers migration fees, companies have specific rates based on how much storage space a client requires. As a service collects and keeps more information, both those rates will increase.
+
+One study showed that 80% of enterprise customers that moved to the public cloud began transferring some of their data elsewhere within two years of the initial migration. In such cases, people often realize that splitting data between the cloud and on-premise facilities is more cost-effective.
+
+Moreover, people don’t always take the time to compress files and check for duplicates before moving their data. They likely won’t when dealing with massive amounts of digital material due to the labor involved. However, such oversight tends to bring higher costs.
+
+Migration Roadblocks Can Raise Costs
+
+A successful data migration effort takes time, effort, and coordination. Encountering challenges along the way can increase the overall expenses associated with moving the information to its new location. A company may try to cut costs by going with the least expensive migration partner they can find. However, that decision could prove costly if the service provider makes numerous mistakes.
+
+Gartner analysts recently described how dependency bottlenecks could pose expensive problems, particularly if companies don’t perform complete application assessments. It’s crucial to understand how apps relate to each other, especially if moving some while keeping others in their current locations.
+
+Roadblocks can also crop up if people don’t calculate how their workforce sizes could affect data movement and storage budgets. For example, some technology providers offer storage solutions that charge monthly per user. That could result in millions of dollars of unexpected costs in a large organization with tens of thousands of employees. However, doing business with providers that have fixed rates based on the number of data centers or servers required can keep expenses manageable.
+
+Migration Costs Vary Significantly Depending on Client Needs
+
+Another matter that often gets overlooked when moving data is the substantial amount of variation depending on what a customer wants and needs. For example, recent rates for migrating data to a virtual server in Microsoft Azure ranged from 0.018-60 cents per hour, depending on factors like the amount of memory and cloud storage space desired.
+
+Azure also offers virtual hard drives for clients and charges them for every 100,000 transactions. However, people mention that it’s not clear what constitutes a transaction.
+
+Many cloud providers offer migration assistance for a fee, too. It could be worth the money for a smaller company that does not have a readily available on-site team or has not secured a service provider already. However, anyone considering using it should weigh the costs to determine the most reasonable option.
+
+Moving Data Could Still Prove Worthwhile
+
+This overview highlights why data migrations often cost more than people expect. However, it doesn’t mean decision-makers should automatically hesitate due to the expenses. Moving information is often necessary to meet other company objectives. Fortunately, practical ways exist to make the costs as low as possible.
+
+Doing extensive research to determine all the associated expected costs and potential unplanned expenses is an excellent way to prepare. That puts people in better positions to choose the best options for their situations.
+
+Summary: However, moving data elsewhere is not always the reasonably priced option people expect.
+Here are four reasons why moving data is often such an expensive venture.
+People Lose Track of How the Data TravelsMany people who need to move their data don’t realize there are associated costs with certain types of travel.
+Increasing Data AccumulationIndividuals interested in moving their data often want to take advantage of related technologies, such as edge computing.
+Moving Data Could Still Prove WorthwhileThis overview highlights why data migrations often cost more than people expect.
+
+Other Blogs by Devin Partida: https://dataconomy.com/author/devin-partida/

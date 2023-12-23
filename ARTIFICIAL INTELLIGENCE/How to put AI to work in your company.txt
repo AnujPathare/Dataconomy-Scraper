@@ -1,0 +1,60 @@
+Title: How to put AI to work in your company
+
+Article Link: https://dataconomy.com/2020/11/13/how-to-put-ai-to-work-in-your-company/
+
+Author: Victoria Loskutova
+
+Publish Date: 2020-11-13
+
+Article:
+AI is now prevalent in major companies and services that we use every day. From product recommendations to personalized ads, from voice assistants to image recognition, AI helps us in hundreds of ways.
+
+That’s fine if you’re a digital-first company, born on the internet and versed in data science, machine learning, and AI from the outset. However, if AI is genuinely going to change the world, it needs to be accessible to every business, regardless of digital heritage.
+
+We spoke to Ann-Elise Delbecq, Data Science & AI Elite Team EMEA Program Director at IBM, about how to put AI to work for every organization.
+
+So what types of customers do you and IBM encounter in your work?
+
+“AI has proven beneficial to companies across all industries and has solved a wide range of use-cases,” Delbecq said. “We have worked with Telco, manufacturing companies, financial institutions, retail, airlines, etc. In terms of maturity, we are dealing with customers all over the spectrum, from customers starting to embrace AI to customers having advanced use-cases that optimize business processes.”
+
+What are the critical implications of machine learning (ML), data science (DS), and artificial intelligence (AI) for enterprises?
+
+“AI is not meant to take over decision-taking roles and replace humans in these tasks,” Delbecq said. “Instead, embedding AI into existing business processes improves the decisions made at every single step. For business owners, AI offers a deep understanding of the markets and its consumers and predicts specific actions’ consequences. Enterprises assisted with AI considerably reduce the risk associated with any strategic decision. New business processes were also not possible before, including but not limited to new interaction patterns like chatbots.”
+
+What’s an excellent example of an enterprise machine learning workflow?
+
+“There is no AI without proper data infrastructure,” Delbecq said. “The first step is to centralize the data management and its governance: no more data silos, no more do-you-know-where-I-can-find-this-information type of question. Enterprises must know what piece of information is being used by whom, since when, till when, and for which purpose. Next, data scientists must have the tools to quickly build models and extract meaningful insights from the data. More importantly, they must have access to deployment spaces in which all the models will be indexed, versioned, documented, and accessible like any other data of the company. The deployment of machine learning models into production environments is still the most challenging part of today’s journey. Once the data scientists have developed the logic, companies must deploy it on a large scale and connect it to existing business processes.”
+
+With the increased usage of data science, ML, AI, what are the professions that will undergo a significant change?
+
+“Everyone will benefit from AI-infused business processes,” Delbecq said. “It increases the likelihood of making better decisions and properly ranks confidence in those decisions. Let’s start with Business Analysts that will benefit from rapid answers to the WHY question that will drive WHAT outcomes. We can move to people responsible for a business that can better answer HOW questions using an optimized decision-making process. The list is endless.”
+
+Most of the time, rules that are calculated through machine learning are not convertible back to human understandable format (“black box”). Is it just a matter of trust for companies, or should we always explain machine learning algorithms?
+
+“Machines reply with two distinct answers; ‘I think it is this, and I am that X percent confident that it may also be this’,” Delbecq said. “They will guide a better decision process that sometimes requires automated work as part of the business process or where humans can help. Many of the AI techniques are easily explainable. Some are more difficult when the math behind the scene abstracts the problem too much. However, there are ways to explain the decision point through explainable techniques. They are as good as any deterministic technique we use in traditional software engineering.”
+
+The implications of ML, DS, and AI are challenging for business cultures when AI and Machine Learning are introduced into business operations. How would you advise companies to develop more trust in these technologies?
+
+“There are a few ways that companies evolve and change,” Delbecq said. “One is through regulations that impose a particular behavior on companies. Typically, this does not end with a company getting compliant, but it instead creates new opportunities. For example, the introduction of Compliance and Risk allowed CDOs to have a clear view of the enterprise’s data layout to stay compliant. Later we saw clear trends that they got better to serve the business line by exposing more data by growing into self-serve and shop for data as they become more confident in interactions.”
+
+“Another way we see change is to experience the real benefits from understanding new use-cases and business processes. This might be by improving on the existing ones or increasing only the reaction time. AI is driving into this space a lot of change, considering that access to AI and computers capable of carrying AI gets more and more affordable over the last ten years. ML and Data Science have been part of our life for the last 50 years, but getting it more mainstream did pose challenges in cost and skills. These barriers are getting removed fast.”
+
+“As such good governance/compliance and experiencing the benefits will play a significant role in people to adopt and trust AI. From a governance and monitoring perspective, making sure that models are fair, explainable, robust, well documented, and that a company can ensure lineage is key.”
+
+Please share one of the most successful use cases from your work, and tell us why you consider it a success?
+
+“For one of our customers in retail, we performed a customer segmentation, automated the entire process, and connected it to the marketing process that surveys the customers and collects more information about their preferences,” Delbecq said. “We consider it a success as they are currently migrating the code to production.”
+
+And that’s key. In addition to AI becoming prevalent in every business, and not just those that naturally lean towards it because they come from the tech startup culture, not only do we need to make it accessible, but it needs to produce results and stay in production. It seems that we’re well on our way there.
+
+Meet Ann-Elise Delbecq on November 18-20 at DN Unlimited Conference, Europe’s biggest data science virtual gathering. At the conference, you will be able to hear from IBM’s leading experts on AI, machine learning, data science & more.
+
+Register to get a free pass here.
+
+Summary: That’s fine if you’re a digital-first company, born on the internet and versed in data science, machine learning, and AI from the outset.
+We spoke to Ann-Elise Delbecq, Data Science & AI Elite Team EMEA Program Director at IBM, about how to put AI to work for every organization.
+“They will guide a better decision process that sometimes requires automated work as part of the business process or where humans can help.
+AI is driving into this space a lot of change, considering that access to AI and computers capable of carrying AI gets more and more affordable over the last ten years.
+At the conference, you will be able to hear from IBM’s leading experts on AI, machine learning, data science & more.
+
+Other Blogs by Victoria Loskutova: https://dataconomy.com/author/victoria_loskutova/

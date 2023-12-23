@@ -1,0 +1,94 @@
+Title: WGA deal: Writers strike deal details about AI and beyond
+
+Article Link: https://dataconomy.com/2023/09/27/wga-deal-writers-strike-details/
+
+Author: Kerem Gülen
+
+Publish Date: 2023-09-27
+
+Article:
+With the new WGA deal in place, the Writers Guild’s months-long strike will officially conclude at 12:01 a.m. PT on Wednesday.
+
+“Today, your Negotiating Committee, the WGAW Board and WGAE Council all voted unanimously to recommend the agreement,” stated the guild regarding the writers strike deal details that were finalized with studios and streamers this past Sunday. “It will now go to both Guilds’ memberships for a ratification vote. Eligible voters will receive ballot and materials for the vote which will take place from October 2nd to October 9th.”
+
+“The term of the agreement is September 25, 2023 through May 1, 2026,” announced the WGA in its recent communication to its members. The guild also mentioned that while the ratification process is ongoing, writers can resume their work.
+
+The WGA deal includes notable improvements in AI guidelines
+
+Addressing core concerns of many writers, the WGA deal incorporates significant advancements in AI regulations, residuals, and transparency in data for writers. These enhancements could set a precedent for upcoming negotiations between the AMPTP and SAG-AFTRA, expected to commence shortly.
+
+AI in healthcare searches skyrocket by over 300% in three years, 10x that of AI safety
+
+The Guild has introduced a new viewership-based residual structure for its members:
+
+“Made-for HBSVOD series and films that are viewed by 20% or more of the service’s domestic subscribers in the first 90 days of release, or in the first 90 days in any subsequent exhibition year, get a bonus equal to 50% of the fixed domestic and foreign residual, with views calculated as hours streamed domestically of the season or film divided by runtime. For instance, projects written under the new MBA on the largest streaming services would receive a bonus of $9,031 for a half-hour episode, $16,415 for a one-hour episode, or $40,500 for a streaming feature over $30 million in budget. This bonus structure will take effect for projects released on or after January 1, 2024.”
+
+Additionally, the WGA stated, “The Companies agree to provide the Guild, subject to a confidentiality agreement, the total number of hours streamed, both domestically and internationally, of self-produced high budget streaming programs (e.g., a Netflix original series). The Guild may share information with the membership in aggregated form.”
+
+The detailed memo to WGA members, inclusive of links to the entire agreement and its summary, can be found below.
+
+Writers strike deal details
+
+In the event that the tentative agreement from Sunday isn’t accepted by the members, the strike could potentially resume. Clocking in at 148 days, it would be nearing the record for the guild’s longest strike, which took place in 1988 and spanned 153 days.
+
+When it comes to basic salaries, the Writers Guild received identical pay increases as the Directors Guild, even without going on strike. Earlier in June, the DGA secured yearly pay hikes of 5%, 4%, and 3.5% throughout their contract’s duration, totaling a compounded 13% over a three-year span. Additionally, the DGA secured an extra 0.5% aimed at supporting a new parental leave scheme. Notably, the Writers Guild had successfully negotiated for paid parental leave back in 2020.
+
+Although the WGA also landed a 5%-4%-3.5% increment, the summary of the Memorandum of Agreement pointed out that “some salaries and rates saw a smaller rise, primarily 3% annually, with certain rates either increasing just once or not at all throughout the contract duration. Such exceptions stem from pre-established industry patterns.”
+
+Entering these discussions, the WGA’s initial proposal called for pay raises of 6%-5%-5%, translating to a cumulative 16.87% over three years. However, the WGA revealed that the AMPTP’s counterproposal, right before the onset of the strike, was a mere 4%-3%-2%, or 9.26% when compounded over the same period. By August 11, the AMPTP elevated their offer, matching what the DGA had previously secured, and this is what the WGA eventually agreed upon.
+
+The WGA achieved significant advancements concerning minimum staffing and the stipulated employment period in TV writers’ chambers. Up until now, there hadn’t been any set minimum staffing. However, from December 1 onward, both development chambers (often referred to as pre-greenlight chambers) and the primary writing rooms for television and HBSVOD series will have clearly defined criteria about the minimum writers to be employed and the length of their tenure. As summarized by the guild:
+
+“These new provisions go into effect for seasons where the first episode is written after December 1, 2023 assuming ratification in October. Development rooms: Once three writers are convened before a series order, at least three writer-producers (including the showrunner) are guaranteed 10 consecutive weeks of employment.”
+
+“Development rooms where writers are guaranteed 20 weeks of work or more are treated as post-greenlight rooms. For these rooms on first season shows, the minimum staff size required will be 3 writer-producers (including the showrunner). For these rooms in the second or subsequent season of a show the required minimum number of writers is determined by the anticipated episode order.”
+
+Post-greenlight rooms will now be governed by a specific formula for minimum staffing, contingent on the episode order count. Exceptions are made if a single writer is tasked with scripting all episodes. This minimum staff is guaranteed either 20 weeks or the complete span of the post-greenlight room, whichever timeframe is more concise. In cases where a development room existed, it’s mandatory to hire the two writer-producers from that room for the subsequent writers’ chamber. Time spent in the development room can offset the guaranteed duration in the writers’ room, however, the compensation from the development phase remains non-transferable.
+
+For writers engaged in single-camera series productions exclusively located in the U.S. and Canada and crafted for HBSVOD and Pay TV, there must be the employment of two writer-producers for either 20 weeks of the production or its entire duration, in conjunction with the showrunner. While the two designated writer slots can accommodate more than two individuals, the cumulative workweeks by these additional writers must meet the minimum requirement per role.
+
+A prevalent sentiment among industry spectators was skepticism over the guild’s ability to incorporate minimum staffing in its contract.
+
+Another pivotal point of contention during the strike revolved around Artificial Intelligence. Here, the WGA achieved notable victories. As per the new agreement terms, AI is strictly prohibited from authoring or revising literary content. Additionally, any content generated by AI won’t be deemed as “source material” under this contract. This ensures that AI-produced content won’t dilute or jeopardize a writer’s recognition or distinct rights.
+
+The contract’s summary further elucidates that while writers possess the discretion to employ AI tools during their writing process: “A writer can choose to use AI when performing writing services, if the company consents and provided that the writer follows applicable company policies, but the company can’t require the writer to use AI software (e.g., ChatGPT) when performing writing services.”
+
+Companies are now obligated to inform writers if the provided materials are AI-generated or contain components produced by AI. The WGA firmly asserts its right to challenge any utilization of writers’ content to train AI systems, based on MBA stipulations or other legal grounds.
+
+Writing teams are set to benefit significantly with enhanced contributions to pensions and healthcare, treating them as individual writers. This has been a long-standing aspiration of the guild. While initially dismissed by the AMPTP, this objective has finally been realized post-strike. According to the renewed WGA deal, each member of a writing duo contracted for a script will be entitled to pension and health contributions up to the designated cap, as if they were individual writers. Furthermore, when such a team is engaged in a series, contributions will be based on the full weekly minimum for every writer, instead of merely half.
+
+This transformative agreement between the WGA and the Alliance of Motion Picture and Television Producers was finalized shortly before sunset on September 24. Subsequent to this breakthrough, the guild’s Negotiating Committee conveyed to its members that the new deal embodies significant progress, safeguarding writers across all membership categories.
+
+They stated, “What we have won in this contract is due to the willingness of this membership to exercise its power, to demonstrate its solidarity, to walk side-by-side, to endure the pain and uncertainty” that came with the strike. “It is the leverage generated by your strike, in concert with the extraordinary support of our union siblings, that finally brought the companies back to the table to make a deal.”
+
+Before the Board and Council’s conclusive votes, both the guild and the AMPTP refined their Memorandum of Agreement, delineating every aspect of the WGA deal. Following this, the WGA Negotiating Committee endorsed the memorandum to the Board and Council for validation.
+
+In line with procedural norms, the Board and Council also resolved to revoke what the guild terms as a “restraining order,” deciding upon a specific end date and time for the strike, contingent on ratification. This provision facilitates writers to resume work amidst the ratification voting process, but does not infringe upon the membership’s prerogative to approve the contract finally.
+
+This is the complete message that the Negotiating Committee shared with members on Tuesday:
+
+The WGA reached a tentative agreement with the Alliance of Motion Picture and Television Producers on a new three-year Minimum Basic Agreement. On September 26th, the Negotiating Committee, the WGAW Board and WGAE Council all voted unanimously to recommend the agreement. It will now go to both guilds’ memberships for a ratification vote. Eligible voters will be able to vote from October 2nd through October 9th, and will receive ballot and ratification materials when the vote opens.
+
+The WGAW Board and WGAE Council also voted to lift the restraining order and end the strike as of 12:01 am PT/3:01 am ET on Wednesday, September 27th. This allows writers to return to work during the ratification process, but does not affect the membership’s right to make a final determination on contract approval.
+
+Now that we have finalized the Memorandum of Agreement (MOA), we can share details of this exceptional deal, with gains and protections for members in every sector of the business:
+
+MBA 2023 CONTRACT MATERIALS
+
+Members can read the complete tentative agreement, which is codified in this Memorandum of Agreement (MOA)
+
+We are also providing a short Summary of the MOA
+
+Here is an update of the 2-pager (now a 7-pager) that compares the status of negotiations on May 1st and what we achieved on September 24 after 148 days on strike
+
+Strike Termination Agreement
+
+Featured image credit: Kerem Gülen/Midjourney
+
+Summary: With the new WGA deal in place, the Writers Guild’s months-long strike will officially conclude at 12:01 a.m. PT on Wednesday.
+The WGA deal includes notable improvements in AI guidelinesAddressing core concerns of many writers, the WGA deal incorporates significant advancements in AI regulations, residuals, and transparency in data for writers.
+Writers strike deal detailsIn the event that the tentative agreement from Sunday isn’t accepted by the members, the strike could potentially resume.
+When it comes to basic salaries, the Writers Guild received identical pay increases as the Directors Guild, even without going on strike.
+Notably, the Writers Guild had successfully negotiated for paid parental leave back in 2020.
+
+Other Blogs by Kerem Gülen: https://dataconomy.com/author/kerem-gulen/

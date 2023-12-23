@@ -1,0 +1,32 @@
+Title: Baidu and UN Development Programme to Utilise Big Data to Solve Environmental Issues
+
+Article Link: https://dataconomy.com/2014/08/26/baidu-and-un-development-programme-to-utilise-big-data-to-solve-environmental-issues/
+
+Author: admin
+
+Publish Date: 2014-08-26
+
+Article:
+Big Data marches towards more imminent expansion this time as Chinese web services outfit Baidu announces that it is working in tandem with The United Nations Development Programme to build a big data lab together.
+
+The agenda includes exploring solutions to global issues such as environmental protection, health, education, and disaster relief for which the lab will use Baidu’s big data technology. Presently the lab will focus on research in environmental protection and health sectors. Through time more partners will be added to the venture and the domain will extend to education and disaster management.
+
+Although the financial details were not revealed, the first application of this venture has been launched – an environmental protection solution – that allows users to take a picture of their electronic waste and in turn they will be provided with the name, category and estimated scrap price for the item.
+
+The app is available in Beijing and Tianjin and is expected to reach other cities.
+
+It is expected that the app will help “promote legitimate recycling factories that can offer users accurate pricing for old electronics”. Dependency on local peddlers for disposal of e-waste in China has been resulting in unprecedented pollution.
+
+Read more here
+
+Follow @DataconomyMedia
+
+(Image Credit: bfishadow)
+
+Summary: Big Data marches towards more imminent expansion this time as Chinese web services outfit Baidu announces that it is working in tandem with The United Nations Development Programme to build a big data lab together.
+The agenda includes exploring solutions to global issues such as environmental protection, health, education, and disaster relief for which the lab will use Baidu’s big data technology.
+Presently the lab will focus on research in environmental protection and health sectors.
+Through time more partners will be added to the venture and the domain will extend to education and disaster management.
+It is expected that the app will help “promote legitimate recycling factories that can offer users accurate pricing for old electronics”.
+
+Other Blogs by admin: https://dataconomy.com/author/admin/

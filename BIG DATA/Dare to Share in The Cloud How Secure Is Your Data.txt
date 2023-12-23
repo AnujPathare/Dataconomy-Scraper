@@ -1,0 +1,56 @@
+Title: Dare to Share in The Cloud: How Secure Is Your Data?
+
+Article Link: https://dataconomy.com/2017/05/17/dare-share-cloud-secure-data/
+
+Author: David Northmore
+
+Publish Date: 2017-05-17
+
+Article:
+The march to the cloud for mission-critical applications is picking up speed. Even financial services firms, noted for their caution, are making headway. UK-based insurance intermediary Towergate Insurance announced last year that it is moving its IT infrastructure to the cloud. And The Wall Street Journal reported in June 2016 that Deutsche Bank researchers are projecting that public cloud adoption of an infrastructure as a service model by big banks will grow from as little as 0% today to 30% within three years.
+
+Despite this positively sunny outlook there are still some data security, privacy and governance hoops to jump through before betting your business on the public cloud.
+
+Is your data secure?
+
+It’s true that the major cloud providers do a great job on perimeter security, helping to alleviate enterprise concerns over traditional network and operational security in the cloud. However, cloud security is about far more than just securing the perimeter. Rather it is just the first step in a multi-layered strategy.
+
+The data inside the public cloud environment needs to be secure too – and this is the responsibility of the data owner or custodian, not the cloud provider. Failure to secure the data itself makes large organisations far more likely to suffer a successful data breach and make the headlines for all the wrong reasons.
+
+One of the major strengths of the cloud is its ability to let employees, customers, partners and suppliers – as well as your cloud provider’s operations team – access your network and services to conduct business. But you need to know who’s accessing the network at any point in time, ensure their access and editing rights are set correctly and be able to audit their actions. This requires an enterprise-hardened database, like enterprise NoSQL, which wraps layers of security right around the data and uses advanced encryption to mitigate the risk from both insider threats and external hackers.
+
+Do you dare share?
+
+Although the cloud makes it easier to share data – it also comes with some risks. The more the data is shared, the greater the risk of leakage. This is where data privacy and data governance considerations come in.
+
+We come across lots of enterprises that have built massive data lakes at great expense only to find they are stymied because their data governance is below par. Ironically, this inability to share data securely and appropriately means they end up missing out on the benefits of a cloud strategy.
+
+In such cases, giving data scientists or testing teams access to the data for analysis or testing purposes represents too great a risk because data lineage and provenance can’t be adequately protected. If sensitive information has not been fully redacted, it could lead to a brush with the regulators for inadvertently exposing personally identifiable information (PII) about employees or customers. As well as untold reputational damage, an eye-wateringly large fine for violating regulations such as the EU GDPR could be on the cards after May 2018.
+
+Data governance as a business enabler
+
+But there is another way.
+
+Some of the more enlightened businesses we speak to are starting to look at data governance as a business enabler that unlocks the value of their data assets, rather than an administrative headache.
+
+This approach is being fuelled by the rise of highly flexible databases with advanced security built-in. With tools to easily and quickly redact PII and other sensitive information at the data layer, organisations can be confident that data can be shared securely and appropriately. And any updates required due to people moving roles or regulatory changes can be completed fast, with minimal coding.
+
+Plus, some of the latest enterprise NoSQL databases support even more granular controls such as element-level security. This allows parts of a file to be redacted or hidden, depending on who is viewing the file and the specific job they are doing. For example, to ensure GDPR compliance, a call centre handler might see the name and phone number of the caller on her screen, but no other personal information.
+
+A clear future
+
+The move to the cloud seems unstoppable and the benefits gained from greater flexibility and agility only too plain to see. According to 451 Research’s latest Voice of the Enterprise (VotE): Cloud Transformation study, 22% of organisations polled have already adopted a ‘cloud first’ approach, with infrastructure as a service (IaaS) or the public cloud the fastest-growing model.
+
+For organisations to make the most of a cloud-shaped future, their data security, data privacy and data governance strategies need to be fit for purpose. Otherwise the opportunities for sharing data and extracting more value and insights from the data will be extremely limited. And that cloud might end up being quite a lonely and costly place.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Despite this positively sunny outlook there are still some data security, privacy and governance hoops to jump through before betting your business on the public cloud.
+The data inside the public cloud environment needs to be secure too – and this is the responsibility of the data owner or custodian, not the cloud provider.
+This is where data privacy and data governance considerations come in.
+We come across lots of enterprises that have built massive data lakes at great expense only to find they are stymied because their data governance is below par.
+For organisations to make the most of a cloud-shaped future, their data security, data privacy and data governance strategies need to be fit for purpose.
+
+Other Blogs by David Northmore: https://dataconomy.com/author/david-northmore/

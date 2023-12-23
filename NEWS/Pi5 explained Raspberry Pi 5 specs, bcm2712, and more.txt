@@ -1,0 +1,82 @@
+Title: Pi5 explained: Raspberry Pi 5 specs, bcm2712, and more
+
+Article Link: https://dataconomy.com/2023/09/28/pi5-raspberry-pi-5-specs-bcm2712/
+
+Author: Onur Demirkol
+
+Publish Date: 2023-09-28
+
+Article:
+The much-anticipated Raspberry Pi 5 Single Board Computer (SBC) has finally made its grand debut. Pi 5 is packed with cutting-edge features; this new iteration boasts a potent Broadcom BCM2712 quad-core Cortex-A76 processor clocked at a zippy 2.4 GHz, 4GB or 8GB of memory, and retains the beloved Raspberry Pi Model B form factor.
+
+As you may guess, this is not all. Below, you will find all the information you need to know about it, including its specs, pricing and availability, and more!
+
+The Raspberry Pi 5 has finally been introduced, four years after the Raspberry Pi 4 Model B’s introduction. Some had questioned if it would ever arrive due to this delay, but that time has come.
+
+The Raspberry Pi 5 is in direct rivalry with other well-liked single-board computers like the Radxa Rock 5A and Cool Pi 4 Model B since it is expected to give a considerable performance improvement over its predecessor. Additionally, it has the benefit of a strong community and better software support.
+
+Raspberry Pi 5 specs
+
+The Raspberry Pi 5’s hardware is where the true magic happens. This small computer’s remarkable Broadcom BCM2712 System-on-Chip (SoC) is its brains. This SoC has a quad-core Cortex-A76 CPU with a blistering 2.4 GHz clock speed, which significantly improves performance. Additionally, it has a VideoCore VII GPU, which significantly enhances the graphical capabilities.
+
+The IoT For Kids: How Technology Affects Our Children
+
+The Raspberry Pi 5 provides a variety of additional improvements, though. With four MIPI lanes instead of the Pi 4’s two, it offers twice as much peak performance for microSD cards, supports HDR (High Dynamic Range), and has a PCIe 2.0 x1 FPC connection for suitable add-ons.
+
+Additionally, this updated edition includes a built-in Real-Time Clock (RTC), a separate UART connector, a power button for extra convenience, and the option to charge the board through USB PD. Notably, it is still powered by the well-liked Raspberry Pi OS. The new gadgets’ official specifications are as follows:
+
+Broadcom BCM2712 2.4GHz quad-core 64-bit Arm Cortex-A76 CPU, with cryptography extensions, 512KB per-core L2 caches and a 2MB shared L3 cache
+
+VideoCore VII GPU, supporting OpenGL ES 3.1, Vulkan 1.2
+
+Dual 4Kp60 HDMI® display output with HDR support
+
+4Kp60 HEVC decoder
+
+LPDDR4X-4267 SDRAM (4GB and 8GB SKUs available at launch)
+
+Dual-band 802.11ac Wi-Fi®
+
+Bluetooth 5.0 / Bluetooth Low Energy (BLE)
+
+microSD card slot, with support for high-speed SDR104 mode
+
+2 × USB 3.0 ports, supporting simultaneous 5Gbps operation
+
+2 × USB 2.0 ports
+
+Gigabit Ethernet, with PoE+ support (requires separate PoE+ HAT)
+
+2 × 4-lane MIPI camera/display transceivers
+
+PCIe 2.0 x1 interface for fast peripherals (requires separate M.2 HAT or other adapter)
+
+5V/5A DC power via USB-C, with Power Delivery support
+
+Raspberry Pi standard 40-pin header
+
+Real-time clock (RTC), powered from external battery
+
+Power button
+
+Looking to the Future
+
+Although the Raspberry Pi Model B physical size has been the defining feature of these tiny computers, there are certain drawbacks to be aware of. It has shared MIPI CSI/DSI connections, a non-standard PCIe connector, and tiny HDMI ports, for example.
+
+This has given rise to rumors that a Raspberry Pi 5 Model C may be in development. It may use a Pico-ITX form size and include additional functionality like 2.5GbE networking. Alternatives include using a future Raspberry Pi Compute Module 5 (CM5) to investigate this option.
+
+Raspberry Pi 5 availability and pricing
+
+One of the standout aspects of the Raspberry Pi 5 is its price point. It remains highly affordable, with the 4GB model priced at just $60 and the 8GB model at $80. Sales are expected to kick off by the end of October, and the Pi5 is set to stay in production until at least January 2035, guaranteeing an impressive 11 years of availability for this remarkable piece of tech.
+
+For pre-orders, “Check with your favourite Raspberry Pi Approved Reseller to find out whether they are offering pre-orders,” says the official website.
+
+Featured image credit: Raspberry
+
+Summary: The Raspberry Pi 5 has finally been introduced, four years after the Raspberry Pi 4 Model B’s introduction.
+Raspberry Pi 5 specsThe Raspberry Pi 5’s hardware is where the true magic happens.
+The IoT For Kids: How Technology Affects Our ChildrenThe Raspberry Pi 5 provides a variety of additional improvements, though.
+Raspberry Pi 5 availability and pricingOne of the standout aspects of the Raspberry Pi 5 is its price point.
+For pre-orders, “Check with your favourite Raspberry Pi Approved Reseller to find out whether they are offering pre-orders,” says the official website.
+
+Other Blogs by Onur Demirkol: https://dataconomy.com/author/onurdemirkol/

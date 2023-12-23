@@ -1,0 +1,76 @@
+Title: Here are the Sweet Spots for Alternative Web Data in 2020
+
+Article Link: https://dataconomy.com/2020/01/06/here-are-the-sweet-spots-for-alternative-web-data-for-2020/
+
+Author: Gary Read
+
+Publish Date: 2020-01-06
+
+Article:
+Which are the industries that are likely to be impacted the most by alternative web data this year ? Here is a look.
+
+For the past few years, financial institutions, such as hedge fund managers, have been on the forefront of harnessing the power of alternative data solutions to help drive investment decisions and strategies. Research has found that 78% of hedge fund managers are using alternative data solutions to discover greater insights into market trends and strategy. In the early 2000s, hedge fund managers and financial industry pundits would look to more traditional data, such as SEC filings, quarterly earnings and press releases, as means to help drive investment strategy. But these days the web offers so much “alternative data” including survey data, location data, customer sentiment and social media reviews that can help offer deeper insights and market intelligence.
+
+Taking the lead from the financial industry, in 2020, more industries from online retail to travel organizations are also looking to web alternative data solutions to uniquely combine data sets to uncover customer insights, market intel, competitive advantage and trends from the web.
+
+According to Opimas, as the range of use cases for web data integration rapidly increases, so has spending on alternative data – with spending to hit nearly $7 billion in 2020. This trend has driven the need for more alternative web solutions given the complexity of creating and maintaining web data extractors and preparing data for consumption.
+
+What is Web Data Integration?
+
+Given that the web is an immense resource for business insights industries have been using a process known as web scraping. Unfortunately, many organizations found that web scraping projects were complicated, labor-intensive and often required organizations to employ IT specialists or engineers to write custom software for every type of web page that they want to target. Today, new alternative web data solutions are providing a better technology to scour the Internet called Web Data Integration or WDI –a new approach to acquiring and managing web data that focuses on data quality and control. This is an integrated process composed of the following steps:
+
+Identification of data sources and requirements
+
+Web data extraction
+
+Data preparation and cleansing
+
+Data integration and consumption by downstream applications and business processes
+
+Analysis and visualization
+
+Online Travel Industry Reaping the Benefits of Alternative Web Data
+
+The web provides an unprecedented amount of consumer information for the myriad of travel-related businesses, from hotels to vacation rental property management.
+
+As most travelers have taken the booking process into their own hands thanks to technological advancements and digital trends, much of the buying experience is now through the web. Therefore, web data from these purchases and subsequent customer reviews of their travel experiences, offers a wealth of information for vacation rental companies, hotels and destinations to make more informed business decisions.
+
+Many property management companies who rent out vacation homes, for instance, are finding that web data provides more visibility into availability, convenient bookings and the ability to easily compare travel options. These are major factors expected to drive growth of the global online travel booking market.
+
+In addition, in using web data, travel companies can discover the hottest travel destinations as well as understand traveler’s origins and preferences.
+
+The upshot is, today there is so much data available on the internet with deeper and broader insights.
+
+By combining the web data sets in unique ways, the travel industry leverages their own set of alternative data that can help ascertain the following:
+
+Metrics on vacation rentals such as occupancy, average daily rates and revenue per available night;
+
+How to identify the relative performance of vacation rental properties across different booking sites;
+
+How to gain visibility into inventory availability based on season and location;
+
+Where are travelers going, when are they travelling and where are they staying?
+
+What are the travelers’ reviews of the properties and are travelers reviewing the same property differently on different websites?
+
+Online Retail Industry Becoming Alternative Data-Driven
+
+Much like the travel industry, retail organizations with an online presence have much to gain from the intelligence that the web can offer. As more customers shop, review and transact online, retail organizations can gather vital consumer trends that will be key to their business strategy.
+
+Alternative web data solutions can help retail organizations gather reliable and accurate data from any e-commerce website, which in turn can help retailers provide better customer service for online shoppers.
+
+In addition, alternative data is helping retailers to enhance the consumer shopping experience by using web data intelligence to suggest additional products that may be of interest to customers – usually based on data of the products already purchased. A recent study by Deloitte Digital found that 75% of customers expect brands to know their purchase history, and nearly 50% of customers “love it” when companies bring up their last interaction.
+
+Alternative data solutions can also help retail organizations by automatically gathering data from any ecommerce website as well as matching a company’s merchandise with competitors’ offerings by capturing data on categories, brands, prices, and other parameters. These solutions can also provide a complete analysis of all products and prices, delivering automated alerts on price changes that can be generated hourly, daily, and weekly.
+
+The fact is, we all live work in a digital economy where petabytes of insightful data live on the Internet. As we enter 2020, organizations need to harness that information in order to ascertain a 360-degree view of their business ecosystem that will make customer insights and other crucial trends and information more transparent.
+
+As such, today alternative web data solutions are providing easier ways for organizations in multiple industries from finance to retail to procure and interpret even the most complex of analytical requirements – without it becoming too expensive or difficult to operate. For instance, some web integrations platforms allow clients to manage the web data lifecycle in-house – with access to critical developer tools as well as training and support. However, the ability and expertise of working with web data to cull and combine unique insights is not something that every organization has access to and should look to companies with that unique WDI skillset to open an additional avenue to business success.
+
+Summary: Which are the industries that are likely to be impacted the most by alternative web data this year ?
+According to Opimas, as the range of use cases for web data integration rapidly increases, so has spending on alternative data – with spending to hit nearly $7 billion in 2020.
+This trend has driven the need for more alternative web solutions given the complexity of creating and maintaining web data extractors and preparing data for consumption.
+Today, new alternative web data solutions are providing a better technology to scour the Internet called Web Data Integration or WDI –a new approach to acquiring and managing web data that focuses on data quality and control.
+In addition, in using web data, travel companies can discover the hottest travel destinations as well as understand traveler’s origins and preferences.
+
+Other Blogs by Gary Read: https://dataconomy.com/author/gr/

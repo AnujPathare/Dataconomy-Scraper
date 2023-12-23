@@ -1,0 +1,52 @@
+Title: What is the future of healthcare data security?
+
+Article Link: https://dataconomy.com/2022/05/04/future-healthcare-data-security/
+
+Author: Devin Partida
+
+Publish Date: 2022-05-04
+
+Article:
+The healthcare industry, like many sectors, is undergoing a substantial data-driven transformation. New technologies like telehealth platforms and the internet of things (IoT) generate more granular medical data and make it more accessible. While this has many benefits, it also raises considerable healthcare data security concerns.
+
+There were 714 healthcare data breaches of 500 or more records in 2021, almost doubling 2018’s figure. Personal health information (PHI) is highly sensitive, making it a tempting target for cybercriminals. As the industry becomes increasingly data-centric and embraces new data-sharing technologies, security must evolve alongside it.
+
+Here’s a closer look at the future of healthcare data security.
+
+Changing regulatory landscape
+
+One of the most substantial changes taking place is an evolving regulatory landscape. Laws like HIPAA provide little specific guidance for today’s data transfer and security needs, so new legislation will likely replace or amend them. Data professionals in the sector must prepare to adapt to these changing regulations.
+
+The Trusted Exchange Framework and the Common Agreement (TEFCA) is one such new regulation. While TEFCA is a non-binding agreement, many healthcare organizations will likely join it to enable easier cross-country medical data sharing. Participants’ data workers must then ensure their processes don’t fall under new definitions for information blocking and meet TEFCA’s security standards.
+
+Even regulations that aren’t necessarily about security will impact data privacy considerations. The No Surprises Act, which applies to virtually all health plans in 2022, prohibits billing for emergency services by out-of-network providers. This will likely require more remote data sharing, which data professionals must ensure is secure.
+
+Increased patient access and control
+
+Another trend that’s reshaping healthcare data security is increasing patient access. Consumers demand more transparency and control over their medical information, and technologies like telehealth provide it. Balancing this accessibility with privacy may prove challenging.
+
+Limiting access privileges is crucial in data security, so expanding access to patients who may lack thorough cybersecurity awareness raises concerns. Basic human error accounted for 31% of all healthcare data breaches in 2019, and medical organizations can’t train consumers as they can employees. Therefore, data professionals must design a data access platform that accounts for users who will likely make mistakes.
+
+By default, medical apps and consumer IoT devices should enable security measures like two-factor authentication and encryption. Teams can also lean into increasing user control by informing users of relevant security concerns and letting them choose how these apps use their data.
+
+The rise of synthetic data
+
+Machine learning is also gaining rising prominence in healthcare applications. Intelligent algorithms can help make faster and more accurate diagnoses and enable hyper-individualized healthcare, but training them poses a problem. Data scientists must ensure they don’t accidentally expose sensitive medical information while building these models.
+
+The answer lies in synthetic data. Using this artificially generated information instead of real-world PII eliminates the risk of accidental exposure during training. The Office of the National Coordinator for Health Information Technology (ONC) has recognized this need, leading to the creation of Synthea this year.
+
+Synthea is a healthcare data engine that generates synthetic medical records based on publicly available health information. Similar resources could arise in the near future, too. As machine learning in healthcare rises, data scientists must embrace these tools to train models on synthetic data instead of the riskier but potentially more relevant real-world PII.
+
+Healthcare data security is evolving
+
+The rise of data-centric technologies and processes presents both a boon and a challenge for data professionals. This evolution in industries like healthcare offers new, promising business opportunities, but it comes with rising security concerns. As data scientists help the sector capitalize on digital data, they must ensure they don’t increase cyber vulnerabilities.
+
+These three trends represent some of the most significant changes in the future of healthcare data security. Data professionals must monitor these developments to adapt as necessary, providing optimal value while improving safety and compliance.
+
+Summary: While this has many benefits, it also raises considerable healthcare data security concerns.
+Here’s a closer look at the future of healthcare data security.
+Increased patient access and controlAnother trend that’s reshaping healthcare data security is increasing patient access.
+Healthcare data security is evolvingThe rise of data-centric technologies and processes presents both a boon and a challenge for data professionals.
+These three trends represent some of the most significant changes in the future of healthcare data security.
+
+Other Blogs by Devin Partida: https://dataconomy.com/author/devin-partida/

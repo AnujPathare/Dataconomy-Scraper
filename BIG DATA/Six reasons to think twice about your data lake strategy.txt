@@ -1,0 +1,50 @@
+Title: Six reasons to think twice about your data lake strategy
+
+Article Link: https://dataconomy.com/2018/07/23/six-reasons-to-think-twice-about-your-data-lake-strategy/
+
+Author: Vikram Bhalchandra
+
+Publish Date: 2018-07-23
+
+Article:
+Since data has been called the “oil” of the new economy, it’s easy to assume that more is better. You can never have too much oil, so the same goes for data too, right?
+
+Hence there has been a lot of hype about data lakes over the past few years. According to TechTarget, a data lake is “a storage repository that holds a vast amount of raw data in its native format until it is needed.” The hype is understandable since data lakes are generally cheaper than enterprise data warehouses. On an abstract level, the idea of stockpiling data first and finding a use for it later also sounds like common sense.
+
+If you’ve lately been sold on the need for a data lake, here are six things to consider before jumping in:
+
+The amount of data is exponentially increasing
+
+The digital universe doubles in size every two years and the amount of data we create and copy annually is set to hit 44 zettabytes by 2020. That is 10 times more than what the number was in 2014. It stands to reason that creating larger repositories for all of your structured and unstructured data is bound to run up against cost limitations. If not, the sheer heft of increasing data loads will present a larger challenge for organizations that haven’t yet decided how they will make sense of the data they already have.
+
+Your chance of holding on to “bad” data rises
+
+With the GDPR, companies will be charged a fine of up to four percent of annual revenues for holding on to data that was procured without the consumer’s consent. For companies that have already created a data lake, ensuring GDPR compliance can be a major headache. GDPR illustrates the dangers of taking this approach if similar legislation pops up elsewhere. Given the serious concerns raised globally by the Facebook data scandal, it’s only a matter of time before the power to control data moves from the enterprise to consumers globally. GDPR is likely the first of many such future compliance laws. With this scenario, data lakes without a clear strategy for the data can become a millstone around the neck.
+
+Security is often an afterthought
+
+Data in a data lake lacks standard security protection with a relational database management system or an enterprise database. In their rush to be “agile,” some companies will even give trusted business managers Internet-based access to data lakes. In practice, this means that the data is unencrypted and lacks access control. Multiple examples of inappropriate data access are now in the public domain and have caused significant damage to the reputation and bottom line of leading companies.
+
+Lack of quality control can turn your data lake into a swamp
+
+The idea behind data lakes is that if you gather and store enough data that you will be able to glean business-relevant insights. This scenario ignores the old computing maxim of “garbage in, garbage out” though. If there are no guidelines about the cleanliness of the data, then your so-called insights will be flawed. This has been a traditional data problem that gets magnified multifold in the big data scenario. Data lakes come with the added complexity of unstructured data thereby creating a serious issue of unusable data.
+
+It takes a high level of expertise to make sense of the data
+
+A lack of semantic consistency and governed metadata means that only specially trained experts will be able to reconcile the data. The average company may have a hard time finding people skilled in data-flow technologies like Spark and Flume. Beyond the technology expertise, data science expertise with experience across specific industries becomes critical for creating data models and algorithms that will provide actionable insights.
+
+The technology landscape is very confusing
+
+Just a simple Google search on data lake products will throw up over a million hits. From leading tech giants like IBM, Microsoft, Google and Amazon to small startups – everyone has a significant “data lake” offering. Beyond this, there is the technology stack to consider. Do you look at Hadoop and the multiple versions of it, or custom stacks from the big tech giants? Identifying the infrastructure you need for your data lake – cloud or in house – adds another dimension to this journey.
+
+Managing and running a data lake on an ongoing basis is also another decision point in this journey. An effective data lake technology strategy and identifying the right set of partners and experts thus becomes critical before moving ahead on this path.
+
+Though there are some valid reasons for skepticism about data lakes, the technology itself is neutral. The fact is that data lakes can be a great resource for some companies. But everyone should be careful of the marketing pitch of any technology, and data lakes are no exception. The best advice is: take a very close look before you jump in.
+
+Summary: According to TechTarget, a data lake is “a storage repository that holds a vast amount of raw data in its native format until it is needed.” The hype is understandable since data lakes are generally cheaper than enterprise data warehouses.
+With this scenario, data lakes without a clear strategy for the data can become a millstone around the neck.
+Data lakes come with the added complexity of unstructured data thereby creating a serious issue of unusable data.
+Beyond the technology expertise, data science expertise with experience across specific industries becomes critical for creating data models and algorithms that will provide actionable insights.
+An effective data lake technology strategy and identifying the right set of partners and experts thus becomes critical before moving ahead on this path.
+
+Other Blogs by Vikram Bhalchandra: https://dataconomy.com/author/vikram-bhalchandra/

@@ -1,0 +1,72 @@
+Title: The Layman’s Guide to Banking as a Service
+
+Article Link: https://dataconomy.com/2019/08/15/the-laymans-guide-to-banking-as-a-service/
+
+Author: Gabriel Onyango
+
+Publish Date: 2019-08-15
+
+Article:
+Banking as a Service (BaaS) is the democratisation of financial capabilities that have fiercely been protected, isolated and hidden in silos for hundreds of years by banks.
+
+The fact that BaaS opens up banks’ capabilities and essentially empowers anyone to be able to create their own financial products, goes against every fabric of the traditional banking industry.
+
+Disruption of Banking by Fintech
+
+Publishing, advertising and manufacturing are just a few industries that have been disrupted by technology. Banking is no different, high tech start-ups have managed to bring innovation into the finance industry. With the click of a button, consumers can now perform all the functions that would have traditionally required a visit to a physical branch; from checking account balances to initiating payments.
+
+These digital-first challenger institutions like Germany’s N26-a purely online bank that has amassed 3.5 million customers in Europe in four years and recently launched in the US market-have posed the biggest threat to incumbents. For a while, the mood in the financial industry has been that of David vs Goliath, new tech-savvy competitor vs old school incumbent.
+
+For some, however, the prospect of collaboration has been more alluring. For instance, France’s BPCE purchased challenger bank Fidor Bank in 2016 fo EUR 140 million in hopes of enhancing its digital growth strategy.
+
+Nevertheless, two years on, the partnership is breaking up over reasons that include a culture clash. Banking as a Service, on the other hand, provides a way for banks to collaborate with third parties with less risk.
+
+Banks open up specific functionalities such as international money transfer, Know Your Customer (KYC) or account data, and allow third parties to manipulate these functionalities to build new or related services. Therefore, making banks marketplaces or aggregators of financial solutions.
+
+Furthermore, this open banking revolution has been exacerbated by new regulations like the Payments Service Directive II (PSD2) in Europe.
+
+How Banking as a Service (BaaS) Works
+
+Take your typical bank and break it down into its various functions; holding money, remittance processing, card and payment processing.
+
+Banks put in a lot of investment to build out the infrastructure that supports these functionalities, including obtaining licenses and maintaining compliance measures. Because of the bottlenecks that these represent, fintechs and non-bank institutions interested in offering financial solutions find it easier to collaborate with banks instead of building their own from scratch.
+
+BaaS allows third parties to tap into existing banking systems through application development interfaces (APIs) that allow communication between banks’ software and the third parties’. These open APIs expose the banks’ functionalities to anyone intending to access them, which includes independent developers, fintechs, non-financial institutions like restaurants and welfare clubs; enabling them to build their own features on top of the banks’.
+
+On the other hand, the Banking as a Service relationship does not always work one way, banks can also tap into the unique capabilities of fintechs. For example, remittance company TransferWise’s tech works not by sending money from one country to the next but by rerouting money from a bank account within the receipt’s country so that it doesn’t have to cross the border. This makes its international money transfer service cheaper, UK’s Monzo bank partnered with TransferWise to integrate the service into its banking app.
+
+Furthermore, as open banking becomes industry standard, you should be able to plug and play different financial capabilities like lego pieces to birth a new service without ever having to own the infrastructure behind it. For example, to cook up a PayPal-like service, you’d just plug in mobile wallet capabilities, sprinkle in a little electronic virtual card functionality and season it with Peer to peer cross-border transfer features, ideally, BaaS should make it that easy to cook up a PayPal.
+
+Impact of PSD2 on Banking as a Service
+
+The European Union set 14th September 2019 as the deadline for financial companies to comply with the Payment Service Directive II (PSD2); which forces banks with online accounts to provide access to their customers’ account information to registered third parties. However, the account holder has to give consent first.
+
+Additionally under the PSD2, a fintech company (third-party provider) can be licensed as an Account Information Service Provider (AISP); who is permitted to access and consolidate account information from a user’s different banks accounts, or/and as a Payments Initiation Service Provider (PISP): who can initiate a payment request from a user’s bank account at their request. This broadens the range of services they can create out of the access they receive.
+
+How Does This Affect Banking?
+
+Well, just imagine your favourite bank being forced to avail information to a company that can use it to launch a competing product. A great example of such a product is Mint, a financial planning an app where you can read all your information (and make payments) from different bank accounts instead of going into each bank individually. Such a service reduces the amount of contact between banks and their customers.
+
+According to a 2018 report by Roland Berger, banks risk losing 25-40% of their income from the disruption. Additionally, banks that previously invested little in IT infrastructure will have to ramp up their budget to avail the open APIs needed to provide customer information to third parties.
+
+One way for banks to tackle the revenue drop will be to embrace BaaS and avail more of their capabilities to third parties under revenue-sharing deals. In such a circumstance, PSD2 will eventually become an accelerator of Banking as a Service making it a necessity rather than an option.
+
+BaaS in Action
+
+Notable financial institutions embracing BaaS include US bank Bancorp, which has leveraged the BaaS model to a point of supporting 75 million prepaid cards and over 100 non-bank partners who use it to provide financial services.
+
+Fidor, a German online bank founded in 2015 supports an open banking model (Fidor Operating System), which makes it possible for developers and other banks to use its API to create services off its core functionalities. Other banks with services running off of Fidor include mobile-native bank O2-based in Germany and Netherland’s Van Lanschot Bank.
+
+solarisBank, a tech company that received a German banking license in 2016 also avails banking capabilities through its suite of APIs to companies that include online SME bank Penta, Insha as well as freelancers’ banker Kontist.
+
+Another notable mention is Mastercard’s Partner Wallet API, which allows any retailer to build upon the company’s Masterpass payment network. This feature enables merchants to bring Mastercard’s in-app and website checkout security capabilities, fraud detection and authentication to their own service.
+
+Hopefully, after the dust has settled on PSD2, more companies will have benefited through the Banking as a Service model rather than been disrupted.
+
+Summary: Banking as a Service (BaaS) is the democratisation of financial capabilities that have fiercely been protected, isolated and hidden in silos for hundreds of years by banks.
+Banking as a Service, on the other hand, provides a way for banks to collaborate with third parties with less risk.
+Furthermore, this open banking revolution has been exacerbated by new regulations like the Payments Service Directive II (PSD2) in Europe.
+How Banking as a Service (BaaS) WorksTake your typical bank and break it down into its various functions; holding money, remittance processing, card and payment processing.
+This makes its international money transfer service cheaper, UK’s Monzo bank partnered with TransferWise to integrate the service into its banking app.
+
+Other Blogs by Gabriel Onyango: https://dataconomy.com/author/gabriel/

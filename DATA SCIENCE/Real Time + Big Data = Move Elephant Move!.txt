@@ -1,0 +1,76 @@
+Title: Real Time + Big Data = Move Elephant Move!
+
+Article Link: https://dataconomy.com/2014/12/09/real-time-big-data-move-elephant-move/
+
+Author: Dev Lakhani
+
+Publish Date: 2014-12-09
+
+Article:
+Elephants in a Storm.
+
+Oil tankers take ages to move. Even when there’s a storm ahead, complex machinery, pulleys, engines and switches have to be enabled to make the smallest change in direction. Organizations and Big Data are the same, they use masses of compute power in order to gain business insight in order to implement a modest change in strategy.
+
+If you go into to work today and one of the first things you did was to look at overnight reports, chances are you work in an oil tanker organisation. Your servers churned away overnight and did all of those filters, aggregations and grouping operations that show you how many sales you did over the last day or week. Whilst you are grazing on your morning toast and looking at your KPI charts think of this… just because you have terabytes of data, why can’t you analyse, respond and respond to it in real time?
+
+I Want it Now!
+
+When organisations first encountered Big Data, the main driver was being able to process masses of data in a scaled out and resilient way. This by and large went well. With frameworks like Hadoop, MPP databases and distributed filesystems you could process billions of lines of log files, sales transactions and multi dimensional data. You could aggregate twitter feeds with sales data, traffic information for route optimisation and even churn through tonnes of open data provided by governments.
+
+But the inherent architecture was the main limitation. The programming model relied on Map Reduce working on “chunks” of larger files and these technologies worked primarily by batching operations and making use of scheduled workflows. Load some large files in, clean and transform them, do some analytics and present at 9AM. Just in time for morning bagels.
+
+The newer generation of Big Data technologies has pushed this paradigm out of the window. Why? Trades happen in real time, customers respond to trends on a minute and hourly basis, advertising is viral and reaches tipping points within seconds, traffic patterns change with the smallest crash or roadworks, betting odds spiral on the mere suggestion of a red card.
+
+So what does the next generation of technology bring to the table and what makes it respond faster?
+
+Full Stream Ahead
+
+The idea is simple, rather than create technologies that work on bulks of data, the idea is to stream or load data in tiny chunks as it comes in. This means that any calculations that are done on the data happen in increments but repeatedly. Algorithms are designed to update statistics and analytics in increments which are then presented as a complete picture. One such example of this is using Spark+Cassandra. Spark micro batches and streams data into the Cassandra No-SQL warehouse which can index and allow queries on data as they come in. At the same time you can pull out data from Cassandra and use Spark to apply machine learning to updated streaming results.
+
+Sometimes this works well with simple datasets with constantly defined data like tweets, trades, clicks and so on. The problem becomes more complex when you want to do more clever operations like recommendations, machine learning or large operations on matrices. Fear not though, this is what the clever people at Apache Spark are working on. They make use of distributed data models so that complex operations can happen in parallel on a cluster all transparent to the programmer and business user.
+
+Furthermore, these technologies favour the use of in memory techniques for processing data. Often only loading in in data into memory once and as late as possible and only when it is needed. Hence allowing real time throughput.
+
+So What? How Does This Help My Business?
+
+Simple, respond faster. Especially where your business domain is dependent on masses of data coming in from multiple sources and in multiple formats. What’s more, current technologies let you implement a series of real time alerting mechanisms that let you action based on conditions. There are even mechanisms to conduct real time what if scenarios that help you plan your strategy. Demand and Supply. While it happens.
+
+Examples
+
+Tier 1 Banking
+
+There cannot be a better example of a real time Big Data problem than with finance and Tier 1 banking. Banks are exposed to market risk (Value at Risk -VaR, Basel III, expected shortfall), resulting from billions of trades on equities, commodities, CFDs and such. In order for a bank to be responsive to it’s exposure, calculations on market risk must happen frequently taking into account sources from various front office trading systems and desks as well as external feeds.
+
+Working with an enterprise MPP vendor we were able to perform in-database calculations in R, C++, Matlab and other mathematical tools to calculate risk from billion row datasets within a couple of minutes, often seconds – this compared to VaR/Basel III calculations that currently happen twice daily! The new approach streams the data into a transactional warehouse, runs maths on ingested data every few minutes and results are constantly streamed to reports using “never ending” queries.
+
+What’s more, when breaches occur (breaches in agreed levels of risk), we now have the capability to run playback on real time data to see what caused the breach, how long the breach lasted and when it recovered. These Big Data technologies are resilient, fault tolerant and integrate with Hadoop as a backing store should there be any need for disaster recovery or historical analysis.
+
+Real Time Digital Ad Buying
+
+We worked with one client who was interested in real time ad buying and selling. This meant that any time there was an undervalued ad slot available on Google, Facebook, Outbrain and other ad serving platforms, analysts were able to detect, optimise and engage with their target audience faster than any of their competitors. In order to do this, multiple sources of data had to be ingested, transformed, cleaned up and standardised in order for any analyst to respond to the market.
+
+We made use of Apache Spark and Kafka to implement a real time message system for distributing billions of clicks, impressions and activities across multiple client sites. Within a few hundred milliseconds, we were able to evaluate TV advertising response by monitoring Twitter hash tags and Facebook posts in real time.
+
+Logistics at Scale
+
+Logistics companies need to optimise. Optimal routes, maximising workloads and reducing fuel costs and waste. No matter how much planning you do with Google Maps, adapting a fleet of vehicles to the current demand, traffic and weather conditions requires on the spot processing of structured (relational) and unstructured data. Using multi server geolocation-aware databases, we are now able to monitor the positions of millions of vehicles and action driver changes and alerts programatically. Using frameworks like node.js and D3JS we are able to visualise millions of points (of planes, trains and auto mobiles) as they move through the world.
+
+Gambling and Gaming.
+
+Who doesn’t like a bit of Candy Crush? Or quick game of Bingo? Whatever your favourite game is, book makers and game platforms need to be able to monitor their players payout and keep track of odds offered and taken. Using distributed in-memory clusters we are able to read in input from multiple gaming platforms and perform real time odds calculations using an enterprise version of R that scales to hundreds of nodes. Tied in with a distributed in-memory cache the central exchange is able to query every game status within tens of milliseconds to build a composite of the gaming market.
+
+With the use of on mobile databases we also now have the capability to sync millions of devices to a central MPP database. That way if the odds change, one update by the programmer or analyst automatically propagates to each registered mobile device.
+
+The Real Promise is Here.
+
+Lessons of Big Data have been learnt. Whereas before it took 30 seconds just to start a Map Reduce job on the Hadoop platform, technologists are creating responsive architectures that can ingest, process and perform complex mathematics on distributed architectures using in-memory MPP databases.
+
+Due to the complexity of real world Big Data, traditional methods for reporting and responding are becoming obsolete. If your daily report chart is not bobbing up and down with the latest data as you watch it, chances are you are responding to an old storm. Your oil tanker is slowly slushing around hoping to reach to the shore faster that your competitors. It’s time to get real time Big Data.
+
+Summary: When organisations first encountered Big Data, the main driver was being able to process masses of data in a scaled out and resilient way.
+The newer generation of Big Data technologies has pushed this paradigm out of the window.
+ExamplesTier 1 BankingThere cannot be a better example of a real time Big Data problem than with finance and Tier 1 banking.
+Due to the complexity of real world Big Data, traditional methods for reporting and responding are becoming obsolete.
+It’s time to get real time Big Data.
+
+Other Blogs by Dev Lakhani: https://dataconomy.com/author/devlakhani/

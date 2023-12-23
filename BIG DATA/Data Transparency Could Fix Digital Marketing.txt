@@ -1,0 +1,52 @@
+Title: Data Transparency Could Fix Digital Marketing
+
+Article Link: https://dataconomy.com/2016/11/14/data-transparency-digital-marketing/
+
+Author: Mike Driscoll
+
+Publish Date: 2016-11-14
+
+Article:
+There’s a long history of industries undergoing massive transformations fueled by the power of digital data. The moment has arrived for data to help reshape one of the largest industries of the digital age: marketing.
+
+2016 has been a challenging year for the marketing community, with an eye-opening media transparency report from the Association of National Advertisers revealing non-transparent business practices that were pervasive throughout the industry, leading advertisers and publishers in the dark about where their money was going and how effective their campaigns were actually performing. The report revealed, among other things, the critical need for independent, standard metrics in marketing.
+
+In the months following the report, it has become clear that various parts of the advertising food chain have done a poor job of harnessing data to temper the ANA’s concerns – Facebook revealed that they overestimated key metrics on how often videos were viewed, while Google revealed some inaccuracies with its own ad counting metrics.
+
+Surfing the Tsunami of Programmatic Data
+
+With the rise of what’s known as programmatic media buying, advertisers are generating grains of data each time an ad is served to your desktop, phone or tablet – every day, programmatic markets process around 600 billion ad transactions, more than 100 times the number of trades on the New York Stock Exchange. Yet, the industry has yet to harness this tsunami of data to transform the industry.
+
+Why has the data revolution been slow to take off? On all sides of the digital marketing relationship, there has been a hesitance to talking openly about the data behind programmatic marketing. Key players on the agency side have shown a reluctance to share complete data sets externally for fear of exposing clients to more data than they can make sense of. Perhaps validating those concerns, many marketers today don’t even bother to look beyond surface level at the data provided, while others have found they can’t access it quickly and interactively enough to meet their needs.
+
+Marketers need to take ownership of their data – otherwise they’ll be taken advantage of by those who have control of it. In the quest to better understand where advertising budgets are going, a push for greater transparency is directly tied to a change in how marketers deal with sharing data. To ultimately rebuild trust and inform better business decisions, marketers need to change the transparency conversation to focus on education around the types of data being collected and how they can shape them to better influence business.
+
+“Receipt or Your Campaign is Free”
+
+How can they do this? As a starting point, marketers should be demanding a digital receipt that explains what they bought and provides detailed insights about how successful their spending is. At my local Wendy’s, the register has a sign that reads “if you didn’t get a receipt, your meal is free.” Why? It’s not just because you should know how much your Frosty costs; in this case, the proprietor wants to avoid concerns about cash improperly changing hands. The same rule should apply for marketers and their budgets: if they don’t get a receipt for every transaction, their campaign should be free.
+
+To create this digital receipt, there’s a need to create programmatic ways for marketplaces to communicate with their buyers about what’s for sale and how much it costs. As it stands today, marketers are relinquishing their data for the agencies to analyze, and the resulting analytics often don’t make it into the hands of the end-users responsible for creating and managing final content. That’s a key part of what’s holding them back from making better business decisions in programmatic marketing.
+
+Less Stale Reports, More “Minority Report”
+
+Second, companies need to open up and re-imagine digital marketing data to make it more accessible, versatile and up-to-date. They need to require a degree of interactivity with data so issues with ad campaigns can be identified as they happen and action can be taken quickly to remedy any concerns. This will be key to bringing more marketing dollars online, unlocking the power of creative and empowering marketers to be confident, informed decision makers.
+
+Finally, companies should ensure that they allow for a self-serve model of data-sharing that allows everyone involved with a marketing project to engage directly with tools measuring the success of their campaigns. With today’s data analytics tools, this information should no longer be decipherable by just data scientists. Anyone in an organization should have fresh campaign metrics at their fingertips — as fluidly as Tom Cruise’s character manipulates data on the touch-enabled wall in Minority Report — instead of reserving that capability to a limited number of data scientists in the company.
+
+Data Transparency Is Digital Trust
+
+Many advertising and marketing firms have traditionally prohibited data sharing — particularly granular or event-level data — feeling that data is a source of value, and to share it would diminish that value. But over time, the firms that selectively share their data assets, thoughtfully and securely to partners, end up developing stronger and more trusting relationships.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Image: OiMax
+
+Summary: There’s a long history of industries undergoing massive transformations fueled by the power of digital data.
+The moment has arrived for data to help reshape one of the largest industries of the digital age: marketing.
+On all sides of the digital marketing relationship, there has been a hesitance to talking openly about the data behind programmatic marketing.
+Less Stale Reports, More “Minority Report”Second, companies need to open up and re-imagine digital marketing data to make it more accessible, versatile and up-to-date.
+Data Transparency Is Digital TrustMany advertising and marketing firms have traditionally prohibited data sharing — particularly granular or event-level data — feeling that data is a source of value, and to share it would diminish that value.
+
+Other Blogs by Mike Driscoll: https://dataconomy.com/author/mdriscoll/

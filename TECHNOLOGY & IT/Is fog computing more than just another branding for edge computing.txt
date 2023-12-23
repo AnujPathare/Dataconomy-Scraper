@@ -1,0 +1,76 @@
+Title: Is fog computing more than just another branding for edge computing?
+
+Article Link: https://dataconomy.com/2022/04/07/fog-computing-definition-origins-benefits/
+
+Author: Hasan Selman
+
+Publish Date: 2022-04-07
+
+Article:
+Cisco coined fog computing to describe extending cloud computing to the enterprise’s edge. It’s a decentralized computing platform in which data, computation, storage, and applications are stored somewhere between the data source and the cloud.
+
+What is fog computing?
+
+The cloud is connected to the physical host via a network connection in fog computing. The storage capacity, computational power, data, and applications are located in this middle space. These functionalities focus on the host, place close to it, and make processing faster as it is done close to where data is created.
+
+Fog, like edge computing, brings the benefits and power of the cloud closer to where data is generated and utilized. Many people confuse fog and edge computing since both imply bringing smarts and processing closer to the data’s source. This is frequently done to enhance productivity, but it can also be used for security and regulatory motivations.
+
+The origins of fog computing
+
+The term fog computing was coined by one of Cisco’s product line managers, Ginny Nichols, in 2014. As we know from meteorology, fog describes clouds close to the ground. This computing method is called “fog” because it focuses on the network’s edge. After fog computing gained traction, IBM coined a similar term for a similar computing method, edge computing.
+
+The OpenFog Consortium was formed as a joint venture between Cisco, Microsoft, Dell, Intel, Arm, and Princeton University. Other organizations that contributed to the consortium include General Electric (GE), Foxconn Technology Group, and Hitachi. The primary objectives of the consortium were to both promote and standardize fog computing. The OpenFog Consortium merged with the Industrial Internet Consortium (IIC) in 2019.
+
+How does fog computing work?
+
+Fog computing is not a substitute for cloud computing; it works in tandem with cloud technology. Although fog networking complements cloud processing, it does not entirely replace it. Edge analytics is possible using fogging, but the cloud performs resource-intensive, longer-term analyses.
+
+Edge devices and sensors collect data, but they sometimes lack the compute and storage capabilities to execute sophisticated analytics and machine learning algorithms. However, cloud servers are generally too far away to handle the data and respond promptly.
+
+Furthermore, having all endpoints connected to and delivering raw data to the cloud over the internet may have privacy, security, and legal implications, especially when dealing with sensitive data subject to various country regulations. Smart grids, smart cities, smart buildings, vehicle networks, and software-defined networking are just a few popular fog computing systems.
+
+What is the difference between fog computing vs edge computing?
+
+Surprisingly, fog computing doesn’t aim to replace edge computing either. According to the OpenFog Consortium of Cisco, fundamental differences exist between these two methods. The intelligence and processing power location distinguish edge computing technology from fog computing. Intelligence is at the local network (LAN) in foggy environments with little visibility. Data is sent from endpoints to a fog gateway, which transmits it to sources for processing and returns transmission.
+
+In edge computing, intelligence and power can exist in either the endpoints or gateways. Edge computing is said to have several advantages, one of which is that it eliminates points of failure because each device independently executes and determines which data to store locally and which data to send to a gateway or the cloud for further analysis.
+
+Both methods identify the other as a subtype of themselves
+
+Some defend that fog computing over edge computing is more scalable and provides a better big-picture perspective of the network as data from numerous sources is integrated. However, many network engineers argue that fog computing is simply a Cisco brand for one form of edge computing.
+
+The OpenFog Consortium, on the other hand, defines edge computing as a component or a subset of fog computing. Consider fog computing to be how data is handled from its inception to its final storage location. Edge computing entails processing data as close to its creation as possible. Fog computing refers to everything from the network connections that bring data from the edge to its endpoint to the edge processing itself.
+
+Benefits of fog computing
+
+Fog computing platforms provide organizations with more options for data processing wherever it is most efficient to do so. For specific purposes, such as in a manufacturing scenario, when connected devices must be able to react to an emergency as soon as possible, data needs to be processed as quickly as feasible.
+
+Fog computing enables low-latency networking connections between devices and analytics endpoints. The architecture minimizes bandwidth requirements compared to if that data had to be transferred back to a data center or cloud for analysis. Organizations can also utilize it when there is no bandwidth connection to send data, so it must be handled promptly. Users can utilize fog networks to create security functions such as segmented network traffic, virtual firewalls, and more.
+
+Use cases of fog computing
+
+The field of fog computing is still in its nascent phases. Still, there are a variety of possibilities for utilizing it. It has been shown that fog computing can be used for various tasks.
+
+The rise of semi-autonomous and self-driving cars will only exacerbate the massive amount of data created by automobiles today. To operate autonomous cars effectively, you need the ability to evaluate certain data in real-time, such as weather, driving conditions, and instructions. Other data may be needed to help improve vehicle maintenance or monitor vehicle use. A fog computing environment would allow these data sources’ communications to occur both at the edge (in the vehicle) and the endpoint (the manufacturer).
+
+Utility systems are also increasingly using real-time data to run processes efficiently. Because this data is frequently located in remote areas, it must be processed near where it was generated. Other times, the data must be aggregated from many sensors. Both of these difficulties can be addressed by fog and edge computing architectures.
+
+From manufacturing systems that must be able to react to events as they occur to financial institutions that use real-time data to guide trading decisions or detect fraud. Fog computing solutions may help make data transfers easier by connecting places generated with destinations where it needs to go.
+
+How does fog computing affect the Internet of Things?
+
+Fog computing is frequently employed in IoT applications since cloud computing isn’t suitable for many. The distributed approach addresses the demands of IoT and industrial IoT (IIoT) as well as the massive amounts of data generated by smart sensors and IoT devices, which would be costly and time-consuming to send to the cloud for processing and analysis. IoT systems require a lot of data to function correctly, so there’s a significant amount of traffic on the network. The fog computing approach reduces bandwidth consumption and back-and-forth communication between devices and the cloud, lowering IoT performance.
+
+What does 5G connectivity mean for fog computing?
+
+Fog computing is a type of architecture in which data from IoT devices is transmitted via a network of nodes in real-time. The information gathered by distributed sensors is usually processed at the sensor node, with a millisecond response time. The nodes send analytical summary data to the cloud regularly. That isn’t all. The data from the various nodes is then processed in cloud-based software, aiming to offer practical information.
+
+Fog computing needs more than just computing functions. It necessitates the fast transfer of data between IoT devices and nodes. The aim is to be able to process data in milliseconds. Of course, different connectivity choices are available depending on the scenario. A connected factory floor sensor, for example, may require a wired connection. On the other hand, a mobile resource, such as an autonomous car or a wind turbine in the middle of a field, will necessitate another kind of connection. The 5G is a compelling wireless technology that offers gigabit connectivity, crucial for data analysis in near-real-time.
+
+Summary: The origins of fog computingThe term fog computing was coined by one of Cisco’s product line managers, Ginny Nichols, in 2014.
+After fog computing gained traction, IBM coined a similar term for a similar computing method, edge computing.
+Fog computing is not a substitute for cloud computing; it works in tandem with cloud technology.
+What is the difference between fog computing vs edge computing?
+Surprisingly, fog computing doesn’t aim to replace edge computing either.
+
+Other Blogs by Hasan Selman: https://dataconomy.com/author/hasan-selman/

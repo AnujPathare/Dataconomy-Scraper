@@ -1,0 +1,28 @@
+Title: How To Stop Data Breaches From Ruining Your Business
+
+Article Link: https://dataconomy.com/2017/06/30/stop-data-breach-business/
+
+Author: Brian Wallace
+
+Publish Date: 2017-06-30
+
+Article:
+Data breaches are in the news all the time. It seems like you can’t go anywhere and swipe your credit card these days without receiving word your information may have been stolen. In typical data breaches where credit card info is stolen customers have a fair amount of protection through their banks and credit card companies. But what happens if someone steals your medical information? Businesses that deal with sensitive information have to take serious precautions to prevent data breaches, and in the event their efforts are unsuccessful the onus is on the company to pay to have the data breach cleaned up regardless of the source.
+
+Third parties are responsible for the overwhelming majority of data breaches these days – 63%. Remember that massive Target data breach from a couple of years ago? It ended up being traced back to faulty printer software. The company that supplied the printers wasn’t responsible for the breach, however – Target was, and it cost them plenty both in dollars and in reputational damage.
+
+So how do you prevent third parties from damaging your company’s bottom line or reputation? Always check them out to ensure they are compliant with any standards in your industry. The cost of cleaning up data breaches varies widely based on the sector, and medical records can cost as much as $355 for each record breached to clean up. The way to prevent this from happening is to ensure the company you are contracting with for business is certified compliant in HIPAA – not just that they say they are HIPAA compliant, but that they are actually certified as such.
+
+There are various forms of certification based on each field, so no matter what sector your business is in you can find a third-party vendor who is certified to prevent data breaches and other issues. Learn more about third party data breaches and how to prevent them from this infographic.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Data breaches are in the news all the time.
+In typical data breaches where credit card info is stolen customers have a fair amount of protection through their banks and credit card companies.
+Third parties are responsible for the overwhelming majority of data breaches these days – 63%.
+There are various forms of certification based on each field, so no matter what sector your business is in you can find a third-party vendor who is certified to prevent data breaches and other issues.
+Learn more about third party data breaches and how to prevent them from this infographic.
+
+Other Blogs by Brian Wallace: https://dataconomy.com/author/brian-wallace/

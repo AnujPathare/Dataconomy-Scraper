@@ -1,0 +1,46 @@
+Title: Big Data Plays Surprising Role In Fight Against Climate Change
+
+Article Link: https://dataconomy.com/2016/06/02/big-data-plays-surprising-role-fight-climate-change/
+
+Author: Hannah Augur
+
+Publish Date: 2016-06-02
+
+Article:
+Global warming. For a topic as massive, important, and (somehow) controversial, big data is a clear option for sorting through the muck. What information is reliable? What solutions are realistic? When a global issue pits the future of humanity against, well, everything humanity is accustomed to, facts are vital. Big data doesn’t just give the public pretty visualizations, it reveals facts about climate change that make a difference. Instead of knowing only that the climate is changing, data studies are showing how fast, where, and which industries are making it worse. How is data being used in the fight against climate change, and will it work?
+
+Mapping the Past to See the Future
+
+The first step for data is to do what it does best: offer a thorough, easy-to-grasp glimpse into the realities of climate change. If GoogleMaps looks massively detailed, check out Landsat, NASA’s records of the state of the global land surface. It’s the longest and most complete record of its kind in existence, and it’s proved indispensable for studying the impacts of climate change. Even NASA has said such data is essential for monitoring how humans are specifically changing the planet and affecting climate change. The US’s Environmental Protection Agency has also used data to show where change is happening. Now, it’s clear the largest source of greenhouse emissions is electricity and heat production—though agriculture, forestry and land use is only one percent behind.
+
+EPA Data makes it clear that China represents the world’s single largest source of CO2 emissions, with the US in second. The next question is, how can we use that information to make a difference? One great strength of data science is predictive modeling, and that will prove vital in upcoming initiatives. NASA uses data to answer questions about the future of the planet. For example, what will the Earth look like in 2100? By integrating actual measurements with climate simulation data, they created realistic expectations for the years to come, as well as a variety of possibilities dependent on a given greenhouse gas scenario.
+
+Ellen Stofan, NASA chief scientist, notes that, “with this new global dataset, people around the world have a valuable new tool to use in planning how to cope with a warming planet.” While NASA won’t necessarily be offering consumer products or passing bills to regulate businesses, their data gives those in power everything they need to make better decisions—and even spend less money.
+
+Creating Smarter, Less Costly Solutions
+
+For cultures and governments that want to stop climate change, but also spend the least amount of money, and give up the least amount of comfort, accurate predictions remove a lot of pressure. Data means that solutions can be carefully evaluated, simulated and implemented. And that may make governments more open to giving them a try. One of the most popular examples is the Ronald Reagan Building in Washington, D.C., where solutions saved both energy and $800,000. And that is only one of several examples. Consumers, on the other hand, are less than excited about giving their daily comforts. But big data solutions are offering consumers the chance to save money by wasting less energy. Fortunately, it doesn’t matter whether people are using less energy for the environment or for themselves.
+
+Of course, solutions aren’t always fun consumer products—sometimes they have much more sinister implication. The effects of climate change are already being felt. Predictive data is also being used to combat the rise in weather disasters. For example, by showing where flooding is most likely to happen, or where sea walls would be the most effective. One study by Data-Pop Alliance shows that data’s role in the climate change discussion go hand-in-hand with disaster relief usages. As climate change continues to increase the frequency and scale of weather related hazards, like cyclones, floods and tsunamis, that data will prove invaluable on a regular basis.
+
+Don’t worry—there are also more optimistic possibilities. The U.N.’s Global Pulse initiative started the Big Data Climate Change Challenge in 2014 due to a powerful need to strengthen “the economic case for action on climate change to show where such action is feasible, affordable and effective.” Again, one of data’s big roles is visually showing that change is both possible and economically plausible. The results of the challenge included a forest monitoring system, data and computational tools for building low-carbon and sustainable systems.
+
+Spreading and Studying Awareness
+
+Big data is doing plenty of work in the field of climate change, though the ordinary person may never see it. That may be simply because it’s a complicated and, oftentimes, entirely overwhelming subject. That’s why data is, once again, also being leveraged as a tool to get the public involved. NASA, the EPA, and Global Pulse don’t just gather and analyze data, they share it. Data solutions can also be used to analyze what the public knows and cares about: namely, social media analysis. To this end, Global Pulse assembled an incredible map of how the world tweets about climate change.
+
+They show not only the when and where of tweets, but the topic. Is the public more interested in energy, climate change politics, or the state of the oceans? Analyzing public opinion and understanding is often associated with marketing campaigns. When a company wants to sell something, they analyze their audience. On the other hand, when a major discussion like that of climate change wants to better inform and engage with the populace, they simply must know what people are thinking. It is important both to create informative, shareable data visualizations, and to register the public response.
+
+There are plenty of shortcomings when it comes to using data to combat climate change. Given the amount of energy information technology uses, it seems a particularly bizarre place to start. A study from IBM even pinpoints several problem areas, including the use of historically shallow data and trying to map complex, nonlinear dynamics. Of course, despite all of these drawbacks, virtually no one in the discussion considers big data anything less than a godsend.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: For a topic as massive, important, and (somehow) controversial, big data is a clear option for sorting through the muck.
+Big data doesn’t just give the public pretty visualizations, it reveals facts about climate change that make a difference.
+How is data being used in the fight against climate change, and will it work?
+One study by Data-Pop Alliance shows that data’s role in the climate change discussion go hand-in-hand with disaster relief usages.
+Of course, despite all of these drawbacks, virtually no one in the discussion considers big data anything less than a godsend.
+
+Other Blogs by Hannah Augur: https://dataconomy.com/author/hannah-augur/

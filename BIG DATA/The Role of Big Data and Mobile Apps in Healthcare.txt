@@ -1,0 +1,70 @@
+Title: The Role of Big Data and Mobile Apps in Healthcare
+
+Article Link: https://dataconomy.com/2018/04/09/the-role-of-big-data-and-mobile-apps-in-healthcare/
+
+Author: Abby Adams
+
+Publish Date: 2018-04-09
+
+Article:
+For those with chronic health issues or life-threatening illnesses, the line of specialists and procedures can seem endless. Moreover, each time a new practitioner or clinic is visited, the patient is required to fill in long and complicated forms – especially if a medical insurance is involved.
+
+It’s now clear that the industry has to undergo some major changes, starting with data management. Over the last decade, hospitals, medical practices, medical schemes and research facilities have been digitizing their data in an effort to warehouse it effectively. They are now starting to turn to consulting firms to adopt big data as a solution to data storage.
+
+Does Healthcare Need Big Data?
+
+When most people hear the term “big data,” they immediately think of large data volumes. If this were the only reason for healthcare bodies to adopt the new way of storing data, they could manage without, because most of them could contain what they have in a robust relational database.
+
+In 2001, Doug Laney described the “3 Vs” of large and complex data as “Volume, Velocity and Variety.” While healthcare CIOs could benefit from all three, the emphasis should be on variety. This is a trend experienced not only by healthcare, but by all industries.
+
+Apart from traditional patient data contained in text, there are various images and sounds recorded, from x-rays and ultrasounds, to Doppler and MRI imaging. Some doctors even prefer that their conversations with patients be recorded for the patient’s benefit. This collection of disparate information is generally unstructured and cannot be ordered in the neat tables and columns of a relational database.
+
+This is where big databases, like Hadoop, score. However, it is one thing to store big data and quite another to retrieve it in a meaningful way. Data scientists who are able to design methods to extract meaningful information from the non-sequential and seemingly random big databases are now in high demand.
+
+These skills are expensive and in short supply, but the IT industry is starting to deliver solutions that make meaningful data extraction easier. There is also a move to a hybrid database structure, where data is stored in both a relational and a “NoSQL” database.
+
+Where healthcare entities have tackled this hurdle, the result is a holistic view of the patient, which removes some of the complexity of diagnosis for the medical practitioner and makes life simpler for the patient.
+
+It also opens the way for the move to machine-to-machine (M2M) communication and the use of artificial intelligence to sift through and analyze data transmitted from the sensors gathering it. The future promise is analytics that will monitor health like never before – but there are also further issues that need to be addressed, such as data privacy and security.
+
+Big Brother is Watching Your Vital Signs
+
+The use of sensors to monitor everything – from whether a patient took the right dose of medication at the right time, to whether their insulin levels are in check – is one of the big growth areas in the Internet of Things (IoT).
+
+Combining this with the global adoption of mobile devices, especially smartphones and wearables, means our health can be monitored on a continuous and proactive basis by AI. If a problem is detected, a healthcare professional can be alerted to take appropriate action.
+
+While the benefits of such constant surveillance of one’s health, especially in cases of patients with chronic or life-threatening illnesses, are obvious, they also bring added risk. Where there is a sensor, there is vulnerability and the risk of cyberattacks.
+
+Recently, Johnson and Johnson warned diabetes patients of the possibility of hackers affecting their insulin dosages. Although the probability is low (and possibly would have been lower without the publicity), this does raise fears of attacks on prominent people who need to manage their insulin.
+
+Data privacy and patient confidentiality is also at risk. One of the advantages of paper and siloed electronic records is that they are not hackable. When healthcare organizations consider mobile application development to support IoT devices, they must also ensure that vulnerability is kept in check.
+
+Despite these risks, wearables, sensors and mobile applications are advancing the frontiers of medical knowledge at an ever-increasing rate – especially in combating and preventing life-threatening diseases and autoimmune illnesses.
+
+Big Strides in Combating Cancer
+
+The chances of developing cancer in one’s lifetime are estimated to be as high as one in two (for US males). However, the industry is making rapid strides in combating and preventing these cancers.
+
+One of the key factors contributing to this war on cancer is the ability to gather large volumes of patient data during clinical trials, using sensors rather than surveys and interviews. Patients with multiple myeloma, a very painful blood cancer, are to be monitored via a combination of wearables and smartphones, with data uploaded to a cloud platform. These patients are not being monitored for their response to drugs, but rather for their quality of life. Their sleep patterns and general mobility are measured to get a better understanding of how the disease and subsequent therapies impact their daily lives.
+
+Such research can also be used to inform and assist health professionals. Doctors of today need to stay on top of developments in the efficacy of treatments. A platform that both collates oncology research and keeps doctors informed helps to improve cancer treatment on two fronts.
+
+Future Predictions
+
+Healthcare is a sector in which IoT and big data will play an increasingly vital role. While big data is not currently required from a volume or velocity perspective, this will change when data from billions of sensors will need to be stored and analyzed.
+
+Another growth area will be predictive analytics, once the storage and retrieval of all this data is mastered. Benefits can be derived in mundane areas such as inventory and waste management, as well as patient care.
+
+It is important to note that the improvements in healthcare are not limited to the first world. In fact, the real changes will be seen in the treatment of patients in areas of the globe that rarely see health professionals. The UN’s Sustainable Development Goals require that healthcare be radically improved in the most underserved areas.
+
+A combination of big data and IoT will undoubtedly be major forces for change in the years to come, as global connectivity increases and technology flourishes.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Summary: They are now starting to turn to consulting firms to adopt big data as a solution to data storage.
+Does Healthcare Need Big Data?
+When most people hear the term “big data,” they immediately think of large data volumes.
+However, it is one thing to store big data and quite another to retrieve it in a meaningful way.
+Future PredictionsHealthcare is a sector in which IoT and big data will play an increasingly vital role.
+
+Other Blogs by Abby Adams: https://dataconomy.com/author/abby-adams/

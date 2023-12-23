@@ -1,0 +1,60 @@
+Title: Microsoft Ignite 2023 announcements aren’t limited to Copilot, here are the important ones
+
+Article Link: https://dataconomy.com/2023/11/16/microsoft-ignite-2023-announcements/
+
+Author: Onur Demirkol
+
+Publish Date: 2023-11-16
+
+Article:
+As expected, almost all of the Microsoft Ignite 2023 announcements are “in-a-way” related to AI, while some are directly about today’s hottest trend, artificial intelligence. We gathered some of the most important announcements made by Microsoft at the event.
+
+This year’s Microsoft Ignite conference has gone full-throttle into artificial intelligence, with nearly 600 sessions dedicated to its various facets. The show’s star is Generative AI, steering Microsoft’s latest product reveals. From boosting capabilities for large language models (LLMs) on Azure to expanding the Copilot lineup, this event signals a significant shift in how we interact with AI.
+
+Microsoft Ignite 2023 announcements
+
+Microsoft Ignite 2023 kicked off with a bang, highlighting more than 100 game-changing announcements in Windows, Microsoft 365, and Azure. The star of the show? Artificial Intelligence (AI). Below, you will find all the important Microsoft Ignite 2023 announcements!
+
+Farewell Bing Chat Enterprise, hello upgraded Copilot
+
+Microsoft bids adieu to Bing Chat Enterprise, creating a revamped Copilot experience. It’s not just a name change; it’s a transformation. The new Copilot, set to launch on December 1, 2023, isn’t just a chatbot; it’s a secure haven for commercial data for those using Microsoft’s Entra cloud-based identity management service.
+
+Navigating Microsoft’s product names is never a breeze, and Copilot is no exception. Copilot for Service aids contact center agents, seamlessly integrating customer info and knowledge base articles with popular platforms like Teams, Outlook, Salesforce, ServiceNow, and Zendesk. The Copilot family expands further, covering Dynamics 365, Microsoft 365, GitHub, and Viva, each designed to enhance user experiences in its way.
+
+What is Microsoft Copilot and how to use it
+
+Sysadmins, rejoice! Copilot spreads its wings beyond Microsoft 365 users, landing on the Edge for Business management interface. It’s here to assist admins with recommended policies and extensions for the workplace browser. An adoption dashboard for Microsoft Viva offers insights into how Copilot features reshape user workflows.
+
+Copilot for Microsoft 365 will see significant improvements next year. Teams, for example, will soon convert live meeting transcripts into interactive documents, altering the post-meeting collaboration game. Third-party suppliers are also welcomed to the party, introducing plugins and connections from platforms such as Jira, Trello, Confluence, Freshworks, and others.
+
+Meet Copilot Studio, Microsoft’s AI solution development tools. Consider it similar to ChatGPT, except for forming copilots. It uses Azure features, speech recognition, sentiment analysis, and Power Platform connections to keep IT in charge of the development process.
+
+The influence of Copilot is revealed in Microsoft’s yearly Work Trend Index. Early adopters are ecstatic: 70% report greater productivity, 77% will not abandon it, and 22% save more than 30 minutes each day. Observational studies back this approach, demonstrating 27% quicker information retrieval and nearly four times faster meeting catch-up.
+
+Microsoft’s leap into custom AI chips
+
+Microsoft unveils Azure Maia, a bespoke AI processor, and Azure Cobalt, an Arm-powered CPU, breaking new territory. These processors, which will be available in 2024, seek to lessen dependency on Nvidia, paving the way for an AI-dominated future in Azure data centers.
+
+Unified project management with Microsoft Planner
+
+To streamline project management, Microsoft merges Microsoft To Do, Microsoft Planner, and Microsoft Project for the web into one – Microsoft Planner. Expected in spring 2024, this unified experience will transform project organization within Microsoft Teams.
+
+Windows AI Studio simplifies AI model configuration
+
+In partnership with Nvidia, Microsoft introduced Windows AI Studio, a hub for developers to access and configure AI models on their Windows PCs. The platform offers a guided workspace setup and easy access to development tools and models, simplifying the process for developers venturing into AI configuration.
+
+AI-Powered background decoration in Microsoft Teams
+
+Enhancements are on the horizon for Microsoft Teams, with two AI-powered features. The “decorate your background” feature, slated for early 2024, uses generative AI effects to spruce up video calls, cleaning up clutter for a more professional appearance.
+
+In summary, Microsoft Ignite 2023 unveils a new era of AI integration, promising heightened productivity and a more personalized digital experience. As these innovations take center stage, businesses and individuals are in for a ride with Microsoft’s commitment to advancing artificial intelligence.
+
+Featured image credit: Microsoft
+
+Summary: Microsoft Ignite 2023 announcementsMicrosoft Ignite 2023 kicked off with a bang, highlighting more than 100 game-changing announcements in Windows, Microsoft 365, and Azure.
+Below, you will find all the important Microsoft Ignite 2023 announcements!
+The Copilot family expands further, covering Dynamics 365, Microsoft 365, GitHub, and Viva, each designed to enhance user experiences in its way.
+Unified project management with Microsoft PlannerTo streamline project management, Microsoft merges Microsoft To Do, Microsoft Planner, and Microsoft Project for the web into one – Microsoft Planner.
+In summary, Microsoft Ignite 2023 unveils a new era of AI integration, promising heightened productivity and a more personalized digital experience.
+
+Other Blogs by Onur Demirkol: https://dataconomy.com/author/onurdemirkol/

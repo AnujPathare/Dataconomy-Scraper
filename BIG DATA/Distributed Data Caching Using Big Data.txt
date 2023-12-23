@@ -1,0 +1,70 @@
+Title: Distributed Data Caching Using Big Data
+
+Article Link: https://dataconomy.com/2019/04/18/distributed-data-caching-using-big-data/
+
+Author: Kibo Hutchinson
+
+Publish Date: 2019-04-18
+
+Article:
+The advent of the emerging sector of Big Data has brought with it the promise of highly scalable databases to handle terabytes of data at a time. Dealing with colossal datasets will attest to have difficulty for manipulating, storing and retrieving information in bulk quantities to determine if the cache is required or not.
+
+
+
+In the past years, traditional RDBMS and NewSQL/NoSQL databases have mastered in-memory caching to provide caching and general in-memory capabilities. For instance, MongoDB and CouchDB can get configured to run in-memory but when Oracle 12 and SAP HANA are on the table, we already know it’s a mainstream.
+
+
+
+If we want to deliver solutions of the digital age, we are needed to explore new approaches that will surpass the existing limitations of database technologies in present times that happens at both the network and hardware levels serve as major impediments to the management and manipulation of big data sets.
+
+What’s the need for Cache for Big Data Applications?
+
+The evident importance of cache is it helps to reduce the stress on a database by setting itself as an intermediary layer between the database and the end users. It allows transferring data from a low-performance location by considering the difference in accessing data that is stored on a disk.
+
+
+
+When we make a request, the returned data is stored inside the cache in such a way that it can be more easily accessed in the future. Any future query will initially try the cache but if it misses down, it will fell down on the database. It does make sense for applications to reuse the same information over and over for any game or message data, software rendering or scientific modeling.
+
+For example – Consider a three-tier application which is made up of a presentation layer as a user interface, a layer for handling the logic and a data layer for the backend. These layers can be separated from each other but still, latency can be a limiting factor. Assume that each user of the app has a static data set which needs to get relayed to them every time they navigate a new page – beginning at the data layer and ending at the presentation layer.
+
+
+
+Now, if the data layer constantly gets queried then it leads to high strain and poor user experience by latency. To resolve this, the data is accessed frequently which can be kept in temporary memory to allow get it collected rapidly to the presentation layer. Because we consider cost and speed, a cache is somewhat limited in the size it can grow up to. It is always mandatory to add any high-performance database service where efficiency is concerned.
+
+
+
+In-Process to Distributed Caching
+
+We are aware of how many of the applications use the cache locally on a single instance running alongside an application. There can be a number of downsides to this approach but the most notable one is that it scale very well for bigger applications. In the case of failure, stages like this are likely to be irretrievable.
+
+
+
+To this, the distributed caching offers some improvements as the name indicates. It is spread out across a network of nodes so as not to rely on any singular one to maintain its state by providing redundancy in the case of hardware failure or power cuts and avoid the need of dedicating any local memory for storing information. The cache relies on a network of offsite nodes by accruing technical costs where latency comes in picture.
+
+
+
+In terms of scalability, distributed caching is superior as it is the model which is employed by enterprise-grade products. However, licensing fees and other costs can stand in the way of true scalability. Often, there are trade-offs to be made which are difficult for implementing solutions to both feature-rich and high-performing. The vertical scaling or upgrading the processing power of machines own a large database is inferior to horizontal scaling where the small set of the database can split up and gets distributed in case of Big Data tasks such as parallelization and rapid access to data as per the requirement.
+
+Demand for Customized Products
+
+The customers are moving towards more and more payloads to in-memory processing as they are naturally starting to have bigger expectations than the simple key access or else full-scan processing. They look after more advanced clustering, distributed ACID transactions, tough SQL optimizations, variant forms of MapReduce along with deep sub-second SLAs as the MPP style of processing in-memory data sets are a new norm.
+
+
+
+Distributed caching is like a new story to approach critical enterprise data processing without transactional data center replication, comprehensive computational and balancing data load and SQL support or complex secondary indexes for MPP processing.
+
+Shifting to Complex Data Processing
+
+Customers have moved to more and more in-memory processing but their computational complexity will grow as well. In fact, just by storing the data in-memory does not produce tangible business value as it is the processing of the data which is computing over the stored data for delivering new business value and depending on our daily conversations with prospects as the companies across the globe are going more sophisticated about it. The stiff integration between computations and data is axiomatic by moving the computations to the data paradigm and this cannot be bolted on an existing distributed cache or data grid.
+
+Summing Up
+
+It seems logical in the digital age that distributed caching will be better suited to serve the needs of consumers who are seeking both security and redundancy. Currently, latency is an issue but the protocols such as sharding and swarming can reduce it considerably for well-connected nodes. We also need to deliver flexible middleware solutions that allow commercial entities for connecting their databases to always online networks of nodes by easing the burden which placed on their backend to enable them better serve end-users with data. The most important consideration in creating big data applications is scalability and it’s time to start to provide effective solutions that ensure it from the get-go. Keep Learning!
+
+Summary: The advent of the emerging sector of Big Data has brought with it the promise of highly scalable databases to handle terabytes of data at a time.
+In the past years, traditional RDBMS and NewSQL/NoSQL databases have mastered in-memory caching to provide caching and general in-memory capabilities.
+In terms of scalability, distributed caching is superior as it is the model which is employed by enterprise-grade products.
+Distributed caching is like a new story to approach critical enterprise data processing without transactional data center replication, comprehensive computational and balancing data load and SQL support or complex secondary indexes for MPP processing.
+The stiff integration between computations and data is axiomatic by moving the computations to the data paradigm and this cannot be bolted on an existing distributed cache or data grid.
+
+Other Blogs by Kibo Hutchinson: https://dataconomy.com/author/kibosh/

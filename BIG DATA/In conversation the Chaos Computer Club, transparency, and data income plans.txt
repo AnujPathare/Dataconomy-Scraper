@@ -1,0 +1,110 @@
+Title: In conversation: the Chaos Computer Club, transparency, and data income plans
+
+Article Link: https://dataconomy.com/2022/01/13/chaos-computer-club-transparency-data-income-plans/
+
+Author: Thorsten Dittmar
+
+Publish Date: 2022-01-13
+
+Article:
+Towards the end of 2021, I spoke with Julio Santos, the technical cofounder of Fractal – creators of the Fractal Protocol – on some of the essential topics in data sovereignty, privacy, and security.
+
+As with my organization, polypoly, we have concerns over the free access significant companies have over your data and how to keep the web open, practical, and accessible for everyone while regaining control of our information.
+
+You can read part one of this deep dive in full. We discussed, in detail, Facebook, data sovereignty, and the flaws in regulations such as GDPR. And now, we’ll plunge in again for the second part of this conversation, where topics like data income plans and why it is vitally important to redress the balance and know as much about governments and organizations as they know about us.
+
+Here’s a recap of the final statement from part one of the conversation for context.
+
+Dittmar: “When it comes to health data, we are not an expert in it. We are an expert in decentralized data systems. But there are experts out there, who maybe would like to use a decentralized solution, but have no clue how to build these kinds of technology. And so our role is to create the underlying infrastructure, and everybody else can sit on top of that and interact with the user. The idea of the polyPod is that it is extendable. Everybody can build features for the polyPod. If the user wants to have it, they can download that feature and use it or not, depending on whether the user likes that feature or trusts the supplier.”
+
+Santos:
+
+Does this mean data never leaves the polypod?
+
+Dittmar:
+
+For example, if you were managing a fleet of shared cars, you would want to know the schedule of citizens tomorrow, when they will leave their homes for work, and so on.
+
+Therefore, one way to achieve this is to expose them to sensible data, which they are not likely to do. Another way is to send an untrained model to a federated AI platform. And then, during the night, millions of these networks, or millions of pods, will train that model. So that early in the morning, we’ll train the model. For instance, if you can predict the fleet’s timings, costs, and best routes, you will have a better commute to work.
+
+Data sovereignty and trust
+
+Santos:
+
+Agree. And that also means you’re saving a lot of it off the cloud. And you don’t have substantial IP risks, such as hacking, because everything is done locally.
+
+But how can the user trust these events, algorithms, models, and computation tools sent to the edge and sent to their devices? Is there a vetting process for who was involved in that?
+
+Dittmar:
+
+We will bring this to life at the beginning of 2022. It’s like an app store. And basically, everybody can open such a feature repository. An NGO like the Chaos Computer Club can access such a thing, and they can certify their stored features, so if you trust these kinds of NGOs more than us or more than the government, you can go to this depot then download the elements from there. Also, huge companies like Adidas or Nike can build something like that and have all the features of their products stored here.
+
+We talked about trust and education earlier. Besides educating people, there’s another ingredient needed to make our data economy understandable for non-tech people. One important aspect is that confidence in the virtual world should work like trust in the analog world.
+
+The trust mechanisms we have in the digital world look completely different. First of all, trust usually is zero or one – if you have a certificate for your HTTPS connection, you trust it or not. And the certificate is typically made by somebody you have never heard of.
+
+It is always global, and trust for normal human beings is always subjective. For example, I’m using our insurance company for a straightforward reason, because my mom said 30 years ago, go there. And I trust my mom when it comes to money. That’s the way we are building trust – it is emotional. So that means my trust, my personal trust in a company, in a future developer, in somebody who wants to use my data, or in another person, is always subjective.
+
+If I install our feature, whether you build one now or in the future depends highly on my trust, but also when other organizations or friends, who are trusting you, who have had a fantastic experience with your product.
+
+The ranking of features is not dependent on Google Ads anymore; it is based on your trust and your influence sphere.
+
+That also means that if a government likes our position on physician informatics, they can be sure they’re acting responsibly for securing the IT systems that store that highly sensitive information. They can publish, with full transparency, explaining that they looked at these features and certify them.
+
+For example, for features that allow citizens to request data from governments (GDPR is relevant here) when it comes to saying “please send me all the data you store about me,” they can show and state clearly that they trust this feature or this company, and show why. That means that if somebody acts incorrectly, such as selling your data to another company without permission, they can say with absolute clarity and evidence they don’t trust them anymore.
+
+And these will have an immediate impact on the whole ecosystem because it’s something that happens in real-time. It is always good to understand how we think they’re transposing working mechanisms from the real world to the digital world.
+
+My privacy is your privacy
+
+Santos:
+
+I have a question about how your privacy is connected to other people’s privacy. We’ve started to realize that the concept of personal data is sometimes a little bit blurry. Often data that’s about you is also about someone else. So, for example, if you and I are known to spend time together, and I’m sharing my location, but you’re not, then I am violating your privacy. At Fractal, we’re working on the concept of privacy, preserving data sharing, and one of the ways that we can make that work is by grouping users in different cohorts or different unions based on these privacy preferences to make sure that these externalities aren’t randomly placed on people who aren’t ready to accept them.
+
+If you have any thoughts on this idea, I wanted to know that personal data is sometimes a bit blurry, and it applies to more than you, and if polypoly has taken this into account in any way.
+
+Dittmar:
+
+That’s an old-fashioned problem; we had images in the analog world. So when somebody took a picture with the two of us, it’s precisely the same problem. There are no rules for that in place. Implementing the laws exactly as written is a different story, but you can use them as a guide. It is a good idea to find out how that works in the real world here, too.
+
+We, as tech people, should not try to implement something better than the real world. First of all, we should try to implement something like the real world because it’s easy to understand. Nevertheless, you’re right. It needs to be as simple as “is it my data, your data, or our data?” And then, there’s a fantastic protocol called the Open Digital Rights Language (ODRL).
+
+That’s about how to model rights for digital assets. So, it was initially made for digital rights management (DRM). You have an acquisition, and this comes with a policy that includes what you are allowed to do and what is forbidden, and what kind of duties are coming with these purchases.
+
+What you just said about these duties is interesting. If you’re sharing your location and this is close to my location, you are only allowed to do so if you fulfill those duties.
+
+But at the end of the day, something like this scenario (if it is your location and my location simultaneously), we should find a way to control that. Because the way we want to do it is maybe different than others would like to do it. There cannot be a static solution for something like that. It makes people aware that if they share their location, that means as long as we are in a meeting together, they will share my location.
+
+So your system, taking care of your private sphere, should be aware that I’m close to you and then send a notification before you can share your location. Is it okay? If I’m saying yes, it’s fine. And if I’m saying no, then both of us will get notified on our phones.
+
+Santos:
+
+I like your point of view – looking at what has already been deployed in the real world. I think there’s a big difference here, which is scale. Like the fact that I have a picture, an analog picture of you and me, my ability to distribute is quite limited compared to having a digital device with the internet in front of me.
+
+So I think the additional friction that the analog world brings us is possibly even beneficial for many use cases, and perhaps some stuff will need to be tweaked, reinvented for the digital sphere. But yeah, I agree with your point in general. And again, it takes us back to education and making people aware of what is going on.
+
+I’ve got a question about user compensation, which I believe polypoly isn’t thinking about right now. Our approach with Fractal Protocol is to compensate the users for their data. So first, we offer blockchain token incentives, just for them to provide data, there’s no sharing in that moment, and then we layer revenue on top of that from an actual buy-side.
+
+I wanted to understand from your perspective, what are the tradeoffs involved in paying users for data?
+
+Rewards and incentives: it’s not all about the money
+
+Dittmar:
+
+There is a Digital Income Plan. But it will take a while before we bring that to life. We spent a lot of time thinking about this mechanism. And if you pay people for access to the data, you’re creating an incentive for, you know, getting naked in some way.
+
+People who are as privileged as we are can say – I don’t need these few cents. I will keep my privacy. But what is in it for people who are more in a less privileged position? Now, if we are creating our new system for data economy, we should build it from scratch with suitable incentive mechanisms for all.
+
+What we would like to do instead of paying people for giving access to their data is to pay people for renting out computing power in the context of the data. At least here in Europe, people often have a lot of computational power because they’re spending some money on Playstations, smartphones, and laptops – around €1 trillion is invested in hardware every three years. However, some reports suggest that these devices only use a fraction (daily) of the possible computing power.
+
+Usually, these many different devices are waiting for us to use them for a few minutes or hours. If you’re combining this computing power when those devices would otherwise be dormant, this is an unbelievable asset that can help make all our vision happen.
+
+If you want to change the economy, that will cost a lot of money. If you can activate 1% of these unused assets, that’s already a billion. Yeah. From our perspective, incentivizing people to share their computing power, generally in the context of their data, but later on also for other things, is a different incentive than getting paid for giving access to data. And it is more socially balanced.
+
+Summary: Therefore, one way to achieve this is to expose them to sensible data, which they are not likely to do.
+The trust mechanisms we have in the digital world look completely different.
+It is always good to understand how we think they’re transposing working mechanisms from the real world to the digital world.
+It needs to be as simple as “is it my data, your data, or our data?” And then, there’s a fantastic protocol called the Open Digital Rights Language (ODRL).
+And if you pay people for access to the data, you’re creating an incentive for, you know, getting naked in some way.
+
+Other Blogs by Thorsten Dittmar: https://dataconomy.com/author/thorsten-dittmar/

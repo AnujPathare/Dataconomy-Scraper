@@ -1,0 +1,116 @@
+Title: Top 14 Big Data Books of 2014
+
+Article Link: https://dataconomy.com/2014/12/12/top-14-big-data-books-of-2014/
+
+Author: Eileen McNulty
+
+Publish Date: 2014-12-12
+
+Article:
+2014 has been a huge year in big data- and big data publishing. Viktor Mayer-Schoenberger and Kenneth Cukier re-published and added an extra chapter to their bestselling “Big Data”; Nate Silver graced the publishing world with his presence once more with the Best American Infographics of 2014. We’ve compiled a list of the most insightful, beautiful, thought-provoking and challenging books on big data this year. Whether you’re a casual data enthusiast or a hardcore statistician, you’re sure to find a book among our selections to add to your Christmas Wishlist.
+
+1. Big Data: A Revolution That Will Transform How We Live, Work, and Think by Viktor Mayer-Schoenberger & Kenneth Cukier
+
+A collaborative project by Viktor Mayer-Schönberger of the Oxford Internet Institute and Kenneth Cukier of The Economist, “Big Data…” explores how the data explosion is touching every facet of our lives. Protecting us from future diseases and exploding manhole covers, overhauling our retail experiences and transforming every industry, it’s indisputable that the big data revolution is colouring how we experience the world. This book- re-released in paperback this year with an additional chapter- may be the defining guide to big data for uninitiated.
+
+See more
+
+2. The Big Data-Driven Business: How to Use Big Data to Win Customers, Beat Competitors, and Boost Profits by Russell Glass & Sean Callahan
+
+A complaint we hear time and time again is that companies have plentiful data, but no idea how to use it. Contrary to popular belief, hiring a data scientist to crunch some numbers is far from the most effective strategy; industry leaders should be integrating a data-driven approach into every aspect of their company culture. “The Data Driven Business” is an excellent tool for helping to implement such strategies in organisations of any size. Filled with examples of how businesses are using the data to outshine the competition- and cautionary tales about ignoring the insights at your fingertips- this book is a must-have guide for those looking to infuse data into their business practices.
+
+See more
+
+
+
+3. Advances in Complex Data Modeling and Computational Methods in Statistics by Anna Maria Paganoni and Piercesare Secchi
+
+Truly a statistician’s Bible. A quick glance at the contents page demonstrates that this book offers a comprehensive insight into some of the most widely-used and valuable methods in computational statistics today. It includes:
+
+“Statistical methods for research on the human genome dynamics; inference in non-euclidean settings and for shape data; Bayesian methods for reliability and the analysis of complex data; methodological issues in using administrative data for clinical and epidemiological research; regression models with differential regularization; geostatistical methods for mobility analysis through mobile phone data exploration.”
+
+If that list has inspired more intrigue in you than confusion or fear, buy it now. It will become your most treasured possession.
+
+See more
+
+4. Data Architecture: A Primer for the Data Scientist: Big Data, Data Warehouse and Data Vault by WH Inmon and Dan Linstedt
+
+New database technologies & data science tools offer data analysis at unprecedented speed and scale; but for most businesses, it’s neither feasible nor desirable to do away with the existing architecture altogether. This technical and insightful read offers a guide into an often-overlooked area of the data scientist’s workflow; how to integrate new big data tools into existing IT architectures. Author Bill Inmon- the man who defined data warehousing, and was the first to offer data warehousing classes to the world- proves to be a knowledgeable guide on infrastructure old and new.
+
+See more
+
+5. Data Fluency: Empowering Your Organization with Effective Data Communication by Zach Gemignani et al.
+
+Big data the whole company get on board with has certainly been a trend in big data publishing this year, and this book is one of the best. This book- written by a whole troupe of data presentation specialists- walks you through the best practices for data visualisation, communication and presentation. It helps you turn you data into comprehensible and engaging insights, so that your whole organisation can understand and act on the information at hand. The roadmap between data and decision making is often fraught with peril- this book will definitely help you down the path.
+
+See more
+
+6. Big Data, Data Mining, and Machine Learning: Value Creation for Business Leaders and Practitioners by Jared Dean
+
+It’s indisputable that big data can create modern companies a huge amount of value- but, as the blurb of this book acknowledges- “having the data and the computational power to process it isn’t nearly enough to produce meaningful results”. This book is aimed at both data science practitioners and business leaders alike, helping both parties to harness data science and reap bottom-line results. This book walks you through many of the key developments in big data technology today- from MPP to in-memory procession, from text mining to machine learning algorithms- and could prove an invaluable resource for industry professionals and data scientists alike.
+
+See more
+
+7. Smart Cities: Big Data, Civic Hackers, and the Quest for the New Utopia by Anthony M. Townsend
+
+It’s becoming increasing clear that we’re living connected, data-infused lives. Perhaps this is most apparent in how our lives as urban citizens are being affected- from the sewage systems to transport, from our stores to wifi access. This book is a fascinating glimpse into how our cities are getting “smart”, drawing on examples from all over the world. An insightful read for urban planners, tech enthusiasts, entrepreneurs, and any city-dweller interested in discovering how smart cities shape how we live, work and see the world.
+
+See more
+
+8. Big Data Now: 2014 Edition by Raymond I Morrison
+
+Every about this book- right down to the front cover- serves as a reminder of just how far we’ve come today. Data warehousing and business intelligence were once considered revolutionary- now, constant monitoring of performance via sensor data, the explosion of the internet and the rise of social media & connected devices have blown such developments out the water. The book serves as a wonderful account of the dizzying heights big data has scaled up to the present moment.
+
+See more
+
+9. The Best American Infographics 2014, by Nate Silver and Gareth Cook
+
+In what is undoubtedly the most visually pleasing entry on this list Gareth Cook & big data wunderkind Nate Silver explore the year’s best infographics. The infographic has risen to prominence as the medium for making sense of the data deluge, and looking through this beautiful compendium, it’s easy to see why. Ranging topics such as population and demographics to wine pairings, this book is the perfect gift for any aesthetes or data enthusiasts.
+
+See more
+
+10. Data Science at the Command Line: Facing the Future with Time-Tested Tools by Jeroen Janssens
+
+Janssens, a senior data scientist at YPlan, is on a mission to make the lives of data scientists everywhere easier. This book demonstrates how to the harness the power of the command line, using shell commands and short scripts to join up various tools at your disposal. This book makes a compelling argument as to why the command line is an “agile, scalable, and extensible technology”- and although it might be for everyone, this book could just help you to improve your data science workflow.
+
+See more
+
+11. Big Data, Big Analytics: Emerging Business Intelligence by Dio L Herben
+
+Named as one of our Top Acquisition Trends for 2014, Business Intelligence is certainly still a massively valuable and relevant space. But BI is not the same as it used to be- it’s moved away from merely retrospective analysis of historic data, and towards real-time, operational analytics- and even predictive analytics which forecast future performance. This book is an invaluable read for anyone in the BI sphere looking to discover how big data has transformed BI, and keep abreast of the latest trends in a field which continues to adapt and innovate.
+
+See more
+
+12. Trendology: Building an Advantage through Data-Driven Real-Time Marketing by Chris Kerns
+
+As you might expect from a book by marketers for marketers, everything about this book is attention grabbing. The cover, the contents- even the blurb:
+
+Should an airline be talking about the royal baby? What’s a candy bar doing Tweeting about a soccer match? Since when does laundry detergent weigh in on TV shows? Those conversations seem crazy, right? They’re mismatched, they’re nonsense…and they are working.
+
+This book takes a data-driven approach to examining the real-time marketing strategies of some of the world’s biggest brands on Twitter, including Disney, MTV, Starbucks, Coca-Cola, BMW, J.C. Penney, Nike, Sony, IKEA. It uncovers what has made these brands into the social behemoths they are today- and proves to be an insightful guide into how just about any business can emulate some of their success.
+
+See more
+
+13. Practical Data Science Cookbook, by Tony Ojeda, Sean Patrick Murphy, Benjamin Bengfort, and Abhijit Dasgupta
+
+Our favourite book published this year for the aspiring data scientist. Rather than offering a mere glossary of technologies, and no insight into the day-to-day work and best practices of a data scientist, this book delves into what a data scientist actually does. Filled with data science projects, pipelines and programming challenges in R and Python, this book is fantastic starting point for anyone looking into the fast-growing and fascinating field of data science.
+
+See more
+
+14. Data Science and Big Data Analytics by EMC Education Services
+
+The last entry on our list is somewhat of a cheat, as it’s yet to be publically released, but we have high hopes for EMC’s training manual for budding data scientists. Covering how to contribute to a data science team, what a data science lifecycle looks like and the key techniques you may need to use, this is a great resource for aspiring data scientists. It’s also released the day before Valentine’s Day- why not order it for your data-obssessed significant other? We can’t think of a more romantic gift.
+
+See more
+
+Follow @DataconomyMedia
+
+
+
+Summary: 2014 has been a huge year in big data- and big data publishing.
+We’ve compiled a list of the most insightful, beautiful, thought-provoking and challenging books on big data this year.
+Big Data: A Revolution That Will Transform How We Live, Work, and Think by Viktor Mayer-Schoenberger & Kenneth CukierA collaborative project by Viktor Mayer-Schönberger of the Oxford Internet Institute and Kenneth Cukier of The Economist, “Big Data…” explores how the data explosion is touching every facet of our lives.
+Data Architecture: A Primer for the Data Scientist: Big Data, Data Warehouse and Data Vault by WH Inmon and Dan LinstedtNew database technologies & data science tools offer data analysis at unprecedented speed and scale; but for most businesses, it’s neither feasible nor desirable to do away with the existing architecture altogether.
+Covering how to contribute to a data science team, what a data science lifecycle looks like and the key techniques you may need to use, this is a great resource for aspiring data scientists.
+
+Other Blogs by Eileen McNulty: https://dataconomy.com/author/eileen-mcnulty/

@@ -1,0 +1,56 @@
+Title: How Blockchain Can Incentivize the Social Platform Revolution
+
+Article Link: https://dataconomy.com/2018/07/05/blockchain-can-incentivize-the-social-platform-revolution/
+
+Author: Ralph Tkatchuk
+
+Publish Date: 2018-07-05
+
+Article:
+Social platforms such as Quora, Reddit or Stack Overflow are gaining popularity as users can easily exchange information within the social community without any barriers. How and why can blockchain make these platforms more credible? Ralph Tkatchuk finds out.
+
+The internet and the rise of social media has significantly changed the way we interact with information. Learning something new today is as easy as unlocking a phone and typing in a query. It has replaced the slow and deliberate research people were forced to do in the past to find answers to their most pressing questions.
+
+One of the biggest outcomes of the social platform revolution is the emergence of services dedicated to asking and answering questions from anywhere in the world. These started off as web forums where communities would gather, but quickly morphed into full-fledged services that became hubs for millions of people to ask anything from the most basic questions to complex queries. Even so, their popularity was for some time usurped by search engines like Google, which quickly cornered the search market and rapidly became entrenched.
+
+These Q&A platforms have become immensely popular again due to the speed at which information can be exchanged as well as the community-based approach which inspires confidence among users. Even so, there are some signs that the systems created aren’t necessarily ideal for all purposes. However, adding blockchain to the equation could prove to be an intriguing solution.
+
+Thanks to the technology’s many benefits—especially in terms of democratization and tokenization—Q&A platforms could be approaching a new renaissance which could deliver more transparent and reliable interactions.
+
+GREAT QUESTIONS, OKAY ANSWERS
+
+Getting an answer to a question today is easier than it has ever been. Google’s search engine dominance remains unbroken, but instead of simply asking the company’s algorithm, users are increasingly turning to their own online communities for answers.
+
+The result is a significant bump in the popularity of crowd-sourced Q&A platforms. Services like Quora, which lets users ask any question, regardless of topic or complexity, allows others to answer with what they believe is the correct answer.
+
+These question-and-answer threads are generally not moderated or regulated, though the company does maintain centralized control to enforce its conduct policy and terms. On threads, users can vote in terms of how helpful answers are, with the most popular responses rising to the top. The method seems straightforward enough, but it does highlight one major problem. In many cases, the most popular answer is not the correct one. This makes them less valuable as information centers than Google, which generally offers high-value and accurate answers near the top of its results.
+
+For a long time, this informational disparity meant that Quora and its contemporaries were seen as lesser than Google and other more “reliable” information sources. In the years since, websites like Stack Overflow, the academic hub for Q&A forums, have returned much of the legitimacy to the sector, but the challenge remains an issue of perception.
+
+Even on Quora itself, there are doubts about informational accuracy. Worse still, policies in place for “self-policing” of factually incorrect answers is rarely taken seriously or even carried out. Most importantly, however, the problem stems from the fact that there is no incentive to provide correct answers, instead, just to be the most visible answer.
+
+BLOCKCHAIN REBOOTS THE MODEL
+
+Nevertheless, the social Q&A model holds enormous promise. What was missing, until now, was a tangible way to incentivize better behavior and more reliable responses. With blockchain, these platforms may finally have an answer. One of the technology’s biggest benefits is the ability to create application-specific tokens that have real-world value. When users are not incentivized to provide accurate information, but rather popular answers, there is no real way to prioritize correct answers. Instead, those users who understand how to game the system tend to have their answers lifted to the top spot, while information is left behind.
+
+Blockchain-based tokens can be used for a variety of needs in an ecosystem. In the case of Q&A platforms, however, they create a clear incentive to offer better information, instead of simply looking for financial gain from external sources.
+
+ASKfm, a popular Q&A platform, is making such a leap with its upcoming ICO. The company is already one of the largest platforms in the world, with millions of users and a proven ecosystem. However, by adding blockchain, ASKfm aims to create a smart-contract-based system that lets users decide whether the information they’re receiving is accurate and satisfactory. Users will be able to vote with their tokens and incentivize better responders to participate within the community.
+
+Others are taking a more democratic approach, like blockchain-based Q&A service Tip. The company will award tokens to users who have the most upvotes on their answers, with the hope that this will incentivize the best available information to rise to the top.
+
+Another important aspect of blockchain is its power to disintermediate and democratize. Currently, Quora, Reddit, and even the popular Stack Overflow, are aimed at rewarding one group of stakeholders—investors. Despite the vibrant communities they’ve developed, most of the decisions made relate to the entrenched interests of those individuals at the top. This creates serious conflicts of interest and questions of censorship. Reddit, one of the most popular sources of information on the web, has faced serious pushback because of this, and it has damaged its credibility among users.
+
+With blockchain, these problems become obsolete, as centralized authorities have significantly less influence over networks that are distributed and peer-to-peer. Power in this case is returned to the community, which can more freely interact, and rest assured there are no external interests involved in their interactions. More importantly, it limits the influence marketers, advertisers, and other similar actors have on networks alongside their ability to rig answers and game the system.
+
+A MORE DEMOCRATIC DEBATE
+
+Q&A platforms are not going anywhere, especially as their popularity continues to gain traction. However, for them to truly reach their potential as democratic sources of information, they must clean up their act. By embracing blockchain, the sector is taking a very real first step towards forming a model that incentivizes better, has more factual answers while proactively working to block out those actors that distort information for personal gains.
+
+Summary: Social platforms such as Quora, Reddit or Stack Overflow are gaining popularity as users can easily exchange information within the social community without any barriers.
+One of the biggest outcomes of the social platform revolution is the emergence of services dedicated to asking and answering questions from anywhere in the world.
+The result is a significant bump in the popularity of crowd-sourced Q&A platforms.
+BLOCKCHAIN REBOOTS THE MODELNevertheless, the social Q&A model holds enormous promise.
+ASKfm, a popular Q&A platform, is making such a leap with its upcoming ICO.
+
+Other Blogs by Ralph Tkatchuk: https://dataconomy.com/author/ralph-tkatchuk/

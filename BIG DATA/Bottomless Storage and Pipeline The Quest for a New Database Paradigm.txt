@@ -1,0 +1,66 @@
+Title: Bottomless Storage and Pipeline: The Quest for a New Database Paradigm
+
+Article Link: https://dataconomy.com/2022/04/20/bottomless-storage-pipeline-new-database-paradigm/
+
+Author: admin
+
+Publish Date: 2022-04-20
+
+Article:
+The amount of data we create is increasing by the hour, which has resulted in organizations struggling to deal with data accumulation and analysis. Things can get chaotic pretty quickly with IoT devices, applications, manual entry, and many other sources constantly generating data with different or no structures.
+
+Anyone who has had to deal with data knows that good data architecture is crucial for the correct functioning of any system. No matter how much data is being dealt with, implementing the right models, policies, and standards will directly impact how successfully information is used from the moment it is captured to the decision-making process.
+
+Databases: The Heart and Soul of Data Architecture
+
+When it comes to dealing with data, file systems have long been the preferred tool to deal with data storage, where databases are the preference for querying and using that data operationally. Unfortunately, legacy database models have struggled to keep up with the increasing need for real-time data ingestion, immediate and low-latency queries on that real-time data along with historical data, and handle increased demands from a growing user base for quick access through interactive cloud-native applications, SaaS and mobile apps, and APIs. The industry’s response has been the creation of highly specialized database engines, which break this workload challenge into parts to that each of these can have the speed and scale required. The unintended consequence has been an increase in the complexity of these applications due to the multiple underlying database technologies which are stitched together to serve as a data system for an application.
+
+With applications becoming increasingly reliant on connecting to multiple databases, the existing overspecialization had become a significant problem, eroding its initially offered value. Unfortunately, the shift to cloud-native architectures and the growing demand for more efficient data management is not going anywhere, meaning that if the paradigm doesn’t change, problems will ensue.
+
+SingleStore’s Approach
+
+The developers of database management systems are aware of the problems plaguing the industry, so most of them are looking to find new ways to move away from nuanced, specialty databases. Take SingleStore as an example. The company aims to harvest the benefits of elastic cloud infrastructure to create an integrated and scalable database that supports multiple types of applications.
+
+With this goal in mind, SingleStore has designed multiple features to change how businesses access and use their data. These range from using Pipelines to ingest data from any source to the distribution of the storage and the execution of queries.
+
+By developing a distributed framework for the creation, upkeep, and use of databases, SingleStore has built a new paradigm for database management.
+
+Using Distributed Architecture to Improve Performance
+
+SingleStore distributes its databases across many machines. By distributing the load in this way, SingleStore seeks to put performance first while facilitating online database operations and providing powerful cluster scaling. As single points of failure are removed by adding redundancy, any data in the database is accessible at all times.
+
+Continuous Data Loading with Pipelines
+
+SingleStore also uses its native Pipelines feature to allow users to perform real-time analytical queries and real-time data ingestion. By providing easy continuous loading, scalability, easy debugging, and high performance, Pipelines effectively acts as a more than valid alternative to ETL middleware.
+
+The fact that popular data sources and formats are also supported makes the feature easy to integrate. These include:
+
+Data sources: Apache Kafka, Amazon S3, Azure Blob, file system, Google Cloud Storage, and HDFS data sources.
+
+Data formats: JSON, Avro, Parquet, and CSV data formats.
+
+PIpelines can be easily backed up and used to restore a state at any given point, which further adds to the stability of any database.
+
+Bottomless Storage for Additional Durability
+
+In addition to dividing the load between nodes and facilitating real-time data ingestion through Pipelines, SingleStore has also developed a great way to separate storage and computing: Unlimited Storage. With Bottomless, long-term storage is moved to blob storage while the most recent data is kept in the SingleStore cluster, resulting in higher availability and flexibility.
+
+Some of the benefits of this approach are flexibility when scaling up and down, allowing for the addition of reading replicas, low recovery time objectives, and read-only point-in-time recovery.
+
+Distributed Infrastructure is the Future
+
+Distributed technology has become increasingly relevant over the past years. Blockchain, distributed ledgers, distributed computing, P2P apps, and many more use cases have caught the attention of investors worldwide.
+
+In the case of SingleStore, its approach has been attractive enough to raise over $318 million in funding from names like Khosla Ventures, Accel, Google Ventures, Dell Capital, and HPE. What started with a $5 series A round back in 2013 grew to raise $80 million in Series F funding in 2021.
+
+This success has also seen the platform’s user base grow and the industry is recognizing its contributions. Such recognitions include being listed in Deloitte’s “2021 Technology Fast 500™ Rankings”, San Francisco Business Times’ “Fast 100”, and INC’s “5000” 2020 awards.
+
+A few months ago, Gartner also added SingleStore to its Magic Quadrant for Cloud Database Management Systems, one of the most trusted reports in the industry.
+
+Summary: With applications becoming increasingly reliant on connecting to multiple databases, the existing overspecialization had become a significant problem, eroding its initially offered value.
+By developing a distributed framework for the creation, upkeep, and use of databases, SingleStore has built a new paradigm for database management.
+Continuous Data Loading with PipelinesSingleStore also uses its native Pipelines feature to allow users to perform real-time analytical queries and real-time data ingestion.
+Bottomless Storage for Additional DurabilityIn addition to dividing the load between nodes and facilitating real-time data ingestion through Pipelines, SingleStore has also developed a great way to separate storage and computing: Unlimited Storage.
+With Bottomless, long-term storage is moved to blob storage while the most recent data is kept in the SingleStore cluster, resulting in higher availability and flexibility.
+
+Other Blogs by admin: https://dataconomy.com/author/admin/

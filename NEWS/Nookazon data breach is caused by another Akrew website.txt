@@ -1,0 +1,46 @@
+Title: Nookazon data breach is caused by another Akrew website
+
+Article Link: https://dataconomy.com/2023/09/11/nookazon-data-breach/
+
+Author: Onur Demirkol
+
+Publish Date: 2023-09-11
+
+Article:
+The Nookazon data breach is all over the internet right now as bad actors have stolen people’s information. Actually, the data breach started on another Akrew website named Traderie. Here is everything you need to know about it!
+
+Traderie, a popular online marketplace owned by the U.S.-based company Akrew, has long been a hub for gamers to buy, sell, and trade items from beloved titles like Roblox, Rocket League, Diablo, and Elden Ring. However, recently, the gaming community received unsettling news.
+
+Traderie disclosed a security incident that resulted in unauthorized access to some user data. To make matters more intriguing, this breach also impacted Akrew’s well-known Nookazon website, which specializes in in-game items from Animal Crossing: New Horizons. Let’s dive into the details of the Nookazon data breach and explore the implications for its users.
+
+What is the Nookazon data breach?
+
+In a recent email to affected users, Traderie confirmed the occurrence of a security incident that allowed an unauthorized third party to access “some data from your account,” said TechCrunch. While the email did not specify the exact nature of the compromised data or the number of users affected, Traderie’s privacy policy reveals that they collect personal information, including email addresses, Discord and Twitter usernames, and log data such as IP addresses and browser information. With a vast user base connecting “millions” of video game enthusiasts worldwide, the breach’s potential impact looms large.
+
+The plot thickens as we venture into the murky world of BreachForums, a notorious hacking forum that resurfaced after shutting down in March. A user identifying as “victim” surfaced in early August, claiming to possess stolen data from Traderie, which they offered for sale at a price of $5,000 in Bitcoin.
+
+Their post suggests that up to 2.6 million Traderie users may have been affected by the breach. The alleged compromised information encompasses email addresses, IP addresses, and online identifiers for various services, including Discord, TikTok, Roblox, Xbox Live, Apple, Google, and more.
+
+Stripe information in jeopardy
+
+Adding to the concerns, the BreachForums post hints at the presence of Stripe information among the stolen data. Traderie relies on Stripe for processing payments, including customer IDs and subscription statuses. However, Traderie was quick to clarify in the email sent to affected users that they “do not directly store your password, and any financial information is handled by the payment platform Stripe.”
+
+In the attack, the threat actor also managed to take some data from Stripe, which is utilized by the website for payment processing. “The victim responsible for the breach has subsequently been selling the stolen data for the price of $5,000 in bitcoin,” said SCMagazine.
+
+This is not the first Traderie incident
+
+This isn’t the first time Traderie has faced a security breach. The BreachForums post alleges that Traderie experienced another breach in 2022, affecting approximately 400,000 users. According to the claims, the company paid to prevent the breach from leaking and did not inform the affected users. These past events raise questions about the overall security measures and transparency in handling such incidents.
+
+As the gaming community grapples with the repercussions of this data breach, it serves as a stark reminder of the importance of safeguarding personal information online. While Traderie and Nookazon work to rectify the situation and enhance their security, users should remain vigilant.
+
+Changing passwords, monitoring accounts, and staying informed about potential risks are key steps in maintaining personal online security. The world of gaming is resilient, and with collective efforts, we can ensure a safer and more enjoyable gaming experience for all.
+
+Featured image credit: Towfiqu barbhuiya/Unsplash
+
+Summary: The Nookazon data breach is all over the internet right now as bad actors have stolen people’s information.
+Actually, the data breach started on another Akrew website named Traderie.
+Let’s dive into the details of the Nookazon data breach and explore the implications for its users.
+What is the Nookazon data breach?
+“The victim responsible for the breach has subsequently been selling the stolen data for the price of $5,000 in bitcoin,” said SCMagazine.
+
+Other Blogs by Onur Demirkol: https://dataconomy.com/author/onurdemirkol/

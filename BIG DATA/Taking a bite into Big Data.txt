@@ -1,0 +1,50 @@
+Title: Taking a bite into Big Data
+
+Article Link: https://dataconomy.com/2016/02/18/taking-a-bite-into-big-data/
+
+Author: Peadar Coyle
+
+Publish Date: 2016-02-18
+
+Article:
+‘Big Data’ Analytics and Data Science are the latest buzzwords in corporate enterprises across the globe. Surprisingly it’s not just big players in the field who use them, rather companies in medium to small scale sectors. Regardless of the size of your enterprise, data is a valuable asset whether in structured, semi-structured or unstructured form. Big Data Analytics gives a company’s decision makers valuable insight into what consumers really want – optimising marketing campaigns, implementing dynamic pricing and serving customers more efficiently.
+
+The food industry is a sector that should adopt big data due to it’s size and activity. In fact, Fortune reported, “venture capitalists poured $2.8 billion into food-related startups.” Defining the size of the food industry is difficult but Forbes magazine noted that Euromonitor International estimates that the packaged food industry–including everything from pasta and cooking oil to canned and frozen foods is worth almost 1.6 trillion Euros. Meanwhile, the World Bank reports that the food and agriculture sector is 10% of global gross domestic product and with population growth and changes in consumer behaviour this figure is set to grow. Consumers of food and companies who buy ingredients leave a large digital footprint, and this is not taking into account the digital footprint left by the various transactions throughout the food supply chain.
+
+And so, how can big data help improve the food industry? Here area few ways data can be applied to make improvements.
+
+Find out what customers really like to eat and drink
+
+Data pulled up from forums, social media, video outlets, image sharing sites, customer review sites etc can be used to get real time details on consumer preferences and what competitors are providing to entice customers. This market intelligence can be invaluable for knowing which products to sell, what to invest in, and understand what foods are regarded as healthy or unhealthy. These sorts of techniques are already applied to forums and social media by analytics consultancies working for TelCo clients. There is no reason the same techniques can’t be applied to food. A collection of success stories from Fabrikatyr Analytics in the TelCo (help forum) and Airline sector (TripAdvisor type forum) is available.
+
+Come Up With Tastier Menus
+
+The right menu will have customers coming back to a restaurant. Analysing the feedback from diners can help create create ingenious and mouthwatering menus. A group of Data Scientists recently used a data-mined food forum and recipe data to extract what flavours occurred in Indian food. This is a wonderful example of data science applied to taste allowing chefs and restaurant owners to adjust their menu to improve customer feedback and popularity of the food.
+
+Find Out Dining Trends In Different Regions
+
+Restaurants with chains in various regional locations can use big data to discover the preferred food choices in various regions, even introduce the specialty of one region into another as a special dish etc. Think of the various food forums out there, who the trend-setters are, what kinds of fast-food will become in-vogue soon. Imagine if you’d been able to tell that Chipotle in the US or Nando’s in the UK would become market leaders in the fast food market? There were clearly some trend-setters in food before that, that these companies made into a resellable product. Why can’t text analytics or big data analytics be applied to such market trends? Zalando is already experimenting with stuff like this in the fashion industry with their projects on ‘fashion trend analysis’.
+
+Demand planning
+
+Recently A16Z, a technology podcast from a noted Venture Capital company interviewed the founder of Gobble which delivers dinner kits. She talked about how data science was their competitive advantage in the market as it allowed them to provide an enhanced customer experience and optimize inventory to reduce costs. Since data science is enabling companies like Blue Apron and Gobble to disrupt the food industry with better customer service and utilizing demand forecasting algorithms (such as regression) to optimise their inventory – there will be an inevitable challenge to incumbents. Companies that fail to do this will be disrupted by nimbler rivals.
+
+Location planning
+
+If you wanted to predict the best location for a particular kind of restaurant, data could help here. You could extract data using import.io to extract a list of local restaurants and government websites like data.gov to extract business critical information like demographic data, number of restaurants. This can be used in location planning, or even building models for profitability. Booking.com uses variables like this to prioritize which hotels to put on its website – why not use variables like this to plan your investments in which restaurants to open?
+
+This is further evidence that the ‘data revolution’ as some call it, is just getting started and will affect non-sexy industries like food more and more. We will see more examples of this in the future, with better food personalization, improved demand planning, and precision planting by companies like Monsanto along with other applications that we can’t even imagine at this point. Some players in the food industry may think that ‘big data’ isn’t important for them, but we’ve seen in other industries like Music and Books the power of ‘big data’. There is no logical reason that food will be any different.
+
+image credit: Ronny Richert
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: ‘Big Data’ Analytics and Data Science are the latest buzzwords in corporate enterprises across the globe.
+Big Data Analytics gives a company’s decision makers valuable insight into what consumers really want – optimising marketing campaigns, implementing dynamic pricing and serving customers more efficiently.
+The food industry is a sector that should adopt big data due to it’s size and activity.
+Why can’t text analytics or big data analytics be applied to such market trends?
+Some players in the food industry may think that ‘big data’ isn’t important for them, but we’ve seen in other industries like Music and Books the power of ‘big data’.
+
+Other Blogs by Peadar Coyle: https://dataconomy.com/author/pcoyle/

@@ -1,0 +1,78 @@
+Title: Claim your FTC Fortnite refund from Epic now
+
+Article Link: https://dataconomy.com/2023/09/20/claim-your-ftc-fortnite-refund-from-epic/
+
+Author: Kerem Gülen
+
+Publish Date: 2023-09-20
+
+Article:
+FTC and Fortnite have reached a $245 million settlement over accidental in-game purchases, allowing players to apply for refunds. The regulatory body contended that design elements misled players into unintentional buying, an issue that culminated in a settlement that’s a segment of a larger $520 million agreement disclosed last December.
+
+How to claim a Fortnite refund through the FTC?
+
+To claim your refund, head over to http://www.ftc.gov/Fortnite. According to the FTC, eligibility for a refund is determined if any of the listed conditions on the site are met:
+
+You were charged in-game currency for items you didn’t want between January 2017 and September 2022 Your child made charges to your credit card without your knowledge between January 2017 and November 2018 Your account was locked between January 2017 and September 2022 after you complained to your credit card company about wrongful charges
+
+For those under 18 interested in obtaining a refund, the FTC specifies that a parent will have to fill out the form on your behalf. Once you confirm your eligibility, you’ll be asked for either the claim number provided by the FTC or your Epic Account ID to proceed.
+
+Be aware that the cutoff date for applying for your share of the Fortnite and FTC settlement is January 17, 2024. The actual amount to be refunded will vary, hinging on a few variables, including the total number of claims made. As for when you can expect to receive the payment, the FTC has yet to announce a mailing date.
+
+If you’re planning to request a refund, you’ll need either your claim number or your Epic Account ID.
+
+Where to find Epic ID?
+
+If you haven’t received an email containing your claim number, you can easily find your Epic Account ID using the following methods:
+
+On web:
+
+Navigate to www.epicgames.com.
+
+Select “Sign-in” located in the upper right corner of the webpage.
+
+Log in to your Epic Games account.
+
+Move your cursor over your Epic Games account name and click on “Account.”
+
+Your Epic Account ID will be displayed under the “Account Information” section.
+
+In Fortnite:
+
+Launch the Fortnite game.
+
+Once you’re in the lobby, locate the main menu by clicking on the gear icon in the upper left corner.
+
+After the menu opens, click on “SETTINGS.”
+
+Go to the “ACCOUNT AND PRIVACY” tab.
+
+Hover your cursor over the area that says “EPIC ACCOUNT ID.” Your Epic Account ID will then be displayed on the right-hand side of the screen.
+
+Behind the scenes of FTC Fortnite lawsuit
+
+Last December marked a pivotal moment in gaming and regulatory oversight when Epic Games, the creator of Fortnite, agreed to a landmark $520 million settlement with the FTC. This colossal figure comprises a $275 million penalty and an additional $245 million earmarked for refunds to impacted players.
+
+FTC vs Epic Games
+
+The crux of the dispute revolved around the FTC’s assertions that Epic Games committed serious breaches of the Children’s Online Privacy Protection Act (COPPA). Firstly, the FTC claimed that Epic knowingly gathered personal data from underage players without first securing parental consent.
+
+This allegation was bolstered by evidence such as Fortnite-focused surveys, marketing materials aimed primarily at children, and internal communications within the company. In spite of being aware of their young user base, Epic had imposed cumbersome processes for parents who sought to delete their children’s data and at times failed to honor these requests altogether.
+
+The FTC pointed out inherent risks in Fortnite’s default settings back then. The game had automatically enabled text and voice chats, thereby placing minors in potentially harmful interactions with strangers. Issues ranging from bullying to exposure to emotionally damaging topics had been flagged as early as 2017 by Epic staff, but the warnings were largely ignored.
+
+FTC leak reveals discless Xbox and new Bethesda games
+
+The FTC also accused Epic Games of employing “dark patterns” in Fortnite to manipulate users into unintentional purchases. These design tactics included misleading button placements and the capacity for single-click purchases without confirmation. In some instances, players inadvertently bought items during game loading screens or when waking the game from sleep mode.
+
+Until 2018, the game had even permitted children to buy the in-game currency, V-Bucks, without the necessity for parental or cardholder approval. Additionally, if a player contested any unauthorized purchases via their credit card companies, Epic would lock the account, rendering all previous purchases inaccessible.
+
+Featured image credit: Kerem Gülen/Midjourney
+
+Summary: How to claim a Fortnite refund through the FTC?
+Once you confirm your eligibility, you’ll be asked for either the claim number provided by the FTC or your Epic Account ID to proceed.
+If you’re planning to request a refund, you’ll need either your claim number or your Epic Account ID.
+Move your cursor over your Epic Games account name and click on “Account.”Your Epic Account ID will be displayed under the “Account Information” section.
+Hover your cursor over the area that says “EPIC ACCOUNT ID.” Your Epic Account ID will then be displayed on the right-hand side of the screen.
+
+Other Blogs by Kerem Gülen: https://dataconomy.com/author/kerem-gulen/

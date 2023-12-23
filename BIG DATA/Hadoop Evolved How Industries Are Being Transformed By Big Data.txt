@@ -1,0 +1,46 @@
+Title: Hadoop Evolved: How Industries Are Being Transformed By Big Data
+
+Article Link: https://dataconomy.com/2018/05/14/hadoop-evolved-how-industries-are-being-transformed-by-big-data/
+
+Author: Vikram Bhalchandra
+
+Publish Date: 2018-05-14
+
+Article:
+A 50-year-old man runs on the treadmill and receives an alert on his Apple Watch. The message tells him to get off immediately because his pulse is abnormally high, which puts him at risk of a heart attack.
+
+Such a scenario is not far off thanks to Pontem, a platform that takes input from devices like Apple Watch and Fitbit and uses cloud-based data, machine learning and cognitive processing to decide when such alerts are warranted. For the end user, this could be a lifesaver. For the developer, this is the latest example of the evolution of big data with real world implications. A large part of the evolution of such platforms can be directly tied to the maturing of the Hadoop ecosystem.
+
+Once merely a tool to manage big data, Hadoop has emerged as the foundation of industry-specific solutions. Adapting Hadoop for this purpose, however, requires a specific approach suited to each industry.
+
+Transformation in action: Financial services and manufacturing
+
+In addition to healthcare, financial services and manufacturing are areas in which companies employ Hadoop to manage, store and analyze data. For instance, in financial services, big data is utilized for advanced AI and machine learning models that help users manage credit risk more effectively.
+
+Credit risk (i.e. the probability of a borrower’s failure to keep up with payments) is a major concern for businesses. Credit risk management, which attempts to handicap the probability of that occurrence, has been a major headache for financial services companies. Despite this being the cornerstone around which the whole banking industry has evolved, the complexity and evolving nature of financial services today has put significant stress on the traditional credit risk models. Availability of big data in multiple formats through platforms like Hadoop has helped companies create advanced credit risk models – taking into account variables and factors that were never part of the traditional credit risk frameworks.
+
+Big data allows for new models to be built. There’s a huge amount of customer data available – including spending behavior, online browsing and customer payment – that can help financial institutions make better decisions. Here, Hadoop’s ability to manipulate and sort unstructured data can be applied to a specific function. The ability to create large data lakes on Hadoop with significant protection and data security with tools like Kogni has led to these industry models evolving to the next level today.
+
+Hadoop, which is the base layer in many of these multi-layered industry big data solutions, has also evolved over the years to provide flexibility and scale to manage big data. The ability of the platform to break down big data into manageable chunks and run smaller jobs in parallel – using low cost hardware, internal fault tolerance and self-healing – has made massive scalability at manageable costs possible across hundreds or thousands of servers in a Hadoop cluster. The management of big data through massive infrastructure is now a thing of the past.
+
+Before Hadoop, there were limited means for managing the computation-intensive processes to leverage structured and unstructured data in sophisticated models. Using AI and machine learning, the new complex models built on top of Hadoop data lakes are self-learning and can adapt to changing data patterns, while the overall cost of the solution stays low and scalable.
+
+Another example is in manufacturing. Like other industries, manufacturing is undergoing a digital transformation as sensors and internet connections provide real-time data on operations. For instance, in predictive manufacturing, sensors can detect early anomalies in a production run, therefore preventing the creation and subsequent waste of thousands of defective products. These IoT sensors and edge devices (including auditory sensors) are connected to software that is able to push data in real-time into the cloud to be ingested in Hadoop data lakes for on-demand analytics. There is often a deep learning/AI aspect to the analytics layers built on top of these data lakes that provides self-learning and evolving data analytics capabilities. A recent survey from LNS Research showed that 80 percent of large manufacturers are implementing or plan to implement such technologies in the near future.
+
+How to harness Hadoop for your industry
+
+Hadoop isn’t a magic solution. It’s a platform that you can harness to help surface relevant data to aid your particular industry. These solutions, however, require mastery of Hadoop technology combined with custom knowledge and expertise within the specific industry. GE and American Express have been at the forefront to build such custom industry big data solutions – leveraging big data and Hadoop capabilities while bringing the industry expertise from inside.
+
+The best way to create these solutions is to employ a “layered” approach. At the foundation is the Hadoop data ingestion layer, followed by the algorithm layer that has models specifically built for the industry. On top of that is an even more specific layer. Each component can be customized to the industry or use case to provide maximum ROI.
+
+What’s exciting is that custom models can be used for small and medium-sized organizations in the same way as they are with large enterprises. This is truly the democratization of big data.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Summary: For the developer, this is the latest example of the evolution of big data with real world implications.
+Once merely a tool to manage big data, Hadoop has emerged as the foundation of industry-specific solutions.
+For instance, in financial services, big data is utilized for advanced AI and machine learning models that help users manage credit risk more effectively.
+Hadoop, which is the base layer in many of these multi-layered industry big data solutions, has also evolved over the years to provide flexibility and scale to manage big data.
+GE and American Express have been at the forefront to build such custom industry big data solutions – leveraging big data and Hadoop capabilities while bringing the industry expertise from inside.
+
+Other Blogs by Vikram Bhalchandra: https://dataconomy.com/author/vikram-bhalchandra/

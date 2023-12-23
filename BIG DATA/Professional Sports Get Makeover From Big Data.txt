@@ -1,0 +1,46 @@
+Title: Professional Sports Get Makeover From Big Data
+
+Article Link: https://dataconomy.com/2016/06/23/professional-sports-get-makeover-big-data/
+
+Author: Hannah Augur
+
+Publish Date: 2016-06-23
+
+Article:
+Sports teams, investors, and fans take their sports very seriously. They would do anything to up their game. Big data in the sports industry has been gaining momentum since at least 2007, and now tracking has become the norm. That why the NBA installed player tracking systems in all of its 29 arenas in 2013. The real question is, what’s next for all that data?
+
+Data Leads to Practical Changes
+
+NFL players aren’t allowed play games with GPS trackers, but that hasn’t stopped coaches from using them during practices. However, GPS, as anyone with a smartphone knows, is not always incredibly accurate. That’s why the NFL is upgrading the system, and testing out an RFID system from Zebra Technologies. Two quarter-sized radio-frequency identification chips will be equipped in players’ shoulder pads, will wirelessly sending location data and tracking speed using accelerometers.
+
+The pilot program went so well that they decided to roll it out to all of their 32 teams. This allows analysts to see the complete X-Y-Z coordinates of every player with unprecedented detail. The tags blink 25 times per second and deliver data in 120 milliseconds. By tracking speed and the distance between players, coaches can find a new wealth of information to use the space better. From new formations, to imagining new routes or understanding each player’s particular style, the true power of these tags will lie in the ability to turn numbers into something meaningful. Solution principle from one data firm, Slalom Consulting, took on that task, and streamlined sports data into clear decision-making visuals. Just by choosing which team you are “coaching,” viewers can gain clear insight into how the team performs and where the excel.
+
+Despite the prevalence of such technology and the large data sets available to the NFL, that doesn’t mean sports teams are quite ready for big data. Former Toronto Raptors president, Bryan Colangelo, says teams need data analytics specialists like never before. “There are mountains of opportunity in analytics now. If you’re not spending $250K and having two or three people dedicated to it full time, you’re probably too light on it.” Big data has been recognized for making 2015 the year of the three-point shot in the NBA. It’s expected to prove an irreplaceable tool for soccer coaches, as players tend to spend most of their time off the ball. It’s big data that can give professional sports the chance to go even bigger.
+
+Can Better Data Fend Off Concussions?
+
+Tracking players could also lead to a second, desperately overdue update for some sports: better injury prevention. Common trackers could make players, and coaches, more aware of hydration level and players’ overall physical state. Much more importantly for the NFL, it could track hits to the head. The public first became aware of the real dangers of concussions in professional sports some years ago, but that hasn’t made many changes. In fact, the 2015 season saw a 58% rise in diagnosed concussions. While turning data into preventative measures is still up to coaches and important decision makers, many hope that better tracking will lead (either organically or through an amount of pressure) to less injuries. The exact future of the NFL’s use of data is murky, and many are less than hopeful, but data could lead to useful and palatable solutions for teams.
+
+Chris Collinsworth, football analyst, speculates that data will reimagine training in sports. He speculated to the New Yorker that in ten years, “there will be almost no contact during the week. Pre-season will be eliminated.” Instead, virtual reality will be developed and used to get players building up muscle memory.
+
+Sports’ Data and the Fall of Fun
+
+Many fear big data will ruin the fun of professional sports by replacing heart with numbers. However, the possible detractions of data in sports will have much more far-reaching results than just a feeling of in-authenticity. The single most talked about use of data in sports is actually fan retention and fan base building. IBM knows it. SAS knows it. And, for better or worse, fans do not. What company’s want to do with data is “advance the fan experience.” And some fans won’t be comfortable with that.
+
+Gathering data could lead to practical things, like better game scheduling or making data available for sports fans. However, it can also lead to weird mind-games to keep players involved. Instead of just playing the game, baseball heads worry fans get bored during slow bouts, and have opted to make some overall changes to keep the audience engaged. Major League Baseball actually has several pace of game rules, including that hitters must keep one foot in the batter’s box between pitches, eliminating unnecessary time consumption between pitch rituals. Baseball games are known for running long and often slow, so making every second count is vital to those making money on sales, and keeping fans coming back. Once data can be really thoroughly analyzed, it might end up being used to play many more games with fans instead of focusing on the game, itself.
+
+We’ve talked about employers misusing employee data, and that problem exists for sports stars, too. In fact, this is one the biggest concerns for teams using data tracking. While there are several success stories for olympians or body builders using data, ball players are a different story. Even without wearables, they are under several constraints, and employers are very wary to ask players to track their movements off the field. While analysts may want to know exactly how much each player slept, or hope to draw parallels between what a player eats on Sunday to how they play on Monday, that is a line that probably won’t be crossed (at least anytime soon).
+
+This year’s MIT Sloan Sports Analytics Conference in Boston will mark the very special tenth anniversary. For ten years, data analysts have been turning simple sports into the massive and complex industry we see today, and they’re not slowing down. The MIT conference page also includes ample talks and panels on data in the sporting industry. Everyone from athletes to analysts and investors are entrenched in the big data movement, and there’s no doubt they will find creative solutions to make each game more engaging.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Big data in the sports industry has been gaining momentum since at least 2007, and now tracking has become the norm.
+Despite the prevalence of such technology and the large data sets available to the NFL, that doesn’t mean sports teams are quite ready for big data.
+It’s big data that can give professional sports the chance to go even bigger.
+Sports’ Data and the Fall of FunMany fear big data will ruin the fun of professional sports by replacing heart with numbers.
+Gathering data could lead to practical things, like better game scheduling or making data available for sports fans.
+
+Other Blogs by Hannah Augur: https://dataconomy.com/author/hannah-augur/

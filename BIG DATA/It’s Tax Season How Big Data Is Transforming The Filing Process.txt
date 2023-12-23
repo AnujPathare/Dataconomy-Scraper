@@ -1,0 +1,52 @@
+Title: It’s Tax Season: How Big Data Is Transforming The Filing Process
+
+Article Link: https://dataconomy.com/2018/04/17/its-tax-season-how-big-data-is-transforming-the-filing-process/
+
+Author: Ryan Ayers
+
+Publish Date: 2018-04-17
+
+Article:
+People all over the United States have been preparing themselves for the impact of tax reforms passed in 2017. Of course, some of these changes provide massive benefits to businesses and individuals, while others remove certain deductions we’ve become accustomed to.
+
+An accountant is still a filer’s best friend when it comes to taxes, but there’s also a surprising ally in properly accounting for and maximizing benefits in modern tax filing: big data.
+
+We all know that big data has made its way into just about every industry to streamline processes and shape business strategy, but many companies haven’t considered just how big data can play a role during tax season. Even individuals can benefit from the opportunities. Here’s how.
+
+Using Big Data to Understand the Tax Code
+
+The US tax code has historically been complex and difficult to understand. From 2011-2012, businesses had to grapple with more than 580 tax changes. That’s why hiring an accountant has always been practically a necessity for companies both large and small.
+
+Of course, last year’s legislation represents a major overhaul of this tax system. With this in mind, even if the new code is simpler, everyone will still need to learn and navigate the new rules. Big data isn’t as accessible to individuals as it is to companies with the budget and justification, but there are more free resources available to individual filers than to businesses. While big data models do help individuals, they’re more helpful for businesses and for the Internal Revenue Service when it comes to sifting through the complexities of the tax code and reducing manual enforcement efforts.
+
+Enforcement Streamlined
+
+The IRS is known for conducting anxiety-producing tax audits on businesses and individuals it suspects of non-compliance. These non-compliance cases don’t necessarily have to be deliberate omissions or errors, but it’s the job of the IRS to enforce the tax code and collect what is due. The traditional audit is expensive and time-consuming, and doesn’t always produce the return on investment one would expect from manual inspection. Here is another area where big data can help.
+
+Predictive analytics using big data can’t replace manual audits, but they can provide models based on past years that can help both the IRS and filers reduce errors and explain major changes. By looking at these models before filing, fewer errors will slip through, and filers will be able to see what kinds of discrepancies might cause the IRS to instigate an audit. Using big data to predict how much filers will likely owe can reduce the number of audits needed, saving time, money and stress on both sides.
+
+The Role of E-Filing
+
+How many people do you know who still file their taxes using paper forms? Probably not too many. The vast majority of Americans use e-filing for its speed and convenience.
+
+Aside from making it easier to file taxes with e-filing, this system has created massive amounts of pertinent data for the IRS. Big data has also allowed the United States to collect more taxes and reduce fraud from citizens holding assets in foreign countries. More than 90 countries now share information to help facilitate tax collection. Without big data, this would be a monumental and cost-prohibitive task.
+
+Monitoring Budgets and Expenses
+
+In addition to assisting directly with tax filing and compliance, big data can help monitor budget and tax expenses on things like social welfare services, which can be assisted by more investment-based services like the pay-for-success (PSF) model – a growing system that totals an estimated $200 million worldwide. These new methods for supporting social welfare can involve complex taxation, which big data can support.
+
+Modern Taxation: Streamlined and Transparent
+
+Big data does not eliminate the need for tax professionals, it simply changes the way they work. With the large number of inefficiencies inherent in tax filing and collecting, big data offers a partial solution: automation that supports, rather than replaces.
+
+Big data is helping to shape our tax system, and will be hugely helpful in evaluating the effectiveness of the new tax model that is being rolled out. What we’re seeing with big data in modern taxation is that the process becomes more streamlined and transparent—essential in an ever-changing, ever-growing society.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Summary: We all know that big data has made its way into just about every industry to streamline processes and shape business strategy, but many companies haven’t considered just how big data can play a role during tax season.
+Using Big Data to Understand the Tax CodeThe US tax code has historically been complex and difficult to understand.
+With the large number of inefficiencies inherent in tax filing and collecting, big data offers a partial solution: automation that supports, rather than replaces.
+Big data is helping to shape our tax system, and will be hugely helpful in evaluating the effectiveness of the new tax model that is being rolled out.
+What we’re seeing with big data in modern taxation is that the process becomes more streamlined and transparent—essential in an ever-changing, ever-growing society.
+
+Other Blogs by Ryan Ayers: https://dataconomy.com/author/ryan-ayers/

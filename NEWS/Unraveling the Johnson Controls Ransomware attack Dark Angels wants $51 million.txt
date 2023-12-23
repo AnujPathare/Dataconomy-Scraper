@@ -1,0 +1,60 @@
+Title: Unraveling the Johnson Controls Ransomware attack: Dark Angels wants $51 million
+
+Article Link: https://dataconomy.com/2023/09/29/johnson-controls-ransomware-attack/
+
+Author: Eray Eliaçık
+
+Publish Date: 2023-09-29
+
+Article:
+Johnson Controls ransomware attack is the topic of the day. Johnson Controls, a global industrial control systems leader, is battling the notorious Dark Angels hackers. The digital intruders have locked up the company’s data and are demanding an astonishing $51 million for its release.
+
+This high-stakes cyber showdown has left Johnson Controls reeling, disrupting its daily operations. Worse, sensitive Department of Homeland Security (DHS) information may be on the line, raising national security concerns. Johnson Controls has almost one hundred thousand employees amongst its several divisions and affiliates (such as ADT, Tyco, York, SimplexGrinnell, and Ruskin).
+
+In this article, we’ll break down what happened, the impact on Johnson Controls and national security, and the shadowy world of Dark Angels, a hacking group pushing the boundaries of cyber warfare.
+
+Johnson Controls ransomware attack may cost $51 million
+
+In a filing with the SEC on Wednesday, Johnson Controls International revealed that the business is dealing with the fallout from a cyber event that affected parts of its internal IT infrastructure and applications.
+
+The Johnson Controls ransomware attack is a cyber incident where the prominent industrial control systems manufacturer, Johnson Controls, fell victim to a ransomware attack directed by a group known as Dark Angels. During the attack, the hackers infiltrated Johnson Controls’ IT systems, encrypted their data, and demanded a hefty ransom of $51 million for the decryption key and the promise to delete the stolen data.
+
+The specific details of the data stolen during the Johnson Controls ransomware attack have not been publicly disclosed in great detail. However, it has been reported that the hackers claimed to have accessed approximately 27 terabytes of data. Of particular concern was the possibility that the stolen data might include sensitive information related to the Department of Homeland Security (DHS).
+
+The reports suggested that the stolen data could potentially encompass security information tied to third-party contracts and floor plans of certain agency facilities. However, it’s important to note that the full extent of the stolen data and its contents may not have been fully disclosed to the public, and some details may remain confidential due to the ongoing investigation and the sensitive nature of the information involved.
+
+In ransomware attacks, cybercriminals typically steal data from the victim’s systems before encrypting it, and they may threaten to release this data if their ransom demands are not met. This “double-extortion” tactic is intended to increase the pressure on the victim to pay the ransom, and Dark Angels heavily use this tactic.
+
+Dark Angels unveiled
+
+Dark Angels burst onto the scene in May 2022, targeting organizations worldwide. Their modus operandi involves breaching corporate networks, stealing data, and deploying ransomware. They’ve gained notoriety for their use of double-extortion tactics, threatening to leak stolen data if ransoms aren’t paid.
+
+While Dark Angels initially employed Windows and VMware ESXi encryptors, the Linux encryptor used in the Johnson Controls attack has been traced back to the Ragnar Locker ransomware, which has been active since 2021.
+
+In April 2023, Dark Angels unveiled ‘Dunghill Leaks,’ a data leak site designed to exert further pressure on their victims by exposing sensitive information if ransoms remain unpaid.
+
+Johnson Controls
+
+With headquarters in Cork, Ireland, Johnson Controls International is a worldwide business that manufactures fire, Ventilation, and security systems for commercial and residential properties. It has 105,000 employees by the middle of 2019 spread over about 2,000 sites on six continents.
+
+Conclusion
+
+In the wake of the Johnson Controls ransomware attack, we find ourselves at the crossroads of cyber warfare and corporate resilience. The audacity of Dark Angels’ digital siege reminds us that even industry titans can be brought to their knees by the relentless evolution of cyber threats.
+
+The staggering $51 million ransom demand looms like a shadow over Johnson Controls, as the company grapples not only with the immediate consequences of the attack but also the potential long-term repercussions. The very real prospect of sensitive Department of Homeland Security data falling into the wrong hands adds a layer of urgency to an already complex situation.
+
+As the cybersecurity community watches closely, it’s important to consider the potential ramifications beyond decryption keys and data loss. In the event of a data breach involving sensitive government information, hefty fines and legal repercussions could follow. The Department of Homeland Security, like other government entities, takes data breaches seriously, and the fallout from such an incident could be extensive.
+
+In the end, the Johnson Controls ransomware attack serves as a stark reminder that no entity is immune to the evolving tactics of cyber adversaries. It underscores the critical importance of robust cybersecurity measures and rapid response strategies in our interconnected world.
+
+As we navigate these digital waters, one thing remains clear: the battle against cyber threats is an ongoing and ever-adaptive struggle, where vigilance, preparedness, and resilience are the keys to emerging unscathed from the shadows cast by those who seek to exploit our digital vulnerabilities.
+
+Featured image credit: Michael Geiger/Unsplash
+
+Summary: Johnson Controls ransomware attack is the topic of the day.
+Johnson Controls, a global industrial control systems leader, is battling the notorious Dark Angels hackers.
+The Johnson Controls ransomware attack is a cyber incident where the prominent industrial control systems manufacturer, Johnson Controls, fell victim to a ransomware attack directed by a group known as Dark Angels.
+The specific details of the data stolen during the Johnson Controls ransomware attack have not been publicly disclosed in great detail.
+ConclusionIn the wake of the Johnson Controls ransomware attack, we find ourselves at the crossroads of cyber warfare and corporate resilience.
+
+Other Blogs by Eray Eliaçık: https://dataconomy.com/author/eray-eliacik/

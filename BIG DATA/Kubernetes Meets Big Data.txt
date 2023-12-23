@@ -1,0 +1,46 @@
+Title: Kubernetes Meets Big Data
+
+Article Link: https://dataconomy.com/2018/11/08/kubernetes-meets-big-data/
+
+Author: Irshad Raihan
+
+Publish Date: 2018-11-08
+
+Article:
+Organizations yearn order and simplicity over chaos and confusion, but the data-driven era we live in challenges these desires on a daily basis. Seemingly every day, massive amounts of transactional and streaming data is being introduced into enterprises. This data must be collected, deciphered, shared, and acted upon.
+
+Cloud-native technologies offer unparalleled scale and the promise of greater agility, both of which are critical in today’s data-intensive era. In fact, I’d go as far as to argue that cloud-native technologies have brought us to a critical inflection point–and could have a long-lasting effect on the way we manage enterprise data.
+
+Take Kubernetes, for example. The orchestration framework provides a single source for easy management of both application infrastructure and data, thereby introducing a much-needed element of simplicity into the big data universe. By enabling persistent storage services to be attached to and served by Linux containers, Kubernetes is helping drive data-intensive workloads like SQL/NoSQL databases and messaging toward containers.
+
+Big Data makes its way into the enterprise data center
+
+How did we get here? To understand the answer, it helps to go back to the early days of Hadoop.
+
+Soon after its introduction, it was clear that Hadoop alone was no longer enough to effectively manage emerging data sources and real-time analytics needs, as it was primarily built as a batch processing technology. That resulted in the proliferation of analytics frameworks–such as Spark–designed to address Hadoop’s shortcomings.
+
+This rapidly sprawling ecosystem addressed some big data needs, but it also helped to create some of the chaos as well. Many data analytics applications were often highly volatile and didn’t play by traditional application rules. As a result, they were kept separate from other enterprise applications in the data center.
+
+Now, things are swinging back the other way. Open source cloud-native technologies like Kubernetes are providing a solid platform for managing both applications and data. Meanwhile, solutions are being developed that allow analytics workloads to be run on IT infrastructures, whether those infrastructures are virtualized or containerized.
+
+Shared data context is the key
+
+In the early days of Hadoop, data locality was the mantra. Data was distributed and brought close to compute. Today, storage is being decoupled from compute. We have gone from distributing data to distributing access to data. The inevitable convergence of data analytics workloads and Kubernetes based on-demand cluster provisioning is upon us.
+
+A shared storage repository is key to managing multi-tenant workload isolation, enabling agility, and preventing data duplication. This allows analytics teams to set up customized clusters to suit their needs and meet SLAs without having to re-create or move large data sets.
+
+In addition, developers and data managers can query across unstructured and structured data sources without expensive and cumbersome data movement. Development times are accelerated and products are brought to market faster. The efficiencies brought about through distributed access to a shared storage repository may also result in lower costs and increased utilization.
+
+Unlocking data. Unlocking innovation.
+
+By using a shared data context for multi-tenant workload isolation, data is essentially unlocked and easily accessible by anyone who needs it. Data engineers can dynamically provision clusters with the right resources, versions, and data. Data platform teams can achieve consistency between multiple analytics cluster silos, and IT infrastructure teams can have those clusters use their overall infrastructures that have traditionally been used for other workloads.
+
+Data and applications are finally becoming one with each other again, creating a cohesive and standard means of managing both on the same infrastructure. Getting to this point has taken a few years, but we are finally living in an era where enterprises can now deploy a single infrastructure to manage big data and a host of other needs. Open source and cloud-native technologies have made this possible and will continue to lead the way.
+
+Summary: This rapidly sprawling ecosystem addressed some big data needs, but it also helped to create some of the chaos as well.
+Shared data context is the keyIn the early days of Hadoop, data locality was the mantra.
+The inevitable convergence of data analytics workloads and Kubernetes based on-demand cluster provisioning is upon us.
+In addition, developers and data managers can query across unstructured and structured data sources without expensive and cumbersome data movement.
+By using a shared data context for multi-tenant workload isolation, data is essentially unlocked and easily accessible by anyone who needs it.
+
+Other Blogs by Irshad Raihan: https://dataconomy.com/author/irshad-raihan/

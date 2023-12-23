@@ -1,0 +1,64 @@
+Title: Data’s Growing Role in Scalable Ecommerce​
+
+Article Link: https://dataconomy.com/2019/03/14/datas-growing-role-in-scalable-ecommerce%e2%80%8b/
+
+Author: Ralph Tkatchuk
+
+Publish Date: 2019-03-14
+
+Article:
+Here is how Big Data can help you in your growth strategies in ecommerce
+
+
+
+Ecommerce is taking a bigger slice of the global retail pie. In the US, for example, ecommerce currently accounts for approximately 10% of all retail sales, a number that’s projected to swell to nearly 18% by 2021. To a large extent, the ecommerce of today exists in the shadow of the industry’s early entrant and top player, Amazon. Financial analysts predict the retail giant will control 50% of the US’ online retail sales by as early as 2021, leaving other ecommerce stores frantically trying to take a page out of the company’s incredibly successful online retail playbook.
+
+
+
+While it seems unlikely that another mega-retailer will rise to challenge Amazon’s ecommerce business in the near future, at least 50% of the online retail market is wide open. Smaller and niche ecommerce stores have a real chance to reach specialized audiences, create return customers, and cultivate fervent brand loyalty. Amazon may have had a first-mover advantage, but the rise in big data and the ease of access to analytics means that smaller companies can find areas in which to compete and improve margins. As e-retailers look for ways to expand revenues while remaining lean, data offers a way forward for smart scalability.
+
+
+
+Upend Your Back-end
+
+
+
+While data can improve ecommerce’s customer-facing interactions, it can have just as major an impact on the customer experience factors that take place off camera. Designing products that customers want, having products in stock, making sure that products ship on schedule–all these back-end operations play a part in shaping customer experience and satisfaction. In order to shift ecommerce from a product-centric to a customer-centric model, ecommerce companies need to invest in unifying customer data to inform internal processes, and provide faster, smarter services.
+
+
+
+The field of drop shipping, for instance, is coming into its own thanks to smart data applications. Platforms like Oberlo are leveraging prescriptive analytics to enable intelligent product selection for Shopify stores, helping them curate trending inventory that sells and allowing almost anyone to create their own e-store. Just as every customer touchpoint can be enhanced with big data, ecommerce companies that apply unified big data solutions to their behind-the-scenes benefit from streamlined processes and workflow.
+
+
+
+Moreover, ecommerce companies that harmonize data across departments can identify purchasing trends and act on real-time data to optimize inventory processes. Using centralized data warehouse software like Snowflake empowers companies to create a single version of customer truth to automate reordering points and determine what items they should be stocking in the future. Other factors, such as pricing decisions, can also be finessed using big data to generate specific prices per product that match customer expectations and subsequently sell better.
+
+Data Transforms the Customer Experience
+
+
+
+When it comes to how data can impact the overall customer experience, ecommerce companies don’t have to invent the wheel. There’s a plethora of research that novice and veteran data explorers can draw on when it comes to optimizing customer experiences on their websites. General findings on the time it takes for customers to form an opinion of a website, customers’ mobile experience expectations, best times to send promotional emails and many more metrics can guide designers and developers tasked with improving ecommerce site traffic.
+
+
+
+However, ecommerce sites that are interested in more than just treading water will need to invest in more specific data tools that provide a 360-degree view of their customers. Prescriptive analytic tools like Tableau empower teams to connect the customer dots by synthesizing data across devices and platforms. Data becomes valuable as it provides insights that allow companies to make smarter decisions based on each consumer identify inbound marketing opportunities and automate recommendations and discounts based on the customer’s previous behavior.
+
+
+
+Data can also inspire changes in a field that has always dominated the customer experience—customer support. The digital revolution has wrought substantial changes in the once sleepy field of customer service, pioneering new avenues of direct communication with agents via social media and introducing the now ubiquitous AI chatbots. In order to provide the highest levels of customer satisfaction throughout these new initiatives, customer support can utilize data to anticipate when they might need more human agents staffing social media channels or the type of AI persona that their customers want to deal with. By improving customer service with data, ecommerce companies can better the entire customer experience.
+
+Grow with Your Data
+
+
+
+As more and more data services migrate to the cloud, ecommerce companies have ever-expanding access to flexible data solutions that both fuel growth and scale alongside the businesses they’re helping. Without physical stores to facilitate face-to-face relationships, ecommerce companies are tasked with transforming their digital stores into online spaces that customers connect with and ultimately want to purchase from again and again.
+
+
+
+Summary: In order to shift ecommerce from a product-centric to a customer-centric model, ecommerce companies need to invest in unifying customer data to inform internal processes, and provide faster, smarter services.
+Just as every customer touchpoint can be enhanced with big data, ecommerce companies that apply unified big data solutions to their behind-the-scenes benefit from streamlined processes and workflow.
+Moreover, ecommerce companies that harmonize data across departments can identify purchasing trends and act on real-time data to optimize inventory processes.
+Data Transforms the Customer ExperienceWhen it comes to how data can impact the overall customer experience, ecommerce companies don’t have to invent the wheel.
+By improving customer service with data, ecommerce companies can better the entire customer experience.
+
+Other Blogs by Ralph Tkatchuk: https://dataconomy.com/author/ralph-tkatchuk/

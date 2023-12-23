@@ -1,0 +1,34 @@
+Title: DataStax Debuts DSE 4.7, The Complete Enterprise Database Platform
+
+Article Link: https://dataconomy.com/2015/05/19/datastax-debuts-dse-4-7-the-complete-enterprise-database-platform/
+
+Author: Juan Salazar
+
+Publish Date: 2015-05-19
+
+Article:
+DataStax today announced the general availability of DataStax Enterprise 4.7 (DSE 4.7), the database platform purpose-built for the performance and availability demands of web, mobile and Internet of Things (IoT) applications. With significant advancements to integrated enterprise search, analytics, security, in-memory computing, and database management and monitoring, DSE 4.7 is capable of handling the increasing shift toward mixed workload deployments.
+
+“With DataStax Enterprise 4.7 and OpsCenter 5.2, users can search, analyze, secure and manage all their online data in one platform and ensure it’s immediately available for real-time decision making”, says Robin Schumacher, DataStax VP of Products. “For this release, a key area of concentration was improving our enterprise search. We’re very excited about our new “Live Indexing” feature, which makes new, high-velocity data coming in immediately available for search. Other search software like Apache Solr (which we use as our search foundation) and Elasticsearch oftentimes experience lags between new data entering a system and having it ready for search, but our Live Indexing does away with such delays”.
+
+In addition, DSE 4.7 is the first database to link together Spark analytics and enterprise search. We’ve enhanced the SparkSQL language so that is accepts Solr search filters and syntax directly through a query’s WHERE clause. The end result is more powerful analytical queries that can use search and the potential for faster response times.
+
+DSE 4.7 also includes support for machine learning, JDBC, and easy performance monitoring of Spark performance in DSE’s Performance Service. DSE’s in-memory option has also been improved to address up to 50x more RAM than previous versions. With encryption and external security software support enhancements, DSE 4.7 and OpsCenter 5.2, DataStax’s visual management and monitoring console, delivers heightened data protection to keep data safe at all times. OpsCenter 5.2 allows administrators to easily expand into new territories, add new on-premise data centers and provide additional cloud availability zones when needed. OpsCenter’s new visual features for multi-data center operations helps administrators efficiently provision, administer, and monitor multi-site databases, while new visual performance dashboards with expert recommendations help simplify performance tuning.
+
+DSE 4.7 includes a production-certified version of Cassandra 2.1, bringing features such as user defined types, improved counters, and more efficient repair operations.
+
+About Datastax
+
+DataStax delivers Apache Cassandra™ in a database platform purpose-built for the performance and availability demands for IoT, web and mobile applications. This gives enterprises a secure, always-on database technology that remains operationally simple when scaling in a single datacenter or across multiple datacenters and clouds.
+
+With more than 500 customers in over 50 countries, DataStax is the database technology of choice for the world’s most innovative companies, such as Netflix, Adobe, Intuit and eBay. Based in Santa Clara, Calif., DataStax is backed by industry-leading investors including Comcast Ventures, Crosslink Capital, Lightspeed Venture Partners, Kleiner Perkins Caufield & Byers, Meritech Capital, Premji Invest and Scale Venture Partners.
+
+Image Credit: DataStax
+
+Summary: DataStax today announced the general availability of DataStax Enterprise 4.7 (DSE 4.7), the database platform purpose-built for the performance and availability demands of web, mobile and Internet of Things (IoT) applications.
+With significant advancements to integrated enterprise search, analytics, security, in-memory computing, and database management and monitoring, DSE 4.7 is capable of handling the increasing shift toward mixed workload deployments.
+In addition, DSE 4.7 is the first database to link together Spark analytics and enterprise search.
+DSE 4.7 also includes support for machine learning, JDBC, and easy performance monitoring of Spark performance in DSE’s Performance Service.
+DSE 4.7 includes a production-certified version of Cassandra 2.1, bringing features such as user defined types, improved counters, and more efficient repair operations.
+
+Other Blogs by Juan Salazar: https://dataconomy.com/author/juan-salazar/

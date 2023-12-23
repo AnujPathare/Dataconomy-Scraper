@@ -1,0 +1,68 @@
+Title: Bringing Artificial Intelligence to the Rail Industry
+
+Article Link: https://dataconomy.com/2015/11/11/bringing-artificial-intelligence-to-the-rail-industry/
+
+Author: Bhoopathi Rapolu
+
+Publish Date: 2015-11-11
+
+Article:
+Within the rail industry, anything which helps keep trains moving, avoiding operational delays and improves customer experience, is worth pursuing. Many OEMs are now investing significant resources into one of the most valuable and potentially rewarding currencies in business: Big Data.
+
+In rail, and specifically when it comes to rolling stock maintenance, big data is synonymous with Condition Based Maintenance (CBM) and Predictive Maintenance (PM). Thanks to the rapidly expanding scale of manufacturing and asset maintenance industries, they are now adapting to the wider applications of advanced algorithms on consumer generated big data.
+
+Though CBM and PM are commonly adopted practices in rail industry, the scope of CBM is far wider than that of PM. CBM usually constitutes the direct application of diagnostic monitoring in real-time, making sense for assets and sub-systems that give us enough time to act after reading their condition. It also makes perfect sense for most of the diagnostic monitoring scenarios such as monitoring wheels, axles, high level network issues etc. However, CBM fails to address those systems which don’t give enough time to act up on or systems that directly influence customer experience.
+
+For example, if you identify a malfunction in the doors using a diagnostic monitoring system, there is rarely time to fix them without impacting delay and customer comfort. Ideally, OEMs want to be aware of any potential failures well before they happen, and act upon them so that they don’t happen during production/operation. A PM solution helps to manage these assets so that OEMs will not end up in such a ‘failure’ scenario. Similarly, with mission-critical safety-related systems like bridges, some of the signalling assets that simply cannot be allowed to fail are good candidates for the implementation of PM solutions. For all other assets, CBM is sufficient and PM may not be required, because there is enough time to take action.
+
+However, the application of big data is not limited to CBM and PM. As the industry produces more data from its assets and from a variety of maintenance management systems, proven big data applications from other industries (such as in e-commerce, social media, online search etc.) become increasingly relevant to the rail industry. One of these applications is in Artificial Intelligence (AI), which is already being applied within rail in a variety of ways:
+
+1. Situational Intelligence
+
+Usually, Situational Intelligence means having complete knowledge of the operations and greater control over bringing things into order, if required. Train operations companies (TOCs) can achieve situational intelligence by collecting real-time data from their trains as they are in operation and analysing it in three different dimensions: Spatial, Temporal and Nodal.
+
+Firstly, the spatial component gives the real-time location of trains and their respective systems and sub-systems in each train. With this, you can understand where things are and how they are performing through geospatial orientation.
+
+The temporal view can then be added to provide insight into the performance of assets according to a time scale – spanning from how they are performing in the real-time to the last minute, hour, day, and week and beyond.
+
+The final element of situational intelligence is nodal, which is the inter-relationship and hierarchy of various sub-systems across the entire fleet. Analysing data along nodal dimensions gives us the ability to view the interdependencies of various systems, and exposes root causes for failures and system behaviours.
+
+Figure 1: Spatial-Temporal-Nodal Model of AI Engine
+
+Analysing Big Data in these three dimensions in real-time works like a ‘collective mind’ that can expose both opportunities and threats in train operations. Its combination with recent advancements in computational efficiency now allows for massive scale searches for anomalous patterns, which produces results in minutes. As a result, comprehensive surveillance becomes possible and critical clues for impending failures become much harder to miss. Some of the advanced statistical analysis models available today can produce ranked lists of findings, so that investigative resources can focus on those which are the most significant and alarming. Once the most frequent and common issues are identified, routine analysis can be automated and run regularly, leading to more effective resource allocation. Certain industries like utilities are already using such systems today for network monitoring and asset maintenance.
+
+2. Operational Intelligence
+
+Operational intelligence meanwhile uses the power of data and its capability to extract the right information at the right time to improve the effectiveness of rolling stock maintenance. For an example of how this might work, think of the product recommendation engine on Amazon.com. Or friend suggestions on Facebook or contextual ads on Google search: welcome to the world of Artificial Intelligence.
+
+With the growing volume of sensor and maintenance data beginning to reach the scale of consumer-generated data on the internet, the rail industry is now ready to exploit the capabilities of AI. Challenges such as identifying a root cause to a problem and finding the most suitable repair action are very similar to those already solved in the consumer space, where AI is already widely used. Today cutting-edge algorithms can mine tons of operational data for TOCs and provide them with recommended actions for most unscheduled maintenance issues.
+
+In terms of operational intelligence, some of the relevant AI techniques to address problems like fleet monitoring and asset maintenance in the Rail industry include Knowledge Based Systems, Case Based Reasoning, Genetic Algorithms, Neural Networks and Fuzzy Logic etc. They eliminate the need for lengthy root cause identification and arrive at the required repair action more quickly, leading to faster repair, reduced maintenance cost and increased fleet availability and customer satisfaction.
+
+Train operations and maintenance data can be used to build maintenance knowledge-based systems similar to the IBM Watson super computer. Such AI systems can then perform simple tasks such as scheduling engineering works in the most optimized fashion, providing lists of tools and inventory required for a given job, and presenting the possible impact of the issue on fleet availability just in case maintenance engineer wants to ignore some of the jobs.
+
+Figure 2: Knowledge Based Systems
+
+The key promise of an AI engine is that it can capture and encode valuable domain and expert knowledge of engineering works, as well as safety requirements and guidelines, to automatically optimize how track possessions, engineering trains and personnel resources are assigned to various engineering works.
+
+MTR Corporation of Hong Kong, for example, uses AI to streamline and automate their quarterly planning and weekly scheduling of all engineering works. The solution helps them to maximise their resource utilization while adhering to all the maintenance rules, regulations and guidelines. As a result, MTR has realized an improvement of more than 50% in overall maintenance efficiency in addition to significant savings in cost and time.
+
+Looking further forward, the benefits of an AI engine will be multiplied when suppliers providing engineering works are integrated into the process. With the AI engine, feedback (e.g. request feasibility, resource availability, safety and potential conflicts with other requests) can be given within seconds instead of weeks. This allows hundreds of planners to immediately refine or change their plans if necessary, instead of having to wait several days or even a week.
+
+3. Asset Intelligence
+
+When it comes to asset intelligence, the continuous data streams produced from various sub-systems in trains help OEMs build digital twins that represent physical systems in real-time. By running the train’s digital twins to establish their performance patterns, it is possible not just to predict the failures of systems, but to monitor and assess long term performance asset metrics such as reliability and availability, and come up with suggested areas of improvements in product design. When continuous improvements are applied to their product design, OEMs can achieve a significant competitive advantage. The practice of building digital twins of critical assets is currently being applied in industries such as aerospace and heavy engineering for instance to effectively monitor and control them remotely in real-time
+
+Overall, the underlying motive for applying AI is the ability to identify “failure signatures” and immediately take corrective action once they are detected. Analytics techniques such as the recurrent event models produced by AI are very useful in determining expected field failures, while advanced data mining techniques such as Association and Sequence analysis can be used to identify failures which coincide, as well as failure patterns where one failure is followed by other, while decision trees and neural networks are employed for building predictive models.
+
+Establishing root-causes to events and failures is central to building knowledge based systems, and alongside the aforementioned numerical data analysis, a number of other techniques are also being used to support the practice of predictive maintenance. Text mining, for example, is increasingly being leveraged to gain insights into this space. Advanced failure models are also available today to come up with Residual Useful Life (RUL) in components, sub-systems and systems. In addition, there are parametric as well as non-parametric methods which are being used to analyze recurrent failure events within repairable systems: Wayne Nelson’s Mean Cumulative Function (MCF) is a popular non-parametric method, while the two most commonly used parametric methods are the Homogeneous Poisson Process (HPP) and Non-Homogeneous Poisson Process (NHPP). The CROW – AMSAA model is one example of an implementation of the NHPP which allows an analyst to model deteriorating systems.
+
+Given all that has been discussed above, it’s clear that the application of Artificial Intelligence is not a ‘quick-fix’, or an off-the-shelf solution which can be quickly implemented and used to support predictive and condition-based maintenance. The correct analysis of big data to create situational intelligence, operational intelligence and asset intelligence though has the potential to be revolutionary, transforming the way OEMs across the rail industry approach rolling stock maintenance. These three areas, if applied correctly, demonstrate that the rail industry is not only ready to use artificial intelligence solutions, but that it can take on and build upon the learnings it has taken from the consumer internet to make AI an application for the present, not just the future.
+
+Summary: Within the rail industry, anything which helps keep trains moving, avoiding operational delays and improves customer experience, is worth pursuing.
+Though CBM and PM are commonly adopted practices in rail industry, the scope of CBM is far wider than that of PM.
+become increasingly relevant to the rail industry.
+One of these applications is in Artificial Intelligence (AI), which is already being applied within rail in a variety of ways:1.
+The correct analysis of big data to create situational intelligence, operational intelligence and asset intelligence though has the potential to be revolutionary, transforming the way OEMs across the rail industry approach rolling stock maintenance.
+
+Other Blogs by Bhoopathi Rapolu: https://dataconomy.com/author/bhoopathirapolu/

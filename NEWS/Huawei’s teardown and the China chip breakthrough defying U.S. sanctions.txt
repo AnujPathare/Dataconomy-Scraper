@@ -1,0 +1,54 @@
+Title: Huawei’s teardown and the China chip breakthrough defying U.S. sanctions
+
+Article Link: https://dataconomy.com/2023/09/05/huaweis-teardown-china-chip-breakthrough/
+
+Author: Kerem Gülen
+
+Publish Date: 2023-09-05
+
+Article:
+Huawei’s Mate 60 Pro has hit the market, spotlighting China’s chip breakthrough. Designed with SMIC’s 7nm chips, the device could be seen as a significant maneuver in bypassing U.S. technological sanctions.
+
+Tagged as a “blow to U.S. sanctions” by Bloomberg, this phone employs SMIC’s most advanced 7nm chip technology, highlighting China’s progress in building its domestic chip capabilities. The teardown performed by TechInsights underscores the momentum China has gained in chip development and fabrication.
+
+Scooping China’s chip breakthrough: The Huawei teardown
+
+This development isn’t just an internal triumph for China; it holds ramifications for U.S.-based companies like Qualcomm and Apple. Given that the Mate 60 Pro showcases China’s ability to independently produce high-level tech hardware, it casts a shadow on U.S. efforts to halt China’s tech industry.
+
+The phone’s launch coincided with the departure of U.S. Secretary of Commerce Gina Raimondo from her China visit, underscoring the device as not merely a technological advancement but as a geopolitical statement. It effectively questions the effectiveness of the technology sanctions imposed by the U.S.
+
+In sum, Huawei’s new Mate 60 Pro serves as a pivotal milestone in China’s journey towards technological self-reliance, challenging the efficacy of U.S. sanctions in curbing China’s tech ascendancy.
+
+As articulated by China’s Global Times, the U.S. stratagem to clip China’s technological wings appears to be unraveling:
+
+Chinese companies will inevitably break through the blockade and move forward. This is the result of China’s overall development and close integration with global interests. In this era of globalization, the idea of kicking Chinese companies out of the industrial chain will only encounter increasing resistance because it goes against the law of development. The resurgence of Huawei smartphones after three years of forced silence is enough to prove that the US’ extreme suppression has failed. This also serves as a microcosm of the US-China tech war, reflecting the entire process and foreshadowing the final outcome. Recently, some American media outlets have been enthusiastic about hyping up things like Huawei is building a “secret” chip factory. Ultimately, these are all due to a failure to see or a refusal to believe in the general trend, and they hold on to outdated thinking that Chinese companies’ technology is all “stolen.” Essentially, it is Washington’s technological arrogance, and the US will definitely pay the price for this arrogance.
+
+Huawei’s Mate 60 Pro continues to impress, as a teardown by TechInsights showcases its advanced Kirin 9000s chip, thus spotlighting another China chip breakthrough. This powerful processor features a 12-core architecture and achieves top speeds of 2.62 gigahertz. What further distinguishes this chip is its updated AI engine, reported to be 20% more efficient than its antecedent.
+
+This technological milestone holds particular significance for Huawei, which has been laboring under U.S. sanctions since 2019. The imposition of these restrictions has catalyzed Huawei’s efforts to establish its own chip ecosystem, and the Kirin 9000s chip serves as a pivotal advancement in this regard.
+
+Further contextualizing the achievement, SMIC’s utilization of 7nm technology in this chip sets a new standard, placing it on par with the leading U.S. chip manufacturers. This isn’t merely a one-off instance of technological prowess; it’s indicative of the maturation of China’s semiconductor industry as a whole. Backed by robust governmental investment, China’s domestic chip sector appears poised for substantial growth in the years ahead.
+
+Huawei’s Mate 60 Pro is powered by a new Kirin 9000s chip that was fabricated in China by Semiconductor Manufacturing International Corp., according to a teardown of the handset that TechInsights conducted for Bloomberg News. The processor is the first to utilize SMIC’s most advanced 7nm technology and suggests the Chinese government is making some headway in attempts to build a domestic chip ecosystem, according to the research firm –Bloomberg
+
+In a twist that defies the U.S.’ strategic intent, new reports indicate that SMIC might have navigated around American sanctions by providing Huawei with 7nm chips. This move is the culmination of a collaboration that took root three years ago when U.S. policies blocked vendors from supplying Huawei with 5G chips. Subsequently, Huawei and SMIC have been diligently working behind the scenes to foster an alternative chip, effectively reducing reliance on U.S. technologies.
+
+Your future brain chip is now $280 million closer
+
+The Mate 60 Pro represents a generational leap from its predecessor, the Huawei Mate 50 Pro. Among its manifold advancements are satellite calling functionalities and an advanced LTPO AMOLED display. The device’s 6.82-inch AMOLED screen provides an adaptive refresh rate that varies between 1Hz and 120Hz and is accompanied by a 300Hz touch sampling rate.
+
+This turn of events also lays bare the counterproductive impact of U.S. sanctions on semiconductor sectors in other countries, including South Korea and Taiwan. With the gradual shift toward domestically produced chips, China is on course to significantly trim down its massive $300 billion import bill in the semiconductor segment.
+
+The Mate 60 Pro has evidently captured consumer interest; as per China Global Times, the phone was completely sold out within a minute of its online launch. In a bid to keep pace with the skyrocketing demand, Huawei is ramping up its production capabilities, with an estimated output of 15 to 17 million units in the pipeline.
+
+Huawei, the Chinese tech giant, has boosted the production of its latest flagship smartphone, the Mate 60 Pro, to 15-17 million units, as it was sold out in one minute on online platforms on Sunday, according to media reports. Consumers can purchase the Mate 60 Pro in Huawei's… pic.twitter.com/2W4XGI6bbk — Global Times (@globaltimesnews) September 4, 2023
+
+Featured image credit: Kerem Gülen/Midjourney
+
+Summary: Huawei’s Mate 60 Pro has hit the market, spotlighting China’s chip breakthrough.
+Designed with SMIC’s 7nm chips, the device could be seen as a significant maneuver in bypassing U.S. technological sanctions.
+Scooping China’s chip breakthrough: The Huawei teardownThis development isn’t just an internal triumph for China; it holds ramifications for U.S.-based companies like Qualcomm and Apple.
+Huawei’s Mate 60 Pro continues to impress, as a teardown by TechInsights showcases its advanced Kirin 9000s chip, thus spotlighting another China chip breakthrough.
+Consumers can purchase the Mate 60 Pro in Huawei's… pic.twitter.com/2W4XGI6bbk — Global Times (@globaltimesnews) September 4, 2023Featured image credit: Kerem Gülen/Midjourney
+
+Other Blogs by Kerem Gülen: https://dataconomy.com/author/kerem-gulen/

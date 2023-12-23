@@ -1,0 +1,62 @@
+Title: Top Tips for Implementing a Big Data Strategy
+
+Article Link: https://dataconomy.com/2014/11/04/top-tips-for-implementing-a-big-data-strategy/
+
+Author: admin
+
+Publish Date: 2014-11-04
+
+Article:
+Ali Rebaie is a Big Data & Analytics industry analyst and consultant of Rebaie Analytics Group. He provides organizations with a vendor-neutral selection of business intelligence & big data technologies and advice on big data and information management strategy and architecture. Ali also appeared in several lists of “Who’s Who in Big Data” and as one of the top big data influencers worldwide. He has led and developed several technology projects in business intelligence and analytics and worked for clients in the Fortune 500. Ali is a member of the internationally renowned Boulder BI Brain Trust (BBBT) in Boulder, USA, a membership-only consortium of leading independent BI and Big Data experts and analysts worldwide.
+
+How is big data evolving in the Middle East?
+
+Big Data has a long 5000-year history here, which effectively was born in Mesopotamia when they used to store data in clay tablets. Then, the royal Library of Ashurbanipal was built and collected thousands of clay tablets and fragments. Scribes used to write and collect these data. In the era of big data, we all became data scribes because we leave traces of our activity from the distance we walk, calories we consume, music we listen, places we go for shopping etc…All the digital devices available now which collect these data from credit bureau agencies, telecom operators, weather streams, sensors, and social media. Once we mashup and draw all these traces in a pattern, we can reveal interesting insights about our health, business, economy, transportation etc.
+
+I have a BI background and based in Dubai, I started in the big data scene in 2010, where I began researching, writing and speaking about the big data market in general. Actually, at that moment, there was no scene in the Middle East and the market was completely immature.
+
+However, at the beginning of 2013, the big data scene started picking up. We had our first event in Dubai that year, where I presented to mostly banks and retailers. The banks were predominately interested in traditional business intelligence technologies, but we also covered some social media analytics topics too.
+
+Now, in 2014, there’s a lot happening. For example, we have more than 6 events this year, where the attendance has been particularly strong. From the first event I attending to the most recent, there has been a dramatic change. The government has been keen on data initiatives like open data, and also smart enablement. Also, I am having discussions with different clients who started to set budgets for advanced analytics and I am also helping others in setting their big data strategies.
+
+In general, the one’s that are implementing big data are telecoms and transport. Retailers are slow adopters, but are moving in that direction. The big problem people are facing in the Gulf is about Data Scientists – the main question I get asked is whether they can be outsourced.
+
+Do you think company’s will start moving in this direction – outsourcing data scientists?
+
+I think this is a great business model! I’ve met some of the largest entertainment and media companies in Dubai, and both have told me that they are in desperate need of data scientists and whether outsourcing is a viable option. Also, one of the major companies here has just implemented Hadoop, but it’s being used by IT people for performance and indexing rather than business application.
+
+So the problem with companies that are using some big data infrastructures, like Hadoop, is that they do not have the data science skills to employ a company wide big data strategy. It will take time for these companies to actually have big data strategies because IT are the only people using it.
+
+Interestingly, the early adopters of Big Data technologies will probably be the public sector, unlike in Europe. This is a big priority for the government in Dubai, especially because of the Expo2020 and the vast amount of data the country is sitting on.
+
+In my opinion, whenever clients ask me this, my main advice is to say that you need to build a core data science team.
+
+Let’s move our focus to BI. I want to hear your opinion on why there is such a huge explosion in BI vendors today.
+
+You’re correct, the early stages of BI were very different from now. Experts and analysts improved the way we store data by introducing the data warehouse. Back then, the main concern was around data warehousing and the different architectures supporting it. Mostly huge enterprises would go on to implement this and these BI solutions were IT driven and not tailored to business users.
+
+Now, I think Big Data is driving BI because technology has become significantly cheaper and the disruption in the market is bringing more technology options. Data warehouse is not dead and it is now part of an extended architecture with fair more options for different purposes and use cases. Crucially, there is a huge community that has emerged around big data – in the early stages of BI, data science was not a buzz field yet and there were very few hackathons, or even data enthusiasts and experts in the field. The collaboration of difference fields – data science, big data, social science, open data, machine learning, open source, etc — I think this has contributed a lot to the development of the industry.
+
+The main reason for this explosion of start-ups or vendors is down to the fact that data has become the backbone of modern business. What business leaders are demanding now is access to that data, to shift the power from IT and democratise the data. As soon as this became a priority, a market emerged and vendors started popping up. It really is a simple case of economics: the demand and interest was there, the vendors started supplying.
+
+Top tips for implementing a Big Data strategy?
+
+The first question that companies need to be address is what data sources are leveraged within the business and what other internal or external data sources they can add, classify and mashup. They need to figure out how current data sources are stored, processed and used.
+
+The second important question is which data source type and what analytics method can help them to answer a specific business problem. For example, if I need to figure out customer loyalty or find influencers, the question I need to ask is: what are the big data types – sentiment analysis, network analysis, sensor data, etc — for this particular problem. Once these have meet matched – the data source type with the business problem – that’s when companies can move forward. Then, you can develop strategic big data use cases which can be presented and delivered by champions or influencers within your organization.
+
+I have been helping companies set Big Data strategy and architecture. There are different challenges we usually face. Public sector clients, for instance, have huge concerns when it comes to data access and security and usually data is siloed and stored in different data centers within the organization. Data integration methods like Data virtualization might help in such cases. Another key message is, one size does not fit all anymore. Whenever, you are extending and unifying your current architecture, you need to fit the right tools to it.
+
+Thirdly, when implementing a big data strategy, it is crucial to not only focus on the technical aspect. My consultancy, for example, focuses a lot on this. We have the technical aspects like governance and infrastructure, but we also focus on the culture. Having the technology implemented is only one part of the story; without a data driven culture, it will go to waste.
+
+Follow @DataconomyMedia
+
+(Image Credit: *Crazy Diamond*)
+
+Summary: He provides organizations with a vendor-neutral selection of business intelligence & big data technologies and advice on big data and information management strategy and architecture.
+Ali also appeared in several lists of “Who’s Who in Big Data” and as one of the top big data influencers worldwide.
+So the problem with companies that are using some big data infrastructures, like Hadoop, is that they do not have the data science skills to employ a company wide big data strategy.
+The collaboration of difference fields – data science, big data, social science, open data, machine learning, open source, etc — I think this has contributed a lot to the development of the industry.
+Thirdly, when implementing a big data strategy, it is crucial to not only focus on the technical aspect.
+
+Other Blogs by admin: https://dataconomy.com/author/admin/

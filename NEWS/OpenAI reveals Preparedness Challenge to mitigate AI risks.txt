@@ -1,0 +1,48 @@
+Title: OpenAI reveals Preparedness Challenge to mitigate AI risks
+
+Article Link: https://dataconomy.com/2023/10/27/openai-preparedness-challenge-ai-risks/
+
+Author: Onur Demirkol
+
+Publish Date: 2023-10-27
+
+Article:
+OpenAI has taken a bold step in artificial intelligence by introducing the “Preparedness Challenge.” This newly formed team is dedicated to assessing and mitigating the potential dangers of advanced AI models. Led by Aleksander Madry, an AI expert from MIT, this initiative promises to enhance the safety and security of AI systems.
+
+Heading the Preparedness Challenge team is Aleksander Madry, renowned for his work in machine learning. Madry also serves as the director of MIT’s Center for Deployable Machine Learning. His appointment as the “head of Preparedness” at OpenAI underscores the organization’s commitment to confronting AI-related risks.
+
+What is the Preparedness Challenge?
+
+OpenAI is putting together a team to battle potential AI risks that could go further than ending the world, literally. The team will also cover “Chemical, biological, radiological, and nuclear (CBRN) threats” and a couple more measures. To build the team, OpenAı has revealed the Preparedness Challenge; you can now enter it.
+
+The Preparedness team’s mission is multifaceted. They are tasked with monitoring and predicting potential hazards future AI systems pose. These risks encompass AI models’ ability to manipulate and deceive humans, as seen in phishing attacks, and their potential to generate harmful code. Some of the risks may seem improbable, but OpenAI is taking a proactive stance to address them.
+
+In a recent blog post, OpenAI highlighted certain risk categories that the Preparedness team focuses on. Notably, they are examining the potential risks of “chemical, biological, radiological, and nuclear” (CBRN) threats in the context of AI models. While these might appear distant possibilities, OpenAI is determined to consider and mitigate all potential threats.
+
+Killswitch engineer at OpenAI: A role under debate
+
+In line with OpenAI’s mission
+
+OpenAI has always aimed to create safe artificial general intelligence (AGI). They’ve consistently emphasized the importance of managing safety risks across AI technologies. This aligns with the commitments of OpenAI and other major AI research labs in July, emphasizing safety, security, and trust in AI.
+
+The Preparedness team, led by Aleksander Madry, is crucial in realizing this mission. Their responsibilities extend from assessing the capabilities of upcoming AI models to those with AGI-level proficiency. They cover a wide range of areas, including individualized persuasion, cybersecurity, and the challenges of CBRN domains. Additionally, the team is addressing issues related to autonomous replication and adaptation (ARA), showing their comprehensive approach to AI risk mitigation.
+
+How to join the Preparedness Challenge
+
+You just need to fill out a form to join the Preparedness Challenge and be one of the important personas to mitigate AI risks regarding cybersecurity, individualized persuasion, and more. Here is how to join:
+
+Go to this link. Fill out the application form. Send it to OpenAI and wait for a response.
+
+OpenAI is contacting the wider community for input as part of the Preparedness team’s launch. They are seeking ideas for risk studies, offering an enticing incentive—a $25,000 prize and the potential for a job with the Preparedness team for the top ten submissions. This approach reflects OpenAI’s dedication to collaborative efforts in addressing AI risks.
+
+In summary, OpenAI’s introduction of the Preparedness team, led by Aleksander Madry, is a significant stride in ensuring AI technologies’ safe and responsible development. By assessing and mitigating potential risks associated with future AI models, OpenAI is actively contributing to the responsible advancement of artificial intelligence. With support from the AI community, this initiative holds great promise in creating a secure and trustworthy AI landscape for the benefit of all.
+
+Featured image credit: Jonathan Kemper/Unsplash
+
+Summary: Led by Aleksander Madry, an AI expert from MIT, this initiative promises to enhance the safety and security of AI systems.
+Heading the Preparedness Challenge team is Aleksander Madry, renowned for his work in machine learning.
+OpenAI is putting together a team to battle potential AI risks that could go further than ending the world, literally.
+How to join the Preparedness ChallengeYou just need to fill out a form to join the Preparedness Challenge and be one of the important personas to mitigate AI risks regarding cybersecurity, individualized persuasion, and more.
+By assessing and mitigating potential risks associated with future AI models, OpenAI is actively contributing to the responsible advancement of artificial intelligence.
+
+Other Blogs by Onur Demirkol: https://dataconomy.com/author/onurdemirkol/

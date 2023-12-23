@@ -1,0 +1,40 @@
+Title: Data Scientists in UK Risk Crumbling Under Mounting Stress as Big Data Industry Thrives
+
+Article Link: https://dataconomy.com/2014/10/10/data-scientists-in-uk-risk-crumbling-under-mounting-stress-as-big-data-industry-thrives/
+
+Author: admin
+
+Publish Date: 2014-10-10
+
+Article:
+The new but rapidly evolving field of Data Science, seems to be taking its toll on the “gears” of its machinery. As more organisations focus on unlocking the insight held in ‘big data’, data scientists are under a lot of work-related stress reveals a psychometric survey launched by SAS.
+
+600 data scientists in the UK and Ireland were found “exhibiting high levels of work-related stress”, with 27 percent of male data scientists saying they were “mildly stressed” and 25 percent said they were “heavily stressed”, reports Steve Ranger of ZDNet. The percentage rose to 28 and 30 percent, respectively, for female scientists.
+
+There is a gaping need for 69,000 additional big data specialists over the period 2012-2017, where 60 per cent enterprises are struggling to hire people with data science skills. Mounting pressures on existing data scientists, which may be unsuited to their personality types and skills, as the importance of big data analytics to organisations grows.
+
+The survey categorises the following top six personality profiles:
+
+The Geeks made up the largest group of respondents (41%). They have a technical bias, strong logic and analytical skills. They focus on detail. Roles include: defining system requirements, designing processes, and programming. The Gurus (11%) are pre-disposed to scientific and technical subjects but are persuasive communicators with strong social skills. Roles include: promoting data science benefits to management. The Drivers (11%) are highly pragmatic and determined to realise their goals. They are self-confident and results-oriented. Roles include: project management and team leadership. The Crunchers (11%) like routine and display high technical competence. Roles include: technically oriented support roles such as data preparation and entry, statistical analysis and data quality control. The Deliverers (7%) have technical skills but also bring focus and momentum to ensure project success. Roles include: project and man management with a high level of technical knowledge. The Voices (6%) generate enthusiasm for data science at a conceptual level with their strong, inspiring communication skills. Roles include: presentation of results to senior business audiences.
+
+“The fast evolution and demanding nature of the data science discipline, and the importance for businesses, highlights the need to build diverse, complementary and highly-skilled teams,” says the report.
+
+“Better definition of roles within data science must be a priority to avoid an analytics talent burn out,” points out Peter Robertshaw, Marketing Director at SAS UK & Ireland.
+
+“Unlocking insights from big data is the challenge of the 21st century and data scientists are a precious resource. Organisations must recognize the need to create teams that are technically proficient, mathematically gifted, business savvy as well as being great communicators,” he added.
+
+Organisations need to address the causes and individual characteristics of their data scientists in order to reduce the piling stress. Combined with an industry effort to develop the range of skills needed and a push to attract more people into this vital, evolving discipline, Robershaw believes could be a solution.
+
+Read more here
+
+Follow @DataconomyMedia
+
+(Image Credit: Eamon Curry)
+
+Summary: As more organisations focus on unlocking the insight held in ‘big data’, data scientists are under a lot of work-related stress reveals a psychometric survey launched by SAS.
+600 data scientists in the UK and Ireland were found “exhibiting high levels of work-related stress”, with 27 percent of male data scientists saying they were “mildly stressed” and 25 percent said they were “heavily stressed”, reports Steve Ranger of ZDNet.
+Mounting pressures on existing data scientists, which may be unsuited to their personality types and skills, as the importance of big data analytics to organisations grows.
+“Unlocking insights from big data is the challenge of the 21st century and data scientists are a precious resource.
+Organisations need to address the causes and individual characteristics of their data scientists in order to reduce the piling stress.
+
+Other Blogs by admin: https://dataconomy.com/author/admin/

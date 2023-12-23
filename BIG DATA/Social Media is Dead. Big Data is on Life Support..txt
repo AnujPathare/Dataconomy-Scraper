@@ -1,0 +1,80 @@
+Title: Social Media is Dead. Big Data is on Life Support.
+
+Article Link: https://dataconomy.com/2015/01/21/social-media-is-dead-big-data-is-on-life-support/
+
+Author: Philip Berliner
+
+Publish Date: 2015-01-21
+
+Article:
+Well, big data and social media are quickly becoming obsolete as descriptive terms used to categorize and label vendor-sourced SaaS and managed services used by marketing, PR, consumer insights, risk management, and predictive analysis professionals.
+
+When I began working in this sector in 2000, the nature of each of the solutions and services sold by communications management SaaS vendors was clear from the descriptive terms commonly used at that time to label particular types of solutions.
+
+Media contact database. Broadcast clips. Print monitoring. Press release wire distribution service.
+
+None of these product designations required further explanation to clarify precisely what was offered. Sure, vendors generally had to distinguish their solution from those offered by competitors, but marketers, lead generators, and account managers knew that a two-to-five word label would quickly identify the basic category of product in the mind of a prospective customer.
+
+People interested in purchasing solutions knew what to ask for and who sold it.
+
+That landscape has changed, however. Now, some types of solutions get a few different labels slapped upon them…while those same labels are often used to describe wholly unrelated product offerings.
+
+This confusion grew from the social media explosion and the proliferation of products and services designed to address every aspect of that explosion.
+
+When Cision first offered a social media monitoring & analytics dashboard during my tenure with the company in late 2007, prospects were clear on the concept. Used to their PR solutions vendors offering traditional media monitoring and qualitative analysis of that content, it wasn’t a big conceptual stretch to let customers know that they could now monitor and analyze social media content in the same way newspaper articles and TV stories had been delivered and parsed to date.
+
+Similarly, companies which had previously offered similar monitoring, listening, and analytics, without necessarily offering a broader range of communications-related solutions, began to fold social media content into their metrics, so that their customers could gain a panoramic view of their corporate and brand reputation which encompassed paid, earned, and owned media.
+
+Given the skyrocketing importance of social media as a lynchpin of business and personal communications, many different types of SaaS offerings adopted Social Media as the heart of their basic product description. Social Media Monitoring, Social Media Analytics, Social Media Engagement, and other similar terms began to blur in the mind of the marketplace.
+
+For many prospects, a social media solution is whatever the vendor who first created the vision for them defined it as.
+
+Use Social Media as the primary descriptor of your product, and you’ll hit a brick wall of mistaken impression that all social media solutions essentially do the same thing. I’ve spoken with countless people in the last two years who told me that they didn’t need what I was selling because they already had a “social media solution.” Upon further conversation, it usually becomes clear that the thing which they already have is an entirely different thing than what I’m selling.
+
+Vendors offering high-end analytics which factor social media content, non-social data, and even offline sources into the metrics, grew to frequently hear from prospects looking for social media publishing tools, loyalty rewards management software, and salesforce automation database solutions/CRM.
+
+Lately, the social media analytics label is giving way to Big Data, as a catch-all descriptive term for analytics solutions.
+
+On one level, that makes sense because some vendors offer data options which move beyond social to encompass other web content and offline data, as well.
+
+The catch is that Big Data creates confusion because there are half a dozen other types of solutions, largely unrelated to the monitoring and analysis of traditional and social media, which got to the dance first and adopted the moniker.
+
+In fact, I’ve noticed that since my own employer, evolve24, has stressed the termBig Data in its own product positioning (which I’ve then used within posts here), the LinkedIn adwords algorithm keeps delivering Hadoop-related ads to me. When the language you use delivers ads unrelated to your own industry and interests, it’s a sure sign that you’re using the wrong words.
+
+Similarly, the word Analytics can refer to so many different forms of analysis, that it has lost its ability to succinctly define a solution or service.
+
+It occurred to me that the best category name for what evolve24, Visible Technologies, Crimson Hexagon, Mblast, Attensity, Sysomos, and other vendors within our space offer is…Insights Solutions.
+
+We gather data, we analyze it, but at the heart of what we actually deliver to our customers are actionable insights, whether in the form of the best next move for consumer brand product developers and marketers, intelligence on threats to public safety, identifying potential brand advocates with whom you should engage, etc. Most of the use-cases we fulfill for our customers boil down to providing them with insights of one type or another.
+
+The strongest indication that Insights Solutions is the right name for our sector can be found in the titles of prospects and customers. When I prospect on LinkedIn and elsewhere, people with the word “insights” in their titles are far more likely going to be good contacts than people whose titles focus upon social media, marketing, PR, or analysis.
+
+Certainly, Social Media and Big Data have their place farther down the marquee, so to speak, as being descriptive of the data which we analyze in order to arrive at those insights, but it’s not the data which is our main offering.
+
+Now, in most aspects of business, a new idea or innovation should be kept close to the vest and not encouraged among or shared with competitors. If you’re the only vendor to build and offer a better mousetrap, it’s generally to your advantage to be the only one offering that new thing.
+
+However, uniform product nomenclature within a sector or industry is tremendously important. Nobody buys a product or service, whether it’s a software solution or a pizza, without first identifying the thing they want to buy.
+
+It’s to our collective advantage if everyone in our particular sector adopts the termInsights Solutions. What that does is ensure that each vendor is being compared, in the vendor evaluation process, to other companies which sell the same thing.
+
+A rising tide truly lifts all boats. Imagine shifting to a sharply focused product label which ensures that everyone who contacts us knows what we sell and is interested in that particular thing. Sure, it gives that same benefit to all of your competitors, but the end results will likely be beneficial to everyone’s bottom line.
+
+I encourage you to discuss product nomenclature within your own company and become an early adopter of the straightforward term, Insights Solutions. I encourage you to discuss product nomenclature within your own company and become an early adopter of this straightforward term.
+
+Follow @DataconomyMedia
+
+
+
+Philip Berliner has spent the last 15 years helping businesses communicate with their key audiences more effectively by facilitating their purchase of the right web-based software solutions and managed services for their unique business needs.
+
+At evolve24, his work enables Marketing, Public Relations, Consumer Insights, and Predictive Analytics professionals to gain an in-depth view of how their company, their competitors, and relevant issues are perceived by the people who matter to their business.
+
+(Image credit: Pixabay)
+
+Summary: When Cision first offered a social media monitoring & analytics dashboard during my tenure with the company in late 2007, prospects were clear on the concept.
+Given the skyrocketing importance of social media as a lynchpin of business and personal communications, many different types of SaaS offerings adopted Social Media as the heart of their basic product description.
+Social Media Monitoring, Social Media Analytics, Social Media Engagement, and other similar terms began to blur in the mind of the marketplace.
+Use Social Media as the primary descriptor of your product, and you’ll hit a brick wall of mistaken impression that all social media solutions essentially do the same thing.
+Lately, the social media analytics label is giving way to Big Data, as a catch-all descriptive term for analytics solutions.
+
+Other Blogs by Philip Berliner: https://dataconomy.com/author/philipberliner/

@@ -1,0 +1,66 @@
+Title: Big Data Won’t Prevent the “Next Ferguson”- But It Might Stop the Tragedy After That
+
+Article Link: https://dataconomy.com/2014/09/01/big-data-wont-prevent-the-next-ferguson-but-it-might-stop-the-tragedy-after-that/
+
+Author: Eileen McNulty
+
+Publish Date: 2014-09-01
+
+Article:
+The story of how Michael Brown lost his life at the hands of the police two days before he was due to head off for college was a tale heard around the world. The incident- and resulting civil unrest- became more than a sum of its parts. They became a flashpoint of growing tensions surrounding racial bias and the militarisation of policing. They became a call-to-arms for change.
+
+But how might we go about implementing such change? Many are proclaiming big data as the answer. This is certainly not the first time that big data has been thrown out as the ultimate answer- it’s apparently also the solution to your business’ dwindling profit margins, to curbing disease outbreak, to building the artificial intelligence of the future, to winning elections. In truth, it can certainly aid all of these fields of research, but big data in itself is not a solution.
+
+Why Big Data Might Be the Answer to Policing Problems
+
+In the case of Ferguson, and wider policing and policy initiatives, new technologies and a greater focus on data are being touted as a revolution in law enforcement. In an article entitled “How Big Data Could Help Prevent the Next Ferguson”, Mashable proposes IBM’s CopLink as a way to avoid such human tragedies. The technology, built on IBM’s famous Watson cognitive computing system, can trawl thousands of pages in case reports in the time in takes to read this sentence. The idea is link together key pieces of information buried in the deluge of police data, and generate case-breaking leads at breakneck speeds.
+
+Roberto Villaseñor, chief of police in Tuscon, Arizona, expands on how the technology can be used in regards to Ferguson. “When we have a significant event, we have a formal board of enquiry,” he explains. “We try and determine: Are we doing the best we can in that situation? But because we’re human, that limits the amount of information we can gather. Cognitive computing can come up with a lot more information to review, digest and possibly incorporate.”
+
+“We need to get the data-driven information, and not go with anecdotal information because there’s a lot of emotion behind it. We need to try and get past the emotion and find the truth. It may be bad, but we need to find out what it is so we can adjust.”
+
+The principle of moving past emotive witness accounts and towards cold, hard facts also underpins an initiative in Ferguson whereby cops are now wearing cameras. Rather than sizing up the accounts of police officers and witnesses on the scene, the hope is that the cameras will help to build a more objective picture of events as they unfold.
+
+The Roadblocks Between Big Data and Social Change
+
+Cameras and cognitive computing certainly mean we’ll have more data, and quicker ways than ever of processing it, but unfortunately that’s only half the battle. As we gather more data and find more sophisticated ways on analysing it, policing is heading towards the same nadir point as global conflict prevention. Namely, conflict prevention currently has a rich trove of data to discover where conflict may break out, but are still failing to turn these insights into actionable strategies. As Gigaom have recently pointed out, there are specific roadblocks policing and policymaking face between gathering the data, and actually being able to something about it.
+
+Firstly, data doesn’t trump ideology. They use the example of election campaigns- rather than relying on new studies or data-driven initiatives to push their ballot, candidates often fall back on ideological platitudes to appeal to voters and sponsors. Data, it seems, just isn’t sexy enough to amass broad public appeal.
+
+Let’s not forget that the Ferguson Police Department were already aware they had a racial profiling problem. But doing something about the data has much narrower public appeal than rousing statements about increasing social equality (with very little actionable insight underpinning them). However, as the head of University of Chicago’s Crime Lab points out, there are ways of getting lawmakers to react to data. As Gigaom states,
+
+The Crime Lab conducted a research project that showed investing in social programs can have a beneficial effect on crime rates, and Chicago Mayor Rahm Emanuel jumped on that finding in order to push for increased spending on such programs.
+
+Data can become a driving force when it pushes past correlation and into causality- show a politician exactly how data can drive his policies, and they just might listen. Problem being, of course, that proving causality is no easy feat.
+
+The Dangers of Data
+
+It also worth considering when data can become more of a harm than a hindrance. One current way data is being rolled out in the US Justice System is through data-driven “risk assessments”, which can help to decide who qualifies for bail, and are even being used in some states in passing down verdicts. The Laura and John Arnold Foundation who are piloting pre-trial assessment project in Kentucky, claims their assessments have cut pre-trial crime by 15%, whilst also releasing more suspects on bail. They also stated that defendants flagged up by the programme as being likely to commit a violent crime were 17 times more likely to do so than defendants with low risk factors.
+
+So far, the story sounds overwhelmingly positive, but there is an issue. According the US Attorney General Eric Holder, some of these schemes take into account certain immutable characteristics- economic background and ethnicity, for instance- which would further inflame social disparity.
+
+“By basing sentencing decisions on static factors and immutable characteristics—like the defendant’s education level, socioeconomic background, or neighborhood—they may exacerbate unwarranted and unjust disparities that are already far too common in our criminal justice system and in our society,” Holder stated. He continued, “Criminal sentences should not be based on unchangeable factors that a person cannot control, or on the possibility of a future crime that has not taken place.”
+
+Can Big Data Prevent the “Next Ferguson”?
+
+So is it likely that the big data revolution will stop the “next Ferguson”? In a word, no. Greater data capture and analysis are certainly both significant positive steps towards improving the criminal justice system. But having data and doing something with it are two distinct things. And, as the data-driven risk assessments prove, caution has to be taken at the implementation stage. Relying on past data to fuel future change may end up engendering the kind of racial and socioeconomic biases we’re trying to stamp out. But of course, if we continue to gather more and more data, and come up with better ways of analysing it, it might end up in the hands of a few bright sparks who can use it to improve policing practices- and, just maybe, stop tragedies like Ferguson from ever happening.
+
+(Image credit: Youth Radio)
+
+Follow @DataconomyMedia
+
+
+
+Eileen McNulty-Holmes – Editor
+
+Eileen has five years’ experience in journalism and editing for a range of online publications. She has a degree in English Literature from the University of Exeter, and is particularly interested in big data’s application in humanities. She is a native of Shropshire, United Kingdom.
+
+Email: [email protected]
+
+Summary: Many are proclaiming big data as the answer.
+In truth, it can certainly aid all of these fields of research, but big data in itself is not a solution.
+In an article entitled “How Big Data Could Help Prevent the Next Ferguson”, Mashable proposes IBM’s CopLink as a way to avoid such human tragedies.
+So is it likely that the big data revolution will stop the “next Ferguson”?
+Relying on past data to fuel future change may end up engendering the kind of racial and socioeconomic biases we’re trying to stamp out.
+
+Other Blogs by Eileen McNulty: https://dataconomy.com/author/eileen-mcnulty/

@@ -1,0 +1,74 @@
+Title: How-To: Migrate A Database from On-Premise to the Cloud
+
+Article Link: https://dataconomy.com/2016/10/21/migrate-database-premise-cloud/
+
+Author: Sujain Thomas
+
+Publish Date: 2016-10-21
+
+Article:
+Migrating from an on-premise server to a cloud server will offer you a wide range of benefits. They range from a reduction to your involvement in database management to getting more advanced features from a third party whose main job is to offer the best database services. All in all, before making the choice to migrate from on-premises SQL server to Azure SQL Database, there are a few important considerations you will need to make.
+
+Test for compatibility
+
+The most important thing you need to do when migrating from the on-premise server to cloud servers is to check for compatibility. Compatibility issues are the main causes of database problems when migrating. Although you may already have a backup, incompatibility issues will surely delay the process. To complete the migration successfully, you need first to complete the compatibility process.
+
+There are several tools you can use to check your database’s compatibility with the online platform. In the case of SQL Server 2005 or later versions, there are a number of tools you can use. These tools include the following:
+
+SQL Server Data Tools for Visual Studio.
+
+This is better known as SSDT. It relies on the most recent compatibility rules to identify SQL Database V12 incompatibilities. This tool will help you fix compatibility issues on it.
+
+SQL Package
+
+This is a command-line utility tool that enables you to test compatibility issues as well as generate a detailed report that contains the detected issues. Make sure you only use the most recent tool to test for database incompatibility. You will need to use another tool like the SSDT to fix the detected issues.
+
+Export Data Tier application wizard in the SQL Server Management Studio
+
+This is a great wizard for detecting and reporting errors on the screen. You can continue with the migration if there are no errors that have been found. However, in case there is an error, you have to fix it before you can proceed. Again, SSDT is a great tool for fixing errors.
+
+Microsoft SQL Server 2016 Upgrade Advisor Preview
+
+This is a standalone tool that detects and generates reports for SQL Database V12 compatibility issues. You can proceed with the migration if you don’t find any compatibility issue. You can fix detected errors with SSDT.
+
+SQL Azure Migration Wizard
+
+This is also known as SAMW. It is a codeplex that relies on Azure SQL Database V11 compatibility rules to help detect any incompatibility issue. Some issues can be fixed on the tool while with for others you will need advanced tools like SSDT.
+
+The above are some of the highly recommended tools you can use when migrating your SQL Database. If you are working with other databases, there are numerous tools you can turn to for that too. The key, however, is to ensure that you use the tools that have the latest updates.
+
+Understand your platform
+
+Learning how to identify the compatibility issues is just the first step in database migration. The next thing you have to do is to know your platform. There are more than 60 cloud service providers who are authorized by the Federal Risk and Authorization Management Program. The bad news is that not all platforms are right for you. Each platform is unique in its own way. The services range from infrastructure as a service to software as a service and so on. It is by knowing what you really need that you will be able to pick the best database services that are perfect for you.
+
+Before you start looking around for the right service, understand what your database needs in advance. You should then take a look at what different service providers have offer then pick one that offers you the most services that are unique to your needs. You also need to select a friendly platform that your team will be able to use with minimal oversight and training.
+
+Security has to be a priority
+
+It is recommended to always maintain your own security when it comes to cloud database management. Although most service providers are committed to offering the best security features, you can never have too much security when it comes to your database. Start with rigorous security assessment of the platform you plan on using and pay special attention to the flaws.
+
+The right service should offer encryption, data masking and scrubbing out personally identifiable information services. The important thing is to manage your own security. Your team should also be involved in ensuring the solution you are considering is compliant with your security policies.
+
+Take a look at the service fees
+
+The main reason why you are considering moving from on-premise SQL server to Azure SQL database or any other cloud service is to save money. However, you might realize that you don’t get the cost saving benefits right away. Some people don’t even save any money at all. The reason behind this is their poor choice of cloud services. There are so many hidden costs that you need to consider before you migrate to the cloud environment. Don’t make the move until you understand all the costs that are associated with the move.
+
+An important cost you need to consider is the training cost. Your team will need to be trained so as to understand how to properly manage and secure the cloud environment. You also need to consider the cost of migrating as well as implementing the existing applications into cloud.
+
+Moving to cloud is no different from outsourcing to a third party. Account for all the steps. It takes both time and money to get your data to the cloud server. Although you will save money in the long run, your savings will depend on the choices you make.
+
+The decision to move from onsite server to cloud servers will not only help you save money but will also improve the performance of your database. This is because you will have access to the best software and hardware in database management. The key is to make sure you select the best service available on the market.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Image: Linux Screenshots
+
+Summary: Migrating from an on-premise server to a cloud server will offer you a wide range of benefits.
+All in all, before making the choice to migrate from on-premises SQL server to Azure SQL Database, there are a few important considerations you will need to make.
+There are more than 60 cloud service providers who are authorized by the Federal Risk and Authorization Management Program.
+Security has to be a priorityIt is recommended to always maintain your own security when it comes to cloud database management.
+Take a look at the service feesThe main reason why you are considering moving from on-premise SQL server to Azure SQL database or any other cloud service is to save money.
+
+Other Blogs by Sujain Thomas: https://dataconomy.com/author/sujaint/

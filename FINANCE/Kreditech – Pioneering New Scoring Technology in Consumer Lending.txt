@@ -1,0 +1,88 @@
+Title: Kreditech – Pioneering New Scoring Technology in Consumer Lending
+
+Article Link: https://dataconomy.com/2014/05/09/kreditech-pioneering-new-scoring-technology-consumer-lending/
+
+Author: Artur Lapinsch
+
+Publish Date: 2014-05-09
+
+Article:
+Follow @DataconomyMedia
+
+
+
+We caught up with Laurent Schüller, Head of Brand Management at Kreditech, to discuss innovations in the personal finance market and Kreditech’s plan for the future. Kreditech is a BIG DATA infrastructure that allows for credit bureau independent acquisition, identification, scoring, retention management in consumer lending.
+
+Can you tell us a little bit about Kreditech?
+
+The company was founded two years ago in Hamburg. The basic concept was to create a new credit score system. The Schufa credit bureau in Germany provides a credit score for individuals based on data collected over many years. This is an established system but it does not exist in consumer finance emerging markets, or even emerging markets in general. Our idea was to create a credit score that is country- and credit bureau-independent, which can quickly be applied to any market globally.
+
+For example, suppose someone came to our website to apply for a loan. First, we collect up to 10,000 data points and use this to generate a credit score. The score reflects this person’s credit worthiness, and we use this to calculate the risk of default. We then decide as to whether or not a loan would be extended.
+
+We started with short-term microloans. We have since extended our product range to installments and larger loans. We are about to launch additional financial products based on this score, which can be applied to all countries without a large-scale setup.
+
+How did the idea come about?
+
+Well, suppose a private consumer wanted to get a loan in Russia. He can’t get one because he is not rated, and the bank doesn’t know the risk of extending a loan. This highlights two problems. On one side, the bank is not able to evaluate the default risk. On the other, the consumer is not able to prove how trustworthy or creditworthy he is.
+
+We try to help exactly this guy. We provide the credit score for the bank and the loan for the consumer. This is why we are only focused on the so-called consumer finance emerging markets. We are not focusing on Germany, the UK or the US because these are established markets. We are focusing on markets where there is a financial need.
+
+Who is on your founding team and how many people do you have altogether?
+
+The founding team consists of Sebastian Diemer and Alexander Graubner-Müller. Sebastian took on the CEO position, while Alexander covers the technical side as our CTO. They started in January 2012 and the company now has about 120 people in total. Due to strong growth, we expect to triple this number by the end of 2014.
+
+We launched Australia recently. In 2012-2013 we launched in Poland, Czech Republic, Russia, Spain, Mexico and Australia. We plan to get into Peru and Dominican Republic in the next couple weeks. We also expect to be in Brazil towards the end of the year.
+
+How are you different from your competitors?
+
+We decided a couple months back not to focus on B2B anymore, we are now focusing solely on B2C. We want to provide only B2C services because this is what we do best right now. We are developing new technologies to create innovative financial products online. The big idea is to create the ‘Amazon of consumer lending’, a term we use to describe our vision and our strategy.
+
+We have built a unique new platform, Zaimo, that was launched recently. The platform enables us to determine a person’s creditworthiness, evaluate the risk and deliver the right product to the right customer. For instance, you have car insurance but we can offer you something cheaper. If you have a credit card, we can offer a better credit card that is more applicable to your financial needs.
+
+We plan to launch prepaid credit cards and Flexi Credits very soon. We recently launched risk-based pricing. This allows us to offer different interest rates to different customers. For example, a credit-worthy customer will get a loan for better conditions than a person where we’re unable to determine if he is creditworthy or not.
+
+Moving forward, what do you feel the company needs the most?
+
+The customer is important, naturally, but we are quite well-positioned in many different countries due to our online marketing efforts. We have been increasing our market shares in a number of areas, which is a great experience.
+
+Funding is also an important factor. We are currently in a major fund-raising round, which we expect to close in the next month or two. When we finalize this, we expect to move on to the next step of launching new products and into new markets.
+
+The problem is always human resources, especially when you’re talking about data scientists or developers. It is difficult to find a person with innovative ideas on data analytics and a basic understanding of business. It is hard not only for us but for nearly every company in Germany or Europe. There is a bottleneck when it comes to getting the right people on board with a deep understanding of data analytics and statistical modeling. This is the resource that we need.
+
+What is your revenue model?
+
+Our revenue model is making a profit from decreasing the rate of default. We are already profitable in Poland and Spain, which is a big leap because we only launched in these countries about six months ago.
+
+We have to come up with a sophisticated model in each country. Before it reaches a certain stage, we don’t make any money because we are lending our own money. We don’t work with banks, we do it completely on our own. This means we have to improve our technology to decrease the default rate. When we are able to decrease the default rate below a certain stage, say below 10 percent like in Spain and Poland, then we are profitable.
+
+Do you also offer your scoring engines through an API or through other partners? Or do you only use it only for your own lending?
+
+We only use it for our own lending. A couple months ago, we thought about doing this alongside a B2B service. However, we then decided to focus only on B2C. For B2B you would miss the chance to improve your functional model, especially in the US and European markets.
+
+We want to prove that our own platform is functioning, our models are functioning, our technologies are functioning, that our business is functioning. That is why we chose to go into the Australian market, for example. It’s a highly-competitive, highly-established market and if we can do it there, we can do it anywhere. We delivered in Australia to prove to ourselves and our partners that we are able to capture market share in a highly competitive market.
+
+If you look at one year from now, where is Kreditech going to be?
+
+We are growing and moving forward so fast right now. We sometimes set goals one year ahead, but reach this goal between six and eight months. We really hope to launch successfully 4 to 5 new markets in the next 12 months, and to reach a stage where we see connections to what is happening internationally. This is one factor to show that we are successful with what we are doing.
+
+Having a broader international presence is the important part here. We would like to be able to grow our international presence even more, while being able to prove that customers still continue to have a need for our services.
+
+Follow @DataconomyMedia
+
+
+
+Kreditech uses BIG DATA and complex machine-learning algorithms to serve a simple mission: make faster, better credit decisions. The technology identifies and scores individuals online in seconds and decides over an instantly paid out loans based on 15,000 dynamic data points. Kreditech uses this technology to provide banking products to customers in emerging markets, where established banks lack traditional, historical credit bureau data. Kreditech is headquartered in Hafencity, Hamburg.
+
+Interested in more content like this? Sign up to our newsletter, and you wont miss a thing!
+
+[mc4wp_form]
+
+(Image credit: Kreditech )
+
+Summary: Kreditech is a BIG DATA infrastructure that allows for credit bureau independent acquisition, identification, scoring, retention management in consumer lending.
+The Schufa credit bureau in Germany provides a credit score for individuals based on data collected over many years.
+We provide the credit score for the bank and the loan for the consumer.
+Kreditech uses this technology to provide banking products to customers in emerging markets, where established banks lack traditional, historical credit bureau data.
+[mc4wp_form](Image credit: Kreditech )
+
+Other Blogs by Artur Lapinsch: https://dataconomy.com/author/artur-lapinsch/

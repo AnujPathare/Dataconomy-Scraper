@@ -1,0 +1,46 @@
+Title: Farewell to MIUI, it is now time for Xiaomi HyperOS
+
+Article Link: https://dataconomy.com/2023/10/17/farewell-miui-time-for-xiaomi-hyperos/
+
+Author: Onur Demirkol
+
+Publish Date: 2023-10-17
+
+Article:
+According to Alvin, Xiaomi’s Global VP, the brand-new operating system Xiaomi HyperOS will soon be available in the upcoming months, which means that our time with MIUI is coming to an end.
+
+Xiaomi, the Chinese smartphone giant, is making waves with the announcement of its all-new operating system, HyperOS. This significant development is set to replace MIUI, the Android-based OS that has been at the core of Xiaomi’s products for over a decade.
+
+Xiaomi HyperOS was revealed on Twitter
+
+Xiaomi’s CEO and founder, Lei Jun, shared the groundbreaking news on Twitter, hailing the arrival of HyperOS as a “historic moment” for the company. The official debut of this cutting-edge operating system will coincide with the launch of Xiaomi’s 14 series, promising a fresh and innovative mobile experience for users.
+
+“In 2014, when the IoT business began to take shape, we began exploratory development and verification. In 2017, the research and development of a new system was officially launched to support all ecological devices and applications with an integrated system framework. This is our pursuit,” Xiaomi’s CEP said.
+
+According to Android Authority, Xiaomi HyperOS is “based on the integration of the deeply evolved Android and the self-developed Vela system, completely rewriting the underlying architecture, and preparing a public base for the Internet of Everything for tens of billions of devices and tens of billions of connections in the future.”
+
+Yes! Will roll out throughout 2024 — Alvin @Xiaomi (@atytse) October 17, 2023
+
+When will Xiaomi HyperOS roll out?
+
+Xiaomi’s global VP, Alvin, assured users that HyperOS will not be confined to a specific region. Instead, it’s slated for a global rollout throughout 2024. This global approach reflects Xiaomi’s commitment to ensuring a seamless transition to the new OS, no matter where you are in the world. The shift from MIUI to HyperOS is a giant leap toward enhancing user experience, and Xiaomi enthusiasts worldwide can look forward to this change.
+
+HyperOS has been in the works since 2017
+
+HyperOS has been under development since 2017, demonstrating Xiaomi’s commitment to providing an unparalleled technological experience. This operating system is intended to support Xiaomi’s diverse product line, which includes smartphones, smart home gadgets, and even vehicles. Xiaomi wants HyperOS to serve as the cornerstone of its whole ecosystem, providing consumers with a unified and integrated experience. Users will be able to monitor and control all of their Xiaomi devices from a single, unified platform with HyperOS.
+
+The combination of Android’s maturity and Xiaomi’s in-house Vela system has resulted in a major redesign of the OS’s core architecture. What is the ultimate goal? To lay the groundwork for a future in which billions of devices and connections coexist harmoniously, resulting in an Internet of Everything. Xiaomi Vela, a well-known IoT software system platform based on the open-source embedded operating system NuttX, serves as the foundation.
+
+While Xiaomi has kept particular specifics such as the user interface and HyperOS features under wraps, all eyes are on the Xiaomi 14 series launch later this month. This is when Xiaomi is anticipated to reveal HyperOS’s full capabilities, ushering in a new era of mobile technology.
+
+As we say goodbye to MIUI, we are about to embark on an exciting new chapter with HyperOS. The change is expected to be seamless, altering how we interact with our Xiaomi gadgets. Stay tuned for additional developments as we explore the world of HyperOS and prepare for a better and more interconnected future with Xiaomi.
+
+Featured image credit: Đức Trịnh/Unsplash
+
+Summary: According to Alvin, Xiaomi’s Global VP, the brand-new operating system Xiaomi HyperOS will soon be available in the upcoming months, which means that our time with MIUI is coming to an end.
+Xiaomi, the Chinese smartphone giant, is making waves with the announcement of its all-new operating system, HyperOS.
+Xiaomi HyperOS was revealed on TwitterXiaomi’s CEO and founder, Lei Jun, shared the groundbreaking news on Twitter, hailing the arrival of HyperOS as a “historic moment” for the company.
+Will roll out throughout 2024 — Alvin @Xiaomi (@atytse) October 17, 2023When will Xiaomi HyperOS roll out?
+Users will be able to monitor and control all of their Xiaomi devices from a single, unified platform with HyperOS.
+
+Other Blogs by Onur Demirkol: https://dataconomy.com/author/onurdemirkol/

@@ -1,0 +1,72 @@
+Title: UK regulators are calling for views on algorithmic processing and auditing
+
+Article Link: https://dataconomy.com/2022/05/06/uk-regulators-algorithmic-processing/
+
+Author: Kerem Gülen
+
+Publish Date: 2022-05-06
+
+Article:
+The UK’s digital watchdogs are seeking views on algorithmic processing and auditing, as well as areas of common interest between the organizations, in order to simplify and shape future cooperation.
+
+Benefits and harms of algorithmic processing are being discussed
+
+The Digital Regulation Cooperation Forum (DRCF) was formed in July 2020 to improve coordination among the UK’s regulators and develop a uniform regulatory approach for digital services and the economy. The DRCF features the Competition and Markets Authority (CMA), the Financial Conduct Authority (FCA), the Information Commissioner’s Office (ICO), and the Office of Communications (Ofcom).
+
+Following the release of two discussion papers from the DRCF’s Algorithmic processing workstream, which examined the benefits and harms of algorithms and the landscape of algorithmic auditing, a call for comments has been made.
+
+“As part of this workstream, we launched two separate research projects – one looking at the harms and benefits posed by algorithmic processing, including the use of artificial intelligence, and another looking at the merits of algorithmic auditing, as a way of documenting risks and assuring stakeholders that an algorithmic system behaves and is governed as intended,” explained the DRCF.
+
+UK watchdogs are seeking views on algorithmic processing and auditing.
+
+“We are now launching a call for input alongside the publication of these two papers and we welcome and encourage all interested parties to engage with us in helping shape our agenda.”
+
+DRCF has underlined “6 common areas of focus among the DRCF members” in order to explain the pros and cons of algorithmic processing: transparency of algorithmic processing; fairness for individuals affected by algorithmic processing; access to information, products, services, and rights; resilience of infrastructure and algorithmic systems; individual autonomy for informed decision-making and participating in the economy; healthy competition to foster innovation and better outcomes for consumers.
+
+The DRCF stated regarding algorithmic auditing that the stakeholders identified several problems in the present environment: “First, they said there was a lack of effective governance in the auditing ecosystem, including a lack of clarity around the standards that auditors should be auditing against and what good auditing and outcomes look like.”
+
+“Second, they told us that it was difficult for some auditors, such as academics or civil society bodies, to access algorithmic systems to scrutinize them effectively. Third, they highlighted that there were insufficient avenues for those impacted by algorithmic processing to seek redress and that it was important for regulators to ensure action is taken to remedy harms that have been surfaced by audits.”
+
+How watchdogs should regulate algorithms?
+
+The DRCF is now asking for comments on the papers, particularly in terms of how watchdogs, both individually and together, should regulate algorithms. The comment period will continue until Wednesday 8 June 2022, with a summary of the responses coming shortly after.
+
+“The task ahead is significant – but by working together as regulators and in close co-operation with others, we intend for the DRCF to make an important contribution to the UK’s digital landscape to the benefit of people and businesses online,” explained Gill Whitehead, CEO of the DRCF.
+
+“Just one of those areas is algorithms. Whether you’re scrolling on social media, flicking through films, or deciding on dinner, algorithms are busy but hidden in the background of our digital lives.”
+
+“That’s good news for a lot of us a lot of the time, but there’s also a problematic side to algorithms. They can be manipulated to cause harm or misused because firms plugging them into websites and apps simply don’t understand them well enough. As regulators, we need to make sure the benefits win out.”
+
+DRCF prioritized four digital trends and technologies: algorithmic processing, design frameworks, digital advertising technologies, and end-to-end encryption.
+
+The DRCF has published its first annual report as well as a call for comments on algorithms, and it has outlined its work plan for the next year.
+
+“In 2021 to 2022, we focused on laying the groundwork for effective and joined-up collaboration. Through the DRCF, we created single cross-regulatory teams to share knowledge and develop collective views on complex digital issues. We prioritized the following four digital trends and technologies: algorithmic processing, design frameworks, digital advertising technologies, and end-to-end encryption.”
+
+The document stated that horizon scanning is crucial to understanding the consequences of emerging technologies, as well as assisting the coalition in anticipating and preparing for future regulatory issues.
+
+“Doing this collectively helps us to share expertise and quickly accelerate our knowledge-building in new or rapidly developing subject areas.”
+
+The DRCF’s work plan focuses on continuing to strengthen the regulatory framework. The three main areas for future focus outlined are coherence between regimes, collaboration on projects, and capability building across regulators.
+
+The strategy also outlined several concrete steps that DRCF plans to take in the following two years, believing they will assist with a variety of major regulatory concerns. These include initiatives to safeguard children online, promote competition and privacy in online advertising, encourage technological transparency improvements, and enable innovation in the sectors that the DRCF regulates.
+
+The Communications and Digital Committee inquiry of the House of Lords found in December 2021 that better processes and cooperation between regulators, industry and specialists would be required to address rapid technological evolution while limiting both potential harms as well as unnecessary regulatory restrictions that stifle the benefits of any breakthroughs.
+
+How algorithmic processing and auditing should be regulated?
+
+Regarding the DRCF’s establishment, the committee noted that this was a modest step and that additional measures such as the expansion and formalization of coordination were needed in the long run.
+
+Despite the DRCF’s current cooperative efforts, the new forum “lacks robust systems to coordinate objectives and to sort out potential conflicts between different regulators as the workload expands,” according to the Lords’ committee.
+
+In September 2021, the UK’s incoming information commissioner, Elizabeth Denham explained that to offer clear focus and allow for increased collaboration between their various but interconnected authorities, digital economy regulators need distinct mandates backed up by powerful information-sharing technologies.
+
+“We need to be able to share information, because from a competition aspect, a content regulation aspect or a data protection aspect, we are talking to the same companies, and I think it is important for us to be able to share that information,” Denham said.
+
+Summary: The UK’s digital watchdogs are seeking views on algorithmic processing and auditing, as well as areas of common interest between the organizations, in order to simplify and shape future cooperation.
+Following the release of two discussion papers from the DRCF’s Algorithmic processing workstream, which examined the benefits and harms of algorithms and the landscape of algorithmic auditing, a call for comments has been made.
+UK watchdogs are seeking views on algorithmic processing and auditing.
+As regulators, we need to make sure the benefits win out.”DRCF prioritized four digital trends and technologies: algorithmic processing, design frameworks, digital advertising technologies, and end-to-end encryption.
+How algorithmic processing and auditing should be regulated?
+
+Other Blogs by Kerem Gülen: https://dataconomy.com/author/kerem-gulen/

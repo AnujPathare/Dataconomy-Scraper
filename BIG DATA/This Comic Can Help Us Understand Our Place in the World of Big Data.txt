@@ -1,0 +1,60 @@
+Title: This Comic Can Help Us Understand Our Place in the World of Big Data
+
+Article Link: https://dataconomy.com/2014/12/12/this-comic-can-help-us-understand-our-place-in-the-world-of-big-data/
+
+Author: Anuradha Santhanam
+
+Publish Date: 2014-12-12
+
+Article:
+Comics. Generally associated closely with either teenagers or enthusiastic, loyal followers and collectors, but read across a large demographic. They’re across all ranges, too –banter, wistful nostalgia, life lessons through the eyes of a child and his tiger, political satire even.
+
+Though not always colourful or bright, the clean, simple, eye-catching ‘interface’, attracts readers’ attention far more than a block of text talking about the same thing. While reading is a well-loved pastime, humans are visual beings, many of whom would much rather skim comics than read an article.
+
+Data Protection: What We Need to Know, But Don’t
+
+The easily-digestible visual language of comics makes them well-suited to breaking down complex concepts and topical issues of the day. Data protection and security have become such burning issues; not just short-term, sensationalist issues, but lingering real-world problems irrespective of geographical location. Government espionage is one aspect; personal safety and security is another.
+
+In light of the still fairly recent revelations by Edward Snowden, revealing several projects carried out by national governments in order to collect several kinds of data from their citizens, data protection has become a burning issue. Metadata from emails. Google location data. Content of interpersonal communications. Application data. Personal photographs and sensitive information.
+
+Most people tend to brush this off as a trade-off for having what they perceive as ‘better connected’ lives; the extremely worrying ramifications of surveillance by governments in collusion with the private sector, although all over the news, did not persuade many to make any changes in their online behaviour. Significant numbers of people felt unaffected.
+
+Whistleblowing on big data collection, whilst now synonymous with Snowden, began several years earlier. Thomas Andrew Drake, then a senior executive at the NSA, was part of the organisation’s Trailblazer project, intended to analyse online communications such as e-mail and mobile phone data. Trailblazer was later linked to the NSA electronic surveillance program and the NSA warrantless surveillance controversy.
+
+With no social media to publicise and mobilise whistleblowers at the time, they were neither offered any of the protections Edward Snowden was, nor did they receive a fraction of the media coverage.
+
+Social media being as mobilised as it is, using the amounts of data that it does, it is perhaps ironic that the security of this data seems not to be a concern for users.
+
+With more and more aspects of our lives now shifting to a less physical, more intangible cyberspace existence, more activities than ever are conducted online, activities that were previously part of the ‘real world’. Significantly, large businesses have increasingly moved online. E-commerce is now one of the world’s most booming industries, and consumers and investors alike are flocking towards it. With this paradigm shift towards conducting business and transactions online, the risks increase manifold. Large databases of sensitive customer information are stored on databases, via payment gateways and with newer and more sophisticated tools to access that information, identity theft is unfortunately now easier than ever.
+
+Age barriers to the internet, already virtually non-existent, have become even lower; children are introduced to technology far earlier than previous generations (with iPads even used as learning devices for toddlers), and begin their foray into the Big Bad Web at younger ages. As a result, they are unaware of the major risks that come with browsing the internet, risks that may not be easy for parents or guardians to explain to them alone.
+
+How Terms of Service Can Help Us Understand Our Role in the World of Big Data
+
+A new graphic novel from Al Jazeera, named Terms of Service, aims to do exactly that. Issues that may be slightly complex, dull to read, or just too long textually, are illustrated by nonfiction cartoonist Josh Neufeld, after discussions with journalist and programmer Michael Keller, who was rankled by the fact that readers and internet users alike seemed to be largely unconcerned even in light of Edward Snowden’s NSA revelations.
+
+Boiling data issues down to a concept that could be explained easily seemed a difficult task – but the visual metaphor eventually came to Neufeld; one that seemed made for it entirely – a constellation.
+
+One specific comic touches on a very pertinent issue: the ‘nothing to hide’ argument. That argument, supported by many, avers that there should be no problem with data mining, collection and surveillance as long as one has ‘nothing to hide’. This, the comic reiterates, makes privacy dirty, cheapening it as if it were an attempt to hide ‘bad things’. The truth of the matter is that employers, insurance firms, private agencies with any number of vested interests in knowing the personal details of somebody’s life, can use this data, mined by private or government agencies, to extrapolate their own conclusions of a person – whether it is, as illustrated in the comic, their viability for auto insurance, or their suitability for a certain job. This random data about a person is envisioned as stars in a constellation, dots that can be connected arbitrarily, in what may not be an actual representation of the person to whom the data belongs.
+
+This risk is something that, perhaps put into an article much like this one, would largely go unnoticed, and has. But in a comic, heavy topics such as personal security, big data and the real world ramifications of how this data is used, are made lighter, more palatable, more easily digested to the general populace – who are the major owners, creators and suppliers of all this data.
+
+In this constellation of data that is as yet freely available and under surveillance, special care is required to ensure its privacy – there are several, several starmen, waiting in the sky.
+
+Follow @DataconomyMedia
+
+
+
+Writer and communications professional by day, musician by night, Anuradha Santhanam is a former social scientist at the LSE. Her writing focuses on human rights, socioeconomics, technology, innovation and space, world politics and culture. A programmer herself, Anuradha has spent the past year studying and researching, among other things, data and technological governance. An amateur astronomer, she is also passionate about motorsport.
+
+More of her writing is available here and she can be found on Twitter at @anumccartney.
+
+(Image credit: Terms of Service by Michael Keller & Josh Neufeld)
+
+Summary: Data protection and security have become such burning issues; not just short-term, sensationalist issues, but lingering real-world problems irrespective of geographical location.
+Whistleblowing on big data collection, whilst now synonymous with Snowden, began several years earlier.
+Trailblazer was later linked to the NSA electronic surveillance program and the NSA warrantless surveillance controversy.
+How Terms of Service Can Help Us Understand Our Role in the World of Big DataA new graphic novel from Al Jazeera, named Terms of Service, aims to do exactly that.
+But in a comic, heavy topics such as personal security, big data and the real world ramifications of how this data is used, are made lighter, more palatable, more easily digested to the general populace – who are the major owners, creators and suppliers of all this data.
+
+Other Blogs by Anuradha Santhanam: https://dataconomy.com/author/a-santhanam/

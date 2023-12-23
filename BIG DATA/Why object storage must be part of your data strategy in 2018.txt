@@ -1,0 +1,54 @@
+Title: Why object storage must be part of your data strategy in 2018
+
+Article Link: https://dataconomy.com/2018/08/08/why-object-storage-must-be-part-of-your-data-strategy-in-2018/
+
+Author: Thomas Hazel
+
+Publish Date: 2018-08-08
+
+Article:
+Data storage strategies are evolving and object storage is becoming an essential and convenient tool for enterprises, triumphing over other strategies. Here’s why you should factor object storage into your data strategy in 2018 to best prepare for the future.
+
+Data not stored is data thrown away – that simple. Data thrown away is lost value and opportunity. This viewpoint is not new. We live in the information age and data is the fuel that drives it. Failure to store this precious yet enormous resource, directly affects your business competitiveness and ability to innovate.
+
+But what makes object storage so important? The cost of traditional storage products continues to drop each and every year. Simultaneously, the ability to store more and more information per device continues to increase. While it would seem that the status quo would be more than efficient, let’s be clear – it’s not. The “ability” to store data is not the same as “actually” storing it. The argument for Object storage is not about “why” to store data, but “how” it is stored, scaled and ultimately accessed.
+
+Storage Options
+
+There are four primary storage mediums: File, Block, Object and Tape. For this discussion, Tape will be excluded since it’s primarily used for archiving where capacity is enormous and extremely cheap, where performance is far less important. That leaves the workhorses of File and Block storage, where the new kid on the “block” (pun intended), Object storage, is making a run of it.
+
+File Storage
+
+Over the years most software applications were designed to read and write data based on File Storage. Always associated with a File system, its directory structure and file naming constructs were perfect for local storage use cases. Think of your computer, laptop, tablet, and mobile devices as classic uses of File-based storage. The only downside to File storage is its inability to easily scale capacity. To store more information, one physically adds or increases the storage medium. For years this was the bane of IT until network-backed Block storage began to enter the market.
+
+Block Storage
+
+Now to be clear, Block Storage has always been around. For instance, File Storage is typically backed by Block Storage with its File system abstraction on top. What is relatively new, and what one thinks of when referring to Block Storage, is its networking aspect (e.g. NAS, SAN) – the ability to connect many remote “raw” storage devices to scale capacity. Over the years, some applications like Databases, Email Servers, and now Virtual Machines have used “raw address access” to read, write, and carve up storage. But when it comes to the storing, organizing and accessing today’s deluge of data, the File system is the main interface. And this File system abstraction is where File and Block storage (even when networked) meets its limits.
+
+Object Storage
+
+Object Storage is the new kid on the storage block. In other words, it is an abstraction like that of File systems and typically uses networked-backed Block storage too. Yet, it is a new storage paradigm with a very simple interface. Unlike File storage where data is associated with a name within a complex hierarchical directory structure, Object storage uses a unique identifier name (needs to be globally unique) to associate an opaque value. The benefit for such an architecture and interface is its ability to achieve massive scale dynamically. One can view Object storage as a “flat” structure and naming convention. Since each object and associated name is disconnected from any other object, adding additional storage is simple. Scale is virtually limitless.
+
+The thesis to “Why Object Storage…” is that there is never a case where Object Storage is the impetus of storing data. In other words, the classic reasons for failing to store data – cost, limits, complexity – are just simply removed. Services like Amazon’s S3 (cloud-native object storage) are simple, cheap, durable, and elastic. The total cost of ownership (TCO) of alternative storage solutions such as File and Block is commonly the cause of data being thrown away – it’s simply too costly to store it all.
+
+Yet, this data can contain immense value, and retaining it at low cost via Object storage can help business turn what was previously a cost sink into a value driver.
+
+Pros and Cons
+
+Like any architectural choice, there are benefits and drawbacks to every type of storage. Object storage’s limitless scale does have some deficiencies. Object storage is a wonderful place to store data, of any type, whether it is structure, semi-structured or unstructured. One can even add metadata to describe the content in the opaque value (called object tagging). However, when it comes to retrieving and/or analyzing this cost efficient data, performance seems to always come up.
+
+Object storage is not nearly as slow as Tape storage, but the high performance random access one typically associates with databases and SSD is certainly not part of the overall Object storage value. Typically, Object storage is seen as a data lake dumping ground where data is moved out into applications for the actual analysis. But, as with all things, “the times they are a changin.” New applications are beginning to use Object storage as a primary access point with new analytic solutions entering the market.
+
+Brave New Applications
+
+The move to Object storage as a primary repository (i.e. data lake) is growing each and every day. Gartner has suggested that 80% of enterprise data by 2021 will be stored in some form of Object storage. When it comes to the cloud, it is more than likely that much cloud data is already stored as Objects.
+
+Where the data is stored is where innovation will sprout and grow. Today, Object storage is an excellent place to store the tsunami of data being generated. The innovation will come from new applications and services also using Object storage as a primary access point – even tried and true database solutions.
+
+Summary: Data storage strategies are evolving and object storage is becoming an essential and convenient tool for enterprises, triumphing over other strategies.
+Here’s why you should factor object storage into your data strategy in 2018 to best prepare for the future.
+For instance, File Storage is typically backed by Block Storage with its File system abstraction on top.
+The thesis to “Why Object Storage…” is that there is never a case where Object Storage is the impetus of storing data.
+Object storage is not nearly as slow as Tape storage, but the high performance random access one typically associates with databases and SSD is certainly not part of the overall Object storage value.
+
+Other Blogs by Thomas Hazel: https://dataconomy.com/author/thomas-hazel/

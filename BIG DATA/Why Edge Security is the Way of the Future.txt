@@ -1,0 +1,54 @@
+Title: Why Edge Security is the Way of the Future
+
+Article Link: https://dataconomy.com/2018/07/31/why-edge-security-is-the-way-of-the-future/
+
+Author: Paul Puey
+
+Publish Date: 2018-07-31
+
+Article:
+In the age of the internet, personal data is more vulnerable to attacks than ever before. Here’s how edge security provides protection for consumers from their information being exposed to the clutches of the dark web.
+
+Currently, data storage by corporations involves customers providing companies with their private data and trusting them to protect it. In this paradigm, the corporation treats the data as their own: using it to provide targeted advertising and selling it to other organizations. In exchange, customers get discounted or free products (Gmail, Facebook, etc.).
+
+Anyone who follows the news knows that this approach simply does not work anymore. Data breaches where corporations leak private data entrusted to them have become almost a daily occurrence. In 2017, the Equifax breach revealed large amount of personal data on about half of all American citizens. Before 2017, many Americans probably had never heard of Equifax or known that Equifax possessed such a large amount of their personal data. Obviously, something needs to change.
+
+What is Edge Security?
+
+In the traditional form of corporate data storage, users provide data to corporations, who are responsible for protecting it. This paradigm is designed to give corporations access to the data in return for the services that they provide.
+
+In edge security, users maintain complete control over the data that they store on corporate systems. Data is encrypted on the users’ devices before being sent to the corporation for storage.
+
+Three Reasons Why Edge Security is the Way of the Future
+
+Currently, organizations collect and store large amounts of their customers’ personal data. Hopefully, this data is encrypted, but the OPM leak of 2015 shows that this is not always the case. In the case of the OPM breach, even encryption using keys controlled by OPM would be insufficient since the attacker had complete run of OPM’s network and could have gained access to the data anyway. Edge security is the way of the future for the following three reasons.
+
+You don’t need to trust corporations to protect your private data
+
+At present, to gain access to many products and services online, you are providing the company with your data as payment. Corporations monetize data by using data mining techniques to extract information of value to them. This demographic data helps determine which ads would be most appealing to a customer, what products and services are in demand, etc.
+
+In order to make use of your personal data, companies must have access to it. This also means that an attacker who gains sufficient access to a company system also has complete access to not just your personal data, but potentially millions of others’. By providing your personal data to a company, you are trusting it and all other organizations that it shares the data with to properly protect it. The security of your data is not under your control.
+
+With edge security, complete control over your data lies with you. Data is encrypted before it leaves your device and encryption keys are under your complete control. Edge security means that, if you only share your data in an encrypted form, you will never have to worry that a company will share it without your permission whether intentionally (with their business partners) or unintentionally (with a hacker and the highest bidder).
+
+Makes data breaches a thing of the past
+
+Today, data breaches are a massive problem. On average, fifty-eight data records are stolen every second. This information can be used for identity theft or to craft extremely effective spear-phishing campaigns. The selling price of stolen credentials ranges from $15-$190 per credential and this is only for login information. A complete data record including a copy of driver’s license and insurance information can retail for $1,000 on the Dark Web to buyers setting up new identities for clients. These numbers are per sale and per record and data breaches commonly leak thousands of records. As long as stolen data records are potentially sources of huge profits to hackers, data breaches will continue to occur.
+
+Edge security can make data breaches a thing of the past. By only storing information that is encrypted using keys stored only on customer devices, corporations remove the incentive for hackers to target their systems in the hope of obtaining customer data. With the average data breach costing an organization an average of $3.62 million, this represents a source of significant cost savings to an organization. With the introduction of GDPR requirements in May 2017 for organizations with EU customers, the cost of a breach increases dramatically: up to 4% of global revenue or €20 million, whichever is larger. Edge security is a straightforward solution that organizations can implement to completely remove their risk of a GDPR fine for loss of client data.
+
+The amount of personal data stored online is rapidly increasing
+
+In 2015, the average user had ninety online accounts, predicted to grow to 210 by 2020. At a minimum, each of these companies has an email address or username and a password for you. In addition, companies in the healthcare, financial, and social media industries collect, store, share, and sell information about every aspect of your daily life. With access to a few of these datasets, an attacker could believably impersonate you to anyone.
+
+Conclusion
+
+With edge security, the amount of personal information and number of organizations in possession of it can be greatly reduced. There is no reason why an organization should require your email address or username for a login when a hash of it would work just as well and protect your email address from being leaked if the company servers were breached. By implementing edge security, customer privacy and organizational security can be easily improved.
+
+Summary: Three Reasons Why Edge Security is the Way of the FutureCurrently, organizations collect and store large amounts of their customers’ personal data.
+Edge security is the way of the future for the following three reasons.
+Makes data breaches a thing of the pastToday, data breaches are a massive problem.
+ConclusionWith edge security, the amount of personal information and number of organizations in possession of it can be greatly reduced.
+By implementing edge security, customer privacy and organizational security can be easily improved.
+
+Other Blogs by Paul Puey: https://dataconomy.com/author/paul-puey/

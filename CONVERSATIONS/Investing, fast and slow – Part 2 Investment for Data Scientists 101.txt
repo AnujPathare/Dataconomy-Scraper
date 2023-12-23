@@ -1,0 +1,96 @@
+Title: Investing, fast and slow – Part 2: Investment for Data Scientists 101
+
+Article Link: https://dataconomy.com/2017/04/12/investing-fast-slow-investment-data-scientists-101/
+
+Author: Dr. David Stolin
+
+Publish Date: 2017-04-12
+
+Article:
+Financial markets offer countless ways of making (or losing) money. A key distinction among them is the investment horizon, which can range from fractions of a second to years. Walnut Algorithms and Global Systematic Investors are new investment management firms representing the high-frequency and low-frequency sides, respectively. I sat down to talk with their founders about investing, data, and the challenges of starting up. Part 1, my interview with Guillaume Vidal, co-founder and CEO of Walnut Algorithms ran last week. Below is my talk with Dr. Bernd Hanke, co-founder and co-Chief Investment Officer of Global Systematic Investors.
+
+What is the origin of Global Systematic Investors?
+
+Bernd Hanke: It came from all of our backgrounds. I did a PhD in finance and then worked for two systematic asset managers. In other words, managers who use systematic factors in order to do individual stock selection, quantitatively rather than using human judgment. Obviously, human judgment goes into the model when you select factors to forecast stock returns, but once you’ve built your model, the human element is reduced to a necessary minimum in order to try to remain disciplined. So that was my background. Both of my partners used to be in a portfolio management role at Dimensional Fund Advisors and one of them has always been very research-oriented. They both come from the same mindset, the same type of background, which is using systematic factors in order to forecast asset returns, in our case, stock returns.
+
+How has your strategy evolved over time and how do you expect it to evolve in the future?
+
+BH: We’ve worked on the strategy for quite some time, building the model, selecting the factors, working on the portfolio construction, on basically how you capture the systematic factors in an optimal, risk-controlled manner that is robust and makes intuitive sense. We developed the model over several years and we will keep enhancing the model as we continue to do more research. We are not making large changes frequently, but we gradually improve the model all the time, as new academic research becomes available, as we try to enhance some of these academic ideas, and as we do our own research.
+
+There is a commonly held view that in today’s markets, investment strategies are increasingly short-lived, and so they stop working quickly. You don’t share this view?
+
+BH: We are using a very low frequency model, so the factors we are using have a fairly long payoff horizon. I think when you talk about factors having a relatively short half-life in terms of usability, that is mostly true for higher frequency factors. If you back-test them, they sometimes look like there’s almost no risk associated, just a very high return, and then obviously as soon as people find out about these factors that almost look too good to be true, the effects can go away very quickly. Instead, we are looking at longer-term factors with a payoff horizon of several months or sometimes even a year. We recognize that there’s risk associated with these factors, but they have been shown to be working over long periods of time. In the US you can go back to the 1920’s studying these factors because the data is available. In other regions, there’s less data, but you have consistent findings. So as long as you are prepared to bear the risk and you diversify across these long-term factors, they can be exploited over long periods of time.
+
+What kind of long-term factors are we talking about?
+
+Our process is based on a value and a diversification component. When people hear “value”, they usually think about a book-to-price ratio. That’s probably the most well-known value factor. Thousands of academics have found that the value effect exists and it does persist over time. It has its drawdowns, of course, the tech bubble being one of them, and value actually worked very poorly, but then value came back strongly after the tech bubble had burst. We’ve broadened the definition of value. We also use cash flow and earnings-related factors, and we are using a factor related to net cash distributions that firms make to shareholders.
+
+We are also using a diversification factor. We are targeting a portfolio that is more diversified across company sizes and across sectors than a market weighted index.
+
+And the advantage of being more diversified is lower volatility?
+
+BH: Not necessarily. Stock-level diversification actually increases volatility because you’re capturing a size effect. You’re investing in smaller companies than a market-weighted index would. But smaller companies are more risky than larger companies. So if you tilt more towards smaller stocks you actually increase the risk, but you also increase returns. On the sector side, the picture is quite different. By diversifying more across sectors than the market-weighted index does, you get both lower risk and higher returns.
+
+Does the fact that your factors are longer-term and riskier mean that it could take you longer to convince an outside observer that your strategy is working?
+
+BH: Yeah, that’s true. That’s one of the luxuries that high frequency funds have given that their factors have such a short payoff horizon. They only need relatively short periods of live performance in order to demonstrate that the model works, whereas someone who uses a lower frequency model needs a longer period to evaluate those factors.
+
+So what are the benefits of going with such a slow-trading strategy compared to a fast-trading strategy?
+
+BH: One big advantage is of course that these long-term factors have a much higher capacity in terms of assets that you are able to manage with these factors. It is more robust, in the sense that even if liquidity decreased and transaction costs increased, it wouldn’t really hurt the performance of that fund very much because the turnover is so low. Whereas for high-turnover, short-term strategies, transaction costs and liquidity are obviously key, and even slight changes in the liquidity environment of the market can completely destroy the performance of these strategies. Another advantage related to that is that with lower frequency factors you can also go into small capitalization stocks more. You can tilt more towards small cap because you’re not incurring much turnover even though small cap is more costly to trade. And in small cap there are often more return opportunities than in large cap, presumably because small cap stocks are less efficiently priced than large cap stocks.
+
+Once you settled on your investment strategy, was it obvious to you how you would monetize it, that you would go for the fund structure that you have today?
+
+BH: The fund we have now is a UCITS fund. We were looking at different legal structures that one could have. It also depends a little bit on who you want to approach as a client or who you might be in contact with as a potential client. If you’re talking to a very large client for example, they might not even want a fund. They might want a separate account or they may have an existing account already and then they appoint you as the portfolio manager for that account. So then the client basically determines the structure of the fund. If it’s a commingled fund as ours, then there are a couple of options available. Some are probably more appealing to just UK investors and some are more global in nature. The UCITS structure is fairly global in nature. It tends to work for most investors except for US investors who have their own structures that differ from UCITS.
+
+What would be your advice to people who think they have a successful investment strategy and are thinking about setting up their own fund?
+
+BH: Well, my advice would be, find an investor first. Ideally, a mix of investors. So if one investor backs out, then you have someone else to put in. That’s obviously easier said than done. But I think that this is quite important.
+
+How dependent is your strategy on getting timely and accurate data?
+
+BH: For us, timeliness is not as crucial as for high frequency strategies. Obviously, we want to have the latest information as soon as possible, but if there was a day or perhaps even a week delay in some information coming in, it wouldn’t kill our strategy.
+
+But data accuracy is very important. Current data that we get is usually quite accurate. The same cannot necessarily be said about the historical data that we use in back tests. In the US, data is fairly clean, but not for some other countries. All of the major data vendors claim that there is no survivorship bias in the data. But it’s hard to check, and accuracy is often somewhat questionable for some of the non-US data sources in particular. We’re not managing any emerging markets funds, but even in developed markets going back, there tend to be many problems even for standard data types such as market data and accounting data.
+
+And the data sources that you are using now are mostly standard accounting data?
+
+BH: Yes. There are some adjustments that we could make and that we would like to make. For example, one fairly obvious adjustment would be to use more sector-specific data. If you are just thinking about a simple value factor which some people measure as book-to-price, it’s basically looking at the accounting value of a company relative to the market value of the company. You could call the accounting value the intrinsic value of the company. You could measure that differently for different industries. For example, if you think about the oil and gas industry, you might want to look at the reserves that these companies have in the ground rather than just using a standard book value. For metals and mining companies, you could do something similar. Other industries also use other sector-specific data items that could be relevant for investors. Most accounting data sources now incorporate quite a lot of sector-specific data items. One issue is that the history is usually not very long. So if you want to run a long back test using sector-specific data, that is usually not feasible because that type of data has typically only been collected over the last few years.
+
+What role do you see for data science and data scientists in investment management now and going forward?
+
+BH: Right now there is a huge demand for data scientists. That, however, is mostly in the hedge fund area. It is much less for long-only funds. We are managing a long-only fund. There are some quantitative asset managers, that manage both long-only funds and hedge funds, and they might be using a similar investment process for both. So these managers may hire data scientists even to work on the long-only portfolios, but it’s mostly systematic hedge funds and it’s mostly the higher frequency hedge funds. Different people refer to “high frequency” in very different ways, but what I would call “high frequency” would be factors with a payoff horizon of at most a couple of days, maybe even intraday factors. So those types of hedge funds seem to be the ones hiring the most data scientists at the moment. Also, new service providers keep popping up that employ data scientists and they then sell services to hedge funds, such as trading strategies or new types of data sets.
+
+How valuable are these non-standard or “alternative” data sources?
+
+BH: The data is there and we now have the computational power to exploit it. So I think it will become more useful, but it’s a gradual process. Everybody talks about big data, but I think right now only a small minority of funds have successfully employed non-standard or unstructured data sources (commonly labeled “Big Data”) in their strategies in a meaningful manner. For some types of non-standard data, I think there there’s an obvious case for using it. For example, credit card payment data can help you see whether there are particular trends that some companies might be benefitting from in the future, or looking at the structure of the sales and trying to use that in forecasting, and so on. And there are other data types where it’s probably more doubtful whether the data is useful or not. There is some tendency at the moment, I think, to be over-enthusiastic in the industry about new data without necessarily thinking carefully enough about formulating the right questions to investigate using the data and doing thoughtful data analysis.
+
+Where do you see investing heading, in terms of passive versus active strategies?
+
+BH: One trend is away from traditional active. Most institutional investors have come to the conclusion that traditional fundamental active long-only managers have underperformed. So, many institutional investors have moved to passive for their long-only allocation, or if not passive, then to what is often referred to as “semi-passive” or “smart beta” strategies. These are mostly one-factor strategies, where the assets, often in an ETF, are managed according to one factor such as a value factor. For example, fundamental indexing uses a value factor composite and that is the only factor. There are other strategies, such as minimum risk and momentum. Everything that is not a market weighted strategy is active, strictly speaking, but often investors refer to strategies that use fixed rules that are made publicly available to every investor as semi-passive.
+
+And then at the other end of the spectrum, you have hedge funds, and it used to be the case that systematic or quantitative fund managers, both long-only as well as long/short managers, mostly used similar factors. That became very apparent in August 2007 during the “quant liquidity crunch”. Basically what happened was that most quantitative investors were betting on the same or very similar factors, and once more and more quant investors had to liquidate their positions, that caused the factors to move against them in an extreme manner. So most quant factors had huge drawdowns at the beginning of August 2007. Then after 2007-2008, hedge funds attempted to move away from these standard factors to more proprietary factors as well as to non-standard data sources, and at the same time more and more data became available. I think systematic strategies used by many hedge funds now are actually more different than they used to be in 2007. However, the opposite might be true for many smart beta strategies. So, hedge funds are often trying to limit their portfolios’ exposures to standard factors used by the smart beta industry. Whether they are able to do this successfully remains to be seen. If there is going to be another quant crisis, that might be the acid test.
+
+So that’s been a fairly significant change over the last 10 years. If you had a crystal ball, what would be your prediction of how things will be different 10 years from now?
+
+BH: One prediction I would make is that smart beta is not going to remain as simplistic as it often is at the moment. Most likely, it will be developed into something that we had before 2007 in quant strategies. People will probably combine fairly well-known smart beta factors like value, momentum, low risk into multi-factor strategies rather than offering them separately for each factor and so that then investors have to combine the strategies themselves to diversify across factors. It is more efficient if the investment manager combines factors at the portfolio level because these factors, to the extent that they have low correlation, often partially offset each other. This means that trades based on different factors can be netted against each other and this saves trading costs. That is happening to some degree already. Several managers have started offering multi-factor smart beta portfolios.
+
+On the hedge fund side, I think the prediction is going to be more difficult. It remains to be seen how successful artificial intelligence and machine learning strategies turn out to be, and it also remains to be seen to what extent new data types are exploitable in terms of predicting subsequent stock returns and risk. My suspicion is that there are going to be many disappointments. Some new data types will be worthwhile but many probably won’t be. Similarly for machine learning and artificial intelligence. It is likely that only a small subset of today’s tools turn out to be useful.
+
+Do you see fintech companies making headway in investment management, either as asset managers or as suppliers to the industry?
+
+BH: Oh, definitely, on all sides. Robo-advisors being one of the big ones, I guess, that could change a lot how the asset management industry operates. And it’s in all areas, also other service providers, portfolio analytics providers and so on. There’s a lot of development in this area currently, which is probably a good thing. In terms of data vendors, for example, there is still a strong oligopoly consisting of Thomson Reuters, FactSet, Bloomberg and S&P who sometimes charge inflated prices for their data. And the data often isn’t particularly clean. Even worse are some of the index providers like MSCI, FTSE and S&P. They are offering very simple data at exorbitant prices. They are not really charging clients for the data. Instead they are charging them for usage of their brand name, for example, for the right to use the MSCI name in their marketing material. Now there are more and more fintech companies that are offering the same service, except for the brand name, at much lower cost to the client.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Image: Michael Dunn, CC BY 2.0
+
+Summary: What role do you see for data science and data scientists in investment management now and going forward?
+There are some quantitative asset managers, that manage both long-only funds and hedge funds, and they might be using a similar investment process for both.
+So these managers may hire data scientists even to work on the long-only portfolios, but it’s mostly systematic hedge funds and it’s mostly the higher frequency hedge funds.
+So those types of hedge funds seem to be the ones hiring the most data scientists at the moment.
+Also, new service providers keep popping up that employ data scientists and they then sell services to hedge funds, such as trading strategies or new types of data sets.
+
+Other Blogs by Dr. David Stolin: https://dataconomy.com/author/dstolin/

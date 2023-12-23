@@ -1,0 +1,96 @@
+Title: Data science certifications that can give you an edge
+
+Article Link: https://dataconomy.com/2021/02/04/data-science-certifications-give-edge/
+
+Author: Stewart Rogers
+
+Publish Date: 2021-02-04
+
+Article:
+Data science is one of the hottest jobs in IT and one of the best paid too. And while it is essential to have the right academic background, it can also be crucial to back those up with the proper certifications.
+
+Certifications are a great way to give you an edge as a data scientist; they provide you with validation, helping you get hired above others with similar qualifications and experience.
+
+Data science certifications come in many forms. From universities to specific vendors, any of the following are recognized by the industry and will help you hone your skills while demonstrating that you fully understand this area of expertise and have a great work ethic.
+
+Certified Analytics Professional
+
+The Certified Analytics Professional (CAP) is a vendor-neutral certification. You need to meet specific criteria before you can take the CAP or the associate level aCAP exams. To qualify for the CAP certification, you’ll need three years of related experience if you have a master’s in a related field, five years of related experience if you hold a bachelor’s in a related field, and seven years of experience if you have any degree unrelated to analytics. To qualify for the aCAP exam, you will need a master’s degree and less than three years of related data or analytics experience.
+
+The CAP certification program is sponsored by INFORMS and was created by teams of subject matter experts from practice, academia, and government.
+
+The base price is $495 for an INFORMS member and $695 for non-members. You need to renew it every three years through professional development units.
+
+Cloudera Certified Associate Data Analyst
+
+The Cloudera Certified Associate (CCA) Data Analyst certification shows your ability as a SQL developer to pull and generate reports in Cloudera’s CDH environment using Impala and Hive. In a two-hour exam, you have to solve several customer problems and show your ability to analyze each scenario and “implement a technical solution with a high degree of precision.”
+
+It costs $295 and is valid for two years.
+
+Cloudera Certified Professional Data Engineer
+
+Cloudera also provides a Certified Professional (CCP) Data Engineer certification. According to Cloudera, those looking to earn their CCP Data Engineer certification should have in-depth experience in data engineering and a “high-level of mastery” of common data science skills. The exam lasts four hours, and like its other certification, you’ll need to earn 70 percent or higher to pass.
+
+The cost is $400 per attempt, and it is valid for three years.
+
+DAMA International CDMP
+
+The DAMA International CDMP certification is a program that allows data management professionals to enhance their personal and career goals.
+
+The exam covers 14 topics and 11 knowledge areas, including big data, data management processes, and data ethics. DAMA also offers specialist exams, such as data modeling and design, and data governance.
+
+Data Science Council of America Senior Data Scientist
+
+The Data Science Council of America Senior Data Scientist certification program is for those with five or more years of research and analytics experience. There are five tracks, each with different focuses and requirements, and you’ll need a bachelor’s degree as a minimum. Some tracks require a master’s degree.
+
+The cost is $650, and it expires after five years.
+
+Data Science Council of America Principal Data Scientist
+
+The Data Science Council of America also offers the Principal Data Scientist certification for data scientists with ten or more years of big data experience. The exam is designed for “seasoned and high-achiever Data Science thought and practice leaders.”
+
+Costs range from $300 to $950, depending on which track you choose. Unlike the other certifications so far, this does not expire.
+
+Google Professional Data Engineer Certification
+
+The Google Professional Data Engineer certification is for those with basic knowledge of the Google Cloud Platform (GCP) and at least one year of experience designing and managing solutions using GCP. You are recommended to have at least three years of industry experience.
+
+It costs $200, and the credentials don’t expire.
+
+IBM Data Science Professional Certificate
+
+The IBM Data Science Professional certificate comprises nine courses, covering everything from data science to open-source tools, Python to SQL, and more. In an online course, you’ll create a portfolio of projects as part of the certification, which is useful for employers who need to see practical examples of your work.
+
+There is no charge for this course and no expiry.
+
+Microsoft Azure AI Fundamentals
+
+Microsoft’s Azure AI Fundamentals certification focuses on machine learning and AI but specific to Microsoft Azure services. A foundational course, it is suitable for those new to the field.
+
+It costs $99 with no credentials expiry.
+
+Microsoft Azure Data Scientist Associate
+
+Microsoft also provides the Azure Data Scientist Associate certification focused on machine learning workloads on Azure. You’ll be tested on ML, AI, NLP, computer vision, and predictive analytics, and it requires more advanced knowledge of the field than its other certification program.
+
+The cost is $165, and again, credentials don’t expire.
+
+Open Group Certified Data Scientist
+
+The Open Group Certified Data Scientist (Open CDS) certification is markedly different from the other programs listed here. There are no traditional training courses or exams. Instead, you gain levels of certification based on your experience and a board approval process.
+
+The cost depends on which level you are applying for, but the minimum fee is $1,100 to reach level one. Credentials don’t expire.
+
+TensorFlow Developer Certificate
+
+The TensorFlow Developer Certificate is for those who want to show their machine learning skills using TensorFlow. You will need experience with ML and deep learning’s basic principles, building ML models, image recognition, NLP, and deep neural networks.
+
+This certification costs $100 per exam, and credentials don’t expire.
+
+Summary: The exam covers 14 topics and 11 knowledge areas, including big data, data management processes, and data ethics.
+Data Science Council of America Senior Data ScientistThe Data Science Council of America Senior Data Scientist certification program is for those with five or more years of research and analytics experience.
+Data Science Council of America Principal Data ScientistThe Data Science Council of America also offers the Principal Data Scientist certification for data scientists with ten or more years of big data experience.
+IBM Data Science Professional CertificateThe IBM Data Science Professional certificate comprises nine courses, covering everything from data science to open-source tools, Python to SQL, and more.
+Microsoft Azure Data Scientist AssociateMicrosoft also provides the Azure Data Scientist Associate certification focused on machine learning workloads on Azure.
+
+Other Blogs by Stewart Rogers: https://dataconomy.com/author/stewart-rogers/

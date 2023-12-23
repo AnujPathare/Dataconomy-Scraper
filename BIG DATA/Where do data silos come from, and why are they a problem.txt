@@ -1,0 +1,74 @@
+Title: Where do data silos come from, and why are they a problem?
+
+Article Link: https://dataconomy.com/2022/03/31/where-do-data-silos-come-from/
+
+Author: Thorsten Dittmar
+
+Publish Date: 2022-03-31
+
+Article:
+Times are changing. We are breaking new thresholds in managing data. But getting rid of old habits is easier said than done. Data silos, an institutional phenomenon, are still mushrooming in today’s increasingly connected and shared world focused on accessibility. Top companies are now busy breaking down data silos to converge operations and experiences. Various factors help emerge data silos at enterprises, including technical, organizational, and cultural. In any case, they endanger data security severely. We will probe what data silos are, how they arise, and their risks for enterprises.
+
+What are data silos?
+
+Silos are a challenge for modern data policies. A data silo is a collection of data kept by one department that is not readily or fully accessible by other departments in the same organization. They occur because departments store the data they need in separate locations. These silos are often isolated from the rest of the organization and only accessible to a particular department and group.
+
+The number of data silos grows as the amount and diversity of an organization’s data assets increases. However, even though data silos sound like a practical approach adopted by departments with different goals, priorities, and budgets, they are not as innocent as they seem.
+
+Where do data silos come from?
+
+Data silos often occur in organizations without a well-planned data management strategy. But a department or user may establish its data silo even in a company with solid data management processes. However, data silos are most often the result of how an organization is structured and managed.
+
+Many businesses allow departments and business units to make their own IT purchases. This decision frequently results in databases and applications that aren’t compatible with or linked to other systems, resulting in data silos. Another ideal scenario for data silos is where business units are wholly decentralized and managed as separate entities. While this is often common in big enterprises with many divisions and operating companies, it can also occur in smaller organizations with a comparable structure and management technique.
+
+Company culture and principles can also cause the emergence of data silos. Company cultures where data sharing is not a norm and the organization lacks common goals and principles in data management, create data silos. Worse, departments may see their data as a valuable asset that they own and control in this culture, encouraging the formation of data silos.
+
+Ironically, success can also lead to silos if not managed well. That’s why data silos are typical in growing enterprises. Expanding organizations must rapidly meet new business needs and form additional business divisions. Both of those situations are common causes for data silo development. Mergers and acquisitions also bring silos into an organization, and some may stay very well hidden for a long time.
+
+What is the problem with data silos?
+
+Data silos jeopardize the overall management of how data is gathered and analyzed, putting organizations at greater risk of data breaches. There’s a higher danger that the information will be lost or otherwise damaged since employees would be keeping data on non-approved applications and devices.
+
+Siloed data frequently signals an isolated workplace and a corporate culture where divisions operate independently and no information is shared outside the department. Integrating corporate data can help bring down overly strict team structures where data isn’t shared and utilized to the company’s full potential.
+
+When there’s limited visibility across an organization, members of different teams can do the same work in parallel. A shared, transparent data culture can avoid wasting time and resources.
+
+When there are data silos, you may confuse permissions and information access hierarchy. The level and type of security provided might vary, depending on the silo. This can create a significant lag factor when benchmarking data or constructing a longitudinal study that revisits past material or incorporates data from various company sections. It jeopardizes productivity and lowers the return on investment for projects.
+
+Silos can cause difficulties for data analysis since the data might be kept in non-compliant formats. Before any valuable insights may be obtained from it, standardizing the data and converting it into new interoperable formats is a time-consuming manual process.
+
+The financial cost of silos is determined by the organization’s size, the effectiveness of its efforts to eliminate them, and whether they continue to develop. The most apparent cost is increased IT and data management expenditures.
+
+How to dismantle data silos?
+
+While data silos are easy to spot in small companies, it can be challenging to understand the number and full impact of data silos in large organizations. A brief survey sent to important data stakeholders throughout the organization might help identify siloes at their source.
+
+Although cultural habits or hierarchical HR structures sometimes cause data silos, the technology an IT department employs might also contribute. Many existing systems may not be set up for data sharing or compatible with modern formats, and technological solutions might differ depending on departments. The key is to bring your data on a contemporary platform for sharing and collaboration via a simple interface. This may be a long-term initiative rather than a short-term fix, but it could pay off as an organization expands.
+
+A great example of handling data from various data silos
+
+For a long term fix, polypoly MultiBrand comes to your help. Let’s take customer data management as an example.
+
+Today, companies have multiple touchpoints with customers. From all these points, channels and various sources, lots and lots of data flow. Data-privacy regulations such as GDPR prevents the group-wide customer journey from being recorded. This leaves companies in a one-way street, where they create maintenance-intensive and costly data silos, which is also a common problem for companies that own multiple brands.
+
+What would you think if I told you that the companies can dismantle these data silos with the help of their customers?
+
+By using the polyPod, a Super App infrastructure, this is possible. Let me explain to you step by step.
+
+Companies provide their customers the polyPod app.
+
+Users download their data from various data silos to their device. Thus, a detailed data set for this user is created across departmental and corporate boundaries. On the other hand, integrated consent management helps the user have more control over personal data.
+
+The company creates an incentive for the customers, encouraging them to add data from platforms such as social media, and correct their own data.
+
+This way, a sloppy data silo can turn into well-structred data, creating savings which then the company can pass on in parts as incentives or extra benefits.
+
+By using polyPod app, companies can have additional benefits, like big data analyzing power from the same end devices its customers use. The app’s resource sharing function allows the consented party to use these resources for computing, which in turn lowers data intermediary and data center costs. The final benefit is the increased customer satisfaction due to transparency and data privacy.
+
+Summary: The number of data silos grows as the amount and diversity of an organization’s data assets increases.
+Company cultures where data sharing is not a norm and the organization lacks common goals and principles in data management, create data silos.
+Data silos jeopardize the overall management of how data is gathered and analyzed, putting organizations at greater risk of data breaches.
+While data silos are easy to spot in small companies, it can be challenging to understand the number and full impact of data silos in large organizations.
+Users download their data from various data silos to their device.
+
+Other Blogs by Thorsten Dittmar: https://dataconomy.com/author/thorsten-dittmar/

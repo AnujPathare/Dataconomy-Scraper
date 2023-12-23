@@ -1,0 +1,56 @@
+Title: Zhixiaobao 2.0: A possible leap in financial AI
+
+Article Link: https://dataconomy.com/2023/09/12/zhixiaobao-2-0-a-leap-in-financial-ai/
+
+Author: Kerem Gülen
+
+Publish Date: 2023-09-12
+
+Article:
+• Quick take: Ant Group aims to redefine financial advising and insurance services with the introduction of a specialized Large Language Model (LLM) and its customer-centric app, Zhixiaobao 2.0.
+
+Ant Group aims to redefine financial advising and insurance services with the introduction of a specialized Large Language Model (LLM) and its customer-centric app, Zhixiaobao 2.0. • Core insight: The specialized LLM and Zhixiaobao 2.0 are designed to provide targeted, highly accurate advice to both financial professionals and everyday consumers.
+
+The specialized LLM and Zhixiaobao 2.0 are designed to provide targeted, highly accurate advice to both financial professionals and everyday consumers. • What’s next: As these technologies await regulatory approval, the finance industry is poised for a transformative shift that could make expert financial and insurance guidance accessible to a broader audience.
+
+Ant Group has introduced a specialized LLM along with a customer-focused financial assistant app, Zhixiaobao 2.0, aimed at revolutionizing the financial industry for both experts and consumers.
+
+This groundbreaking development was showcased at a technology symposium held in Shanghai.
+
+“Wealth managers can deploy the LLM to evaluate financial products, analyze markets and for investor education. Insurance service professionals could also use the LLM to explain insurance products, design family insurance plans and verify insurance claims,” assured a blog entry from the company this week.
+
+Technical highlights of Zhixiaobao 2.0
+
+What sets Ant Group’s language model apart is its niche focus. “General-purpose LLMs struggle to make sense of industry jargon and lack the domain expertise that helps financial professionals do their jobs,” stated Alibaba’s managing editor, Alison Tudor-Ackroyd.
+
+The specialized language model is presently undergoing rigorous evaluations on Ant’s platforms dedicated to wealth management and insurance. The ambition is to roll it out extensively across Ant Group’s digital financial ecosystem in China.
+
+Exploring the strong growth of BaaS in the fintech sector
+
+Ant Group commenced the development of this sector-specific language model towards the close of 2022. The company boasts that the model has been trained on an expansive data set, including “hundreds of billions of token datasets containing Chinese financial documents and over 1,000 billion tokens from general corpus datasets.” The model has also been fine-tuned based on over 600,000 guidelines extracted from more than 300 case studies in the financial field, drawing insights from Ant’s existing general-purpose language models.
+
+Applications and accuracy
+
+Among the suite of applications associated with this initiative is Zhixiaobao 2.0, a customer-centric financial assistant application that is currently awaiting regulatory green light following a half-year testing period. Another application in the pipeline, Zhixiaozhu 1.0, aims to serve professionals in the finance industry and is also in the experimental stage.
+
+Zhixiaobao 2.0 is purported to offer an array of services, such as market insights, evaluation of investment portfolios, tailored asset distribution advice, and educational content for investors. The application claims to achieve a 95% accuracy rate in deciphering users’ financial objectives. Additionally, it asserts that its market analytical capabilities are comparable to those of a seasoned finance professional. However, it’s important to note that these metrics were derived from the organization’s proprietary assessment tools.
+
+In the pipeline alongside Zhixiaobao 2.0 is Zhixiaozhu 1.0, designed to assist industry experts with functions like evaluating investments, extracting pertinent data, crafting content, spotting business opportunities, and maneuvering financial instruments.
+
+Challenges ahead
+
+It’s worth mentioning that large language models like these have not always proven to be reliable. A study from scholars at Stanford and the University of California revealed that the performance of OpenAI’s ChatGPT seemed to decline in some coding tasks even after its upgrade from 3.5 to 4.0.
+
+Locally-developed Chinese LLMs have had their share of challenges as well. As China speeds up its technology development, these models are treading a delicate balance between functionality and compliance with domestic restrictions, particularly on political matters.
+
+The efficacy of Zhixiaobao and other large language models remains a point of watchful interest. While these technologies promise to make financial expertise more accessible, their true test will be in delivering reliable, compliant, and accurate guidance in a complex landscape.
+
+Featured image credit: Kerem Gülen/Midjourney
+
+Summary: • Quick take: Ant Group aims to redefine financial advising and insurance services with the introduction of a specialized Large Language Model (LLM) and its customer-centric app, Zhixiaobao 2.0.
+Ant Group aims to redefine financial advising and insurance services with the introduction of a specialized Large Language Model (LLM) and its customer-centric app, Zhixiaobao 2.0.
+• Core insight: The specialized LLM and Zhixiaobao 2.0 are designed to provide targeted, highly accurate advice to both financial professionals and everyday consumers.
+The specialized LLM and Zhixiaobao 2.0 are designed to provide targeted, highly accurate advice to both financial professionals and everyday consumers.
+Ant Group has introduced a specialized LLM along with a customer-focused financial assistant app, Zhixiaobao 2.0, aimed at revolutionizing the financial industry for both experts and consumers.
+
+Other Blogs by Kerem Gülen: https://dataconomy.com/author/kerem-gulen/

@@ -1,0 +1,58 @@
+Title: Going Where Big Data Has Never Gone Before…
+
+Article Link: https://dataconomy.com/2015/02/09/going-where-big-data-has-never-gone-before/
+
+Author: Eileen McNulty
+
+Publish Date: 2015-02-09
+
+Article:
+When you think of the field services and maintenance industries, it’s likely that big data & cutting edge tech don’t spring to mind. Far from slick, up-to-the-minute tech and data-optimised logistics on the backend, many service technicians are still doing everything by the book, literally- many smaller enterprises haven’t yet even digitised their workflow and records. Adding big data magic to this industry is a daunting challenge to say the least, but one that Coresystems have taken up with relish. We recently spoke to CEO Philipp Emmenegger about Coresystems came to settle on this particular market, and what the future looks like for both Coresystems and the field services market at large.
+
+Give us a brief introduction to Coresystems’ key product.
+
+We deliver a FSM (Field Service Management) solution from the cloud. The advantage that comes along with our solution is its architecture with the possibility to access various ERP simultaneously. All kinds of industries can use the app to automate their service processes, e.g. it is possible to dispatch service technicians, but also to see the stock of spare parts and order parts directly from the app. It is a way to keep all the information in one place, which again helps to provide great customer service. For larger accounts that experiences many M&As and therefore live with a variety of ERP backend we can smoothly integrate them.
+
+You started out created SAP add-ons, and today boast over 120,000 users- talk us through your roadmap/journey.
+
+When we started to develop our SAP add-ons we didn’t know how much impact they would create in the market. The first version has been developed solely for our own use. We simplified the reporting capabilities within SAP and used it for all our printouts and marketing documents. However, it soon became very popular within Switzerland and we thought: Why not distribute it in other countries, too? – So we did. After two years of single-handed distribution, we started to build a reseller-channel. That was our break through, since we were able to sell our products to almost all industries without being experts in them. The more we grew the better our products became. It took us roughly 10 years to find out where we achieved a real difference: in the field service market. We developed a “plug and play” connector for SAP that allows us to get a running project in less than a week. This way it is also affordable for all our clients.
+
+How significant has big data disruption been to field services so far? What would you say to field services that have yet to adopt big data- or perhaps even any kind of digitised workflow?
+
+The impact is not that great at the moment. Everybody talks about it, but hardly anyone has realized any solutions so far. Currently there is a discussion, but there aren’t too many initiatives. However, we believe the big data flow will massively influence field service management and its stakeholders in the coming 12 to 18 months already.
+
+Could you describe the technology you use to operate Coresystems?
+
+We use a couple of components that make our FSM solution complete. In the frontend we use iOs or Android clients that interact with our cloud. The cloud itself is a multi-stack linux environment that exposes a state of the art API. Depending on the backend we than code a connector on .Net technology or Java.
+
+How do you differentiate yourself from other competitors on the market?
+
+Nowadays almost every competitor delivers the same feature set. That brought us to the idea to differ in the following two areas:
+
+1) backend connectors >> we are able to connect our solution to a heterogenic ERP landscape without headache
+
+2) the user experience for service technician >> we focus on the experience that a service technician has NOT on the dispatching like most of our competitors
+
+There are companies that have thousands of service technicians. Imagine for example a company that is building turbines and needs to repair them. Usually there are several service technicians involved in this process. They need to collaborate and need to be up-to-date on what has been done and what still needs to be done. Our application facilitates this kind of collaboration and safes companies a lot of money, because they can have the turbine up and running much quicker with our field service management tool. Another thing we are good at it the fact that our cloud is also available offline. If you are on an oil platform or in the Sahara you are most likely not connected to a network, but you can still use our application.
+
+Your tech is cloud-based; cloud adoption is widespread, but far from universal at this point. What do you foresee in the future of cloud computing?
+
+Generally we see that the ERP becomes less and less important. There is a trend to move into “best of breed” products (e.g. Salesforce for CRM). The ERP is about to be “reduced” to accounting only. However, the movement toward best of breed products happened primarily with regard to cloud products. Our prediction is that in 5 years from now what has previously been stored in the ERP will move into the cloud. This means there will be a CRM cloud, a service cloud, a HCM cloud and an infrastructure cloud. It’s crucial that all the clouds can talk to each other. This is why we believe that SAP, Microsoft or Oracle as full-service providers are doomed to lose market shares.
+
+Your marketing and web design focuses a lot around two key elements- customer service, and a sense of theatre/spectacle. Talk us through why you decided these two elements ought to become integral parts of your brand.
+
+Our current website will be redesigned soon. However, the circus is how we encounter the FSM today. It’s a bunch of different acts that need to be managed.
+
+Are you currently looking for funding, or aiming to hire any particular talent at the moment?
+
+We are looking for roughly 10 developers. On the funding front we are fine for the moment having raised 10 million Swiss Francs in September 2014. However, expanding in the US might lead for a new round of investment in order to build up a powerful sales team.
+
+All images courtesy of Coresystems.
+
+Summary: When you think of the field services and maintenance industries, it’s likely that big data & cutting edge tech don’t spring to mind.
+Adding big data magic to this industry is a daunting challenge to say the least, but one that Coresystems have taken up with relish.
+What would you say to field services that have yet to adopt big data- or perhaps even any kind of digitised workflow?
+However, we believe the big data flow will massively influence field service management and its stakeholders in the coming 12 to 18 months already.
+This means there will be a CRM cloud, a service cloud, a HCM cloud and an infrastructure cloud.
+
+Other Blogs by Eileen McNulty: https://dataconomy.com/author/eileen-mcnulty/

@@ -1,0 +1,74 @@
+Title: Key Challenges That Healthcare AI Needs to Overcome in 2020
+
+Article Link: https://dataconomy.com/2020/04/01/key-challenges-that-healthcare-ai-needs-to-overcome-in-2020/
+
+Author: Ralph Tkatchuk
+
+Publish Date: 2020-04-01
+
+Article:
+The promise of artificial intelligence (AI) is finally being realized across a wide variety of industries. AI is now viewed as a crucial technology to adopt for enterprises to thrive in today’s business environment.
+
+Healthcare, in particular, has been one of the industries that AI advocates expect to be revolutionized by AI. Potential use cases paint a clear picture of how healthcare stakeholders stand to benefit from AI in the months ahead. Patient care standards are projected to improve, diagnostic capabilities are expected to expand, and facilities should become far more efficient.
+
+However, some significant challenges still need to be addressed if AI is going to find mainstream acceptance in the healthcare industry this year.
+
+Realizing the Promise of AI-Driven Healthcare
+
+AI is now beginning to be implemented in the field of medicine to perform tasks such as treatment recommendations, diagnoses and even surgery. The huge promise of AI has led to an increase in the study, development and adoption of the technology. The global healthcare AI market is projected to reach over $8 billion by 2026.
+
+Here’s a quick breakdown of a few promising use cases that are already being implemented successfully:
+
+· Personalized healthcare. AI can be used to provide patients more information to help them understand their conditions and take the necessary steps to address their needs between appointments with caregivers.
+
+· Diagnoses. AI also helps clinicians make accurate diagnoses quickly in their efforts to learn more about illnesses, develop treatments, and make health predictions
+
+· Predictions. By analyzing historical and real-time data, it is possible for AI to predict location, spread, and timing of outbreaks of infectious diseases. Infection surveillance platform BlueDot was able to accurately predict danger zones like Wuhan using AI over a week prior to the World Health Organization’s first statements about the outbreak.
+
+· Surgery. AI-assisted robots can be used to perform surgeries. Robots can analyze data and study surgical procedures to aid surgeons and improve surgical techniques.
+
+Addressing the Challenges
+
+Once fully realized, these AI-powered capabilities can truly benefit patients, providers, and organizations alike.
+
+Thanks to cloud computing, many efforts are not constrained by limited access to supercomputing power anymore. Even smaller projects are able to acquire the processing resources they need to power their machines. Better connectivity through newer technologies like 5G is enabling new use cases. Faster speeds and lower latency can even make remote robotic surgeries more widely available.
+
+However, the progress and the adoption of AI are still generally hampered by some challenges, especially at the data front. Maximizing the full potential of this technology will require overcoming the following obstacles.
+
+Digitizing and Consolidating Data
+
+AI projects still operate mainly by the garbage-in-garbage-out principle, meaning that they need vast amounts of relevant and reliable data. Finding high-quality data sources in healthcare can be difficult since health data is often fragmented and distributed across different organizations and data systems, as patients typically see different providers and often switch insurance companies.
+
+Many countries also have poor data quality and siloed data systems that make it difficult to consolidate and digitize health records. Even in the US, where there’s a big push to expedite the digitizing of medical systems, the quality of digitized information remains a problem. For example, a formal investigation found that record-keeping software giant eClinicalWorks had numerous flaws in its system that potentially put patients at risk. Unfortunately, the software is still being used by around 850,000 health professionals in the country.
+
+Sorting, consolidating, and digitizing medical records are tedious processes all on their own, requiring immense amounts of computing power and the cooperation of data owners. However, digital and updated record systems allow for greater efficiency and accuracy in medicine. Healthcare stakeholders must find ways to improve data consolidation and digitization so that medical data can be properly processed and analyzed by AI.
+
+Updating Regulations
+
+Medical records are protected by stringent privacy and confidentiality laws, so that sharing such data even with an AI system may be construed as a violation of these laws. To ensure that medical data can be used for these purposes, consent from patients must be obtained.
+
+However, doing this at scale can be a logistical challenge on its own.
+
+Regulatory bodies must implement rules that will help protect identities and allow healthcare providers to acquire high-quality data to allow their AI technologies to process data. Likewise, medical institutions must do their due diligence to comply with these regulations and be accountable in how they obtain patient data.
+
+Involving Humans
+
+Medical professionals and patients also remain skeptical about AI. For example, radiologists are apprehensive about being “replaced by robots.” Patients are likewise wary of the technology’s ability to adequately address their individual health concerns.
+
+Overcoming the anxieties of health professionals and the skepticism of patients toward AI is key to building an AI-driven healthcare system.
+
+There must be a full understanding that AI only serves to augment the diagnostic capabilities of healthcare practitioners. This will encourage everyone to embrace AI-assisted medical practices.
+
+The Machines Will Heal Us
+
+Ultimately, while the development and adoption of AI in healthcare is happening rather quickly, its success will still require the full participation of all stakeholders.
+
+Indeed, 2020 has the potential to emerge as a watershed year in this regard, but unless the above challenges are addressed, truly mainstream AI-assisted healthcare will continue to be more of a science-fiction dream than a tangible reality.
+
+Summary: Healthcare, in particular, has been one of the industries that AI advocates expect to be revolutionized by AI.
+However, some significant challenges still need to be addressed if AI is going to find mainstream acceptance in the healthcare industry this year.
+The global healthcare AI market is projected to reach over $8 billion by 2026.
+Healthcare stakeholders must find ways to improve data consolidation and digitization so that medical data can be properly processed and analyzed by AI.
+Overcoming the anxieties of health professionals and the skepticism of patients toward AI is key to building an AI-driven healthcare system.
+
+Other Blogs by Ralph Tkatchuk: https://dataconomy.com/author/ralph-tkatchuk/

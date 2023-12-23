@@ -1,0 +1,68 @@
+Title: How Utilities Are Wrestling with Big Data…And Winning
+
+Article Link: https://dataconomy.com/2014/07/24/how-utilities-are-wrestling-with-big-data-and-winning/
+
+Author: Jamal Khawaja
+
+Publish Date: 2014-07-24
+
+Article:
+Big Data has been making noise in almost every facet of corporate America. From targeted marketing to reducing manufacturing defects, the promise of Big Data seems like the 21st century version of Warbug’s Tincture – a comprehensive, all-inclusive cure to the gross process negligence and overall corporate excesses of the 1990s. What were you planning on doing with those data warehouses, anyways? Was all that retained customer data going to be used for anything other than a bull’s-eye for hackers as they eyed your network and data infrastructure?
+
+Utilities are facing the challenges of the big data deluge, but the opportunities and challenges that they face are fascinating to consider; the amount of data that is being collected by smart meters and other consumer-oriented electric monitoring devices has increased the amount of data collected by up to 180x, according to a 2012 survey by Oracle of utility senior executives across North America.
+
+The “Big Data, Bigger Opportunities” survey identified a host of challenges – and opportunities – that utilities struggle with as they migrate from manual, once-a-month reporting for electric consumption to devices that take multiple measurements per minute and allow the aggregation and sharing of information across what were once departmental silos inside utility companies. And it’s not just electric usage that is now being tracked; the data torrent now includes outages, voltages, tampering, and diagnostic data.
+
+So far, value is being driven by homeowners and utility customers. They are now able to analyze and trend their electricity usage across individual components in their home. It’s one thing to know that incandescent bulbs are inefficient; knowing that those two 150-watt bulbs you leave on all night for security are costing you around $300/year in wasted electricity might encourage you to be a bit more frugal with your electric consumption. And how about that desktop computer that stays on all the time? According to my smart meter, every month I’m throwing away $20. Click.
+
+That’s not where the real value of this data resides. It is good information, obviously; canny homeowners may be able to save $500 to $1000 off of their yearly electric bill. In the future, these homeowners will be able to compare their usage against aggregates from their neighbors. Sadly, not all homeowners are canny, and fewer still may take the time to take a look at their electricity usage in such detail.
+
+It’s hard to put together an ROI model for a system that requires between ten and twenty percent of the capital spend of a utility in the hope that some fraction of the customers will alter their consumption habits. The real promise of smart meter-enabled big data lies in the external outcomes; it is in the aggregation of utility usage across a service area. Imagine a city that can:
+
+Accurately predict energy usage in order to improve their performance on settlement markets
+
+Leverage operational and customer-facing data to reduce the number of customers that leave
+
+Measure and predict real-time loads so that energy grids can react intelligently to variations in supply and demand
+
+Identify anomalies in order to automatically reroute electric paths away from failed devices or links.
+
+Aggregate data across operational, transactional, and financial silos to garner a better, more intelligent understanding of the business
+
+Being able to analyze data in order to recognize fraud or predict maintenance or identify threats.
+
+Reducing the need for site visits through automated, remote meter reading and billing.
+
+Analyzing the generation and transmission costs of alternative energy sources such as wind and solar.
+
+This list goes on. It is limited only by the brilliance of the data scientists that construct the interrelationships between disparate fragments of data, and the agility of the business to leverage this data to make smarter decisions around strategy and operations.
+
+Despite the many detractors and critics of smart metering, the writing is on the wall; as extremely accurate and demand-driven forecasts of electricity emerge, this information will invariably be tied to the hardware generating the data and the transmission elements of the grid. The net result of this will be lower costs and higher availability. Centerpoint Energy has already reduced the number of trucks on the road by hundreds; from meter readers to reconnection efforts, much of the work that once required a site visit is now completely automated.
+
+According to Floyd LeBlanc, VP of Corporate Communications at Centerpoint Energy in Houston, Texas, “Centerpoint can now read meters remotely, which along with conducting nearly five million service connection and disconnection orders electronically to date – without sending a truck – has saved customers at least $24 million in eliminated fees as well as CNP nearly half a million gallons in fuel and removed over 4,000 tons of CO 2 from the atmosphere.”
+
+Electric reclamation from savvy homeowners continues to rise and data analytics are fueling a deeper and more cogent understanding of the various relationships between electric demand, weather patterns, temporal statistics on usage, and a thousand other points of data that promise to reduce the cost of electricity for consumers.
+
+Mr. LeBlanc goes on to say that “… more than 600,000 Texans now get more frequent and detailed information on their electricity use (down to 15-minute increments), and almost 15,000 get near-real time usage information from In-Home Display Energy (IHD) monitors. Over 70% of surveyed customers have made energy-saving changes based on this information with some reporting savings up to $100 per month.”
+
+All of this operational and performance data will end up tightening the operations of the grid. In the coming years, we will see a more robust and elastic grid that has the ability to predict and react autonomously to demand fluctuations. A grid that has the ability to heal itself when hurricanes down power lines or knock out transformers by rerouting power to homes and businesses; a grid that can purchase electricity with absolute accuracy on the open market in order to drive the best price for consumers; a grid that needs less hands-on maintenance and more data-intensive processing.
+
+It is a grid where electricity is an on-demand facility rather than a utility service subject to the vagaries of fate and circumstance.
+
+Follow @DataconomyMedia
+
+Jamal is a regular commentator on the Big Data industry. He is an executive and entrepreneur with over 15 years of experience driving strategy for Fortune 500 companies. In addition to technology strategy, his concentrations include digital oil fields, the geo-mechanics of multilateral drilling, well-site operations and completions, integrated workflows, reservoir stimulation, and extraction techniques. He has held leadership positions in Technology, Sales and Marketing, R&D, and M&A in some of the largest corporations in the world. He is currently a senior manager at Wipro where he focuses on emerging technologies.
+
+Interested in more content like this? Sign up to our newsletter, and you wont miss a thing!
+
+[mc4wp_form]
+
+(Image Credit: Portland General Electric)
+
+Summary: Big Data has been making noise in almost every facet of corporate America.
+And it’s not just electric usage that is now being tracked; the data torrent now includes outages, voltages, tampering, and diagnostic data.
+They are now able to analyze and trend their electricity usage across individual components in their home.
+The real promise of smart meter-enabled big data lies in the external outcomes; it is in the aggregation of utility usage across a service area.
+Follow @DataconomyMediaJamal is a regular commentator on the Big Data industry.
+
+Other Blogs by Jamal Khawaja: https://dataconomy.com/author/jamal-khawaja/

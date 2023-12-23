@@ -1,0 +1,34 @@
+Title: U.S. SEC Taps into Big Data and Cloud Computing to Make Big Savings and Enhance Prospects
+
+Article Link: https://dataconomy.com/2014/08/18/u-s-sec-taps-into-big-data-and-cloud-computing-to-make-big-savings-and-enhance-prospects/
+
+Author: admin
+
+Publish Date: 2014-08-18
+
+Article:
+The U.S. Government’s regulator of federal securities, U.S. Securities and Exchange Commission (SEC) is reportedly utilising Big Data analytics processes and cloud computing in making records public and sifting/sorting through millions of trading data which in turn is saving the agency upwards of $3 million each year.
+
+The SEC’s move to the cloud is the base for several other projects that are saving the agency time and money. Market Information Data Analytics System (MIDAS) and National Examination Analytics Tool (NEAT) are two such examples.
+
+Laura Egerdal, director of digital strategy within the SEC’s Office of Public Affairs and one of the many employees behind these projects, explains, “I proposed a visualization tool that would put graphs in the browsers that people could play with, where you could actually adjust what data sets you’re looking at, adjust metrics like time, adjust what kind of security products you’re looking at, like stocks or exchange traded funds, and actually play with them and answer some of these questions right in the browser,”.
+
+“The idea is that it would reach much more people, engage more people in a conversation and ultimately be a much more efficient way to get this information online.”
+
+MIDAS is designed to examine and gather up to 1 billion financial records a day whereas NEAT is built to automatically collate transactional records and analyze where, when and how trading companies raise money.
+
+These tools augment the likelihood of intercepting illegal activities such as insider trading events and removes the constraint in terms of time period to audit, which counts as a big advantage.
+
+Read more here
+
+Follow @DataconomyMedia
+
+(Image Credit: Jeffrey Zeldman)
+
+Summary: The U.S. Government’s regulator of federal securities, U.S. Securities and Exchange Commission (SEC) is reportedly utilising Big Data analytics processes and cloud computing in making records public and sifting/sorting through millions of trading data which in turn is saving the agency upwards of $3 million each year.
+The SEC’s move to the cloud is the base for several other projects that are saving the agency time and money.
+Market Information Data Analytics System (MIDAS) and National Examination Analytics Tool (NEAT) are two such examples.
+These tools augment the likelihood of intercepting illegal activities such as insider trading events and removes the constraint in terms of time period to audit, which counts as a big advantage.
+Read more hereFollow @DataconomyMedia(Image Credit: Jeffrey Zeldman)
+
+Other Blogs by admin: https://dataconomy.com/author/admin/

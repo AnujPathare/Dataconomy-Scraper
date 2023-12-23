@@ -1,0 +1,84 @@
+Title: Driving Value with Data Science
+
+Article Link: https://dataconomy.com/2016/10/19/driving-value-data-science/
+
+Author: Kavitha Mariappan
+
+Publish Date: 2016-10-19
+
+Article:
+Fighting fraud, reducing customer churn, improving the bottom line – these are just a few of the promises of data science. Today, we have more data to work with than ever before, thanks to new data-generating technologies like smart meters, vehicle telemetry, RFID, and intelligent sensors.
+
+But with all that data, are we driving equivalent value? Many data scientists say they spend most of their time as “data janitors” combining data from many sources, dealing with complex formats, and cleaning up dirty data.
+
+Data scientists also say they spend a lot of time serving as “plumbers” – handling DevOps and managing the analytics infrastructure. Time devoted to data wrangling and DevOps is a dead loss; it reduces the amount of time data scientists can spend delivering real value to clients.
+
+The Challenge for Data Scientists
+
+Data scientists face four key challenges today:
+
+Small data tools. Data analytics software introduced before 2012 runs on single machines only; this includes most commercial software for analytics as well as open source R and Python. When the volume of data exceeds the capacity of the computer, runtime performance degrades or jobs fail. Data scientists working with these tools must invest time in workarounds, such as sampling, filtering or aggregating. In addition to taking time, these techniques reduce the amount of data available for analysis, which affects quality.
+
+Complex and diverse data sources. Organizations use a wide variety of data management platforms to manage the flood of Big Data, including relational databases; Hadoop; NoSQL data stores; cloud storage; and many others. These platforms are often “siloed” from one another. The data in those platforms can be structured, semi-structured and unstructured; static and streaming; cleansed and uncleansed. Legacy analytic software is not designed to handle complex data; the user must use other tools, such as Hive or Pig, or write custom code.
+
+Single-threaded software. Legacy software scales up, not out. If you want more computing power, you’ll have to buy a bigger machine. In addition to limiting the amount of data you can analyze, it also means that tasks run serially, one after the other. For a complex task, that can take days or even weeks.
+
+Complex infrastructure. Jeff Magnusson, Director of Algorithms Platform at online retailer, Stitch Fix notes that data science teams typically include groups of engineers who spend most of their time keeping the infrastructure running. Data science teams often manage their platforms because clients have urgent needs, the technology is increasingly sophisticated, and corporate IT budgets are lean.
+
+What Data Scientists Need
+
+It doesn’t make sense to hire highly paid employees with skills in advanced analytics, then put them to work cleaning up data and managing clusters. Visionary data scientists seek tools and platforms that are scalable; interoperable with Big Data platforms; distributed; and elastic.
+
+Scalability. Some academics question the value of working with large datasets. For data scientists, however, the question is moot; you can’t escape using large datasets even if you agree with the academics. Why? Because the data you need for your analysis comes from a growing universe of data; and, if you build a predictive model, your organization will need to score large volumes of data. You don’t have a choice; large datasets are a fact of life, and your tools must reflect this reality.
+
+Integrated with Big Data platforms. As a data scientist, you may have little or no control over the structure of the data you need to analyze or the platforms your organization uses to manage data. Instead, you must be able to work with data regardless of its location or condition. You may not even know where the data resides until you need it. Thus, your data science software must be able to work natively with the widest possible selection of data platforms, sources, and formats.
+
+Distributed. When you work with large data sets, you need software that scales out and distributes the workload over many machines. But that is not the only reason to choose a scale-out or distributed architecture; you can divide many complex data science operations into smaller tasks and run them in parallel. Examples include:
+
+Preprocessing operations, such as data cleansing and feature extraction
+
+Predictive model tuning experiments
+
+Iterations in Monte Carlo simulation
+
+Store-level forecasts for a retailer with thousands of stores
+
+Model scoring
+
+In each case, running the analysis sequentially on a single machine can take days or even weeks. Spreading the work over many machines running in parallel radically reduces runtime.
+
+Elastic. Data science workloads are like the stock market – they fluctuate. Today, you may need a hundred machines to train a deep learning model; tomorrow, you don’t need those servers. Last week, your team had ten projects; this week, the workload is light. If you provision enough servers to support your largest project, those machines will sit idle most of the time.
+
+Data science platforms must be all of these things, and they must be easy to manage, so the team spends less time managing infrastructure and more time delivering value.
+
+The Ideal Modern Data Science Platform
+
+To reduce the amount of time you and your team spend “wrangling” data, standardize your analysis on a modern data science platform with open source Apache Spark as the foundation. Apache Spark is a powerful computing engine for high-performance advanced analytics. It supports the complete data science workflow: SQL processing, streaming analytics, machine learning and graph analytics. Spark supports APIs with the most popular open source tools for data scientists, including Python, R, Java and Scala.
+
+Apache Spark’s native data platform interfaces, flexible development tools, and high-performance processing make it an ideal tool to use when integrating data from complex and diverse data sources. Spark works with traditional relational databases and data stores in the Hadoop ecosystem, including HDFS files and standard storage formats (including CSV, Parquet, Avro, RC, ORC and Sequence files.) It works with NoSQL data stores, like HBase, Cassandra, MongoDB, SequoiaDB, Cloudant, Couchbase and Redis; cloud storage formats, like S3; mainframe files; and many others. With Spark Streaming, data scientists can subscribe to streaming data sources, such as Kafka, Camel, RabbitMQ, and JMS.
+
+Spark algorithms run in a distributed framework so that they can scale out to arbitrarily large quantities of data. Moreover, data scientists can use Spark to run operations in parallel for radically faster execution. The distributed tasks aren’t limited to native Spark capabilities; Spark’s parallelism also benefits other packages, such as R, Python or TensorFlow.
+
+For elastic provisioning and low maintenance, choose a cloud-based fully-managed Spark service. Several vendors offer managed services for Spark, but the offerings are not all the same. Look for three things:
+
+Depth of Spark experience . Several providers have jumped into the market as Spark’s popularity has soared. A vendor with strong Spark experience has the skills needed to support your team’s work.
+
+Self-service provisioning. An elastic computing environment isn’t much good if it’s too hard to expand or contract your cluster, if you have to spend valuable time managing the environment, or if you need to call an administrator every time you want to make a change. Your provider should provide self-service tools to provision and manage the environment.
+
+Collaborative development environment. Most data scientists use development tools or notebooks to work with Spark. Your data platform provider should offer a development environment that supports collaboration between data scientists and business users, and interfaces natively with Spark.
+
+Apache Spark provides scalability, integration with Big Data platforms and a distributed architecture; that means data scientists spend less time wrangling data. A cloud-based managed service for Spark contributes elasticity and zero maintenance, so data scientists spend less time on DevOps – and more time fighting fraud, reducing customer churn, and driving business value with data science.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Image: Tyler Merbler
+
+Summary: Many data scientists say they spend most of their time as “data janitors” combining data from many sources, dealing with complex formats, and cleaning up dirty data.
+Thus, your data science software must be able to work natively with the widest possible selection of data platforms, sources, and formats.
+The Ideal Modern Data Science PlatformTo reduce the amount of time you and your team spend “wrangling” data, standardize your analysis on a modern data science platform with open source Apache Spark as the foundation.
+Apache Spark provides scalability, integration with Big Data platforms and a distributed architecture; that means data scientists spend less time wrangling data.
+A cloud-based managed service for Spark contributes elasticity and zero maintenance, so data scientists spend less time on DevOps – and more time fighting fraud, reducing customer churn, and driving business value with data science.
+
+Other Blogs by Kavitha Mariappan: https://dataconomy.com/author/kmariappan/

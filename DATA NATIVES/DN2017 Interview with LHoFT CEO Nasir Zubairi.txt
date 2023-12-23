@@ -1,0 +1,48 @@
+Title: DN2017: Interview with LHoFT CEO Nasir Zubairi
+
+Article Link: https://dataconomy.com/2017/10/20/dn2017-interview-lhoft-ceo-nasir-zubairi/
+
+Author: Jesse Van Mouwerik
+
+Publish Date: 2017-10-20
+
+Article:
+Data Natives speaker Nasir Zubairi is the CEO of LHoFT Foundation (The Luxembourg House of Financial Technology), a public-private sector initiative that drives technological innovation for Luxembourg’s Financial Services industry and Luxembourg’s hub for FinTech startups. With two decades of experience in Financial Services, he has been particularly involved in the world of FinTech for the last six years. The entrepreneur has founded multiple and successful Fintech businesses and has served on an array of advisory boards for both government and the private sector. We spoke with Nasir about where Finance is headed, what companies are on the rise and how both banks and FinTech startups still have much to learn from one other.
+
+How did you come to be the CEO of LHoFT?
+
+I was appointed as the CEO of the LHoFT Foundation on 1st December 2016. I spent the first 13 years of my career working within Capital Markets at RBS, ICAP, HSBC and EBS across Europe, US and Asia. I have been immersed in the European FinTech and startup sector for the past seven years; ideating, building, selling, fundraising, pitching, pivoting, leading, mentoring, networking and just generally learning a lot! I moved to Luxembourg in March 2016 to be with my family, having previously commuted between Berlin and Brussels for 18 months. I felt that Luxembourg presented great opportunities in Fintech and I have been proven right. Luxembourg’s business environment is very friendly and powerful. Indeed, Luxembourg is the number one financial services center in the Eurozone. It is an EU hub and international competence center in banking, capital markets, investment funds, and insurance. It is Europe’s largest fund management center, and second in the world only to the US. Finally, Luxembourg has a long track-record of innovation and is ranked among the top 10 innovative countries in the world. Couple all that with Luxembourg’s accessibility – both to Europe and to senior decision-makers in financial services firms, talent pool, funding assistance such as The Luxembourg Future Fund, Luxinnovation and the Digital Tech Fund, strong community engagement and government support, and trilingual capability in business meaning that you can speak and apply to the Regulator in English, do business in English and contract in English (or French or German), and you have an ideal foundation to build an exciting and thriving Fintech ecosystem.
+
+How receptive is the Financial Community in Luxembourg to new technologies and business models?
+
+The community is key to what I believe drives Luxembourg forward. It is like no other; the access to senior decision makers and stakeholders is incredible and they are genuinely engaged and driven to make change happen.
+
+What should startup founders focus on understanding about traditional banking that can help them improve their FinTech services?
+
+I think the current barrier for startups is their lack of understanding of bank procurement processes. In their quest to partner with or service traditional financial institutions, they fail to address the needs of the institution and become frustrated with the process. “They just don’t get us” is the comment I hear from many a startup who are failing to make in-roads with the established players. Yes, banks have a lot to do in terms of adapting their process, but they have already done much. The startup can help a little more by understanding what the bank needs. One good example is financials. A startup will not have 5 year history, and will likely be far from profitable. A bank is looking to work with firms that will still be around in the next 3-5 years to provide continued service. Stating that you will raise venture capital next year is not good enough – it is a risk for the bank in terms of the startup’s solvency. The startup could try and present their numbers in a different way; strip out growth-related costs and demonstrate that their firm is financially robust and able to remain solvent and effectively service the bank they are trying to partner with.
+
+What do traditional banks most commonly get wrong about FinTech?
+
+That innovation is easy. Yes, ideas are two a penny, but execution is key to FinTech and being competitive in the world of tomorrow. Innovation in today’s world is a fast moving process and most banks are not set up to execute effectively, be it their procurement processes in partnering with fintech startups, or their own internal technology processes and incentive schemes to innovate effectively themselves. The ones that can adjust and speed up their processes will gain a competitive advantage that will be telling in the years to come.
+
+What needs do you see most rapidly growing in the financial services sector in the coming years?
+
+The focus for several years will be on cost reduction. Too many Banks have eye-poppingly bad ROE and efficiency ratios, largely due to high costs in compliance and back-end processes. Implementation of solutions related to automation, big data and AI in the context of Regtech will be key. Also related to regulation, GDPR and PSD2 throw up interesting challenges and opportunities around open banking as well as blockchain, areas which are already hyped, but will attract even more attention as ideas become reality and value is delivered. The impact of FinTech on financial inclusion is also becoming a hot topic – technology is providing rapid access to the underbanked all over the world and presents a tremendous opportunity for new and existing players using technology to reduce costs in order to service new market segments.
+
+Are there any particular companies or projects happening at LHoFT that you are particularly excited about at the moment?
+
+There is a lot going on! We are very excited to be delivering a financial inclusion bootcamp for 12 incredible firms from developing markets – partnering with a great social impact fund manager, Finance in Motion, and with Village Capital from the US. Early next year we will move into a new 2,500m2 facility where we can host around 30-40 startups as well as larger workshops and seminars. We will also look at hosting accelerator programs, potentially in Regtech, which we see as a core area of competence for Luxembourg given the prevailing industry. The startups we currently host are scaling very fast and winning customers (and awards!), adding value to the financial services industry and the Luxembourg economy through employment and innovation. We are driving a number of Industry projects, working with the community, which we hope to announce in 2018. We also look forward to doing more with our international partners in the US, Europe and in particular Asia. We are the only initiative in the world that has signed a collaborative agreement with NIFA (National Internet Finance Association) and have also signed an agreement with Tuspark Ventures, a subsidiary of Tsinghua University, expanding on the close relationship between China and Luxembourg.
+
+What industry or technology would you be most interested in learning more about if you had the time?
+
+EdTech. Schooling is no longer fit for purpose. My kids learn the same things in the same way that I did 35 years ago. Kids today are very different, having been molded by an environment containing much more technology. They have shorter attention spans, need more engagement, and expect more from the learning process. There has to be a better way to prepare them for the future.
+
+To hear more from Nasir, you can see him at Data Natives in Berlin this November. Serving as a judge at the Data Natives unconference, startups who apply on time will have the chance to pitch their ideas directly to him.
+
+Summary: Data Natives speaker Nasir Zubairi is the CEO of LHoFT Foundation (The Luxembourg House of Financial Technology), a public-private sector initiative that drives technological innovation for Luxembourg’s Financial Services industry and Luxembourg’s hub for FinTech startups.
+With two decades of experience in Financial Services, he has been particularly involved in the world of FinTech for the last six years.
+We spoke with Nasir about where Finance is headed, what companies are on the rise and how both banks and FinTech startups still have much to learn from one other.
+What should startup founders focus on understanding about traditional banking that can help them improve their FinTech services?
+What needs do you see most rapidly growing in the financial services sector in the coming years?
+
+Other Blogs by Jesse Van Mouwerik: https://dataconomy.com/author/jessevm/

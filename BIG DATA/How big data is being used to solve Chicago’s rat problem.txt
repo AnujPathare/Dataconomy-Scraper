@@ -1,0 +1,30 @@
+Title: How big data is being used to solve Chicago’s rat problem
+
+Article Link: https://dataconomy.com/2014/07/24/big-data-used-solve-chicagos-rat-problem/
+
+Author: Eileen McNulty
+
+Publish Date: 2014-07-24
+
+Article:
+At Cisco’s recent IoE symposium in Chicago, the commander of public safety information technology for the Chicago Police Department discussed how big data was being used to forecast crime and clean up the streets. Yet, it was another street-cleaning initiative which really captured the audience’s imagination; how big data is being used to solve Chicago’s rat problem.
+
+Brenna Berman, Chicago’s chief information officer and Department of Innovation and Technology commissioner, discussed how the city recently won $1 million grant money for analytics projects, including combating the rat problem. Berman’s team set to work, identifying 31 variables which determine where rats are likely to gather, allowing them to take a preemptive approach to finding rodent hotspots, rather than waiting for the complaints to flood in.
+
+“We can be proactive, and work faster, because the crews don’t have to look for the rats,” Berman remarked. She also noted the scheme is particularly useful in neighbourhoods where seriously crime is often reported, but minor vermin problems are rarely flagged up.
+
+Speaking about the the benefits of data-driven approaches in the city, she hoped such schemes would incentivise people to put the data to creative use in their companies and neighbourhood. “All this technology is irrelevant if it doesn’t drive benefit to residents of the city,” she stated. “We want to make sure we’re not doing anything just because it’s shiny.”
+
+These views were echoed by the dean of the college to careers program in information technology at Wilbur Wright College Bonnie Kang: “It’s a culture,” she said. “We tell kids to look around you, figure out if there’s a problem and see how we’re going to find a solution to it. It’s about breeding a culture of problem solving.”
+
+Read more here.
+
+(Image credit: Flickr)
+
+Summary: At Cisco’s recent IoE symposium in Chicago, the commander of public safety information technology for the Chicago Police Department discussed how big data was being used to forecast crime and clean up the streets.
+Yet, it was another street-cleaning initiative which really captured the audience’s imagination; how big data is being used to solve Chicago’s rat problem.
+Brenna Berman, Chicago’s chief information officer and Department of Innovation and Technology commissioner, discussed how the city recently won $1 million grant money for analytics projects, including combating the rat problem.
+“We can be proactive, and work faster, because the crews don’t have to look for the rats,” Berman remarked.
+“We tell kids to look around you, figure out if there’s a problem and see how we’re going to find a solution to it.
+
+Other Blogs by Eileen McNulty: https://dataconomy.com/author/eileen-mcnulty/

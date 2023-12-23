@@ -1,0 +1,50 @@
+Title: Google supercharges Duet AI for DevOps
+
+Article Link: https://dataconomy.com/2023/09/05/google-supercharges-duet-ai-for-devops/
+
+Author: Kerem Gülen
+
+Publish Date: 2023-09-05
+
+Article:
+Quick take: Google enhances Duet AI with a range of new capabilities aimed at streamlining application development, database management, data analytics, and cybersecurity.
+
+Google enhances Duet AI with a range of new capabilities aimed at streamlining application development, database management, data analytics, and cybersecurity. Core insight: Noteworthy features include context-aware code generation, integration with BigQuery for data analytics, and the ability to identify and remediate security vulnerabilities.
+
+Noteworthy features include context-aware code generation, integration with BigQuery for data analytics, and the ability to identify and remediate security vulnerabilities. What’s next: With general availability expected later this year, Duet AI aims to become an indispensable tool for developers, offering extensive support for various IDEs and providing an integrated, all-in-one solution for diverse cloud-based tasks.
+
+At the latest Google Cloud Next conference, Google rolled out multiple enhancements to Duet AI, aiming to address various sectors including app engineering, DevOps best practices, database governance, data parsing and representation, as well as online security protocols.
+
+Duet AI in Google Cloud provides expert assistance across your entire software development lifecycle. This includes code generation, source citation, test coverage, designing and publishing APIs, migrating and modernizing applications, and much more. -Google
+
+What does Duet AI offer now?
+
+One standout feature is that Duet AI now facilitates code refactoring, streamlining the traditionally cumbersome and expensive process of updating older software. Google notes that Duet AI makes it as straightforward as typing a natural language command. For instance, you could use Duet AI to transition a legacy app written in C++ over to Go, while also switching the database backend to Google Cloud SQL. All this could be done through a user-friendly prompt like: “Convert this function to Go and use Cloud SQL.”
+
+Duet AI also now offers context-sensitive code suggestions. This means it uses its intelligence to dig into a company’s existing codebase and libraries to offer custom code recommendations. In practice, this ensures that the suggested code integrates seamlessly with the classes and methods the company already employs.
+
+For those in DevOps roles, Duet AI comes with added functionalities to manage and operate infrastructure more efficiently. It can automate deployment processes, assure proper configuration alignment, and assist in troubleshooting and resolving issues.
+
+In the latest update to Duet AI, Google has incorporated a slew of features to further empower data analytics, database management, and cybersecurity measures.
+
+A noteworthy addition is its integration with BigQuery, where it offers contextual guidance for writing SQL and Python scripts to sift through and interpret data. It also lets users generate vector embeddings within BigQuery for creating more intuitive searches and recommendations.
+
+Beyond BigQuery, Duet AI is compatible with other relational database platforms like Cloud Spanner, AlloyDB, and Cloud SQL. Users can input natural language prompts to auto-generate code for various data management tasks. The tool can also interact with Google Database Migration Service, automating the translation of various code elements, such as stored procedures and custom PL/SQL codes.
+
+How to hack Google Bard, ChatGPT, or any other chatbot
+
+Addressing cybersecurity, Duet AI can now evaluate, summarize, and categorize security vulnerabilities, offering remediation advice for identified issues.
+
+Duet AI is accessible through multiple platforms: the Google Cloud console, Cloud Workstations, Cloud Shell Editor, and even external IDEs via Cloud Code IDE extensions. Supported IDEs range from VSCode and GoLand to PyCharm and WebStorm.
+
+Though Duet AI is currently in its preview stage, Google plans to roll out its full version later this year.
+
+Featured image credit: Kerem Gülen/Midjourney
+
+Summary: Google enhances Duet AI with a range of new capabilities aimed at streamlining application development, database management, data analytics, and cybersecurity.
+Duet AI in Google Cloud provides expert assistance across your entire software development lifecycle.
+For those in DevOps roles, Duet AI comes with added functionalities to manage and operate infrastructure more efficiently.
+In the latest update to Duet AI, Google has incorporated a slew of features to further empower data analytics, database management, and cybersecurity measures.
+Duet AI is accessible through multiple platforms: the Google Cloud console, Cloud Workstations, Cloud Shell Editor, and even external IDEs via Cloud Code IDE extensions.
+
+Other Blogs by Kerem Gülen: https://dataconomy.com/author/kerem-gulen/

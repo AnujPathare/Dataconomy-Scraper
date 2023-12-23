@@ -1,0 +1,96 @@
+Title: The tech you use may cause higher premiums in cyber insurance
+
+Article Link: https://dataconomy.com/2022/08/19/tech-higher-premiums-in-cyber-insurance/
+
+Author: Kerem Gülen
+
+Publish Date: 2022-08-19
+
+Article:
+Due to increased demand and third-party risks, cyber insurance providers are evaluating businesses’ security postures much more carefully, to the point where they are limiting or denying coverage based on the use of a particular technology.
+
+Over the past three years, attack surfaces and adversary tactics have grown, and so have the costs and rates for cyber insurance.
+
+For its “2022 Cyber Insurance Market Trends Report,” Panaseer surveyed 400 insurers worldwide. The findings revealed that cloud security was rated as the most crucial factor to consider when assessing security postures due to the rise of the hybrid workforce.
+
+Cyber insurance providers are evaluating businesses’ security postures considerably more closely due to rising demand and risky third-party risks, to the point where they are limiting or denying coverage based on the use of specific technology.
+
+As attack surfaces and adversary tactics have increased over the last three years, so have cyber insurance rates and payments. Insurance companies have a growing list of requirements for customers to follow as they struggle to stay up with the quick growth of cybersecurity concerns, such as installing multifactor authentication (MFA). However, because the costs of cyberattacks have increased so dramatically, cyber insurance providers are now going one step further.
+
+While both parties continue to seek to strengthen their security postures, some technologies and pieces of software can have an impact on corporate coverage. According to Payal Chakravarty, head of product at cyber insurance provider Coalition, rates are determined by the underlying issues that result in claims. Examples include supply chain problems, dangers associated with third-party partners, and remote desktop protocol (RDP), which continues to be a problem for SMBs.
+
+Because the costs of cyberattacks have increased so dramatically, cyber insurance providers are now going one step further
+
+Even if rates have gone up, she claimed that businesses may still keep expenses under control by choosing risks more wisely regarding the products and technologies they use. According to Chakravarty, coalition rates depend on certain technology; thus, every renewal isn’t a constant rate increase. Renewal rates depend on user behavior, including how they reacted to Coalition notifications, whether they resolved the problems and a technology-based ranking.
+
+For instance, Chakravarty stated that SonicWall products’ presence in a customer’s network might increase premiums due to the volume of vulnerabilities, including zero-day vulnerabilities, which threat actors have recently exploited. The costs could be particularly substantial if a company doesn’t quickly repair certain vulnerabilities.
+
+“You had SonicWall, [and] we know SonicWall is an issue. We told you to upgrade, and if you aren’t doing it, we have to charge you,” stated Chakravarty.
+
+“Costs for utilizing a product will rise”
+
+According to Nathan Smolenski, head of cyber intelligence strategy at Netskope and former chief information security officer at Corvus Insurance, costs for utilizing a product will rise if all of a sudden a large number of claims are filed against a software supplier. This was made clear by the pandemic and the quick transition to remote work, which broadened the assault surface for enemies. Threat actors used misconfigurations and vulnerabilities in technology like VPNs, making the switch to working from home more frequently.
+
+According to Smolenski, how businesses set up their workers to work remotely has become a major consideration for cyber insurance providers. Many businesses opened RDP because they could not afford to purchase more VPN licenses.
+
+As attack surfaces and adversary tactics have increased over the last three years, so have cyber insurance rates and payments
+
+“The bad guys go, ‘I can just log on to Shodan and see all the RDP sessions that are available and try to hack it,’ and that’s free. That goes back to configuration, but vulnerabilities were huge too. We saw during the pandemic, it was like every month — Pulse Secure VPN, SonicWall, a different one every month. And the cyber insurance companies looked at clients and said, ‘You have that problem, you need to fix it now,” said Smolenski.
+
+Chakravarty gave more contemporary examples like Kaseya, which was attacked last year and impacted managed service providers and NPM packages. In February, threat actors hid over a thousand malicious JavaScript packages on the NPM Registry.
+
+Security as a service leaves cybersecurity to the experts, but it is a double-edged sword
+
+“[NPM] had no provisions for MFA, so they had a massive issue, and that had an impact on everyone — small, medium, and large businesses. Log4j impacts everyone, but from what we’ve observed, it’s mainly VMware Horizon [instances] we saw claims from,” she explained.
+
+Microsoft was mentioned by Ismael Valenzuela, BlackBerry’s vice president of threat research and intelligence, as one of the products with many vulnerabilities and significant risk. He advised looking at the top 2021 exploited vulnerabilities while analyzing the impact of buggy products on cyber insurance coverage.
+
+“If we see that report from U.S. CERT, we’ll see various vendors in the list, but Microsoft’s vulnerabilities continue to be prevalent and the most exploited in data breaches,” stated Valenzuela.
+
+“There’s always a chance for a zero-day exploit or the possibility of social engineering ransomware, where people click on something”
+
+However, Andreas Wuchner, field CISO at cybersecurity company Panaseer, asserted that network designs and settings would be highlighted more frequently than products, particularly concerning the cloud. He said insurance companies would evaluate architectural issues rather than those related to products, such as the use of containerization and the presence of micro-segmentation.
+
+Panaseer polled 400 insurers worldwide for its “2022 Cyber Insurance Market Trends Report,” and the results showed that cloud security was rated as the most important consideration when evaluating security postures due to the rise of the hybrid workforce.
+
+Microsoft blocks macros by default but cybercriminals are adopting new tactics
+
+Patch management was listed in the report as another crucial aspect of evaluations. According to Wuchner, most firms are having trouble finding adequate time to patch the growing number of widespread vulnerabilities and exposures, and doing so doesn’t stop other attack methods.
+
+“It would be too easy to blame application or legacy problems. There will always be a time when something is unpatched,” Wuchner stated. “There’s always a chance for a zero-day exploit or the possibility of social engineering ransomware, where people click on something,” he added.
+
+Risks are already there
+
+It sometimes seems like businesses rely too much on cyber insurance rather than strengthening their security procedures or implementing controls. For instance, information security professionals claim it affects ransomware payments because a corporation knows it will be compensated if it complies with the demand.
+
+More risks are now being transferred to carriers through the cyber insurance industry.
+
+It sometimes seems like businesses rely too much on cyber insurance rather than strengthening their security procedures
+
+An innovative concept of co-insurance was described by Jennifer Rothstein, cyber insurance and legal specialist at BlueVoyant, in which the covered organization would be required to pay out of pocket for any type of ransom payment or investigative costs in connection with a ransomware claim.
+
+In addition, according to Rothstein, insurance companies are still debating how to consider the security of a client’s third-party suppliers or business partners. One of the major obstacles to underwriting is third-party risk, and there are still unanswered questions regarding how to handle it.
+
+Best cybersecurity practices for staying safe against today’s digital perils
+
+“The coverage may or may not include their vendors, so that’s something we’re trying to figure out,” said Rothstein.
+
+Operational technology (OT) and industrial control systems (ICS) environments are other challenging sectors to insure. According to Ian Bramson, global head of industrial cybersecurity for ABS Group, the beginning stages of cyber insurance evaluations are beginning to place more emphasis on cybersecurity. At first, there was only a questionnaire that needed to be completed. Insurance companies now demand senior executives be present so the questions can be discussed in greater detail.
+
+The starting stages of cyber insurance evaluations are beginning to place more emphasis on cybersecurity
+
+He also said that most OT and ICS clients could not respond to the opening query: “What do you need to protect?” Another difficulty is that because the systems were made to last for decades, ICS or OT settings have legacy problems. One example provided by Bramson was legacy wind turbines, which have a 50-year lifespan but weren’t built with security and software updating in mind.
+
+“The question is, do I pay a lot of money for my cyber insurance to cover very, very little with lots of exceptions?” he explained.
+
+More significantly, Bramson noted, OT and ICS environments underpin crucial infrastructures. Therefore, insurance companies must consider more than just a threat actor taking private information.
+
+“Attacking OT can cause cyber-physical events that have much larger impacts. The challenge is that they don’t have a good way to underwrite it,” he stated.
+
+Summary: As attack surfaces and adversary tactics have increased over the last three years, so have cyber insurance rates and payments.
+However, because the costs of cyberattacks have increased so dramatically, cyber insurance providers are now going one step further.
+According to Smolenski, how businesses set up their workers to work remotely has become a major consideration for cyber insurance providers.
+And the cyber insurance companies looked at clients and said, ‘You have that problem, you need to fix it now,” said Smolenski.
+“The question is, do I pay a lot of money for my cyber insurance to cover very, very little with lots of exceptions?” he explained.
+
+Other Blogs by Kerem Gülen: https://dataconomy.com/author/kerem-gulen/

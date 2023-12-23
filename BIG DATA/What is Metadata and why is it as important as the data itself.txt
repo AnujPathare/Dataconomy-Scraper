@@ -1,0 +1,116 @@
+Title: What is Metadata and why is it as important as the data itself?
+
+Article Link: https://dataconomy.com/2016/12/26/metadata-important-data/
+
+Author: Jason Hare
+
+Publish Date: 2016-12-26
+
+Article:
+Metadata. You may have heard the term before, and may have asked yourself either “what is metadata” or “why is it as important as data?” This article will be an attempt to clear up those two subjects. As this can often be quite dense, let’s jump right in!
+
+Metadata can be explained in a few ways:
+
+Data that provide information about other data.
+
+Metadata summarizes basic information about data, making finding & working with particular instances of data easier.
+
+Metadata can be created manually to be more accurate, or automatically and contain more basic information.
+
+In short, metadata are important. I like to answer this “what is metadata” question as such: metadata are a shorthand representation of the data to which they refer. If we use analogies, we can think of metadata as references to data. Think about the last time you searched Google. That search started with the metadata you had in your mind about something you wanted to find. You may have began with a word, phrase, meme, place name, slang or something else. The possibilities for describing things seems endless. Certainly metadata schema can be simple or complex, but they all have some things in common.
+
+METADATA HAVE BEEN AROUND FOR A WHILE
+
+OLD-TIMEY PROVENANCE: PROTO-METADATA
+
+I am not that old, but I am old enough to remember doing my job without digital aids. In the early 90s, I was a (then) young archaeologist working for Battelle Pacific Northwest Laboratory on the Hanford Project. Hanford is the US extraction facility for weapons grade plutonium. It was also where the United States processed enriched Uranium for the bombs dropped on Nagasaki and Hiroshima in 1945. Enrico Fermi had a lab there and the US Department of Energy saw this facility as having historical significance. There is a point to this anecdote. In 1992 and 1993, we had basic tcp/ip, but we did not have the array of digital tools we have today.
+
+Provenance was the word used back then to describe the origins and the nature of objects. If I unearth an artifact and I take it out of its context, that is, I remove it from the site, what would happen to its scientific value? That depends on how well I describe that provenance and if I use the right keywords and organizational principles that are used to categorize, describe, analyze and curate similar objects and artifacts. This is why looting of archaeological sites is so damaging. Not only is the object lost but even if recovered it has lost its provenance or meaning!
+
+This anecdote hopefully starts to form an idea that data on the data is as important as the data itself. Without having context, data has little reuse value.
+
+METADATA ARE AS VALUABLE AS THE DATA
+
+Using the context of my job as an archaeologist, an object loses its scientific value if it loses its provenance or metadata. Every artifact is bagged and tagged using a numerical reference on the bag that corresponds to notes in a log. Often there are photos and sketches made of the artifact in-situ (in its original state) for future research. Archaeology is not about treasure hunting. Open Data is not just about storytelling. Both endeavors are fun and exciting. But the useful side of both Open Data and Archaeology is about the amount of reuse we can derive from our objects whether they be stones and bones or massive datasets.
+
+DEFINING METADATA USING MULTIPLE SOURCES
+
+Now that we have a more basic answer to our original question “what is metadata”, let’s take a look at what others have had to say. I use two definitions as a reference: one from the International Standards Organization (ISO), the other from White House Roundtables that I attended (both on Data Quality and on Open Data for Public-Private Collaboration), as we co-constructed a definition in the presence of experts.
+
+The ISO and the White House Roundtables definition on data quality have some subtle differences. First, provenance in the White House context is defined as the metadata of a dataset. The second difference is that there is no “timeliness” dimension to the ISO definition of Data Quality. The ISO predates the widespread adoption of Open Data. Perhaps timeliness will become a part of the ISO in the future. The ISO provides a semantic definition to Data Quality which serves as the metadata requirement. To make this easier to discuss, we will conflate the definitions of provenance and semantics into a third term called metadata.
+
+WHAT IS METADATA: CREATING OUR OWN DEFINITION
+
+According to Liu and Ram’s “A semiotic Framework for Analyzing Data Provenance Research“, the word provenance used in the context of data has different meanings for different people. Liu and Ram go on to define the semantic model of provenance in this and several other works as a seven piece conceptual model.
+
+Liu and Ram conceptualize data provenance as consisting of seven interconnected elements including what, when, where, who, how, which, and why. These are elements of several metadata frameworks. Basically, most metadata schemas ask these elements about their data.
+
+THE W7 ONTOLOGICAL MODEL OF METADATA
+
+So, if we conflate these two terms into metadata, we are saying that metadata gives the following information about the data it models or represents:
+
+What
+
+When
+
+Where
+
+Who
+
+How
+
+Which
+
+Why
+
+OpenDataSoft natively uses a subset of DCAT to describe datasets. The following metadata are available: title, description, language, theme, keyword, license, publisher, references. It is possible to activate the full DCAT template, thus adding the following additional metadata: created, issued, creator, contributor, accrual, periodicity, spatial, temporal, granularity, data quality.
+
+A full INSPIRE template is also available and can be activated on demand. The creation of a fully custom metadata template can also be done.
+
+HOW TO USE METADATA TO ENHANCE DATA REUSE
+
+A lot of the discussions around data quality and data discoverability have revolved around metadata and something called ontologies. Ontologies are descriptions and definitions of relationships. Ontologies can include some or all of the following descriptions/information:
+
+Classes (general things, types of things)
+
+Instances (individual things)
+
+Relationships among things
+
+Properties of things
+
+Functions, processes, constraints, and rules relating to things.
+
+Ontologies help us to understand the relationship between things. As an example, an “android phone” is a subject of an object class, “cell phone”.
+
+Some refer to an “ontology spectrum” that describes some frameworks as weak and others as strong. This “spectrum” encapsulates the range of opinions as to what an ontology really is.
+
+USING ONTOLOGIES TO ENHANCE DISCOVERABILITY IN METADATA
+
+Imagine we have a dataset about building permits. We may want to compare the nature of our dataset of permits with another dataset of permits. Fortunately for us, there is a standard emerging for permit data called BILDS. From the BILDS website, we see a specification and 9 municipalities all using the BILDS specification. From the BILDS GitHub account we can see a set of required standards for a permit dataset. (See Core Permits Requirements)
+
+If our dataset matched the schemas of those 9 municipalities, then we can say they would interoperate. We still need to add some discoverable metadata around them. This is easier because all of these datasets share a similar schema. Our metadata could provide a standard definition for each column header type. This means all 9 datasets would have an increase in discoverability as well. We know what to look for.
+
+OUR DATA ENRICHED WITH VALUABLE METADATA
+
+At the beginning of this article, we talked about Open Data and Data Quality. We also made the assertion that metadata were as valuable as the data itself. We then explored some of the anatomy and definitions of metadata, ontologies, schemas, and standards.
+
+Data quality is connected to the provenance of that data. Without metadata to provide provenance, we have a dataset without context. Data without context, like an artifact, chemical, baking soda, or any other random object, has little value. What I learned from the two White House Roundtables reinforced this concept for me. Recently I finished an Open Data project for a municipality and I was harvesting GIS data. Most of these data had no metadata, which made it frustrating for me to use it. Metadata alone can be extremely useful. Metadata can provide pointers to datasets, even without the actual data. We can put together an organizational chart around data that exists for a given topic.
+
+OTHER DISCUSSIONS ON DEFINING METADATA
+
+OTHER DISCUSSIONS ON ONTOLOGIES AND ONTOLOGY
+
+Jason’s post originally appeared on the OpenDataSoft blog
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: I like to answer this “what is metadata” question as such: metadata are a shorthand representation of the data to which they refer.
+This anecdote hopefully starts to form an idea that data on the data is as important as the data itself.
+HOW TO USE METADATA TO ENHANCE DATA REUSEA lot of the discussions around data quality and data discoverability have revolved around metadata and something called ontologies.
+OUR DATA ENRICHED WITH VALUABLE METADATAAt the beginning of this article, we talked about Open Data and Data Quality.
+Recently I finished an Open Data project for a municipality and I was harvesting GIS data.
+
+Other Blogs by Jason Hare: https://dataconomy.com/author/jason-hare/

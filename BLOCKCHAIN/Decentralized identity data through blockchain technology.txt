@@ -1,0 +1,78 @@
+Title: Decentralized identity data through blockchain technology
+
+Article Link: https://dataconomy.com/2022/06/01/decentralized-identity-data-blockchain/
+
+Author: Kiara Taylor
+
+Publish Date: 2022-06-01
+
+Article:
+Device authentication, also known as multi-factor and two-factor authentication, is an increasingly popular way of verifying a person’s identity data online. Although this method mitigates the common security breaches caused by knowledge-based authentication, it also comes with a host of potential problems.
+
+Service providers control our access to these digital identities linked through devices, apps, and services. Due to this, internet users have fallen victim to cybercriminals who misuse their online identities to access personal data and confidential information.
+
+By allowing various third parties access to their digital identities through different applications, users give away their power to control their online identity data. This, in turn, makes it very difficult for people to control access to their data, whether that means shielding their private information from marketers or keeping confidential information hidden from fraudsters.
+
+This article will discuss the concept of using a decentralized identity for authentication, how this relates to blockchain, and some of the benefits of adopting this new authentication method.
+
+What exactly is a decentralized identity?
+
+The concept of a decentralized identity depends on a framework that allows users to manage their identities directly. A decentralized identity, using a reliable software trusted in generating authentication of your identity, uses an “identity wallet” to verify a person’s identity data for a variety of different websites and applications.
+
+Much like an ID card stored in a wallet in real life, the authentication can be presented for approval by the third party without ever leaving the hands of the user whose identity is being verified. By controlling your identity through one source – the digital identity wallet – you can avoid having copies of your identifying information stored in multiple places with multiple providers.
+
+As companies and individuals migrate towards secure cloud-based computing, it has never been more important for people to take control of their digital identities. Although cloud-based data management relies on authentication methods that are preferable to easily guessed passwords or PINs, many risks are still present.
+
+What is blockchain, and how does this relate to decentralized identities?
+
+The invention of blockchain technology is one of the biggest technological developments that have occurred in the past several years. Blockchain’s extremely safe nature is why cryptocurrencies like Bitcoin have gained such a loyal following. It is poised to disrupt how our world transacts business, presenting an infinitely safer and more reliable way of recording instances when money or goods trade hands.
+
+With the cost of living skyrocketing – for example, the average rent in Toronto for a 900 square foot apartment is between $2,300-$2,700 – more and more money is exchanging hands online than ever before. The internet has enabled globalization, which means your online rent payment may pass through various third-party providers into a bank account halfway around the world. Protecting your hard-earned cash – and your identity data – has never been more important.
+
+Blockchain allows an identity wallet to be fully controlled by the identity owner yet still gives the issuer or verifier the means to sign off on a transaction with their private key. Service providers who accept this means of authentication would have to access the distributed ledger via the blockchain to look for the decentralized identifier (or DID) to authenticate the individual.
+
+The DID is verified through respective cryptographic keys – a combination of a public and private key – which are generated at the request of the identity owner. Service providers can verify an identity owner by adding to the digital identity data in a process not unlike issuing a certificate. By using their own private keys, issuers represent an unbiased third party that can sign off on an identity owner’s credentials without providing private details regarding the individual.
+
+The six steps of authentication using blockchain
+
+1. The identity wallet is the sole source of details regarding a user, such as their name, social security number, phone number, shipping address, credit card numbers, etc.
+
+2. The decentralized identity framework allows the public key to be linked to the private key associated with the identity wallet and records this data on a public distributed ledger powered by blockchain technology.
+
+3. As the blockchain framework generates a public key to the distributed ledger, the identity wallet acknowledges a unique DID assigned to the user.
+
+4. The identity owner uses this DID to verify him or herself to a service provider for authentication through the distributed ledger.
+
+5. Once the service provider locates the shared DID, the identity owner signs off on the transaction by providing his private key to complete the process.
+
+6. The service provider then confirms authentication success and permits the user to perform the transaction on the app or website.
+
+Decentralized identity data is the way of the future
+
+As our society increasingly moves towards digitalization, individuals must proactively learn to manage and protect their identities. Confidential medical software for patient communication can leave our most vulnerable citizens at risk of identity theft unless chosen through a trusted provider that is HIPAA compliant. Even a small, everyday online purchase can open a user up to potential cybercrime if financial data is not appropriately managed and protected.
+
+Online shopping has greatly increased in popularity, but so has cybercrime. In 2021, a whopping $6.9 billion was stolen by cybercriminals using social engineering methods to gain the information needed for knowledge-based authentication procedures. If an online shopper uses a decentralized identity in a transaction, the necessary data will be generated from an identity wallet containing a verified identity, address, and financial data.
+
+Users shopping online can control the data associated with their identity by submitting the requested information through their identity wallet. They can have their identities verified without sharing the actual data, transmitting the necessary information in an encrypted way that does not compromise the security of the information. The transaction is smooth, secure, and speedy and does not require that the user type in private data such as a credit card number, shipping address, or full legal name.
+
+The benefits of embracing blockchain for identity management
+
+The most obvious benefit of utilizing blockchain for decentralized identity management is the amount of security this method offers. Blockchain technology inherently relies on heavy encryption, a tried-and-true method of protecting data. Blockchain technology can reliably provide digital signatures, consensus algorithms, and cryptographic hash functions, which protect from cybercrime, identity theft, and security breaches.
+
+Similar but distinct from security, the element of privacy offered by blockchain is not to be understated. Using pseudo-anonymity when engaging in transactions, users can avoid having their private information utilized in marketing campaigns or for political purposes. By using various nodes and acting as the source of trust to verify identity data, the blockchain also contains a feature that generates a hash if it detects that an outsider has tried to tamper with the data.
+
+The elegant simplicity of blockchain allows users to engage in a seamless process of verification that makes digital transactions easy. The data integrity found through blockchain is unparalleled, with data storage remaining permanently and publicly on the distributed ledger. Modifying or deleting data on the blockchain is simply impossible, meaning no nefarious outsider can tamper with your data.
+
+Conclusion
+
+For all the hype about cryptocurrency, it seems clear now that blockchain technology is the real game-changer in the modern world. By allowing users to maintain control over their identity data while also providing a highly secure and seamless way of transacting on the internet, blockchain has solved a lot of problems inherent on the internet.
+
+With no one organization governing access and control to a piece of confidential data, blockchain will democratize the online landscape and give users their rights back regarding their private data.
+
+Summary: A decentralized identity, using a reliable software trusted in generating authentication of your identity, uses an “identity wallet” to verify a person’s identity data for a variety of different websites and applications.
+Service providers can verify an identity owner by adding to the digital identity data in a process not unlike issuing a certificate.
+Decentralized identity data is the way of the futureAs our society increasingly moves towards digitalization, individuals must proactively learn to manage and protect their identities.
+If an online shopper uses a decentralized identity in a transaction, the necessary data will be generated from an identity wallet containing a verified identity, address, and financial data.
+The benefits of embracing blockchain for identity managementThe most obvious benefit of utilizing blockchain for decentralized identity management is the amount of security this method offers.
+
+Other Blogs by Kiara Taylor: https://dataconomy.com/author/kiara-taylor/

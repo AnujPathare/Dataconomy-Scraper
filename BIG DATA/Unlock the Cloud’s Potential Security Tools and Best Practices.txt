@@ -1,0 +1,86 @@
+Title: Unlock the Cloud’s Potential: Security Tools and Best Practices
+
+Article Link: https://dataconomy.com/2017/09/06/cloud-security-best-practices/
+
+Author: Sekhar Sarukkai
+
+Publish Date: 2017-09-06
+
+Article:
+The cloud continues to play a crucial role in business. With cloud applications being used at every department of an organization, it’s important that the same security controls that organizations have relied on to protect their on-premises IT infrastructures is also extended to the cloud. Companies currently use 1,427 cloud services, and cloud service utilization continues to grow by a double digit percentage every year.
+
+Despite the cloud’s meteoric rise, security concerns continue to persist. Notably, companies experience 23 cloud security threats per month, putting sensitive corporate data at risk. In fact, this sensitive information makes up 18 percent of all data uploaded to the cloud. With the advent of insider breaches and Shadow IT, ‘mega leaks’ are becoming more and more probable.
+
+Risks of Insider Negligence and Shadow IT
+
+Enterprises are using an ever-growing number of cloud services, but how many of these have actually been vetted and approved by the organization? It is estimated that IT only knows about 10 percent of all the cloud services, leaving the remaining 90 percent unaccounted for. The remaining 90 percent poses an immediate security risk because their security isn’t assessed before use. Shadow IT cloud services refer to employees using unapproved cloud services without the knowledge of the IT department. As an example, one shadow IT cloud service would be a PDF converter which includes a clause in its terms of service declaring ownership of all files uploaded to its cloud.
+
+If any file converted included any sensitive information such as intellectual property, the result could be a major loss of highly valuable data. While IT security departments are trained in assessing the security risks of cloud services, individual employees rarely employ the same level of vetting into their decision to use cloud services. Since cloud adoption shows no signs of slowing down, insecure use of cloud applications need to be counter-acted with the effective best practices and tools to ensure the cloud doesn’t become a vector for lost data.
+
+Cloud Security Best Practices
+
+Visibility
+
+The foundation of comprehensive cloud security starts with achieving greater visibility over the 90 percent of services that IT departments are typically unaware of. This is certainly no easy task; otherwise Shadow IT would not exist in the first place.
+
+One way of accomplishing this is by monitoring use of the various cloud services within a company, noting their URLs/IPs, and using security tools to either approve or blacklist the service based on a risk assessment rating. This rating should consider important capabilities such as encryption and cloud data ownership in its methodology.
+
+Greater visibility also benefits productivity because secure services used by individual employees or departments can be standardized for the entire company.
+
+Detecting and Stopping Threats
+
+The vast majority of interactions in the cloud will be harmless, but based on the billions of events occurring every day, there will always be anomalies that warrant further investigation. If these anomalies continue or exhibit threat symptoms, they should be flagged as actual threats in real-time.
+
+As an example, if an employee logged into Salesforce from Chicago and then from China a few seconds later, this anomaly should raise flags in the system as a potentially compromised account that requires further investigation. Threat detection and prevention can be heavily expedited by machine learning algorithms that can sift through the billions of events within the cloud, and flag the relevant anomalies.
+
+Data Security
+
+Within the expansive cloud security market, there are numerous methods to securing data in the cloud. Two of the most common methods are encryption and tokenization.
+
+Tokenization operates by generating a random token value for plain text that is stored and mapped in a database. The benefit of tokenization is that sensitive data mapped to the tokens are entirely stored on-premises, but the sensitive information could still be detokenized if that database is breached. Generally, this form of data security is best suited for structured data like payment card data.
+
+As opposed to tokenization, Encryption uses encryption keys to obfuscate data. This is an effective security measure, provided that the decryption key doesn’t get lost or stolen. This is suitable for encrypting unstructured data like intellectual property, but structured data can also be encrypted. As a best practice for encrypting data, organizations, not the cloud service provider, should retain ownership of the keys.
+
+Compliance with Internal and External Policies
+
+One of the motivating forces that compel organizations to secure corporate data is the myriad of external government regulations. As such, it is crucial that organizations verify that they are compliant with regulations like PCI-DSS, HIPAA-HITECH, and the upcoming EU-GDPR. For their on-premises IT infrastructures, organizations employed Data Loss Prevention (DLP) to effectively maintain control over sensitive data as well as ensure compliance with regulations. However, with data rapidly moving to the cloud, the same policies in the on-prem DLP engine should be adapted and applied to the cloud as well. As a first step, organizations should:
+
+Inventory current policies and adjust them as needed to apply to the cloud.
+
+Identify what kind of information is being uploaded to the cloud (social security numbers, health records, account numbers, credit card numbers, and so on)
+
+Verify the identities of individuals and groups who are accessing and collaborating on sensitive data
+
+Eliminate or tightly control third party sensitive data sharing within the cloud
+
+Limit uploading high-value information to the cloud (intellectual property, trade secrets)
+
+Standardize DLP across the entire cloud to ensure data is protected in every cloud application in use
+
+Useful Cloud Security Tools
+
+Although the above best practices are helpful in properly controlling and securing the data in the cloud, the following tools can provide an additional level of security.
+
+Cloud firewall : Aimed at lower-level threats, cloud firewalls can provide an extra, layer of security between the cloud and the internal network.
+
+Cloud data encryption : Data becomes impossible for hackers to access when encryption is put into place since it is converted into ciphertext.
+
+User access control : Based on the principle of right of least privilege, users should have access to what they need for their job and nothing else. Single-sign on (SSO) or Identity and Access Management (IDM) solutions can help provide this capability.
+
+CASB : Cloud access security brokers act as a control point between the customer and the cloud application, providing visibility into user activity, amongst other security controls.
+
+SIEMs : Another important security solution is security information and event management (SIEM), especially for large companies. SIEMs can analyze inbound events from the cloud, on-premises IT infrastructure, and physical events, and correlate them together to identify potential security incidents or threats in real-time.
+
+Without a comprehensive cloud security strategy to secure your data and business environment, the cloud may seem risky. However, by adopting cloud security best practices and solutions, organizations can mitigate risk and reap the rewards that cloud computing provides.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Companies currently use 1,427 cloud services, and cloud service utilization continues to grow by a double digit percentage every year.
+Shadow IT cloud services refer to employees using unapproved cloud services without the knowledge of the IT department.
+Cloud Security Best PracticesVisibilityThe foundation of comprehensive cloud security starts with achieving greater visibility over the 90 percent of services that IT departments are typically unaware of.
+Cloud data encryption : Data becomes impossible for hackers to access when encryption is put into place since it is converted into ciphertext.
+However, by adopting cloud security best practices and solutions, organizations can mitigate risk and reap the rewards that cloud computing provides.
+
+Other Blogs by Sekhar Sarukkai: https://dataconomy.com/author/sekhar-sarukkai/

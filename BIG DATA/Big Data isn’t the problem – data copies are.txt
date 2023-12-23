@@ -1,0 +1,56 @@
+Title: Big Data isn’t the problem – data copies are
+
+Article Link: https://dataconomy.com/2016/05/24/big-data-isnt-problem-data-copies/
+
+Author: Ash Ashutosh
+
+Publish Date: 2016-05-24
+
+Article:
+Big Data. It’s everyone’s favourite buzzword.
+
+The Big Data trend has the potential to revolutionise the IT industry by offering businesses new insight into the data they previously ignored. For many, it is seen as the Holy Grail for businesses today. For organisations, it’s the route towards better understanding exactly what their customers want – and allows them to respond appropriately.
+
+In an age where Big Data is the mantra and terabytes quickly become petabytes, the surge in data quantities is causing the complexity and cost of data management to skyrocket. At the current rate, by the end of this year the world will be producing more digital information than it can store.
+
+When the words ‘Big Data’ are used, there is much discussion about how to use, manage and store data as a strategic advantage for companies. What is often forgotten is the fact that most organisations do not need special Big Data applications that are promoted under this hype. However, what in many cases is useful and necessary as a prerequisite for the efficient use and analysis of any company’s data is the virtualisation of this data in the enterprise. The idea is based on the same concept as virtualised servers and networks in the past already having contributed significantly to the efficiency of businesses. By performing the essential step of data virtualisation, businesses are ideally equipped for handling the upcoming petabyte data loads that can be expected from Big Data.
+
+The challenge
+
+The problem of overwhelming data quantity exists because of the proliferation of multiple physical data copies. IDC estimates that 60% of what is stored in data centres is actually copy data – multiple copies of the same thing or out-dated versions. The vast majority of stored data are extra copies of production data created every day by disparate data protection and management tools like backup, disaster recovery, development, testing and analytics.
+
+IDC predicts up to 120 copies of specific production data is being circulated by a company whereby, the cost of managing the flood of data copies reached $44 billion dollars worldwide.
+
+Data bloating
+
+While many IT experts are focused on how to deal with the mountains of data that are produced by this intentional and unintentional copying, far fewer are addressing the root cause of data bloating. In the same way that prevention is better than cure, reducing this weed-like data proliferation should be a priority for all businesses.
+
+The volume of data grows daily, not because of new data, but rather by the unchecked proliferation of data copies. But where does the flood of data copies come from? Multiple copies of data are generated in separate silos for different purposes such as data backup, disaster recovery, test, development, analysis, snapshots or migrations. According to the IDC study, up to 120 copies of specific production data can circulate within a company, whereby the cost of managing the flood of data copies, reached 44 billion dollars worldwide. As a net result, the management of this issue within a company is now taking more resources than the management of the actual production data.
+
+The master copy
+
+While many IT experts are focused on how to deal with the mountains of data that are produced by this intentional and unintentional copying, far fewer are addressing the root cause of copy data. In the same way that prevention is better than cure, reducing this weed-
+
+like data proliferation should be a priority for businesses.
+
+Data virtualisation – freeing organisations’ data from their legacy physical infrastructure just as virtualisation did for servers a decade ago – is increasingly seen as the way forward. In practice, copy data virtualisation reduces storage costs by 80%. At the same time, it makes virtual copies of ‘production quality’ data available immediately to everyone in the business anywhere they need it.
+
+That includes regulators, product designers, test and development teams, back-up administrators, finance departments, data-analytics teams, marketing and sales departments. In fact, any department or individual who might need to work with company data can access and use a full, virtualised data set. This is what true agility means for developers and innovators.
+
+Moreover, network strain is eliminated. IT staff – traditionally dedicated to managing the data – can be refocused on more meaningful tasks for growing the business. Data management licences are reduced as back-up agents, separate de-duplication software and WAN (wide area network) optimisation tools are no longer required.
+
+By eliminating physical copy data and working off a ‘golden master’, storage capacity is reduced – and along with it, all the attendant management and infrastructure overheads. The net result is a more streamlined organisation driving innovation and improved competitiveness for the business, faster.
+
+image credit: Andrew M Harlan
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: In an age where Big Data is the mantra and terabytes quickly become petabytes, the surge in data quantities is causing the complexity and cost of data management to skyrocket.
+When the words ‘Big Data’ are used, there is much discussion about how to use, manage and store data as a strategic advantage for companies.
+By performing the essential step of data virtualisation, businesses are ideally equipped for handling the upcoming petabyte data loads that can be expected from Big Data.
+The challengeThe problem of overwhelming data quantity exists because of the proliferation of multiple physical data copies.
+The volume of data grows daily, not because of new data, but rather by the unchecked proliferation of data copies.
+
+Other Blogs by Ash Ashutosh: https://dataconomy.com/author/asha/

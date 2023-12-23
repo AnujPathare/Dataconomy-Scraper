@@ -1,0 +1,36 @@
+Title: Thinking About Cloud Data Analytics? Consider This
+
+Article Link: https://dataconomy.com/2016/09/12/consider-this-cloud-analytics/
+
+Author: Stefan Groschupf
+
+Publish Date: 2016-09-12
+
+Article:
+Thinking about going the cloud-route for your big data analytics strategy? You’re not alone.
+
+Suddenly, the cloud has become a hot topic in the analytics software world and in particular big data analytics. While customer relationship management (CRM) software and other applications, like payroll and expense reporting, have steadily moved toward the cloud, Business Intelligence (BI) and analytics has been slow to follow suit.
+
+But companies deploying data analytics in the cloud are quickly recognizing the advantage of sidestepping hardware requirements. As a result, cloud adoption rates are surging.
+
+The Time is Now for Big Data in the Cloud
+
+Today’s organizations need to become data-driven faster, and turning to the cloud will help get them there.
+
+There is increased pressure for companies to deliver insights quickly to stay competitive. One of the biggest hurdles to deliver insights is the challenge of dealing with today’s onslaught of unstructured data. According to Ventana Research, the need to derive business value from unstructured data is driving cloud adoption. Cloud-based systems can be architected to handle varying analytic workloads and storage requirements so organizations have the flexibility to manage and analyze these different types of data sets to fit their needs.
+
+Additionally, the cloud makes it easier for organizations in fast-moving markets to deploy such solutions quickly. With cloud-based applications, organizations can deliver full production deployments in less time than it would take them to procure hardware for an on-premises deployment and without relying too heavily on IT.
+
+The below infographic from big data analytics provider Datameer has interesting stats on cloud adoption rates, the analytic use cases most often happening in the cloud and more.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Thinking about going the cloud-route for your big data analytics strategy?
+Suddenly, the cloud has become a hot topic in the analytics software world and in particular big data analytics.
+But companies deploying data analytics in the cloud are quickly recognizing the advantage of sidestepping hardware requirements.
+According to Ventana Research, the need to derive business value from unstructured data is driving cloud adoption.
+The below infographic from big data analytics provider Datameer has interesting stats on cloud adoption rates, the analytic use cases most often happening in the cloud and more.
+
+Other Blogs by Stefan Groschupf: https://dataconomy.com/author/stefan-groschupf/

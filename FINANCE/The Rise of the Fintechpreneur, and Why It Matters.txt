@@ -1,0 +1,62 @@
+Title: The Rise of the Fintechpreneur, and Why It Matters
+
+Article Link: https://dataconomy.com/2017/10/06/rise-fintechpreneur-matters/
+
+Author: Ralph Tkatchuk
+
+Publish Date: 2017-10-06
+
+Article:
+The financial technology field is rapidly expanding, but remains in flux and continues to be unpredictable. Fintech’s use of AI, algorithms, and modern technologies can transform traditional banking, but still faces some resistance.
+
+Some fintech companies are finding billion-dollar markets in the gaps left by outmoded banking services. Nevertheless, there are still many obstacles in the road before a complementary system is created that makes room for them both.
+
+Should Banks be Scared?
+
+Banks are slow to come around to innovation, but with a little effort they can remain more competitive than ever. Newer digital standards and transparency laws even the playing field, and the institutions quicker embrace of new technology can position themselves better for success. Not all fintech startups are out to hurt banks, and in fact, many services use legacy platforms to bring them more customers.
+
+One such example is ezbob, a new platform that has partnered with multiple leading banks, including the Royal Bank of Scotland. Ezbob’s platform sorts through data from over 25 sources in real time to create a seamless, automatic lending process for banks’ customers. The platform is not the first to streamline an old process using new tech, but it seems to be positioned to lead the Lending-as-a-Service (LaaS) industry.
+
+Tomer Guriel, ezbob’s CEO, believes that LaaS is the future as bank need not be the only lender in town.
+
+“Working with the banks is no easy task. I can tell you that we were trying for 4 or 5 years to partner with banks and luckily enough we decided to lend money ourselves using our platform. The company wouldn’t have been able to survive if we sat around waiting for a contract with a bank.”
+
+LaaS is one of the many ways that banking has been transformed very recently, and should show banks that all partners can benefit when efficiency is improved. Making real time decisions can cut overhead and help bankers to focus on the big picture while technology runs the show. In terms of LaaS specifically, some new startups are looking to use their peers’ modern lending services to enter the space without sacrificing equity to investors.
+
+Swimming Against the Current
+
+New fintech startups must be wary. Even as they aim to disrupt existing industries, new firms must be wary of regulations. Companies still need to be compliant with advertising, reporting, and product rules or risk potentially catastrophic fines and sanctions. Traditionally, the regulatory system has little to no patience for those who skirt the rules. Thus,
+
+it is vital to build transparency and methods for ensuring that the data is infallible. Startups that consider these compliance issues from the outset have a big advantage in a fast-changing ecosystem.
+
+Fintech companies that deemphasize this focus on regulations could face serious repercussions down the line. Founders must budget long waiting periods as regulators handle paperwork, spend time cultivating relationships with industry players, and prepare to exercise patience. The iconic, my-way-or-the-highway founder with tunnel vision on their ‘idea’, is hardly suited to fintech. Instead, the fintechpreneur is halfway between radical and traditional. A solid ability to navigate the currents of the conventional system is a must for new financial moguls.
+
+Though technology is quickly moving to decentralize and disrupt the institutional banking industry, fintech startup founders should remain patient with regulation while the market embraces this evolution. Banks are still reluctant to embrace these startups, but fail to realize they can gain much more from adopting these technologies. Recent legislation in the European Union has shown that at least some countries have started to come around to fintech’s potential for innovation.
+
+The Changing Horizon
+
+In the wake of the 2008 financial crisis, new banking regulations have been steadily adopted in the EU and abroad. The mistrust that the financial crisis fostered in the public made strict, equitable guidelines necessary in order to repair the damage done to the industry’s reputation. These rules have made it easier for fintech companies to be compliant, and for existing banks to become more accountable.
+
+One of the newest regulations involves e-invoicing and requires that all corporations sending digital invoices commence using a common system. This will purportedly help save billions for businesses and governments alike and is just a single step among the many that companies must take.
+
+Others reforms that have passed in recent years include the PSD2, which standardizesmobile and internet payments, and the AMLD (Anti Money Laundering Directive), which hurts those who would avoid reporting income for tax avoidance, or worse, terrorism.
+
+These rules are tough on old banks that had previously relied on a closed-ecosystem model for complying with lawmakers and maintaining decades or centuries’ worth of files.
+
+The new laws that force them to open their books and processes make this information available to fintech firms, for use with APIs and other accessibility tools. However, it also puts new fintech businesses at the mercy of state government. Without a body of sensible legislators to reform old decrees, entrepreneurs and fintech startups must maneuver a narrow space.
+
+Moving On
+
+Whether their employer is slow or fast to pivot, ex-bankers who know the way the wind is blowing are flocking from big banks in droves. Some are intrigued by the technology, and some just want a piece of the venture capital flooding the fintech industry. All of them have one thing in common: knowledge of the old systems is priceless for a new contender.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Some fintech companies are finding billion-dollar markets in the gaps left by outmoded banking services.
+Not all fintech startups are out to hurt banks, and in fact, many services use legacy platforms to bring them more customers.
+Swimming Against the CurrentNew fintech startups must be wary.
+The Changing HorizonIn the wake of the 2008 financial crisis, new banking regulations have been steadily adopted in the EU and abroad.
+Without a body of sensible legislators to reform old decrees, entrepreneurs and fintech startups must maneuver a narrow space.
+
+Other Blogs by Ralph Tkatchuk: https://dataconomy.com/author/ralph-tkatchuk/

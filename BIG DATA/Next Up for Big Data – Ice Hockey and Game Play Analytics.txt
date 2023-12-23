@@ -1,0 +1,36 @@
+Title: Next Up for Big Data – Ice Hockey and Game Play Analytics
+
+Article Link: https://dataconomy.com/2014/10/20/next-up-for-big-data-ice-hockey-and-game-play-analytics/
+
+Author: Eileen McNulty
+
+Publish Date: 2014-10-20
+
+Article:
+Ice Hockey has found use for Big Data as advanced analytics giant, SAS analytics has come into a partnership with the Toronto based ice Hockey club, Toronto Maple Leaf, to help them improve their game.
+
+Kyle Dubas, the erstwhile general manager of the Ontario Hockey League’s Sault Ste. Marie Greyhounds & current assistant GM of the Toronto Maple Leafs, has been incorporating advanced analytics to gain insight into the team’s gameplay and strategy.
+
+Previously, he and his staff had been going through the time-consuming motions of manual note-taking. However, teaming up with SAS has changed things for Mr. Dubas and the Leafs. “We’re able to collect the data and have it in real-time, be able to use it to give to our coaches in the game and to analyze for ourselves in decision-making,” Mr. Dubas said. “To have those tools at your disposal on your phone or iPad, it’s been great and a massive and welcome change.”
+
+Using advanced analytics and statistics SAS will assist the Leafs in drafting, contract negotiations, on-ice strategy and style of play says the analytics innovator. Dubas and his team have been providing SAS with their own stats concerning the team, which once fed into the SAS system can be accessed later to be manipulated by SAS’s software to gain better insight.
+
+The result is a series of graphs and charts that attempt to explain aspects of the sport that go beyond traditional statistics like goals, assists and plus/minus, reports the The Canadian Press.
+
+Carl Farrell, SAS Canada’s executive vice-president,explains, “Sports analytics now is growing in all the different sports segments and hockey being one of them.”
+
+“I think you’re going to see more of this. People are realizing: This data’s important. It brings extra context, extra depth to the kind of decisions that Kyle and the team have to make,” he added.
+
+Read more here.
+
+Follow @DataconomyMedia
+
+(Image credit: Shane Zubrigg)
+
+Summary: Ice Hockey has found use for Big Data as advanced analytics giant, SAS analytics has come into a partnership with the Toronto based ice Hockey club, Toronto Maple Leaf, to help them improve their game.
+Kyle Dubas, the erstwhile general manager of the Ontario Hockey League’s Sault Ste.
+Marie Greyhounds & current assistant GM of the Toronto Maple Leafs, has been incorporating advanced analytics to gain insight into the team’s gameplay and strategy.
+However, teaming up with SAS has changed things for Mr. Dubas and the Leafs.
+“We’re able to collect the data and have it in real-time, be able to use it to give to our coaches in the game and to analyze for ourselves in decision-making,” Mr. Dubas said.
+
+Other Blogs by Eileen McNulty: https://dataconomy.com/author/eileen-mcnulty/

@@ -1,0 +1,42 @@
+Title: Big Data Evolves Into a Formidable Driving Force Behind US Election Campaigns
+
+Article Link: https://dataconomy.com/2014/10/28/big-data-evolves-into-a-formidable-driving-force-behind-us-election-campaigns/
+
+Author: admin
+
+Publish Date: 2014-10-28
+
+Article:
+The last decade has seen an evolution of sorts with regards to how election campaigns are being run in the US. Like all the other fields that Big Data has percolated into, the election machinery has seen drastic changes and adoptions being made to its primary modes of campaigning.
+
+“Progressive technology infrastructure was born in 2004, when we got our teeth kicked in,” notes Bryan Whitaker, COO of the NGP VAN, the outfit that provides technology-based services to Democratic candidates. Down in the dumps after the loss suffered by Democrats in 2004, campaign teams turned to data analytics to expand outreach by tapping social media, and deploying analytical tools to reach the voter directly.
+
+As Mr. Whitaker explains, “Back in 2004, we had no counter to the right’s consistent messaging machine. Fox News, talk radio, Drudge, etc. put out consistent, never-ending messages, and the left didn’t have a viable response to that.”
+
+“As we investigated ways to catch up, one thing we realised we should focus on is figuring out how to build up better grassroots efforts. The most persuasive way to influence someone is through person-to-person interactions, but how do you do that effectively, especially in off-year elections?”
+
+Now that Big Data is a formidable tool both parties are akin to, there is a race to incorporate more and better tools to one-up.
+
+After the failure of Mitt Romney’s Project Orca in 2012, Para Bellum Labs, which provide ‘data engineering’ to power elections, VoterGravity – a mapping provider, Data Trust, i360, a Big Data platform sponsored by the Koch brothers, are some of the Right’s Big Data ammunition, reports NetworkWorld.
+
+Ned Ryun, the CEO of VoterGravity, expresses his concern that culture is a big part of the problem. “The biggest challenge of the center-right is not talent or technology,” he notes. “Our biggest weakness is a culture where important things like data and analysis are not emphasized. As a guy who’s done grassroots campaigns in past and as a tech guy, as well, this worries me.”
+
+Michael Czin, the National Press Secretary of the Democratic National Committee, is the key figure behind the Democrat’s new technology platform, Project Ivy which claims to focus on “four tools and strategies,” a voter file and data warehouse, analytics infrastructure, field and marketing tools, and “training and fostering a culture that cultivates further technological innovations.”
+
+However, many remain sceptical about the extent to which technology can be leveraged to turn election results.
+
+Read more here
+
+Follow @DataconomyMedia
+
+
+
+(Image Credit: Vox Efx)
+
+Summary: The last decade has seen an evolution of sorts with regards to how election campaigns are being run in the US.
+Like all the other fields that Big Data has percolated into, the election machinery has seen drastic changes and adoptions being made to its primary modes of campaigning.
+After the failure of Mitt Romney’s Project Orca in 2012, Para Bellum Labs, which provide ‘data engineering’ to power elections, VoterGravity – a mapping provider, Data Trust, i360, a Big Data platform sponsored by the Koch brothers, are some of the Right’s Big Data ammunition, reports NetworkWorld.
+Ned Ryun, the CEO of VoterGravity, expresses his concern that culture is a big part of the problem.
+“Our biggest weakness is a culture where important things like data and analysis are not emphasized.
+
+Other Blogs by admin: https://dataconomy.com/author/admin/

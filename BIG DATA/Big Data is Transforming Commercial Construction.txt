@@ -1,0 +1,46 @@
+Title: Big Data is Transforming Commercial Construction
+
+Article Link: https://dataconomy.com/2016/07/25/big-data-is-transforming-commercial-construction/
+
+Author: Hannah Augur
+
+Publish Date: 2016-07-25
+
+Article:
+Construction is a costly and time-consuming process. There are several layers to every project, and average profit margins are relatively narrow. That’s why any and every money-saving measure counts. It’s nearly impossible to flawlessly budget, manage, and organize a construction project. From employees to suppliers and logistics, there’s one tool that can help the multifaceted building process: big data.
+
+Data has always been vital to construction, but now tools exist that enable managers to really gather and make use of it in a more streamlined and efficient manner. The concept of Building Information Modeling or BIM involves using 3D virtual models to help a team better plan, design, construct, and manage building structures. BIM has been around for decades, and now many are calling for the integration of big data into the process. By adding data, these programs could also allow designers to more easily spot trends or make predictions on a project.
+
+Data Helps Track and Manage Assets
+
+There are plenty of assets a construction company must look after. Moving tools to and from, or around construction sites is no simple business. Tools and goods can come from several different sources including far-off factories or other construction sites. Data isn’t particularly helpful in keeping track of every little nail, but it can help managers see which tools are where. If a manager can see the location and details of these assets, they can more effectively make decisions about how to utilize them. Data can reveal how quickly each asset can be moved to a new location. It can also reveal which tools are being used, when, and how. Perhaps a vehicle sits unused for only a single day or a wrong decision wastes a few hours moving one tool to another location. These sound like rather small details, but each small decision can play a big role in the overall health of a project Cutting down on waste at every step is key to making profit. Small changes can and do make a difference to the bottom line.
+
+Data also allows for better onsite organization. Behemoth-sized, slow-moving vehicles are hard to maneuver around a tight construction site. Sensor-equipped assets can be tracked and optimized, minimizing wasted time, money, and resources. Sensors can also gather valuable data for analysis. To this end, data proponents are praising analytics’ ability to give consistent and easy-to-understand status updates to teams. Regular updates allows for decisions and steps to be evaluated more regularly. Temperature, humidity, and stress can also be analyzed to determine how it a particular building performing and to alert the team to any sudden changes.
+
+Using Data to More Accurately Budget and Plan
+
+Before reaching the building site, data can tell managers what to expect. Collecting and sharing accurate, useful information between the several parties involved in a project is no easy task. From the very beginning, data can help suppliers, builders, and managers all have a better idea what a project will require. This means they can make better predictions and more accurately evaluate a budget or timeline. Better data visualization and simulations also facilitate communication between architects, engineers, and construction workers. Instead of constant back and forth over minor changes, data analytics can show all parties exactly what a change will mean.
+
+Weather, traffic, and other external data can be taken into consideration. Understanding the roads and conditions can be translated into optimally planning the many phases of a project. Identifying crowded roads or times as well as when to expect poor weather conditions means fewer surprises and hiccups.
+
+Over time, the applications of data become even greater. For commercial companies, this also means the ability to better evaluate subcontractors. Each step of the process, each contractor and location, can be evaluated. Data analysis can be used to see what went better, or worse, on any given project. Proper data evaluation will reveal just how reliable a potential partner might be. As companies work with not just one but several other companies, the ability to analyze the risks associated with each potential partner. Removing a less efficient partner from the mix could have far reaching results on any project and drastically cut wasted resources.
+
+Big data also offers another opportunity: simulation. Predicting outcomes is a major component of data analysis, and using the right data to simulate a project could yield unprecedented results. The many layers and locations of a construction project interact in countless ways, and small changes can cause problems in unexpected ways. Thorough simulations could enable managers to pinpoint problem areas before a situation occurs. Recognizing the real world limitations of a project might not always be possible, but data can at least lessen the likelihood of problems arising.
+
+Moving Forward With Data
+
+One reason big data has not yet been fully integrated into commercial construction is because of its complexity. Adding a team of dedicated data scientists to every project isn’t always possible nor is it particularly cheap. The cost of big data systems and highly skilled analysts would likely undermine any chance of data becoming thoroughly integrated into the field in the near future. This is why more usable softwares, and software-as-a-service is becoming more common. Outsourcing this work to an analytics company can completely shift the way a company views their construction process without breaking the bank.
+
+This is, however, only possible when companies are ready to fully take on a data-driven process. Picking-and-choosing applications or only viewing data passively could have little effect on the overall results, or even cause more difficulties. Companies must be ready to work around data and have clear goals in mind before setting out. Big data is already being used by several companies, but it has not yet became a poster child for the industry. The introduction of industry-specific platforms is still underway and far from fully developed. As more firms are turning to real-time, cloud-powered analytics, that’s likely to change.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: From employees to suppliers and logistics, there’s one tool that can help the multifaceted building process: big data.
+BIM has been around for decades, and now many are calling for the integration of big data into the process.
+Moving Forward With DataOne reason big data has not yet been fully integrated into commercial construction is because of its complexity.
+The cost of big data systems and highly skilled analysts would likely undermine any chance of data becoming thoroughly integrated into the field in the near future.
+Big data is already being used by several companies, but it has not yet became a poster child for the industry.
+
+Other Blogs by Hannah Augur: https://dataconomy.com/author/hannah-augur/

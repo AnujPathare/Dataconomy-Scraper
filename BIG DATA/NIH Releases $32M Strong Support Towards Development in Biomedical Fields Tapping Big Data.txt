@@ -1,0 +1,38 @@
+Title: NIH Releases $32M Strong Support Towards Development in Biomedical Fields Tapping Big Data
+
+Article Link: https://dataconomy.com/2014/10/13/nih-releases-32m-strong-support-towards-development-in-biomedical-fields-tapping-big-data/
+
+Author: admin
+
+Publish Date: 2014-10-13
+
+Article:
+Announcing its first round of grants in the Big Data to Knowledge(BD2K) program, the National Institutes of Health on Thursday awarded approximately $32-million in grants to researchers developing new strategies to analyze biomedical big data sets. Over two dozen institutions were involved.
+
+“Data creation has become exponentially more rapid than anything we anticipated even a decade ago,” explains NIH’s director, Francis S. Collins, “and the challenge is to try to be sure we’re not exceeding the ability of researchers to capitalize on the data.”
+
+A trans-NIH program with funding from all 27 institutes and centers, as well as the NIH Common Fund, Big Data to Knowledge project initiated last year, will have $656-million in grants to be released by 2020. It intends to oversee developing and distributing methods, software, and tools for sharing, analyzing, managing, and integrating data into medical research.
+
+The funding will help set up 12 centers that will each tackle specific data science challenges, leveraging support for a consortium to cultivate a scientific community-based approach on the development of a data discovery index, and for data science training and workforce development, reports their news release.
+
+The four main components of the new BD2K awards are:
+
+Centers of Excellence for Big Data Computing. BD2K-LINCS Perturbation Data Coordination and Integration Center BD2K Data Discovery Index Coordination Consortium (DDICC) Training and Workforce Development.
+
+With this incentive, medical challenges such as finding disease associations in the three billion base pairs in the human genome, or in the estimated 86 billion neurons in the human brain, are hoped to be resolved, NIH officials said.
+
+“The future of biomedical research is about assimilating data across biological scales from molecules to populations,” explained Philip E. Bourne, Ph.D., NIH associate director for data science. “As such, the health of each one of us is a big data problem. Ensuring that we are getting the most out of the research data that we fund is a high priority for NIH.”
+
+Read more here
+
+Follow @DataconomyMedia
+
+(Image Credit: UC Davis College of Engineering)
+
+Summary: Announcing its first round of grants in the Big Data to Knowledge(BD2K) program, the National Institutes of Health on Thursday awarded approximately $32-million in grants to researchers developing new strategies to analyze biomedical big data sets.
+The funding will help set up 12 centers that will each tackle specific data science challenges, leveraging support for a consortium to cultivate a scientific community-based approach on the development of a data discovery index, and for data science training and workforce development, reports their news release.
+The four main components of the new BD2K awards are:Centers of Excellence for Big Data Computing.
+“The future of biomedical research is about assimilating data across biological scales from molecules to populations,” explained Philip E. Bourne, Ph.D., NIH associate director for data science.
+“As such, the health of each one of us is a big data problem.
+
+Other Blogs by admin: https://dataconomy.com/author/admin/

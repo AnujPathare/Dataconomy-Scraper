@@ -1,0 +1,38 @@
+Title: The Data Is In: 3 Ways Analytics Will Improve Healthcare
+
+Article Link: https://dataconomy.com/2016/03/10/the-data-is-in-3-ways-analytics-will-improve-healthcare/
+
+Author: Mark Scott
+
+Publish Date: 2016-03-10
+
+Article:
+The U.S. produces 1.2 billion clinical care documents each year. These documents contain information about a patient’s medical history, doctor’s visits, hospital visits, previous treatments, procedures, test results and prescription medications. Physicians can access information about their patient from their electronic health record to weigh treatment options, but to really gain deeper understandings of the patient and accelerate quality care delivery, they need the help of sophisticated data analytics and machine learning. Without such analytics tools, it’s extremely difficult for healthcare providers to get a complete view of patient health, and as a result, physicians make care decisions based on incomplete and underutilized data.
+
+Why is it so difficult to process these 1.2 billion documents? The typical medical chart is actually stored in various fragments in many different locations and systems. Imagine your entire medical record as a jigsaw puzzle in which the pieces are scattered and stored in different locations and in different types of boxes, each of which is hard to open. Your cardiologist has her record of you but not the record from your endocrinologist or from the urgent care doctor you saw six months ago for bronchitis, for example. No wonder people feel as if they are repeating themselves every time they visit a medical facility. There is no master record of your care.
+
+Previous efforts at solving this problem have focused mostly on data visualization, or portraying a large set of data in a visually appealing way. However, prioritizing data visualization over data analysis is putting the cart before the horse. It doesn’t matter how well data is presented, if the data set isn’t complete or correct in the first place. This task takes much more than simple functions in Excel, it takes data analytics and machine learning.
+
+With cognitive computing technologies that incorporate data mining, pattern recognition, natural language processing (NLP) and machine learning algorithms, we can begin to make better use of unstructured healthcare data. These advanced tactics can transform healthcare by delivering key ingredients that physicians need to make strong decisions for their patients. For example, here are three important care components that advanced data analytics and machine learning could deliver:
+
+1.A Complete Picture of Patients for Effective Care: Sophisticated data analytics and machine learning tools enable healthcare organizations to combine information from different sources and locations and paint a more complete picture of patients’ health. This helps develop more effective treatments. For example, your primary care physician could have insight into records from the cardiologist you saw six months ago, and the emergency room doctor you saw two years ago, so they can better treat you. Without access to this data, your primary care doctor may prescribe you a drug that could have adverse effects on a heart condition your cardiologist diagnosed, simply because the two systems where this information resided were not talking to each other or your care was delivered and documented by a physician in a different medical group.
+
+2.An Accurate Patient Profile for Correct Care: Computers can extract, read and make use of all the unstructured data (text) that physicians and nurses have written down about a patient. This entire data set can be cross-checked, to eliminate inaccuracies that might creep into the patient record over time. For example, if a doctor treated you for breast cancer ten years ago and details about the treatment were communicated incorrectly to your current primary care doctor, a computer would flag this inaccuracy. Access to an accurate patient profile can enable error-free interventions and ensure correct care.
+
+3.A Growing Data Laboratory for Precise and Practice-Based Care: Access to patient data will create a living laboratory of clinical data to deliver more evidenced care. Rather than depend on narrowly designed studies that do not directly apply to individual patients and inherently limited personal experience, physicians can base their decisions on the treatment and outcomes of millions of patients. For example, if a physician is treating a 40-year-old patient who has diabetes and nightly fevers, they could draw on patient databases, examine similar patients and scenarios, and determine the most effective treatment based on past scenarios.
+
+These three outcomes would have a significant impact on the way physicians manage and treat patients. They would increase the sophistication of healthcare delivery and truly capitalize on the clinical care documentation and charting that physicians do. Advanced analytics techniques like machine learning can enable the higher level of healthcare that the industry had expected during the long and difficult process of electronic health record implementation.
+
+It’s an unfortunate and avoidable situation; so much good healthcare data is available yet the ways in which it is used are so limited. Big data technologies combined with machine learning can unify and analyze this convoluted barrage of data so doctors can make better-informed decisions about a patient’s health. Ultimately, this will improve the quality of care and outcomes, and lead to a more effective health care system.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: This task takes much more than simple functions in Excel, it takes data analytics and machine learning.
+With cognitive computing technologies that incorporate data mining, pattern recognition, natural language processing (NLP) and machine learning algorithms, we can begin to make better use of unstructured healthcare data.
+3.A Growing Data Laboratory for Precise and Practice-Based Care: Access to patient data will create a living laboratory of clinical data to deliver more evidenced care.
+It’s an unfortunate and avoidable situation; so much good healthcare data is available yet the ways in which it is used are so limited.
+Ultimately, this will improve the quality of care and outcomes, and lead to a more effective health care system.
+
+Other Blogs by Mark Scott: https://dataconomy.com/author/marks/

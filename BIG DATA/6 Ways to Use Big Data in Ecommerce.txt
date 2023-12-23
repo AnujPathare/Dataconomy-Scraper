@@ -1,0 +1,28 @@
+Title: 6 Ways to Use Big Data in Ecommerce
+
+Article Link: https://dataconomy.com/2017/07/14/6-ways-use-big-data-ecommerce/
+
+Author: Danny Asling
+
+Publish Date: 2017-07-14
+
+Article:
+The creation and consumption of data continues to rapidly grow around the globe with large investment in big data analytics hardware, software, and services. The availability of large data sets is one of the core reasons that Deep Learning, a sub-set of artificial intelligence (AI), has recently emerged as the hottest tech trend. Huge giants such Google, Facebook, Baidu, Amazon, IBM, Intel, and Microsoft are heavily investing in big data, with the acquisition of talent hot on their agenda.
+
+Big data is continuously creating new challenges and opportunities, all of which have been forged by the information revolution. This infographic takes a look at how those in the ecommerce industry are already using data sets to introduce a new level of strategic marketing and provide better customer service experiences.
+
+Predicting trends, optimising pricing and forecasting demand, are just some of the ways that ecommerce businesses are using data to gain a competitive advantage. The guesswork has been removed, and now ecommerce businesses can accurately make strategic decisions on how to operate their online empires.
+
+Big data is proving to be a game-changer when it comes to retail and ecommerce. If businesses can successfully implement effective big data strategies then they will reap the rewards of better customer experiences and bigger profits. This infographic explores practical ways to introduce data solutions with simple implementation.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: The creation and consumption of data continues to rapidly grow around the globe with large investment in big data analytics hardware, software, and services.
+Huge giants such Google, Facebook, Baidu, Amazon, IBM, Intel, and Microsoft are heavily investing in big data, with the acquisition of talent hot on their agenda.
+Big data is continuously creating new challenges and opportunities, all of which have been forged by the information revolution.
+Predicting trends, optimising pricing and forecasting demand, are just some of the ways that ecommerce businesses are using data to gain a competitive advantage.
+Big data is proving to be a game-changer when it comes to retail and ecommerce.
+
+Other Blogs by Danny Asling: https://dataconomy.com/author/danny-asling/

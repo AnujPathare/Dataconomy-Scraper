@@ -1,0 +1,56 @@
+Title: Why over one-third of AI and Analytics Projects in the Cloud fail?
+
+Article Link: https://dataconomy.com/2020/01/23/why-do-over-one-third-of-ai-and-analytics-projects-in-the-cloud-fail/
+
+Author: Diksha Dutta
+
+Publish Date: 2020-01-23
+
+Article:
+How are various organizations handling the accelerating transition of data to the cloud? What are the obstacles in data cleaning for analytics and the time constraints companies face when preparing data for analytics, AI and Machine Learning (ML) initiatives? Here is a look at some insights from a recent report by Trifacta that answer these questions.
+
+Data has increasingly become a critical component of just about every aspect of business and the amount of data is skyrocketing. In fact, 90% of the world’s data has been created in the last two years and it’s expected that by 2020, 463 exabytes of data will be created every day from wearables, social media networks, communications (business and consumer), transactions and connected devices. While the explosion in the volume — and more importantly, diversity of data — is instrumental in supporting the future of Artificial Intelligence (AI) and accelerates the automation of data analysis, it’s also creating the obstacles that enterprises currently face in their adoption of AI. Most believe there is great potential to gain efficiencies and improve data-driven decision-making, but as their use cases continue to increase, there is still much room for improvement to remove the obstacles to adoption. A recent report by Trifacta reveals how these challenges are inhibiting the overall success of these projects and the ability to improve efficiencies when working with data to accelerate decision making. Here is a look:
+
+Data Inaccuracy is Inhibiting AI Projects
+
+The time-consuming nature of data preparation is a detriment to organizations: Data Scientists are spending too much time preparing data and not enough time analyzing it. Almost half (46%) of respondents reportedly spend over 10-hours properly preparing data for analytics and AI/ML initiative while others spend upwards of 40-hours on data preparation processes alone on a weekly basis. Although data preparation is a time-consuming, inefficient process, it’s absolutely vital to the success of every analytics project. Some of the leading implications of data inaccuracy result from miscalculating demand (59%) and targeting the wrong prospects (26%). Decisions made from data would improve if organizations were able to incorporate a broader set of data into their analysis, such as unstructured third-party data from customers, semi-structured data or data from relational databases.
+
+
+
+C-Suite Has Taken Notice
+
+Simply put, if the quality of data is bad, analytics and AI/ML initiatives are going to be worthless. While 60% of C-suite respondents state that their company frequently leverages data analysis to drive future business decisions, 75% aren’t confident in the quality of their data. About one-third state poor data quality caused analytics and AI/ML projects to take longer (38%), cost more (36%) or fail to achieve the anticipated results (33%). With 71% of organizations relying on data analysis to drive future business decisions, these inefficiencies are draining resources and inhibiting the ability to glean insights that are crucial to overall business growth.
+
+
+
+Rise of AI and ML Push Cloud Adoption
+
+The benefits of the cloud are hard to overestimate in particular as it relates to the ability to quickly scale analytics and AI/ML initiatives, which presents a challenge for today’s siloed data cleansing processes. There are many reasons for widespread cloud migration with 66% of respondents stating that all or most of their analytics and AI/ML initiatives are running in the cloud, 69% of respondents reporting their organization’s use of cloud infrastructure for data management, and 68% of IT pros using the cloud to store more or all of their data — a trend that’s only going to grow. In two years from now, 88% of IT professionals estimate that all or most of their data will be stored in the cloud.
+
+
+
+“The growth of cloud computing is fundamental to the future of AI, analytics, and Machine Learning initiatives. Unfortunately, the pace and scale at which this growth is happening underscore the need for coordinated data preparation, as data quality remains one of the largest obstacles in every organization’s quest to modernize their analytics processes in the cloud.” Adam Wilson, CEO, Trifacta.
+
+Data: AI’s Best Friend and Biggest Foe
+
+Organizations are quickly realizing that AI initiatives are rendered useless, and in some cases detrimental, without clean data to feed their algorithms.
+
+Often data accuracy would increase if organizations were able to analyze third- party data from customers, semi-structured data, or data from relational databases. However, common barriers to access include data that exists in different systems (28%) or requires merging from different sources (27%) or needs reformatting (25%). Sought-after data sources include customer data (39%), financial data (34%), employee data (26%), and sales transactions (26%). Furthermore, third-party and secondary data present their own sets of challenges, with about half of respondents citing data blending, data movement, and data cleaning as frequent obstacles.
+
+Data Accuracy is the Only Way Forward
+
+Organizations can no longer rely on legacy, compartmentalized data integration to handle the speed, scale, and diversity of today’s data. Inadequate data cleansing and data preparation frequently allow inaccuracies to slip through the cracks. This is not the fault of the ETL developer, but a symptom of a much larger problem of manual and partitioned data cleansing and data preparation. According to Harvard Business Review, “Poor data quality is enemy number one to the widespread profitable use of Machine Learning.”
+
+A clean dataset is critical for AI and ML projects, but as sources of data increase, both in the cloud and on-premises, it’s challenging for enterprises to combat the problems caused by data inconsistencies and inaccuracy. Innovative data preparation technology can help organizations improve data quality and accuracy for AI/ML initiatives and beyond while also increasing the speed and scale of these efforts. Survey respondents’ concerns and priorities for the future speak to how integral these new solutions will become as more organizations rely on data analysis to drive business decisions. The transformational opportunities provided by the advent of AI and cloud computing will only be available to the extent that organizations can make their data usable. After preparation and cleaning, data accuracy increases to 80% (completely = 29%, very accurate = 51%). deduplication (21%), data validation (21%), and analyzing relationships between fields (20%) are the most likely steps to improving data accuracy.
+
+Looking ahead, given the implications of data inaccuracy and data quality, organizations would benefit from modern data preparation tools to ensure clean, well-prepared data is always available to support business intelligence, analytics, and AI/ML initiatives across the entire organization. Data cleansing can be difficult, but the solution doesn’t need to be. Self-service data preparation tools are solving these problems and helping organizations get the most value out of their data with proper data cleansing.
+
+Note: The content of this article is from a report titled “Obstacles to AI & Analytics Adoption in the Cloud” by Trifacta which leverages decades of innovative research in human-computer interaction, scalable data management and Machine Learning to make the process of preparing data faster and more intuitive. Trifacta conducted a global study of 646 individuals who prepare data. The survey was conducted between Aug. 20, 2019, and Aug. 30, 2019, in conjunction with ResearchScape International.
+
+Summary: What are the obstacles in data cleaning for analytics and the time constraints companies face when preparing data for analytics, AI and Machine Learning (ML) initiatives?
+Although data preparation is a time-consuming, inefficient process, it’s absolutely vital to the success of every analytics project.
+About one-third state poor data quality caused analytics and AI/ML projects to take longer (38%), cost more (36%) or fail to achieve the anticipated results (33%).
+“The growth of cloud computing is fundamental to the future of AI, analytics, and Machine Learning initiatives.
+Inadequate data cleansing and data preparation frequently allow inaccuracies to slip through the cracks.
+
+Other Blogs by Diksha Dutta: https://dataconomy.com/author/diksha-dutta/

@@ -1,0 +1,70 @@
+Title: How Is Data Science Transforming Web Development?
+
+Article Link: https://dataconomy.com/2018/05/08/how-is-data-science-transforming-web-development/
+
+Author: Jasmine Morgan
+
+Publish Date: 2018-05-08
+
+Article:
+Web app development is about to undergo a significant revolution triggered by the rise of data science. So far, developers have created apps based on focus groups, surveys and educated guesses about the needs and wants of users. This old way of working is biased and cannot include the input of a statistically significant number of users.
+
+This is turning around, due to the zettabytes of available data made available by IoT. Instant and continuous access to the internet has triggered an unprecedented wave of user-generated data that can be turned into actionable insights.
+
+Web development companies are now utilizing Artificial Intelligence to make sense of all these data points and incorporate the findings into apps, starting right from the design phase. This approach helps companies save time and costs by looking at specific behaviors and preferences of their target groups.
+
+Data Disrupting the Realm of Software Production
+
+Currently, software development involves programmers coding or repurposing existing modules to create a working app that satisfies some pre-set requirements. Deep learning is about to change this for good.
+
+No longer will a developer decide what goes where in the app menu. Data from analyzing the use of similar apps could suggest what is essential for users and what should be highlighted. It is a step forward from Google’s autocomplete feature that has already gone mainstream.
+
+New Versions
+
+App upgrades will also be dictated by data, not by intuition or focus groups feedback. Users communicate their desires either by interacting with the app or by stating their demands online – both on forums and social media. To put this information to use, development teams should collect both streams of data and turn them into actionable insights.
+
+In fact, Nvidia’s vice president and general manager Jim McHugh suggested that upgrades will no longer be the strategic team’s concern, but will emerge naturally from data. Machine learning algorithms grow smarter when there is more data available for training. When this happens, new versions appear.
+
+For example, a new version of a chatbot will be consistently upgraded with user-generated input to include answers to searches or inquiries that previously returned no satisfactory results. In this kind of upgrade, developers have little to no input.
+
+Data Disrupting Developers’ Work Mode
+
+Since their current mode of work is drastically changing, web app developers are likely to fear losing their jobs in the next several years. However, it is not a matter of a lower demand for coders, but more a need for a different skill set. Programmers and coders will be in a higher demand than ever, but they will likely have to upgrade their expertise with data science and data analysis.
+
+Web development is no longer only about writing code but more about structuring data, cleaning it, curating it and making sure it is ready to teach algorithms. These skills are incredibly different compared to what object-oriented or web programming meant a decade ago, but in this industry, progress is a given. The trend is now all about Python scripting and data analysis in R or Matlab.
+
+As the code grows more abundant, it could mean the end of an era for developers as we know them now. Machines will have the needed piece of code at hand, and they will also know how to collate these pieces into a working program.
+
+What Data-Driven Web Apps Can Bring
+
+Right now, making sense of data can still give organizations a competitive advantage, but it will soon become the minimum operational requirement.
+
+There are several areas in which data science can have a real impact, including productivity, efficiency and personalization.
+
+Productivity & Virtual Assistants
+
+Web apps that remember our preferences and help us pick up where we left off can save time and energy. AI can learn about our spending habits, time usage and lifestyle. By crunching the numbers behind those experiences, it can offer personalized advice and simplify our choice.
+
+These apps have the potential to become kind of private assistants, trustworthy partners, intelligent databases or smart repositories. Some apps give you reminders about important tasks, identify gaps in your schedule that you can use to your advantage or even block certain harmful habits like procrastination.
+
+Enhanced Personalization
+
+AI-powered apps will soon be by your side like faithful assistants, but they can also get into your mind better than friends and family. Already today, our smartphone can give us excellent tips based on geolocation, past likes, and interaction with specific brands.
+
+Much like Netflix and Amazon, recommendation engines can be extended to other web apps that need to provide customized responses.
+
+This is not only the next fad of the consumerist world, but the general direction of app development. The new generation of smartphones, like the iPhone X and the Galaxy S8, have come with built-in AI capabilities.
+
+Predicting the Impact
+
+The changes triggered by using data science in web app development will impact both consumers and developers alike. The cookies stored in browsers, as well as any data provided by the user during their web sessions, will become a hint about preferences and a way to customize the apps they interact with. For developers, the same data can be a primary source for upgrades and enhancements. Speed, reliability and functionality are still in high demand, but the difference will be made by incorporating a user’s own data into the look, feel and functionality of an app.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Summary: Web app development is about to undergo a significant revolution triggered by the rise of data science.
+Programmers and coders will be in a higher demand than ever, but they will likely have to upgrade their expertise with data science and data analysis.
+There are several areas in which data science can have a real impact, including productivity, efficiency and personalization.
+Much like Netflix and Amazon, recommendation engines can be extended to other web apps that need to provide customized responses.
+Predicting the ImpactThe changes triggered by using data science in web app development will impact both consumers and developers alike.
+
+Other Blogs by Jasmine Morgan: https://dataconomy.com/author/jasmine-morgan/

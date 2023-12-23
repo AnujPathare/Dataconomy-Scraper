@@ -1,0 +1,50 @@
+Title: Bridging the CDO talent gap: Top Three skills a CDO needs
+
+Article Link: https://dataconomy.com/2019/12/05/essential-skills-for-a-cdo-in-your-organization/
+
+Author: Helena Schwenk
+
+Publish Date: 2019-12-05
+
+Article:
+Here is a look at what a CDO means to your organization and what are the skills you need to hunt for while hiring them.
+
+The last decade alone has seen exponential growth in organizational data. Whether by accident or design, the amount of data available to every business has exploded in volume, so much so that 77% of IT directors consider data to be an organization’s most valuable asset.
+
+Data holds the key to future prosperity and success through real-time analytics that can improve customer understanding, the rapid development of new products and services, improved production and logistics processes, and supply chain efficiencies.
+
+However, the potential of data and the role it can play to improve business performance is only possible if businesses are investing enough in deriving true value from it. Unfortunately, many don’t have a robust data strategy in place or the right people or skills to interrogate and glean actionable insights from the data. Almost one in five businesses (18%) still rely on a legacy data system and only 38% have fully modernized their data infrastructure in recent years. As a result, new roles are required in order to make data of value to business operations, the most senior of which is the CDO.
+
+Who is a CDO? What do they do?
+
+The CDO is focused on securing, managing and using available data to improve business practices across the entire organization – from finance and HR to product development and marketing.
+
+
+
+A Forbes report found that only 12% of Fortune 1000 companies had a CDO in 2012, but just six years later this had increased to almost 70%. So, while data analysts have been commonplace in businesses for years, we are now seeing the emergence of this new role – linking the results that data insights are producing to tangible business benefits.
+
+In fact, Gartner found that 45% of a CDO’s time is allocated to value creation and/or revenue generation, 28% to cost savings and efficiency and 27% to risk mitigation. Few roles, if any, cover such a variety of responsibilities. This makes them accountable and impactful change agents leading the data-driven transformation of their organizations.
+
+So far, so good. But, while the need for CDOs is music to those that are qualified for the role’s ears, it’s also where the biggest issue lies; there is simply not the talent available – globally – to meet the increase in demand. Fortunately, the talent pool is wider than many may think. There are three key CDO skills that aren’t necessarily what you’ll expect.
+
+It’s not all about data – CDOs don’t necessarily need to be from a pure-data background. They need to be strategists, skilled to answer challenging questions and ensure actions derive business value. This means candidates might come from business intelligence and operations, problem-solving, finance or marketing backgrounds because of their ability to deliver a deeper analysis of business situations.
+
+Become a change agent – The journey towards a data-driven approach is likely to meet with resistance, especially when it threatens the status-quo, individual power bases and potentially contradicts closely held beliefs and practices. CDOs need to overcome these challenges by becoming change agents. They must actively work to understand the problems that the business is facing and identify how data can help. This requires the CDO to build empathetic relationships, demonstrate value quickly and overcome potential conflicts.
+
+Sell, sell, sell – They also need to be able to sell their insights internally – the ability to tell stories is a key skill of a CDO: a story makes the benefits of data clear for those who may be turned off by hard statistics. Interpersonal skills are an essential part of the new skillset required by data scientists today.
+
+A dedicated data owner for maximum impact
+
+CDOs in some of the most successful organizations have also been known to use their interpersonal skills to recruit ‘data citizens’ in different departments to make the tactical use of data more entrenched across the business. By doing this, they make data an open, useful tool, rather than a confusing gated asset that can only be accessed and understood by a few people. Promoting the use of data throughout the business like this bridges the data science skills gap and adds real long-term value to a company and its culture.
+
+Some businesses cannot function without data analytics – retail and financial services is a good example – but today we are seeing a broader range of organizations understanding the need to interpret and manage their data. As more success stories come to light, industries that were not early adopters of a data strategy are recognizing the need to recruit a CDO to drive one. They are vital to developing a smart data strategy that not only enables organizations to compete with new players, but to look beyond them too, and innovate in order to increase market share.
+
+CDOs are central to business success, possessing business skills many established executives do not have. These include the ability to look at core data, see how it can be used logically to improve business practices, positively sell the idea of change to stakeholders throughout the organization and see through the implementation of transformation to a data-driven companies. And fortunately for businesses, the perfect candidate could be closer than they think to kick-start and shape a data-driven workforce for the future.
+
+Summary: Here is a look at what a CDO means to your organization and what are the skills you need to hunt for while hiring them.
+The CDO is focused on securing, managing and using available data to improve business practices across the entire organization – from finance and HR to product development and marketing.
+There are three key CDO skills that aren’t necessarily what you’ll expect.
+They need to be strategists, skilled to answer challenging questions and ensure actions derive business value.
+CDOs are central to business success, possessing business skills many established executives do not have.
+
+Other Blogs by Helena Schwenk: https://dataconomy.com/author/helena-schwenk/

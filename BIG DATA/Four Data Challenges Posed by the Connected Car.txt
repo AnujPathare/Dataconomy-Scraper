@@ -1,0 +1,44 @@
+Title: Four Data Challenges Posed by the Connected Car
+
+Article Link: https://dataconomy.com/2018/09/04/four-data-challenges-posed-by-the-connected-car/
+
+Author: Todd Walter
+
+Publish Date: 2018-09-04
+
+Article:
+Car-generated data is set to transform the auto industry and the consumer driving experience, but there are significant challenges along the way.
+
+What’s the most disruptive trend in the auto industry today? If you answered “electric engines” or “self-driving cars,” not so fast. The real game-changer for the industry lies in a different kind of engine, specifically the data collection engine that many cars will be equipped with in the future. Buckle in, because the driving experience is about to get a lot more interesting.
+
+Gartner predicts that, by 2021, there will be more than 300 million cars on the road with wireless network connectivity. The connected car market is growing ten times faster than the overall auto sales market, driven in large part by the fact that today’s vehicles are capable of generating 100X more data than in the past. Everything from engine performance to driver performance can be collected, analyzed and acted upon in ways that create a much closer connection between automakers and their customers. But be warned: Many non-traditional competitors are looking to make the same kinds of connections with auto consumers, from in-car media experiences to enhanced onboard navigation.
+
+Car-generated data isn’t a novel concept for automakers. Since the late 1990s, manufacturers have used data collected from Engine Control Modules (ECMs) to diagnose and repair vehicles. And, of course, automakers (like any other industry) have long used operational and sales data to drive efficiencies and improve customer marketing. But there is a world of difference between downloading 200KB of service data from an ECM every 15,000 miles and analyzing 200GB of data from thousands of vehicles every day. In many ways, it’s a new world for automakers as they face new data challenges, from what kinds of data should be collected and how it should be used, to how that data should be protected. Here are the data challenges of the connected car aligning around four main issues for automakers:
+
+What kinds of data should we be collecting?
+
+The temptation in this era of big data is to collect everything and sort it out later. There is a real risk, however, that the Internet of Things becomes the Internet of Everything. The true value of IoT is in AoT: the Analytics of Things. Data isn’t useful without context and application. Automakers not only need to understand what kind of data is important to collect, but they also need to integrate that data with other business data to give it richer context and apply it to specific business challenges and opportunities, whether online, on a sales floor or on the road. That’s a challenge for many automakers because they’re struggling right now with siloed data in their organizations, while also running the risk of being inundated with their data as the number of connected cars grows, potentially missing the opportunity to connect that data with the rest of the business for real action and decision-making.
+
+How do we use that data to improve customer experiences?
+
+The second challenge is understanding how to use this data to create better and more personalized customer experiences. This is a big opportunity for the auto industry, which is undergoing significant changes to its traditional sales model, from car-sharing options to creative “any car” leasing programs. Services that improve the driver experience, from information to entertainment, could prove to be particularly important in creating competitive differentiation and building brand loyalty. Automakers, however, will need to capitalize on the opportunity quickly or risk losing out to more nimble and non-traditional competitors.
+
+How do we monetize that data through new services and partnerships?
+
+This naturally brings us to the third challenge: creating new services from vehicle-generated data. The first thing that comes to mind is the service experience itself: Automakers can use this proprietary data to improve service repairs and extend the customer’s lifetime value. But there are many innovative applications as well, from real-time crash-prevention systems to anti-theft text alerts when a car is opened/activated. More data also means more opportunities to improve car designs. For example, if data shows that the rear doors on a four-door sedan model are rarely used, the automaker might consider producing a two-door model.
+
+Looking further into the future, where all the big automakers are either supplying to or running their own self-driving fleets instead of selling cars to individuals, data plays an even bigger role. One can imagine a future where vehicle usage, operating conditions, part wear sensors, visual appearance data, customer feedback on the vehicle, and value of the vehicle in the secondary market are integrated to determine when to retire a specific self-driving vehicle from the fleet and put it on the secondary market to both maximize customer satisfaction with the fleet and maximize the market value.
+
+How do we protect that data to earn consumer trust?
+
+Finally, automakers need to protect the data they collect. While consumers have shown a willingness to share personal data where they perceive value in return, they are more guarded with their driving data. Automakers need to pay close attention to how they share this data. Sharing car usage data with an insurance provider to offer insurance discounts or pay-as-you-drive policies could be seen as a consumer benefit, but sharing data that could adversely affect policy costs would obviously be a harder sell to consumers. Drive route and location data is particularly sensitive and needs to be protected to the same degree as Personally Identifiable Information (PII) or Health Insurance Portability and Accountability Act (HIPAA) data.
+
+Clearly, the connected car journey is just underway. Artificial intelligence, auto navigation and analytics will literally steer the future of the auto industry for years to come. If connected car analytics isn’t on your roadmap, you could be in for a bumpy ride.
+
+Summary: Car-generated data is set to transform the auto industry and the consumer driving experience, but there are significant challenges along the way.
+Here are the data challenges of the connected car aligning around four main issues for automakers:What kinds of data should we be collecting?
+Clearly, the connected car journey is just underway.
+Artificial intelligence, auto navigation and analytics will literally steer the future of the auto industry for years to come.
+If connected car analytics isn’t on your roadmap, you could be in for a bumpy ride.
+
+Other Blogs by Todd Walter: https://dataconomy.com/author/todd-walter/

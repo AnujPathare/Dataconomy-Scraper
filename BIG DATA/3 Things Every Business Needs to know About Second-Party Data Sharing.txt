@@ -1,0 +1,72 @@
+Title: 3 Things Every Business Needs to know About Second-Party Data Sharing
+
+Article Link: https://dataconomy.com/2016/12/08/business-second-party-data/
+
+Author: Rachel Wolfson
+
+Publish Date: 2016-12-08
+
+Article:
+As 2017 quickly approaches, businesses are focused more than ever before on gleaning insights from first-party, third-party and most recently, second-party data.
+
+Yes, that’s right – second-party data. Now, some of you might be wondering, What exactly is second-party data?
+
+Unlike first and third-party data, second-party data is shared between companies on a mutually beneficial basis. According to Forrester, “Second-party data sharing is when a retailer, brand, publisher, or marketer gains transparent access to the website audience data of another retailer, brand, publisher, or marketer for marketing purposes — to their mutual benefit.”
+
+The concept of second-party data sharing has actually been around for years, yet it is just now disrupting the analytics market and is expected to grow in the coming years. According to Forrester’s report, “The Era of Second-Party Data is Here,” “Second-party data is going to grow substantially over the years, as organizations look for alternative data sets for first and third-party data, which lack in quantity or quality.”
+
+The question then comes to mind: Why now?
+
+Currently, data suppliers are beginning to streamline the process of second-party data sharing. These suppliers are eliminating the need to establish direct data sharing relationships with other companies, which is a very difficult and time consuming task.
+
+Jumpshot, for example, is a San Francisco based marketing analytics startup that provides organizations with this type of data from clickstream analysis of the largest consumer panel in the industry.
+
+“In the past, it’s always been very difficult or expensive to access second-party data. After all, no one is going to just open up their CRM or web analytics data and share it with the world, unless there is a huge opportunity for them in some way. But through clickstream activity captured at the user device level, another company’s web metrics, browsing activity, and purchase data is now easily within the grasp of anyone, without having to create a direct relationships with that company,” said Randy Antin, Jumpshot’s VP of Marketing.
+
+And although this might not sound challenging, just consider how willing businesses are when it comes to sharing customer information with other companies…. Not very.
+
+Finally, a third question comes up: What are the benefits of second-party data sharing?
+
+While data sharing can provide a number of benefits, businesses are seeing 3 main advantages:
+
+#1. Second-party data provides greater scale
+
+Unfortunately, first-party data is no longer capable of meeting marketing needs. This is because first-party data tends to only be relevant for what prospects do on a company’s own web properties. Often times this data lacks crucial information about a customer’s preferences and actions that take place elsewhere online.
+
+“For many advertising and marketing leaders, relying solely on their own first-party data is not sufficient for their marketing needs. Twenty-seven percent of those surveyed are turning to second-party data due to a lack of scalability in their own first-party data; 21% said they don’t collect enough first-party data to leverage it effectively,” Forrester’s report noted.
+
+In turn, third-party data lacks the transparency of second-party data because it’s available for any company to purchase. Third-party data also lacks in quality because it’s collected from unspecified consumers whom are not necessarily relevant to the company that purchases the data. Third-party data is scoured from disperse and unrelated sources and is typically aggregated from cookies, email distribution lists and online data marketplaces.
+
+As a result, third-party data loses its value. Now, many organizations are turning towards second-party data to gain a more thorough understanding of customers, as well as a competitive data advantage.
+
+#2. Improved insights into customer needs
+
+According to the same Forrester report, gaining greater insights into customer behavior was the number one driver for data sharing. Unlike first and third-party data, second-party data allows companies to gain access to unique data regarding their customers’ actions based on the first-party data collected by their data partners.
+
+In turn, second-party data provides a competitive advantage for marketers, which can be used to execute targeted campaigns for sought after audiences. Rather than providing a blanket campaign to consumers whom fit into a general category, marketers can now identify target audiences based on preferences and behaviors captured on a partner’s website. As a result, the likelihood for sell-through has a better chance of increasing.
+
+#3. Second-party data is exclusive
+
+Keep in mind that second-party data is simply someone else’s first-party data. Unlike first-party data, however, this type of data can only be obtained when two companies have agreed to share data with one another, or when a third-party provider, such as Jumpshot, provides this data.
+
+Data sharing also allows organizations to choose the data sources they feel are most relevant, filtering out all the unnecessary data or unrelated data that comes with first and third-party sources.
+
+Is Second-Party Data Worth It?
+
+While second-party data has been around for years, businesses are finally able to easily gain access to this information. And now organizations are taking advantage of the different options for gaining access to second-party data. Companies are building new data sharing relationships with other organizations or have started working with independent third-party solution providers.
+
+Of course, like most data sharing opportunities, challenges still remain. Issues with data security, audience duplication and prolonged processes must all be taken into account when thinking about direct second-party data sharing amongst companies. However, second-party data is expected to grow in the coming years and businesses are sure to overcome these challenges due to the big benefits that second-party data sharing offers.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Image: Tim Peacock, CC 2.0
+
+Summary: Unlike first and third-party data, second-party data is shared between companies on a mutually beneficial basis.
+Currently, data suppliers are beginning to streamline the process of second-party data sharing.
+Unlike first and third-party data, second-party data allows companies to gain access to unique data regarding their customers’ actions based on the first-party data collected by their data partners.
+Second-party data is exclusiveKeep in mind that second-party data is simply someone else’s first-party data.
+However, second-party data is expected to grow in the coming years and businesses are sure to overcome these challenges due to the big benefits that second-party data sharing offers.
+
+Other Blogs by Rachel Wolfson: https://dataconomy.com/author/r-wolfson/

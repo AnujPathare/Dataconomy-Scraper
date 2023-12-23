@@ -1,0 +1,46 @@
+Title: Amazon Kinesis vs. Apache Kafka For Big Data Analysis
+
+Article Link: https://dataconomy.com/2017/05/26/kinesis-kafka-big-data-analysis/
+
+Author: Christopher Low
+
+Publish Date: 2017-05-26
+
+Article:
+Data processing today is done in form of pipelines which include various steps like aggregation, sanitization, filtering and finally generating insights by applying various statistical models. Amazon Kinesis is a platform to build pipelines for streaming data at the scale of terabytes per hour. Parts of the Kinesis platform are a direct competitor to the Apache Kafka project for Big Data Analysis. The platform is divided into three separate products: Firehose, Streams, and Analytics. All three of these solve different problems, as discussed below:
+
+How to load huge amount of data into the pipeline?
+
+This problem is solved by Firehose. It is the entrypoint of the data into the AWS ecosystem. Kafka does not have an equivalent to Firehose. This product is more specific to Amazon’s other offerings. Firehose can load the incoming data from various different sources, buffer it into larger chunks and forward it to other AWS services like S3, Redshift, Lambda. Firehose solves the problems with backpressure. Backpressure arises when the input buffer of a service is not able to keep up with the output buffer of another service that feeds data into it. Firehose automatically scales up or down to match the its throughput with the data it has to work with. It can also batch, compress and encrypt the data before feeding it into other AWS services. Amazon recently added several other types of data transformations to the pipeline that work before the data is loaded.
+
+How to direct live input streams into the pipeline?
+
+Amazon Kinesis Streams is very similar to Kafka in that it is built to work with live input streams. It stores the streams that are sent to it and the streams can then be utilised by custom applications written using the Kinesis Client Library.
+
+Kafka “topics” are roughly equivalent to Kinesis Streams. Both represent an ordered and immutable list of messages. Each message has a unique identifier and it appended to the list as it arrives. Kafka messages can be retrieved from the last known message onwards using an offset. To get the same functionality in Kinesis, the user has to build it themselves using the API and message sequence numbers.
+
+Topics in Kafka consist of one or more partitions, which are similar to the concept of shards in Kinesis Streams. Kafka is scaled by looking out for hot partitions and adding/removing partitions as needed. Kinesis Streams are scaled by splitting/joining shards. Kafka being a hosted service has some extra overhead in terms of managing the clusters, setting up monitoring, alerting, updating the packages, tuning and failover management as compared to Kinesis. But the actual cost estimations depend on other factors like expected payload size, flow density and retention period. Kafka can be fine tuned to have less than 1 second latencies while Kinesis Streams typically have 1-3 seconds latency. Kinesis Streams are better suited when the payload size is more and the throughput is high, while latencies do not matter much.
+
+Kafka provides durability by replicating over multiple broker nodes while Kinesis Streams do it by replicating the data over multiple zones. The user is not required to configure the replication strategy with Amazon’s offering, so they can focus more on the Big Data Analysis part.
+
+A good use case for streaming data is analyzing clickstreams on websites and giving realtime recommendations based on the insights gained. Streams are very useful in financial trading as well. Fintech requires very high throughput data processing capabilities that can generate insights to find patterns and exceptions on the flight. This can be used to make automated trading systems that work using realtime data to make decisions. Financial models rely upon the analysis of previous data and Streams lets the user update their models as and when the data comes. This minute analysis is also required for generating realtime dashboards to monitor activity and uptime of critical services in various businesses. Streams are also useful in realtime billing and metrics systems operating at scales where account for individual unit consumption is not feasible. Anomalies can be easily spotted in this way.
+
+But what about sending the data to Streams? Kinesis Streams can take in input data from thousands of endpoints all at once. The concept of producers is the same as in Kafka, although the implementation has differences.The producer accepts records from higher level applications, performs batching, breaks records as per partition/shard and forwards those to Kinesis Streams or Kafka. Some organization might require more fine grained control over the data producer. In that case a data aggregator like Segment can be used to pull in data from various services like mobile apps and web apps using the Mixpanel integration and pre-process it to send it ahead. Segment has an Amazon Kinesis plugin, and a Heroku Kafka plugin for this specific use case.
+
+How to cherry-pick data from the pipeline (and obtain long-running queries)?
+
+Kafka sits at the ingestion stage of the data processing pipeline and does not have in-built analytics abilities. Amazon analytics uses the input data from Firehose (loaded data is injected) or from Streams (data is injected as and when it arrives). SQL queries can be run against these data sources to filter out the relevant data. This data can be further processed using an AWS service like Lambda and the generated insights can further be routed to other AWS services like DynamoDB for storage and to services like Slack for notifications. Analytics supports streaming queries, so you get data output in realtime instead of waiting for the job to finish and the result pushed in bulk as in traditional SQL queries.
+
+Pipeline based data processing is becoming the norm in big data analysis. Because of the modular design of pipeline based systems, additional processing points can be easily added to the same pipeline or in parallel processing units to form non-linear pipelines. Ingestion systems like Kinesis Streams and Kafka provide a layer of asynchronous data flow between the producers and the consumers. Kinesis Firehose helps buffer and inject huge amounts of data into the systems and finally Kinesis Analytics is used to draw insights. Choosing Kinesis Streams or Kafka is an important decision and depends on matching the desired metrics of a system.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Parts of the Kinesis platform are a direct competitor to the Apache Kafka project for Big Data Analysis.
+Amazon Kinesis Streams is very similar to Kafka in that it is built to work with live input streams.
+Amazon analytics uses the input data from Firehose (loaded data is injected) or from Streams (data is injected as and when it arrives).
+Pipeline based data processing is becoming the norm in big data analysis.
+Ingestion systems like Kinesis Streams and Kafka provide a layer of asynchronous data flow between the producers and the consumers.
+
+Other Blogs by Christopher Low: https://dataconomy.com/author/chris-low/

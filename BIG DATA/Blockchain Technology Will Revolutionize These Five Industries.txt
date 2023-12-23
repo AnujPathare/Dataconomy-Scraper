@@ -1,0 +1,60 @@
+Title: Blockchain Technology Will Revolutionize These Five Industries
+
+Article Link: https://dataconomy.com/2018/08/14/blockchain-technology-will-revolutionize-these-five-industries/
+
+Author: Ryan Ayers
+
+Publish Date: 2018-08-14
+
+Article:
+Analysts forecast that bitcoin will achieve a total value of $1.2 trillion towards the end of 2018. However, forward-thinking individuals see the value of blockchain beyond its original application for digital currency transactions
+
+You’ve probably heard about blockchain technology through cryptocurrency, but did you know that blockchain technology is expected to revolutionize industries like real estate, transportation and even social justice?
+
+Blockchain technology may have been made for bitcoin, but its potential to make transactions more secure is one of the most exciting possibilities for using this powerful technology. Innovation is most commonly known as the underlying algorithm of cryptocurrency. One day, businesses in every industry may use blockchain to record and verify every transaction. The decentralized characteristic of the utility makes it an appealing business resource, and enterprises covet the transparency and finality the digital recordkeeping application.
+
+Blockchain Can Increase Trust and Accountability
+
+Privacy issues are a concern for every American. With most businesses in the United States keeping their records and transactions mostly online, Americans have begun to become jaded as data breaches hit the news. While blockchain technology can’t prevent all data theft and cybercrime, it could help make transactions more secure, improving trust in businesses’ ability to protect consumer data. With cybercrime on the rise, the technology has arrived just in time. The first applications that will give way to blockchain are the most insecure transaction methods. From all of the disruption I’ve seen already in various industries, I believe that blockchain technology is a viable resource for any industry or field that conducts transactions.
+
+Here are the five industries, institutions and fields that will experience the most exciting disruption due to blockchain technology in the near future.
+
+The Finance Industry
+
+Governments and large corporations are researching blockchain technology closely to unearth ways to utilize the resource. The finance industry is investigating blockchain intensely since fraud is a huge problem for banks and other financial organizations. Finance executives believe that the technology is a potentially ideal solution for security when transferring money from one account to another—always the most vulnerable point in any transaction. Blockchain may disrupt not only the field of digital security but also that of logistics and other fields across many industries. Cryptocurrency has also made its way into the crowdfunding and investment markets and led to the birth of crypto exchanges such as Okcoin, Poloniex and ShapeShift. This shift has not only opened up a number of new opportunities for individuals to invest, but also has created new job opportunities such as a crypto-investment banker. Although new, projections say that this position can expect to make as much as traditional investment bankers who have a median salary of approximately $81,339.
+
+Another new feature brought on by blockchain tech is that investors can now buy into initial coin offerings (ICOs) in the same way that they buy into initial public offerings (IPOs). This is reshaping the investment world by eliminating geographical boundaries and speeding up the investment transaction process.
+
+Social Justice
+
+Enterprises and agencies could potentially use blockchain technology to securely record and verify inventories, monitor resources and redistribute assets. Via these means, the technology can pave the way toward a sharing economy. Inequality, income disparities and consistent income are serious problems in modern capitalist societies around the globe, and new technologies threaten to enhance these problems. Blockchain is a resource that can empower a sharing economy, and it can potentially accelerate the process of ensuring full inclusion in economic prosperity, rather than contribute to conditions that promote inequality and conflicts.
+
+American Energy Grids
+
+Energy grids in the United States are deteriorating and outdated. Today’s energy networks are vulnerable to elements such as natural disasters and climate changes. Many researchers are working on solutions to replace the outmoded system, and some believe that blockchain will provide the answer.
+
+In Brooklyn, New York and other municipalities, participants in an energy experiment collect power using solar panels and exchange it using computerized “smart contracts.” The participants also install smart power meters as a part of the project. They use blockchain to secure and verify all transactions sans utility companies or any other third-party, saving on costs and increasing efficiency.
+
+Blockchain technology could also help to fend off attacks from more than just Mother Nature. In 2018, information came to light that Russian hackers were able to gain access to United States electric grids, giving them the ability to cut off and control power. With our massive dependency on electricity, potential attacks could cause mayhem and economic damage. More secure networks, like those offered by the blockchain, could reduce the likelihood that hackers would be able to gain access to American energy grids.
+
+The Real Estate Field
+
+The real estate industry exemplifies the disruptive potential of blockchain technology. The transfer of real property is a complicated and extensive process, but blockchain technology can potentially allow property buyers and sellers to transfer property rights instantaneously. Sellers could use the technology to securely transfer titles and deeds to new owners, and buyers could pay for the transactions via cryptocurrency. Stakeholders could also use blockchain to send property information to the appropriate government agencies.
+
+Closing costs are a big expense for homeowners and buyers alike. While blockchain technology won’t cut out commissions and related expenses, a simpler buying process could potentially reduce the cost and hassle of buying a home, making it more realistic for young people to get into the real estate market.
+
+The Transportation Industry
+
+Researchers imagine a future where blockchain and the Internet of Things (IoT) combine to make smart cities a reality. Municipalities could connect sensors for street signs, traffic lights, vehicles and other items to the IoT, enabling the rerouting of traffic for maximum efficiency. Scientists hope that by using blockchain in this manner they can reduce commute times, traffic congestion and vehicle emissions. The blockchain technology can also provide potential conveniences such as vehicle parking and be charging location and payment; traffic ticket payment; and accident and maintenance monitoring services.
+
+Final Thoughts
+
+Analysts forecast that bitcoin will achieve a total value of $1.2 trillion towards the end of 2018. However, forward-thinking individuals see the value of blockchain beyond its original application for digital currency transactions. Bitcoin took off rapidly as more people brought into the idea of a currency that’s free of government or institutional regulation and valued based on quantifiable, although highly complex, supply and demand. While the excitement about bitcoin is tempering, there’s great interest in its underlying blockchain technology. It’s hard to not see the value in cutting out middlemen, increasing security and saving precious time and expenses.
+
+Summary: However, forward-thinking individuals see the value of blockchain beyond its original application for digital currency transactionsYou’ve probably heard about blockchain technology through cryptocurrency, but did you know that blockchain technology is expected to revolutionize industries like real estate, transportation and even social justice?
+Here are the five industries, institutions and fields that will experience the most exciting disruption due to blockchain technology in the near future.
+The Finance IndustryGovernments and large corporations are researching blockchain technology closely to unearth ways to utilize the resource.
+Social JusticeEnterprises and agencies could potentially use blockchain technology to securely record and verify inventories, monitor resources and redistribute assets.
+Blockchain technology could also help to fend off attacks from more than just Mother Nature.
+
+Other Blogs by Ryan Ayers: https://dataconomy.com/author/ryan-ayers/

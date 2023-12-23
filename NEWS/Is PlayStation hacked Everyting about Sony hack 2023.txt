@@ -1,0 +1,56 @@
+Title: Is PlayStation hacked? Everyting about Sony hack 2023
+
+Article Link: https://dataconomy.com/2023/09/26/playstation-hacked-sony-hack-2023/
+
+Author: Onur Demirkol
+
+Publish Date: 2023-09-26
+
+Article:
+Is PlayStation hacked? That is what most of the news site says. Let’s take a deeper look at the Sony hack 2023 and tell you if your information is in danger or in good hands!
+
+A new player has emerged on the dark web, claiming to have breached the formidable defenses of Sony’s gaming empire. Is that really true, though? This latest intrusion comes in the form of a ransomware attack, signaling a troubling development in the ongoing battle to safeguard sensitive digital assets.
+
+Latest from the Sony data breach 2023: Even Sony doesn’t know whether they have been breached or not for now, but the investigation started
+
+Sony Hack 2023: PlayStation hacked
+
+On September 25, we received word through Australian cybersecurity publication Cyber Security Connect that Sony found itself in the crosshairs of a relatively new group known as Ransomed.vc. This group, despite its recent inception in September, has raised eyebrows due to its suspected connections with previous dark web forums and hacking collectives.
+
+According to the report, the breach exposed a treasure trove of Sony’s internal data. Screenshots of Sony’s internal login page, an internal PowerPoint presentation divulging test bench details, numerous Java files, and a document repository containing over 6,000 files were laid bare.
+
+“We have successfully compromissed [sic] all of sony systems. We won’t ransom them! we will sell the data. due to sony not wanting to pay. DATA IS FOR SALE. WE ARE SELLING IT,” the group said.
+
+Among these files lies a wealth of documentation, including mysterious “build log files,” a multitude of Java resources, and HTML data, with many documents penned in Japanese. The motive behind this breach remains shrouded in uncertainty, as Ransomed.vc has yet to disclose its asking price for the pilfered data. However, the group did provide Sony with contact details and set a “post date” for September 28, hinting at a potential data dump.
+
+The vx-underground X account, which has been analyzing malware source codes for years, shared the following about the case:
+
+Because nerds keep asking us about alleged Sony ransomware incident tl;dr Threat Actors did not deploy ransomware, no corporate data was stolen, services not impacted. Data was exfiltrated from Jenkins, SVN, SonarQube, and Creator Cloud Development. They're extorting Sony — vx-underground (@vxunderground) September 25, 2023
+
+Sony PlayStation data breach 2023
+
+What makes this intrusion intriguing is Ransomed.vc’s dual identity as a ransomware operator and a ransomware-as-a-service organization. Not only does the group carry out high-profile hacks on major corporations, but it also reportedly collaborates with the European Union’s General Data Protection and Regulation (GDPR) framework and other data privacy laws to identify vulnerabilities in company systems and instances of legal non-compliance. As Cyber Security Connect reports, this leveraging of legal mechanisms may be a method to coerce victims into compliance, casting a shadow of uncertainty over the future of cybersecurity.
+
+Sony, for its part, has remained tight-lipped regarding the breach and the extent of Ransomed.vc’s impact on the company’s operations. While the scale of this breach may not immediately evoke memories of the massive 2011 PlayStation Network hack, where 77 million registered accounts were compromised, it serves as a stark reminder that a breach, no matter the size, is a serious matter. With this latest threat looming, the hope is that Sony can swiftly reinforce its defenses to safeguard its digital empire.
+
+PlayStation hacked, and not for the first time
+
+Sony’s run-in with Ransomed.vc isn’t a one-time thing. It brings back memories of a similar problem they had in 2011 when their PlayStation Network (PSN) got attacked. Back then, things were much worse. Around 77 million user accounts were compromised, and it paralyzed the online part of PlayStation. Sony had to explain themselves to the U.S. Congress and spend years giving out free games and money to make things right.
+
+Comparatively, this recent breach with Ransomed.vc seems smaller, involving less than 6,000 files. But it’s essential to remember that any breach is a big deal. Sony needs to be on high alert in today’s ever-changing digital world.
+
+Is PlayStation hacked? If you haven’t read the article an adjust scrolled down, bad news: yes, the Sony hack 2023 is believed to be real.
+
+Who is Ransomed.vc?
+
+According to Techbriefly, Ransomed.vc serves as both a ransomware operator and a provider of ransomware as a service. In their advertising, they describe themselves as a “secure solution for addressing data security vulnerabilities within companies” and place a strong emphasis on adhering to GDPR and data privacy laws. They promise to report any violations of the GDPR to the agency and have a firm position against non-payment.
+
+Featured image credit: Triyansh Gill/Unsplash
+
+Summary: Let’s take a deeper look at the Sony hack 2023 and tell you if your information is in danger or in good hands!
+Latest from the Sony data breach 2023: Even Sony doesn’t know whether they have been breached or not for now, but the investigation startedSony Hack 2023: PlayStation hackedOn September 25, we received word through Australian cybersecurity publication Cyber Security Connect that Sony found itself in the crosshairs of a relatively new group known as Ransomed.vc.
+They're extorting Sony — vx-underground (@vxunderground) September 25, 2023Sony PlayStation data breach 2023What makes this intrusion intriguing is Ransomed.vc’s dual identity as a ransomware operator and a ransomware-as-a-service organization.
+PlayStation hacked, and not for the first timeSony’s run-in with Ransomed.vc isn’t a one-time thing.
+If you haven’t read the article an adjust scrolled down, bad news: yes, the Sony hack 2023 is believed to be real.
+
+Other Blogs by Onur Demirkol: https://dataconomy.com/author/onurdemirkol/

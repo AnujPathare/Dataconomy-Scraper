@@ -1,0 +1,52 @@
+Title: How to monetize your data in the right way
+
+Article Link: https://dataconomy.com/2018/10/04/how-to-monetize-your-data-in-the-right-way/
+
+Author: Pavel Bains
+
+Publish Date: 2018-10-04
+
+Article:
+In the face of overwhelming evidence, consumers can no longer ignore the fact that major tech and social media companies engage in mass data harvesting and the selling of user information to third parties – one need only look to the recent Cambridge Analytica scandal (which impacted not only the users of a given app but their Facebook friends, too). The old adage stands – if it’s free, you are the product.
+
+It’s a paradigm many have gotten used to over the past decade. The question is, are users getting value for their money? Given the fact that some of these companies are now sitting on piles of cash with billion-dollar valuations, it certainly seems that users have gotten the worse deal (Facebook’s Q1 reports indicate advertising revenue of almost $12 billion, while Alphabet, Google’s parent company, made over $26 billion). This is before factoring in the risks associated with security and data privacy which have come to light with the proliferation of data breaches (few will forget the Equifax breach of 2017 anytime soon, or the disastrous consequences following).
+
+It’s a difficult dilemma to defuse. On one hand, recent events have served as a wake-up call, to an extent, and individuals are increasingly wary of the seemingly nonchalant approach to the storage of their sensitive information. On the other, social media platforms and the likes have become an essential way of interacting with friends, family and even managing business communications.
+
+It’s clear that data is the new oil that fuels the economy. This fact isn’t going to change anytime soon. What can be changed, however, is the way in which that data is stored, protected, and monetized. It’s crucial to the long-term viability of the burgeoning data economy that individuals maintain complete control over their own data.
+
+The Value of Your Data
+
+The figures referenced above regarding the revenue brought in by tech giants from advertising are staggering. It’s no secret that these sums are built on the arbitrage of vast amounts of personal and behavioural data. That these companies can make so much from their users should prompt a new consideration: how much should individuals whose data is being used be entitled to?
+
+Calculations of the exact figure vary hugely, ranging from as little as $0.20 to over $240 per year. Wherever the actual amount lands on the spectrum, it must be remembered that the figure would only reflect its value in the existing infrastructure. As a new data economy, based on blockchain and decentralized technologies gains ground, new business models for data syndication will emerge.
+
+Worth noting also is that the financial value of data should by no means be the only metric by which to assess its importance. After all, was a lack of financial reward behind people’s anger with Cambridge Analytica’s use of Facebook data?
+
+The idea of a multi-faceted approach to measuring the value of data should be adopted sooner rather than later, given the aforementioned risks concerning data breaches. The Equifax failure saw the data of 143 million people syphoned by hackers. Once again, this was a case of individuals being concerned about the ammo malicious actors now have, versus lack of financial compensation they would have been entitled to if the data was shared consensually.
+
+The Starting Point: Data Privacy
+
+In considering the best way to ensure individuals can monetize their own data correctly, it’s wise to first consider how it’s currently stored, and who it’s controlled by. As mentioned, blockchain and decentralized technologies will play a crucial role in the new infrastructure, with decentralized data storage bringing vastly increased levels of security and privacy to the new data economy.
+
+The original, single system database model that the internet was built on has several sources of failure and a concerning lack of privacy. The current, centralised, cloud model mitigates the points of failure, to an extent, but still provides no privacy, as a string of high profile data breaches has shown.
+
+Decentralised database storage not only eliminates points of failure, it also provides the highest levels of privacy and can scale efficiently. For personal data storage, that means a public/private key infrastructure that gives individuals full control over the lifecycle of their data, including where it is being used, for how long, any updates to it and its removal from any applications using it.
+
+Such a change in the way personal data is stored and controlled could transform the possibilities of how it is utilised in innovative business models within the new data economy.
+
+Data Syndication for Financial Reward
+
+From this foundation of personal data privacy, individuals will be empowered to share their data and receive financial compensation in return. Not only that, such an infrastructure would encourage new models for publishing platforms to be built that remunerate individuals for the part they play.
+
+This system of data syndication and financial reward will be enabled by the token economics that goes hand in hand with decentralised networks. The exchange of digital tokens would not only ensure that individuals do not have to expose their personal data in exchange for services, but also that they could choose to only share specific subsets with specific groups.
+
+To truly understand how to monetize data in the right way, it’s first essential to establish new ways for individuals to control it. Through decentralised database storage, they can take back that control and a new data economy based on responsible curation, storage and dissemination of data between individuals, companies and governments can be bootstrapped.
+
+Summary: It’s crucial to the long-term viability of the burgeoning data economy that individuals maintain complete control over their own data.
+The Starting Point: Data PrivacyIn considering the best way to ensure individuals can monetize their own data correctly, it’s wise to first consider how it’s currently stored, and who it’s controlled by.
+Such a change in the way personal data is stored and controlled could transform the possibilities of how it is utilised in innovative business models within the new data economy.
+Data Syndication for Financial RewardFrom this foundation of personal data privacy, individuals will be empowered to share their data and receive financial compensation in return.
+To truly understand how to monetize data in the right way, it’s first essential to establish new ways for individuals to control it.
+
+Other Blogs by Pavel Bains: https://dataconomy.com/author/pavel-bains/

@@ -1,0 +1,98 @@
+Title: Not All Pregnancies Count: The Data Gap on Maternal Health and Jails
+
+Article Link: https://dataconomy.com/2019/10/31/not-all-pregnancies-count-the-data-gap-on-maternal-health-and-jails/
+
+Author: Ryan Ayers
+
+Publish Date: 2019-10-31
+
+Article:
+Data Science is a remarkable field that enables researchers to improve the quality of life for humanity. However, officials have failed to use the technology to benefit one of the nation’s most at-risk groups – incarcerated women.
+
+Researchers are taking a closer look at typically overlooked jailhouse pregnancies in a nation with an already excessive maternal mortality rate. In our highly technologically advanced society, there are nearly six infant deaths for every 1000 births, according to the Centers for Disease Control and Prevention.
+
+The United States penal system holds nearly 120,000 women – a sevenfold increase compared to 1980. U.S. officials incarcerate a growing number of women each year. However, studies show that officials too often overlook the health outcomes of pregnant female inmates.
+
+There’s no definitive information regarding the number of pregnant inmates or the outcomes of their pregnancies. However, reports have emerged of mothers giving birth in their cells or while shackled the hospital beds.
+
+Even with advanced Data Science and research collection tools, why don’t we don’t have technology in place to record data for the benefit one of the nation’s most at-risk groups?
+
+Maternity Risks in the United States
+
+The Centers for Disease Control and Prevention (CDC) reports nearly 4 million births in the US in 2016. Among women 15 to 44, there were 62 births for every thousand women. A little over 8% of children were born underweight, and nearly 10% were early arrivals.
+
+A Psychiatry Journal entry says that a stressful pregnancy contributes to poor health outcomes for mothers and children. Anxiety also leads to short gestation and impairs fetal brain development outcomes, according to an Obstetric Medicine entry. The same study reports that a mother’s depression and chronic strain can contribute to low birth weight for newborns.
+
+Another study published in Science Daily examined maternal stress before and after pregnancy. The research showed that negative influences contribute to long-lasting poor health outcomes for newborns.
+
+For incarcerated women, these risk factors are overlooked even though they are more relevant.
+
+A Small Step in the Right Direction
+
+For the first time, researchers have attempted to complete a comprehensive study of pregnancy among incarcerated women. During their investigation, Johns Hopkins Medicine researchers discovered that federal prisons received nearly 1,400 pregnant women in 22 states in a single year. 90% of those pregnancies resulted in live births.
+
+The researchers expressed that U.S. prisons do not track pregnancy statistics, even though most incarcerated women are of reproductive age.
+
+To date, there are no standards for prenatal pregnancy care for female prisoners in the United States. Johns Hopkins scientists hope that their study is a pivotal step in establishing guidelines for monitoring and improving the maternity care standards of the U.S. women’s penal system.
+
+During the study, more than half of the 1,400 pregnancies resulted in live births. 46%, however, ended in miscarriages, 11% ended in abortion and 4% percent ended in stillbirth. In total, there were three infant deaths and no maternal mortalities. Among non-incarcerated women, however, there are over 700 annual maternal deaths.
+
+The researchers expressed that the study resulted in data that will help to create a better understanding of the maternity needs of female prisoners. The resulting information may also inform policies regarding alternatives to incarceration for pregnant women.
+
+The Importance of Evaluating Institutional Pregnancies
+
+According to Dr. Margrét Vilborg Bjarnadóttir, Assistant Professor of Management Science and Statistics at the University of Maryland Robert H. Smith School of Business, collecting data and analyzing it is key to appropriate resource allocations, and the maternity services in the U.S. prisons are no different.
+
+“Data allows you to understand the magnitude of services needed and – more importantly – by collecting data on outcomes, the health of both mother and the newborn, best practices could be identified and applied across the system.”
+
+A recent study conducted by doctors Jennifer Bronson and Carolyn Sufrin sheds more light on the data gap regarding studies of institutional pregnancy outcomes.
+
+According to the report developed by Bronson and Sufrin, there’s sparse data regarding the pregnancy outcomes of incarcerated women. However, this information is critical for meeting inmates’ maternity needs.
+
+Reports the researchers, existing data about pregnancy during incarceration is outdated, and what’s available is limited in scope.
+
+The last review of the matter by the American Correctional Association was in 1998. The U.S. Justice Department, Bureau of Justice Statistics visited the issue in 2002, and the department hasn’t updated its statistics since 2004.
+
+Also, the studies do not indicate how or when study subjects became impregnated, further limiting the efficacy of the research. Furthermore, many existing studies do not include women who are in jail.
+
+Finally, the terms jail and prison are often used interchangeably, although they are two different types of facilities. This lack of clarity further skews the outcomes of studies because they don’t accurately represent all women in the nation’s penal system.
+
+Physicians Speak Out About the Problem
+
+The American Academy of Family Physicians (AFFP) recently reaffirmed its commitment to improving health outcomes for constituents. In the statement, the AFFP expressed its intent to provide quality healthcare services for vulnerable consumers, including:
+
+· Immigration detainees
+
+· Incarcerated persons
+
+· Long-term care patients
+
+· Mental health patients
+
+· Substance abuse patients
+
+These groups, express representatives, typically receive inadequate care before, during and after institutionalization.
+
+Substandard care further places vulnerable populations at risk. The AFFP supports policies to lessen disparities, such as improved access to addiction services, maternity care and mental health treatment.
+
+Academy representatives convey that institutionalization in itself is detrimental to health. Accordingly, the group advocates for the reduction of sentences for non-violent crimes, drug offenders and asylum-seekers.
+
+The AFFP also supports interventions that may improve health outcomes for incarcerated persons, such as enhanced medical services and discharge care coordination.
+
+The scientists who conducted the Johns Hopkins study cautioned that their research was limited. For example, the study didn’t consider the stage of women’s pregnancy at intake, facility size, facility testing policies, birthing facilities and prison living conditions. These factors, remark the researchers, may all contribute to variable outcomes.
+
+Additionally, the researchers expressed that their study excluded 28 states, including three large states which declined participation – California, Florida and New York.
+
+In the future, Johns Hopkins researchers want to gather more information about the experiences of pregnant women who enter the United States penal system. They hope that their findings will improve the quality of care for expecting incarcerated women.
+
+The CDC does collect information regarding mortality events. However, the agency excludes incarcerated women from the studies. Until more is done to ensure data equity for incarcerated women, the group will fail to benefit from the same medical advancements enjoyed by others in society.
+
+
+
+Summary: However, officials have failed to use the technology to benefit one of the nation’s most at-risk groups – incarcerated women.
+A Psychiatry Journal entry says that a stressful pregnancy contributes to poor health outcomes for mothers and children.
+The research showed that negative influences contribute to long-lasting poor health outcomes for newborns.
+According to the report developed by Bronson and Sufrin, there’s sparse data regarding the pregnancy outcomes of incarcerated women.
+Physicians Speak Out About the ProblemThe American Academy of Family Physicians (AFFP) recently reaffirmed its commitment to improving health outcomes for constituents.
+
+Other Blogs by Ryan Ayers: https://dataconomy.com/author/ryan-ayers/

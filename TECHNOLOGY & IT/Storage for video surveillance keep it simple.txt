@@ -1,0 +1,172 @@
+Title: Storage for video surveillance: keep it simple
+
+Article Link: https://dataconomy.com/2021/08/31/storage-video-surveillance-keep-it-simple/
+
+Author: Editorial Team
+
+Publish Date: 2021-08-31
+
+Article:
+This year a significant event will take place: somewhere in the world, the billionth CCTV camera will be installed. This means that a camera already monitors every seventh person on the planet. And in some cities, more than a million cameras are already in use, making the ratio even more impressive.
+
+That’s a great deal of surveillance. But cameras are used for more than just security. They also help businesses ensure quality control of processes, improve logistics, get better product placement, recognize privileged customers the moment they enter the sales area, and so on.
+
+RAIDIX sees the usage of video analytics tools for enterprise tasks as an appealing challenge, so they have developed a line of solutions based on:
+
+scalable video archive with zero point of failure architecture and the most reliable RAID in the industry;
+
+high-performance storage system, which will significantly increase the speed of training models;
+
+high-performance solutions for edge infrastructures;
+
+mini-hyperconverged solution.
+
+RAIDIX offers three types of solutions that can be used in high-performance infrastructures:
+
+centralized solution based on high-performance RAIDIX ERA engine, NVMe drives and high-performance network from NVIDIA:
+
+AFA based on AIC HA202-PV platform
+
+AFA based on Supermicro server platform and Western Digital EBOF
+
+a centralized solution for creating video archives that provide the highest access speed and availability of large amounts of data:
+
+A basic scheme of a video archive
+
+Data Storage System based on Supermicro server platform and Western Digital EBOF
+
+RAIDIX ERA-based solution for edge infrastructures:
+
+mini-hyperconverged platform for smaller projects:
+
+Below there is a closer look at implementing a video archive in modern installations.
+
+Industry Challenges and Storage Requirements
+
+Video surveillance projects face new challenges at the data storage level. These are not only large requirements for bandwidth and storage capacity but there are also changes in the type of load on the storage system.
+
+Now, most of the workload falls on these tasks and processes:
+
+continuous random write operations from multiple cameras and video servers;
+
+unpredictable random read operations of the video archive on demand;
+
+high transactional load on databases;
+
+high-speed work with memory for analytics.
+
+In addition to managing the variety and intensity of these storage workloads, scalability is critical to accommodating new cameras and continually increasing resolutions. Also, to meet the growing needs of video surveillance, companies need high-performance, reliable, and efficient storage systems.
+
+Solution: NAS and…?
+
+Large video surveillance projects go well beyond network video recorders and storage on video surveillance servers.
+
+Modern VSS requires an enterprise-grade infrastructure with separate servers and storage units. The layered approach allows for increased processing power, faster I / O processing, and increased throughput and capacity.
+
+
+
+With these requirements in mind, enterprise storage systems are dominated by two architectures:
+
+NAS: stores data as files and presents these files to the application as a network folder;
+
+SAN: looks like local storage, allowing the operating system to manage the disk.
+
+In the context of video surveillance applications, these two approaches are polar.
+
+Recently, SAN has become the preferred option for enterprise VSS. Sure, NAS technology does a good job for many tasks, but multi-camera, database, and analytics recording workloads require performance that requires a direct connection or SAN approach. IHS forecasts show that the SAN market will grow by more than 15% in 2020-2022, while the NAS segment’s annual growth will drop from 5% to about 2%.
+
+For this reason, video surveillance software vendors recommend local or SAN-attached storage.
+
+Also, many video surveillance projects operate in virtual environments. In these cases, each virtual video surveillance server requires high-performance storage not only for its video content, but also for the operating system, applications, and databases.
+
+Make it VSS (Viable Simple Storage)
+
+Clearly, both SAN and NAS are easy to use, and the deployment steps applying to them are almost the same since both architectures may require Ethernet-based connectivity (although SANs can use other media such as FC) so that files and directories can be accessed from multiple systems. These solutions should use file locking to prevent multiple systems from modifying files at the same time.
+
+Since many video surveillance systems do not require common video sharing, all this file locking and the complexity of the shared file system is unnecessary overhead that limits performance and adds complexity to maintenance and protection.
+
+Deduplication and compression, also offered by many NAS and SAN systems, are unnecessary for video surveillance solutions. Choosing a solution with these features incurs additional costs for unused technologies. These useless features built into the software negatively impact overall performance and require maintenance to ensure safety and reliability.
+
+Storing data at different levels can be useful when deploying video surveillance. However, video surveillance software already knows how to manage this, as it can create separate storage for databases, real-time recording, and archives. As long as the data is managed by video surveillance software, there is no need for storage in the storage system to move data between tiers dynamically. Consequently, data tiering or automated management is not required as a storage function and also increases risks and complexity.
+
+Why SAN is effective
+
+Most scalable file systems require multiple servers for their functioning. Solutions with multiple servers, in their turn, require an internal network, which can create the following problems:
+
+Each write operation creates a series of data transfers over the internal network, which limits performance;
+
+peer-to-peer connections create more potential points of failure, which can make it harder to increase storage or replace equipment;
+
+while achieving the same redundancy levels as the SAN, scalable file systems provide less bandwidth.
+
+SAN solutions for VSS are also offered by RAIDIX. These solutions are based on software RAID, capable of performing checksum calculations faster than any similar solution in the industry. Also, RAIDIX supports various SAN protocols (iSCSI, FC, iSER, SRP), which help to achieve a number of goals:
+
+providing high bandwidth (up to 22GB / s) to work with thousands of high-resolution cameras that can be connected through dozens of video servers;
+
+cost-effective maintenance with an increase in the number of cameras and in archive depth: due to the use of proprietary RAID-array technologies, fewer disks are required to obtain the required storage volume and performance;
+
+vertical scalability up to 11PB per storage system due to the ability to work with large RAID groups of up to 64 disks and provide failover for two or more disks (when using RAID 7.3 / N + M), as well as combining these groups into a single volume;
+
+high reliability of data storage when using RAID 7.3 or RAID N + M, the most fault-tolerant RAID-arrays on the market, which makes possible the use of large disks (up to 18-20TB) without compromising data safety. With an increase in the volume of disks and their number in a RAID array, the likelihood of data loss increases sharply, as the reliability of the disks decreases as well. So, the probability of data loss for RAID6 of 24 18TB disks after one year in operation is 1%, while for RAID 7.3 it is only 0.001%;
+
+stability of operation during sudden increases in workload due to sufficient performance headroom, even in situations where drive failure coincides with peaks of intensive work of the video surveillance system. This is achieved thanks to unique technologies of proactive and partial reconstruction;
+
+the high performance of RAIDIX storage system does not limit the capabilities of analytical software for video surveillance. Face recognition, motion capture, and other video analytics functions will work without downtime and with minimal latency;
+
+the possibility of using the obtained video surveillance data simultaneously not only in security tasks, but also in business tasks for carrying out various analytics. It does not require additional copying operations to analytical systems, while the use of smart prioritization due to QoSmic technology allows users to avoid the influence of additional storage tasks on the main recording function;
+
+building an enterprise-level architecture without a single point of failure: RAIDIX 5.X supports dual-controller operation with possible replication to remote systems.
+
+Where to start choosing an archive storage system?
+
+When calculating and selecting an archived data storage system, the following parameters should be considered:
+
+type of cameras and their number;
+
+archive depth in days;
+
+additional retention requirements (if any);
+
+the intensity of movement in the frame, its distribution over the time of day or depending on events;
+
+type of network infrastructure, its need for updates;
+
+how the video analytics software is deployed;
+
+whether it is required to use the resources of cloud infrastructures;
+
+when and what kind of upgrade is expected (type and number of cameras, list of services, depth of the archive, etc.)
+
+For a basic calculation, one can use the calculators available at specialized software vendors’ websites. For a more accurate calculation in complex projects, the participation of professionals will be required.
+
+In addition, there are two important points to consider when calculating.
+
+Firstly, calculating desirable characteristics of data storage systems should be carried out with the worst-case scenario in mind: the maximum load in case of failure of storage system components, controllers, and drives. Unfortunately, this is what usually happens in real life: with an increase in the load, physical components begin to fail as their capabilities reach the limit.
+
+Secondly, the volume of drives is gradually increasing, but their performance is still the same, and classic RAIDs simply cannot make it. We need technologies that will ensure the availability of large data volumes over the long term. However, with the mass adaptation of the two actuarial accumulators, this will soon change.
+
+Thus, the elements of a modern video archive are:
+
+large volume drives (16-18TB);
+
+two or more controllers;
+
+high-performance access interfaces (FC> 16GBps, Eth> 10GBps);
+
+controller software that allows easy scaling of the volume without service downtime, makes it possible to survive the failure of multiple drives without losing performance and at least one storage controller, and is also adapted to continuous recording.
+
+Conclusion
+
+The demand for video surveillance projects is steadily growing and entails demand for solutions that create fault-tolerant storage systems. The two main approaches to media storage that the enterprise segment is targeting are NAS and SAN. The second type of configuration seems to be more optimal for video surveillance projects because of its higher performance, the ability to function in different environments, and the use of a large number of servers. For customers looking for high performance and fault tolerance, RAIDIX provides advanced SAN storage solutions based on fast software RAID.
+
+
+
+In general, modern data storage systems provide a great number of options, and the user’s task is to determine what is important and to avoid overpaying and bringing unnecessary loads on the system. For example, video surveillance does not actually require storage tiering or automatic management as a storage function. At the same time, this does not mean that the choice of data storage systems should be a piece of cake: there are about a dozen software and hardware-related factors you should pay attention to. Also, when calculating performance indicators and fault tolerance of future storage systems, one should always focus on the worst possible scenario, which is the maximum load in case of storage system components’ failure.
+
+Summary: Industry Challenges and Storage RequirementsVideo surveillance projects face new challenges at the data storage level.
+Also, to meet the growing needs of video surveillance, companies need high-performance, reliable, and efficient storage systems.
+Large video surveillance projects go well beyond network video recorders and storage on video surveillance servers.
+As long as the data is managed by video surveillance software, there is no need for storage in the storage system to move data between tiers dynamically.
+For example, video surveillance does not actually require storage tiering or automatic management as a storage function.
+
+Other Blogs by Editorial Team: https://dataconomy.com/author/dataconomy/

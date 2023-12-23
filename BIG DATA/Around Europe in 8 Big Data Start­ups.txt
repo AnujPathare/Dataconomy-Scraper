@@ -1,0 +1,66 @@
+Title: Around Europe in 8 Big Data Start­ups
+
+Article Link: https://dataconomy.com/2015/11/18/around-europe-in-8-big-data-start%c2%adups/
+
+Author: Hannah Augur
+
+Publish Date: 2015-11-18
+
+Article:
+Awesome new start-ups are popping up every day and it’s easy to overlook even the coolest, most cutting edge developers—especially when they’re not based in Silicon Valley. Amazing, unexpected projects are popping up all over Europe, and that’s why we’re going to look at some of those newer, local start-ups who are pushing boundaries, finding niches and doing what no one else is. It’s time to support your local start-ups.
+
+UK
+
+Hackajob: recruitment platform that matches you with jobs & challenges you to hack them
+
+Hackajob was founded by three students at King’s College London and everything about their idea screams progress (not to mention “millennial”) in the best possible way. It is no secret that recruiting and job-finding can be a nightmare. A CV and a sample simply do not tell the whole story, and they do neither the employer nor employee justice. Hackajob is a marketplace that connects employers with job-seekers and let’s them do a sort of test-run. Applications involve completing short, job-specific challenges and let’s users show what they’re actually capable of, in real-time. So how did a handful of students manage to take off? A healthy combination of great idea and TechStars London.
+
+Spain
+
+Cropti: SaaS solution for better farm management
+
+While there are countries generally known as start-up hotspots, incredible ideas come from everywhere. One of the biggest surprises are the not just lively, but shockingly creative and practical start-ups that come out of Spain. Cropti is a Madrid-based company that specializes in giving farmers and engineers all the data they could possibly need. Since 2012, farmers in the area have been required to keep highly detailed lists of work performed. Cropti’s first order of business is to make that easy; secondly, it combines all kinds of relevant data—meteorology, biological alerts, costs or market shifts—to help users make better decisions. The ability to share such complex information so quickly means, of course, lower costs and more efficiency. Talk about grass roots movements.
+
+Genomcore: Personal genomics platform
+
+You thought Cropti was niche? Genomcore was created to get consumers all the information they could ever want on their own DNA. Unlike other services, they do a very thorough, complete sequencing of a customer’s genome, lending unparalleled insight into their body and future. The result isn’t just a solid customer base but a lot of data. They must not only deal with storing and analyzing that data, but finding new ways to keep it safe. In slightly over-simplified terms, the size of data stored in a human genome is equivalent to “approximately 2000 copies of the book War and Peace.” The experiments required to properly sequence a genome means even more data. We’re talking 600 gigabytes of data. Genomcore analyses don’t use just big data, they use huge data, and that’s going to be a business all its own.
+
+Finland
+
+Rating.vc: Big data platform for startup analytics
+
+What about the business uses of big data? If this Helsinki-based start-up succeeds, they may make hundreds of websites obsolete. By listening to all kinds of sources—anything from news, to accelerators, to databases—Rating.vc wants to help new start-ups prove their clout, and investors have a more practical way of analyzing prospects. Most importantly, they benchmark given start-ups against others, giving very vital insight into how their company and product might evolve. Judging start-ups can be incredibly time-consuming, and often yield sub-par results. As Rating.vc explains, angel investing is a lot like gambling. The data can be shoddy, and you’re left to rely on your gut or incomplete information. Frankly, the world of investing was made for start-ups like Rating.vc.
+
+Romania
+
+OnyxBeacon: Adding micro-location possibilities to your apps
+
+The Romanian company set out to create hardware and software that let developers hone in on users’ very specific locations. The uses are nearly endless for creative marketers. Such an app could send important, relevant data to customers when and where it is actually relevant. It allows for highly personalized offers and messages. OnyxBeacon is already well on its way to recognition. Winning Best cloud/data application at the CESAwards2015 in Romania, they’ve found a practical, marketable product and gained a strong footing, to boot.
+
+Austria
+
+Waytation: Track 100% of movements in complex physical environments
+
+The idea behind the Vienna-based start-up is not so new. Companies want to understand and target customers efficiently and effectively. They boast not only very easy-to-use tech, but a new way of connecting with customers. They focus on seeing each customer interaction as a puzzle-piece, or a single step in a story. In any given expo, congress, or large gathering of people, there is data to be absorbed with every step and glance. By analyzing data never before thought relevant, Waytation hopes to uncover new insights and marketing methods. The real fun comes in the physical aspect of this data collection. It’s not about what a person click on, but where they go and what they actually do. Analyzing how people participate, for how long, and even route they take through an exhibit could tell powerful, unexpected stories.
+
+Denmark
+
+Macellum: helps fishermen obtain higher profit for their catch
+
+Fair trade, and getting farmers fair wages remains a hot topic. Fishermen, for whatever reason, are not quite as trendy. Macellum’s appropriately-named app “Neptun” operates by communicating to fishermen exactly what their catch is worth. Comparing prices at every port connected to the North Sea, as well as examining fuel and docking costs, it gives a lot of power back to folks who work really hard to get food into towns and cities. Historic data as well as comparative data between market houses means the average fisherman will be a lot more connected and far less subject to external variables. Inspired by the founder’s own father and his experiences, Neptun is a great example of data-based apps can affect even the groups generally not included in the “big data” loop.
+
+France
+
+Running Heroes: Run. Get rewarded
+
+One great use of big data is to connect the online consumer with their offline persona. Paris-based Running Heroes has already gained great traction for discovering one niche that may transform the business side of the fitness industry. The idea is to not only gamify exercise, but to reward users and collect useful data. Users are happy, and companies can gain insight on exactly who their target market it, as well as their highly specific habits. Honestly, here’s hoping Running Heroes and the relevant fitness companies realize just how useful that data is. This offers the incredible chance to connect online data with the offline.
+
+There are, of course, hundreds more start-ups working in more mainstream, and more popular, areas of big data. But the uses for data doesn’t end at big companies. It doesn’t end at the marketing department, and it doesn’t end at the California boarder. Luckily, there are also hundreds more start-ups tackling new problems and finding ways to make life better every day.
+
+Summary: Genomcore analyses don’t use just big data, they use huge data, and that’s going to be a business all its own.
+FinlandRating.vc: Big data platform for startup analyticsWhat about the business uses of big data?
+Such an app could send important, relevant data to customers when and where it is actually relevant.
+Get rewardedOne great use of big data is to connect the online consumer with their offline persona.
+There are, of course, hundreds more start-ups working in more mainstream, and more popular, areas of big data.
+
+Other Blogs by Hannah Augur: https://dataconomy.com/author/hannah-augur/

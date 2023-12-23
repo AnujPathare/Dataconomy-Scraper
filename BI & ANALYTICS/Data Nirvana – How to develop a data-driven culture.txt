@@ -1,0 +1,50 @@
+Title: Data Nirvana – How to develop a data-driven culture
+
+Article Link: https://dataconomy.com/2017/05/29/data-nirvana-develop-data-driven-culture/
+
+Author: Guy Levy-Yurista
+
+Publish Date: 2017-05-29
+
+Article:
+As the creation and consumption of data continues to grow among businesses of all sizes, so does the challenge of analyzing and turning that data into actionable insights. According to IBM, 90 percent of the data in the world today has been created in the last two years, at 2.5 quintillion bytes of data per day When these mounds of data go unused or underused, businesses could be sitting on a goldmine of potential opportunities and solutions that are typically answered through data. But how do companies enable employees to use the data being created and uncover these hidden insights?
+
+To keep pace with the growth of data being produced as well as the acceleration of innovation in the competitive landscape, modern companies are turning to business intelligence (BI) solutions that collect and monitor data to identify patterns and alert users when anomalies and changes occur in their business. This is a great way to address the first part of the data challenge, to assist in the handling of the data collected – but it’s only the tip of the iceberg.
+
+Once companies address data mining, utilization is the next hurdle. A common issue with data utilization is that typically, insights take place within certain departments – creating data silos. Finance, marketing, human resources, etc. are accessing and analyzing only the data they need or create and keeping it on file for their own use. There are a few issues at hand here. One being that each team are duplicating efforts to possibly reach the same end-goal as another, costing the overall business time and money on the back end. But a larger issue is that siloed data creates only a partial view of what’s actually happening within the organization rather than a holistic picture that can be attained by sharing insights with everyone, and generating new insights that ultimately benefit the entire organization.
+
+The sharing of data intelligence across an organization doesn’t only benefit the entire business, but creates a culture of collaboration and uncovers synergies between departments to better reach an end-goal. Creating a data-driven culture can seem daunting and it does take time, education and resources. According to a recent study, only 37 percent of companies have found success in adopting a data-driven culture, even though a majority recognize that this is a requirement in today’s digital era. In a recent Aberdeen survey, 73 percent of respondents indicated that embedded analytics is key to differentiation and competitive advantage to its business. The two go hand-in-hand, in order to truly capture the proven power of BI, you must embed and adapt to a data-driven culture – but how is that done?
+
+It starts at the top
+
+At its core, the true DNA of an organization lies within its founders and executive management – that’s where building a data-driven culture begins as well. Company leaders set an important example in terms of business processes and best practices. The management team should not only ensure that employees feel empowered to pursue data insights, but do it themselves as well.
+
+Implementing something new and complex is often scary and deters adoption, so practicing what you preach at the highest level of business will encourage participation and lead to data-driven decision making for all. Taking it a step further, adopting a data-driven routine into your everyday practices will significantly impact the results and decisions of an organization and show your employees how to do the same.
+
+Additionally, education is paramount when introducing something new to a company – especially something as technical as data analytics. Offering trainings and hands-on use of BI tools and proven scenarios of data implementation will put this new method into perspective and teach employees that numbers don’t have to be scary. This will change the overall mind-set to begin to think differently about data, how to use it and the ultimate value it can bring to your organizational culture.
+
+Empowerment
+
+Once equipped with the tools to do so, employees need to feel empowered to independently mine data and share findings with colleagues without the assistance of IT. A common issue, and in many cases misconception, with data analytics is the feeling that obtaining data insights is a cumbersome activity requiring heavy involvement from IT – particularly with small to medium-size businesses with limited financial and IT resources to dedicate. However, this reality is changing and BI tools are evolving to free-up additional resources and make users more independent than ever to pull the information they need and quickly translate it into business decisions.
+
+It’s important for the executive management to enable, entice and applaud employees for using the data at hand and turning it into actionable insights that benefit the business, such as easing a customer pain-point or identifying an issue before it occurs, through analytics and patterns. As the old saying goes, seeing is believing – and when the larger group sees the fruits of the team’s labor, the data-driven culture becomes infectious.
+
+Share and share alike
+
+Here are where the data siloes come into place. Once employees feel comfortable pulling and playing with data, and seeing the fruits of their labor as outlined above – insights need to be shared across the business in order for a team to truly understand the larger picture. This not only promotes cross-team and departmental collaboration, but brings new data to parts of the business that they ordinarily wouldn’t have visibility into, which might ‘flip a switch’ and answer a question they’ve been pondering too – turning complex data into insights everywhere.
+
+Lastly, data and insights need a central repository to live. This should be easy to find and accessed by all to find the new and legacy data needed in near-real time – data in and data out. When this happens, insights emerge. Implementing technologies such as artificial intelligence and machine learning can help further disseminate insight across the organization automatically – making every employee smarter.
+
+It’s clear that insights gleaned from data are vastly beneficial, providing new answers for innovation and a competitive edge. However, getting to the ultimate goal of data nirvana is no small feat. These steps can provide a good roadmap and best practices which modern companies are using to reach this desired goal.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Creating a data-driven culture can seem daunting and it does take time, education and resources.
+The two go hand-in-hand, in order to truly capture the proven power of BI, you must embed and adapt to a data-driven culture – but how is that done?
+The management team should not only ensure that employees feel empowered to pursue data insights, but do it themselves as well.
+As the old saying goes, seeing is believing – and when the larger group sees the fruits of the team’s labor, the data-driven culture becomes infectious.
+This should be easy to find and accessed by all to find the new and legacy data needed in near-real time – data in and data out.
+
+Other Blogs by Guy Levy-Yurista: https://dataconomy.com/author/guy-levy-yurista/

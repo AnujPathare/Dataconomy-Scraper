@@ -1,0 +1,48 @@
+Title: Indian Government Using Big Data to Revolutionise Democracy
+
+Article Link: https://dataconomy.com/2014/11/27/indian-government-using-big-data-to-revolutionise-democracy/
+
+Author: Eileen McNulty
+
+Publish Date: 2014-11-27
+
+Article:
+Earlier this year, India’s Bharatiya Janata Party (BJP) led a decisive and shocking victory in the Indian elections. Many have speculated that the party’s pioneering use of big data and social media analytics played a decisive role in the BJP’s and Narendra Modi’s success. Now that he’s in power, it would appear Modi’s innovative use of big data is far from over. Yesterday it was announced that the Prime Minster’s Office is using big data analytics to process citizen’s ideas and sentiments through the crowdsourcing platform mygov.in, as well as continuing to mine social media to get a broader picture of citizen’s thoughts and opinions on government action.
+
+As Furhaad Shah reported back in May, the BJP used a rich variety of data science technqiues to track and enhance public opinion in the run-up to the election results.
+
+“Despite the challenges [of big data], the rewards – as Modi has clearly demonstrated while employing this data to “drive donations, enroll volunteers, and improve the effectiveness of everything from door knocks…to social media” – are significant. BJP’s website, for example, planted cookies on all computers that visited its site, and then used information about these users’ further internet activity – i.e., the sites they visited after BJP’s – for customised advertisements.”
+
+Now, the Modi government have enlisted the expertise of global consulting firm PwC to revolutinise their mygov.in platform. The platform was established in July, and has quickly become a treasure trove of information on how the Indian electorate is responding to government action, as well as ideas for policy augmentation. However, up until this point, dialogue on the site has been more of a monologue than a conversation.
+
+This is about to change. As a senior official told The Economic Times, “There is a large professional data analytics team working behind the scenes to process and filter key points emerging from debates on mygov.in, gauge popular mood about particular issues from social media sites like Twitter and Facebook”. These key findings are then collated in special reports, with suggested actionable insights. Ministries are being urged to take these reports into account, with special regards for findings on 19 key policy challenges, including “expenditure reforms, job creation, energy conservation, skill development and government initiatives such as Clean India, Digital India and Clean Ganga.”
+
+Undoubtedly, as the platform gains traction, scale will become a key issue. India is currently the second most populous country in the world, and is expected to surpass China in population by 2050. Modi is also urging Indian communities in America and Australia to add their voices to their platform. PwC’s executive director Neel Ratan believes “it is distinctly possible that 30-50 million people would be actively contributing to Mygov.in over the next year and a half, given its current pace of growth.”
+
+He added that there is “a science and an art” behind the current data processing scheme. “We have people constantly looking at all ideas coming up, filtering them and after a lot of analysis, correlating it to senti ments coming through on the rest of social media.”
+
+Ratan’s PwC colleague, global leader in goverment Jan Sturesson told The Economic Times that the scope of this project extends far beyond India. He sees the pioneering work of Prime Minister’s Office as a blueprint for democracy in the 21st century. “The biggest issue for governments today is how to be relevant. If all citizens are treated with dignity and invited to collaborate, it can be easier for administrations to have a direct finger on the pulse of the nation rather than lose it in transmission through multiple layers of bureaucracy,” he said.
+
+“The problem in the West has been that the US, Australia and UK follow a public management philosophy that treats citizens as consumers. That’s ridiculous, because a consumer pays the bill and complains, while a citizen engages differently and takes responsibility.”
+
+As we have previously reported, data is being criminally underutilised by federal departments in the Western world. The ultimate challenge big data faces in government is that data doesn’t trump ideology; and in fact, statistics can be skewed and manipulated to further boost ideologies. Yet, data can become a driving force when it pushes past correlation and into causality- show a politician exactly how data can drive his policies, and they just might listen. What crucially distinguishes the mygov.in platform is that it’s not just mining the data, but turning this data into actionable insights for India’s ministries.
+
+In a world where citizens feel increasingly disenfranchised, ignored and- particularly in the case of Western countries- consumerised, the Indian government’s big data scheme could truly prove to be revolutionary for democracy in the 21st century.
+
+Follow @DataconomyMedia
+
+
+
+Eileen McNulty-Holmes – Editor
+
+Eileen has five years’ experience in journalism and editing for a range of online publications. She has a degree in English Literature from the University of Exeter, and is particularly interested in big data’s application in humanities. She is a native of Shropshire, United Kingdom.
+
+Email: [email protected]
+
+Summary: Many have speculated that the party’s pioneering use of big data and social media analytics played a decisive role in the BJP’s and Narendra Modi’s success.
+Now that he’s in power, it would appear Modi’s innovative use of big data is far from over.
+“Despite the challenges [of big data], the rewards – as Modi has clearly demonstrated while employing this data to “drive donations, enroll volunteers, and improve the effectiveness of everything from door knocks…to social media” – are significant.
+The ultimate challenge big data faces in government is that data doesn’t trump ideology; and in fact, statistics can be skewed and manipulated to further boost ideologies.
+What crucially distinguishes the mygov.in platform is that it’s not just mining the data, but turning this data into actionable insights for India’s ministries.
+
+Other Blogs by Eileen McNulty: https://dataconomy.com/author/eileen-mcnulty/

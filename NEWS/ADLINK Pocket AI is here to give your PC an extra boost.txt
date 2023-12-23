@@ -1,0 +1,58 @@
+Title: ADLINK Pocket AI is here to give your PC an extra boost
+
+Article Link: https://dataconomy.com/2023/09/06/adlink-pocket-ai/
+
+Author: Onur Demirkol
+
+Publish Date: 2023-09-06
+
+Article:
+Have you ever heard of this little device called “ADLINK Pocket AI?” This little devil has become very popular with its impressive specs and simple design. Today, we will talk about everything you need to know about it, including its specs, price, design, details, and more!
+
+ADLINK Pocket AI is a portable GPU that’s turning heads in the world of external GPUs (eGPUs). This pint-sized powerhouse, no larger than a deck of playing cards, packs a punch with its Thunderbolt 3 connectivity and the mighty NVIDIA RTX A500 4GB GDDR6 GPU under the hood. But what exactly is this gizmo, and why should you care? Let’s dive into the details of ADLINK Pocket AI and explore its features, specs, design, and price!
+
+What exactly is ADLINK Pocket AI?
+
+ADLINK has developed the Pocket AI, a portable GPU featuring an NVIDIA GPU with Tensor-Core technology. This device aims to bring AI and graphics computing capabilities to a wide range of devices in a plug-and-play fashion, targeting professionals with AI tasks that require dedicated GPU processing power.
+
+“Pocket AI offers the ultimate in flexibility and reliability on the move. This portable, plug and play AI accelerator delivers a perfect power/performance balance from the NVIDIA RTX GPU. Pocket AI is the perfect device for AI developers, professional graphics users, and embedded industrial applications for boosting productivity by improve the work efficiency,” says the official product description.
+
+ADLINK Pocket AI specs
+
+Beneath its humble exterior lies the heart of the ADLINK Pocket AI – the NVIDIA RTX A500 GPU. Don’t let its small size fool you; this GPU boasts 2048 NVIDIA CUDA cores, 64 NVIDIA tensor cores, and 16 NVIDIA RT cores.
+
+With 100 TOPS DENSE INT8 in inference and a formidable 6.54 TFLOPS peak FP32 performance, it’s a force to be reckoned with. Thanks to NVIDIA CUDA X RTX software enhancements, it’s primed for delivering exceptional performance. Moreover, the Pocket AI GPU is compatible with both Windows and Linux systems, ensuring widespread usability.
+
+You can check all of its specs below:
+
+GPU Architecture NVIDIA Ampere GA107 GPU clock Base clock: 435 MHz Boost clock: 1335 MHz CUDA Cores 2,048 NVIDIA Tensor Cores 64 NVIDIA RT Cores 16 Graphic Single-Precision Floating Point (TFLOPS) 6.54 TFLOPS GPU Memory 4 GB GDDR6 Memory Clock 6001 MHz Memory Interface Width 64-bit Memory Bandwidth (GB/sec) 96 GB/s TGP 25 W* Interface Thunderbolt 3.0 (PCI Express 3.0 x 4) Dimensions (without rubber case) 106mm x 72mm x 25mm (with rubber case) 110mm x 76mm x 32mm Weight 250g NVENC | NVDEC 1x | 2x Operating System Windows 10 Windows 11 Linux** Operating Temperature 0~40°C
+
+ADLINK Pocket AI design
+
+When it comes to design, simplicity is the name of the game for Pocket AI. Wrapped in a protective rubber sleeve, it not only shields the GPU but also safeguards users from its heat. The sleeve’s open bottom ensures optimal airflow, while the casing’s extended sides facilitate heat dissipation. The GPU’s striking black, silver, and green color scheme exudes a futuristic vibe, adding a touch of style to its substance.
+
+The front of the GPU boasts two Lightning ports: one for Power Delivery (PD) and the other for Thunderbolt data connectivity. Meanwhile, the bottom-mounted intake fan draws in air, expelling it through a rear port. This clever design ensures efficient cooling, ensuring your Pocket AI keeps cool even during intense tasks. At the top, a straightforward status light and branding provide a sleek finish to the overall design.
+
+Benchmark
+
+While the ADLINK Pocket AI impresses with its compact size and affordability, it’s essential to manage expectations. In a head-to-head showdown, it faces off against the Intel Xe GPU, an integrated solution, and the NVIDIA A5000 Laptop GPU, a high-end GA104 mobile processor with 6144 CUDA cores and 16GB of memory. Thanks to the folks at Storage Review for the benchmark chart!
+
+Benchmark Iris XE 96 core ADLINK Pocket AI A5000 Laptop GPU Luxmark Hall 1828 3979 14,226 Luxmark Food 869 1837 5,499 Procyon AI Inference 59 264 651
+
+ADLINK’s Pocket AI may have three times fewer cores and four times less memory, not to mention a 25W thermal and power limit, but it offers a portable solution for those on the go. For developers and researchers with lightweight laptops featuring only Intel graphics, this pocket-sized GPU might just provide the boost they need.
+
+ADLINK Pocket AI price
+
+The Pocket AI is currently priced at $449, which some may consider to be a high price given its onboard components. For comparison, the NVIDIA RTX 4060 Ti is available at a similar price point. This pricing might seem high, but it’s worth noting that many external and modular GPU options tend to have elevated price tags.
+
+For instance, the GPD G1, which includes an AMD RX 7600M XT GPU, is priced at around $800. The pricing of such devices can vary based on factors like GPU performance, form factor, and target audience.
+
+Featured image credit: ADLINK
+
+Summary: Let’s dive into the details of ADLINK Pocket AI and explore its features, specs, design, and price!
+What exactly is ADLINK Pocket AI?
+ADLINK Pocket AI specsBeneath its humble exterior lies the heart of the ADLINK Pocket AI – the NVIDIA RTX A500 GPU.
+BenchmarkWhile the ADLINK Pocket AI impresses with its compact size and affordability, it’s essential to manage expectations.
+ADLINK Pocket AI priceThe Pocket AI is currently priced at $449, which some may consider to be a high price given its onboard components.
+
+Other Blogs by Onur Demirkol: https://dataconomy.com/author/onurdemirkol/

@@ -1,0 +1,42 @@
+Title: The Future of Big Data Is Open Source
+
+Article Link: https://dataconomy.com/2016/06/20/the-future-of-big-data-is-open-source/
+
+Author: Hannah Augur
+
+Publish Date: 2016-06-20
+
+Article:
+Platforms used for big data are a bit of a conundrum. Big data and data science are two of the biggest business buzzwords, and the biggest companies around the world are hard at work to get ahead of the data curve. Normally, when it comes to big money opportunities, the resources behind them would be expected to carry a heavy price tag. Big data, however, has its roots and future in open source technologies. Companies big and small are sharing what they know, and that’s the way it’s going to stay.
+
+Faster development
+
+The biggest names in data are open source. Many of them are even part of the same Apache family: Spark, Hadoop, Kafka, Cassandra. RapidMiner and Orange are there for data mining, and open source databases are chipping away at Oracle. Though closed source databases are still incredibly popular, open source alternatives are growing at rapid speed. It is very clear that, if they keep growing, those closed source databases won’t be big for much longer. Solid IT co-founder Matthias Gelbmann describes several database management systems in one blog post, noting that, “we often see, that once Redis is installed for caching, and people experience its speed and reliability, they start moving more and more functionality there.” Redis, an open source database management system, has continued to grow despite the company, in their own words, having small business resources and no “intentional” marketing.
+
+There are several reasons for the growth of these open source systems, one of which is the way it allows different people in different areas to effectively work together. When companies share their work and allow others to contribute, the result is outside eyes finding new holes and new possibilities. Deep learning technology owes a lot to big players like Google and Facebook, who actively give their data and resources back to the community. Technology appears to develop very quickly, but it is not an instantaneous process. If companies were to attempt to tackle big data software on their own, with no input or help from open-source softwares, it would be a painfully slow process. There is a serious need to keep up with the times, and big data is a rapidly growing field. One study from McKinsey highlights the shortage of talent in the data science field at length, noting that data science jobs in the United States will exceed 490,000 by 2018, but there will be fewer than 200,000 scientists to fill those jobs. This does not effect only the smaller businesses looking to keep up with the times, but major investors that could change the course of business at large. Companies are looking to rapidly expand their data science departments and usages, but the talent pool and technology is not yet there. Open sourcing that data and technology at least eases the burden, and allows companies to move forward at an even pace.
+
+Community also means that users have the chance to ask questions and get helpful answers. Instead of going into a tailspin when a problem arises, a user will likely find several others in the community who have the answer, or, more likely, know how to find it. Creative open-source users also tend to look for ways to work economically and save money. They are likely to find or tweak inexpensive hardware, whereas a major software company with a monopoly may push users to buy very specific and expensive gear.
+
+Smaller Businesses
+
+Once companies move to put their data to use, they often find themselves in a “data lake.” Without the proper resources, or, for smaller companies, the funds to harness them, data is absolutely useless. If a small company were to pay for every bit of software (and education) required to use data, there would be a much smaller incentive to try to integrate big data into the work place. Open source, however, has that “try before you buy” mentality. For companies like Talend, who offers products based on open source software, potential customers are often familiar and comfortable with the open-source aspects of products. Those who stick to open-source software also get the chance to try before buying into the entire big data scheme. New users can take a chance on data with little risk. Experts can move between different solutions with relative ease.
+
+Talend’s CEO, Mike Tuchen, even told InfoWorld that “the entire next-generation data platform will be open source,” which means gains for open-source companies and those who build upon then. “It’s the new normal,” he says. Even education in the area supports the “open-source” community by very often remaining free. While university degrees will certainly prove useful, many businesses and programmers are simply looking for further education on big data topics to add to their arsenal. Free online courses in data are abundant and programs from Udactiy, Big Data University, and others are trying to fill the gap between data science wannabes and users. Even Google held a free course on how to use data.
+
+Proof of Function
+
+The incredible growth experienced by open source programs is the real proof that it is the future of data. Companies powered in part by Hadoop include Amazon, Facebook, and even IBM. The companies who are making great strides with data are the ones also pushing open source. This proves not only their effectiveness, but shows where finances in data is headed, and just where companies are placing their eggs. Further proof comes from none other than Russia, where companies are changing their mind about open source. Whereas data scientists once shunned full-scale use of open source big data technology, they are now turning the other direction. According to Computer Weekly, smaller companies are now turning to opensource solutions, and larger companies, including Russia’s home grown search company Yandex are in the business of paying close attention to Hadoop solutions and developments, to make sure they don’t get left behind.
+
+The past, present, and future of big data is strongly rooted in open source tech, and that will be one of its greatest strengths. With the shortage of data scientists and skilled workers, it will be paramount that companies and individuals have easy access to powerful and up-to-date solutions without fear of paying every last penny to stay in the game. Especially as companies like Google and Facebook share their knowledge, the future of data will only get better and more powerful.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Big data, however, has its roots and future in open source technologies.
+Though closed source databases are still incredibly popular, open source alternatives are growing at rapid speed.
+Proof of FunctionThe incredible growth experienced by open source programs is the real proof that it is the future of data.
+Whereas data scientists once shunned full-scale use of open source big data technology, they are now turning the other direction.
+The past, present, and future of big data is strongly rooted in open source tech, and that will be one of its greatest strengths.
+
+Other Blogs by Hannah Augur: https://dataconomy.com/author/hannah-augur/

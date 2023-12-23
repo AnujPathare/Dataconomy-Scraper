@@ -1,0 +1,46 @@
+Title: Three Times Big Data Made Amusement Parks Better
+
+Article Link: https://dataconomy.com/2016/06/09/three-times-big-data-made-amusement-parks-better/
+
+Author: Hannah Augur
+
+Publish Date: 2016-06-09
+
+Article:
+Amusement parks are big. Rides cost several million dollars, and operators need to keep track of thousands of visitors every day. Big data may be just the solution amusement parks have been looking for, but it won’t be an easy transition. From updating data practices and hardware to convincing customers that data tracking isn’t “creepy,” major amusement parks around the world are working to leverage data to help visitors waste less time and find more enjoyable experiences.
+
+Disney Uses Wearables to Create “Dataland”
+
+In recent years, Disneyland has slowly become synonymous with data. A $1 billion project was introduced with the MyMagic+ wearables. These could track customers and give the company insight into several opportunities to optimize operations. More than 47 million people visited Disney theme parks in 2012, contributing to one the most infamous amusement park experience: long lines. For consumers, this is where big data will really shine.
+
+Amusement parks are useless if they’re not huge. The options are great for guests, but not always easy for park owners and managers to optimize. Hundreds of data points could yield useful information, if only it were possible to collect that data. Who buys what at which stand at what time is part of the bread and butter of amusement parks. When thousands of people are visiting every day, managers have to know where to bet their goods and employees.
+
+The Disney app includes a map that makes the park’s data visible and useful by showing users queue times. This small change is a huge opportunity for parks and park goers. It’s far easier easy on the nerves. It allows guests to budget time more wisely and have as much fun as possible. It even helped families and children cut down on travel time.
+
+How much is convenience worth? Many guests are more than a little skeptical about the wearables and data tracking. Gawker voiced what many guests are thinking and saying on social media: the tech is “creepy” and NSA-styled. Furthermore, International Business Times examined suggestions from a privacy advocate that guest-tracking is a “slippery slope.” Luckily, Disney, for now, is willing to accept the public concern, and the wearable is not required to move about the park, a fact that many bystanders aren’t aware of. It’s going to be a long ride trying to get visitors onboard with being tracked every step of their day, but if someone can pull it off, it’s Disney.
+
+Belgium’s Bobbejaanland Studies Wifi and Generation Z
+
+Disney may be the most famous example, but a case study of major Belgian theme park Bobbejaanland, named for entertainer Bobbejaan Schoepen, proved big data can bring amusement parks to life. It started by granting most of the park wifi coverage. Next, they plotted wifi-connected devices on a map, showing exactly where crowds were in the park and how they moved. While they expected some 30% of visitors to be connected, the percentage of connected visitors was actually between 60 and 80%, meaning the company got a very powerful, clear view of how to optimize goods and services. This resulted in the holy grail of data: real-time analytics and solutions. Managers now knew exactly where to place mobile carts, entertainers and cleaning crews. The data let them pinpoint low density areas, indicating that a ride should open later, run less often or close earlier. That doesn’t just save on the cost of employees, it also saves on wear and tear in the long run.
+
+Data-driven marketing was also part of the project. The obvious first step is to offer special deals through that wifi connection, directing customers to an initial landing page with real-time offers and coupons. Already 5-7% of users were opting-in. As IT Manager Niels Meeus describes, “teenagers especially are promoting us within their social circles—you can’t beat that!” While parents may be wary of data sharing, especially their children’s data, and millennials often have strong feelings about defending their data, Generation Z could be just the people this sort of technology is looking for. With teenagers promoting the park and program, Bobbejaanland has stumbled into a marketing campaign that requires very little funding. As this sort of promotion continues, and the same customers keep returning, the company can also start painting a more thorough profile of its visitors. Meeus was confident enough to add, “I fully expect this system will pay for itself in one full season.” It’s possible gathering data through something less obvious and disturbing than a literal wearable might be the way to go.
+
+Six Flags Teaches Old Systems New Tricks
+
+What happens when you have nearly twenty locations and all of that data looks like a mess? Six Flags has been trying to gather data for a while, but that didn’t mean it was effective. Their eighteen facilities each ran their own independent operation with their own local equipment. These locations had popped up one at a time long before big data and data centers were popular, and they weren’t prepared to handle data analysis as we know it. Data was trapped in silos before being sent to third parties for proper analysis. By the time data could be analyzed and returned to the park, its real usage was lost. The data did yield overall insights into the parks’ operations, but that amount was marginal compared to the data that was being lost each day. They ended up basing decisions on past experience and expectations instead of up-to-date data.
+
+The Six Flags IT departments got to experience first hand how complicated it is to try to update legacy systems like these, especially because of the costs. NetApp, who helped Six Flags make the change, laments that typical IT departments spend up to 80% of their time time focusing on maintenance and only about 20% looking forward to new solutions. In order to turn the old, broken system into a thriving one, this had to be flipped entirely. There was no easy solution, apart from overhauling everything, which was no easy task. Hardware and operations from all 18 data centers had to be standardized and consolidated in one central data center in Dallas, Texas. Since the parks operate in roughly the same manner, the consolidation of data meant Six Flags had not just one but eighteen parks worth of data. Real-time data is now collected from 3,500 point-of-sales terminals, and the company has reached their best guest satisfaction scores yet. It sounds like the troublesome transition was more than worth it.
+
+image credit: m01229
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Amusement parks are big.
+Big data may be just the solution amusement parks have been looking for, but it won’t be an easy transition.
+Who buys what at which stand at what time is part of the bread and butter of amusement parks.
+The Disney app includes a map that makes the park’s data visible and useful by showing users queue times.
+These locations had popped up one at a time long before big data and data centers were popular, and they weren’t prepared to handle data analysis as we know it.
+
+Other Blogs by Hannah Augur: https://dataconomy.com/author/hannah-augur/

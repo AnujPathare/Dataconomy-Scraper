@@ -1,0 +1,80 @@
+Title: How To Build a Data Strategy Pt. I – Your Ticket to Success
+
+Article Link: https://dataconomy.com/2017/01/09/data-strategy-part-i/
+
+Author: Ramesh Dontha
+
+Publish Date: 2017-01-09
+
+Article:
+I am sure you’ve come across many 2016 statistics on Data and Analytics as I have. I’d like to use couple of statistics from IDG’s Enterprise 2016 Data & Analytics Research to start this article. As per their research, 78% of enterprises agree that data strategy, collection & analysis of big data has the potential to fundamentally change the way their company does business over the next 1 to 3 years.
+
+On the other hand, Bernard Marr of Forbes in his Sept 2015 article ’20 mind boggling facts everyone must read’ mentioned that “Less than 0.5% of all data is ever analyzed and used, just imagine the potential here.”
+
+So how do you tap into this huge potential of data collection and analysis in enterprises? I believe that a comprehensive enterprise-wide Data Strategy can give significant competitive advantage in the marketplace. So how does an enterprise get on with such a strategy if it’s not already there? That’s exactly what we shall do in this series of articles on data strategy starting with some basics.
+
+WHAT is Data Strategy?
+
+WHY do we need a Data Strategy?
+
+WHEN should I start or have a Data Strategy?
+
+WHO in our organization should drive this Data Strategy?
+
+WHERE do we start with Data Strategy?
+
+HOW should we go about with Data Strategy?
+
+I’ll address the 5 ‘W’s in this article and address the ‘How’ part separately as it deserves much more detailed attention.
+
+What Is Data Strategy?
+
+I define Data Strategy as a strategy that lays out a comprehensive vision across the enterprise and sets a foundation for the company to employ data-related or data-dependent capability. We can argue about the exact semantics of this definition but the key points are the bold words.
+
+My broad guidance as you lay out this Data Strategy is to make it actionable for your specific organization and industry and somewhat evolutionary to adjust to disruptive market forces. Make the Data Strategy incorporate some guiding principles to accomplish the data-driven vision, direct your company to select specific business goals, and be a starting point for data-driven planning across the company.
+
+Why Do You Need a Data Strategy?
+
+This question may be asked in multiple ways but the essence of this question is: Is it worth it?
+
+Not sure if you belong to the camp that believes data is an asset to the organization but if you do, you must believe that data that your organization owns is a resource that has economic value and you expect it to provide future benefit just like any other asset. I am sure you consider your employees as assets and you have employee-focused strategy (attracting and retaining etc.). If so, shouldn’t you treat data the same way? The preeminent market research firm Gartner states that “Information is an under-managed, under-utilized asset because it’s not a balance sheet asset.” It’s about time we gave data some respect and have a data-focused strategy.
+
+According to the IDG research I mentioned above, the top 3 problems that organizations expect data to solve problems are as follows.
+
+(1) Finding correlations across multiple disparate data sources
+
+(2) Predicting customer behavior
+
+(3) Predicting product or service sales
+
+Without a comprehensive enterprise-wide Data Strategy, how can you expect to solve any of those problems mentioned above? Either you won’t have answers to these questions or you will be answering them very inefficiently consuming lot of resources.
+
+Without a Data Strategy, the organization will be forced to deal with myriad data-related initiatives that most likely are in progress by various business groups / departments. Believe me, different business units within the company are not sitting around waiting for an enterprise Data Strategy if you don’t have one. These initiatives may be some kind of Data Analytics, Business Intelligence, Master Data Management, Data Governance, Data Quality program, or Data warehouse. And worse yet, these businesses may be dealing with inaccurate, incomplete, or inconsistent data leading them to wrong business decisions.
+
+When Do You Need Data Strategy?
+
+I am sure you are expecting an answer like ‘NOW’. Even though that is probably the simple, easy and the correct answer, I’d advise you to tie your Data Strategy to some major corporate initiative or business planning cycle. It could be some kind of Digital Transformation initiative, Business Reengineering, or even annual strategic planning. It could even be tied to a merger and acquisition event. Why? It is practical to justify having a data strategy initiative if you don’t have one. It is a much steeper hill to climb to justify data strategy just on its own and out of the blue. I am not saying that it can’t be done but based on my prior experience, it is easier to get it off the ground tying to some other business event / initiative.
+
+Who should drive it?
+
+I know I’ll get lot of flak for saying this but I’ll say this anyway. Please don’t hand off your enterprise-wide strategy to your Chief Information Officer (CIO) and wash your hands off. I have nothing against CIOs but data is a corporate asset and not just an IT asset. In my opinion, enterprise Data Strategy belongs at Chief Operating Officer (COO) level. No, I am not being ambitious but being direct and blunt about it. If your organization has a Chief Data Officer (CDO), let him/her be the owner of this Data Strategy. I hope that CDO reports directly to CEO/COO.
+
+Where do you start?
+
+What I meant by this question is should a company start Data Strategy at the corporate level or at a business unit level? Based on the thesis of my article so far, the answer obviously is at the corporate level. But depending on the organization’s operating model i.e. how it is structured, in some cases it might be practical to start at some business unit.
+
+I have seen instances where a business unit started Data Strategy which raised some uncomfortable questions for the corporate level entities. This in turn resulted in a corporate wide Data Strategy initiation. You might call it a sneaky way to force the organization to face the music but it works. It all depends on who is evangelizing the Data Strategy and how much political clout they have in the organization.
+
+This part of this series addressed the 5 ‘W’s. Stay tuned for part II where I’ll tackle the ‘How’ part.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: I believe that a comprehensive enterprise-wide Data Strategy can give significant competitive advantage in the marketplace.
+That’s exactly what we shall do in this series of articles on data strategy starting with some basics.
+These initiatives may be some kind of Data Analytics, Business Intelligence, Master Data Management, Data Governance, Data Quality program, or Data warehouse.
+It is a much steeper hill to climb to justify data strategy just on its own and out of the blue.
+If your organization has a Chief Data Officer (CDO), let him/her be the owner of this Data Strategy.
+
+Other Blogs by Ramesh Dontha: https://dataconomy.com/author/ramesh-dontha/

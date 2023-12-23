@@ -1,0 +1,46 @@
+Title: Big Data Jobs Earn 24% More Than Other IT Positions, New Study Reveals
+
+Article Link: https://dataconomy.com/2014/11/03/big-data-jobs-earn-24-more-than-other-it-positions-new-study-reveals/
+
+Author: Eileen McNulty
+
+Publish Date: 2014-11-03
+
+Article:
+The third annual study into the big data skills gap in the UK economy, carried out by the Tech Partnership has revealed the escalating need for Big Data skills.
+
+The study dubbed, “Big Data Analytics: Assessment of Demand for Labour and Skills, 2013-2020” provides a detailed analysis of the current UK market and projected changes up to and including 2020 and has been sponsored by Business analytics and Business Intelligence software provider, SAS. With more than 1,000 UK employers of various sizes as respondents, the survey outlines:
+
+current and future job vacancies.
+
+the difficulty of recruitment.
+
+remuneration trends and
+
+overall future demand.
+
+Statistics point out that by 2020, the big data workforce is expected to grow by around 346,000 professionals, pushing the rate of job growth in big data up to 160 percent, with approximately 56,000 big data job opportunities to fill each year up to 2020.
+
+Inevitably, there is also a shortage of skills in big data, with recruiters reporting that 77 percent of big data positions were either ‘very’ or ‘fairly’ difficult to fill, pushing salaries in big data to £55,000, around double the average UK full time permanent wage and 24% higher than the average IT position. Furthermore, IT vacancies have witnessed a 9 percent drop, while the want for big data staff has gone up by 41 percent.
+
+The spread of big data roles advertised shows that between 2012 and 2013, 96 per cent of all advertised big data positions were in England and that six in ten (63 per cent) were based in London, the government funded body revealed.
+
+Mark Wilkinson, Managing Director, SAS UK & Ireland, explains:
+
+“Big data is on the cusp of going mainstream as the Internet of Things takes hold, and government, businesses and individuals look to use information to make better and faster decisions. We believe that big data is the ‘new oil’ that will power the information economy – and big data analytics will refine this ‘new oil’ so valuable insights can be extracted that inform business decision-making. SAS has already invested more than £100m in the UK to support universities and develop the next generation of big data professionals. This year we took it even further offering a free university edition of our software to all students – backed by online training and community support.”
+
+Tech Partnership Director, Karen Price, noted that although big data is a highly significant growth area for the UK economy there still remains a skill shortage, and talent mining is of utmost importance to help enterprises grow.
+
+“The Tech Partnership recognises that investment in education and training opportunities is vital to securing a strong talent pipeline for the digital economy, and it is fantastic to see that SAS are making this commitment to develop skills in the industry,” she added.
+
+The detailed study is available here.
+
+(Image credit: Flickr)
+
+Summary: The third annual study into the big data skills gap in the UK economy, carried out by the Tech Partnership has revealed the escalating need for Big Data skills.
+Statistics point out that by 2020, the big data workforce is expected to grow by around 346,000 professionals, pushing the rate of job growth in big data up to 160 percent, with approximately 56,000 big data job opportunities to fill each year up to 2020.
+Inevitably, there is also a shortage of skills in big data, with recruiters reporting that 77 percent of big data positions were either ‘very’ or ‘fairly’ difficult to fill, pushing salaries in big data to £55,000, around double the average UK full time permanent wage and 24% higher than the average IT position.
+Furthermore, IT vacancies have witnessed a 9 percent drop, while the want for big data staff has gone up by 41 percent.
+The spread of big data roles advertised shows that between 2012 and 2013, 96 per cent of all advertised big data positions were in England and that six in ten (63 per cent) were based in London, the government funded body revealed.
+
+Other Blogs by Eileen McNulty: https://dataconomy.com/author/eileen-mcnulty/

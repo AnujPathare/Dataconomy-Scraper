@@ -1,0 +1,50 @@
+Title: Getting Your Feet Muddy with Data Science: A Conversation with Ross Taylor
+
+Article Link: https://dataconomy.com/2018/03/15/getting-your-feet-muddy-with-data-science-a-conversation-with-ross-taylor/
+
+Author: Robin Block
+
+Publish Date: 2018-03-15
+
+Article:
+As companies digitize and data occupies a more central place in our lives, corporations are struggling to find enough talented people to meet the business challenges they face. This has created exceptional opportunities for individuals who are up for tackling those challenges.
+
+Ross Taylor of ALPIMA started his career as an economist working for the UK Treasury on financial services during the Eurozone crisis. He is now among the growing number of people using their own initiative to satisfy the need for data scientists. Ross now works on the cutting-edge of predictive finance and risk modeling, building data-driven asset allocations for some of the world’s largest and most prestigious hedge funds and asset managers. Insightive.tv’s Robin Block sat down with Ross to discuss his motivations, the common challenges faced in data science and what it take to break into the field.
+
+Robin: How did you enter the field of data science, and what advice would you give someone trying to do the same?
+
+Ross: My advice would be to get started on a side project or get involved in open-source software. I switched from using primarily R to Python three years ago, and a side project basically drove this development. The project was to build a library for time-series methods in Python, which became PyFlux. Ultimately, I got to present PyFlux at multiple conferences in London and San Francisco, and the library was voted one of the most popular Python libraries of 2017.
+
+The key problem with open-source is that it is essentially unpaid labor. With that said, it presents great opportunities to create innovative solutions and to advance careers. Additionally, when you do open-source work, it means having many eyes looking at your code. This not only incentivizes you to push yourself, but it also gives you the opportunity to gain feedback and different perspectives. It is how you get your feet muddy and learn from doing. The barrier to entry in open-source is pretty low — you just have to be motivated.
+
+For project ideas, I would recommend focusing on an area of interest, seeing what’s available in the Python space and trying to fill a gap in the data science toolkit. This may mean contributing to an existing project or starting a brand new project.
+
+What mistakes did you make entering the field, and what have you learned through your experience?
+
+There is an inherent trade off you face when choosing software solutions for your company. If you are too old fashioned, you will get left behind; if you are too close to the bleeding-edge, you will often have less community support and less stable software. You are also making a bet when adopting new software that it will become established. The key is to have a core stack that has widespread adoption/stability — software such as Docker, PostgresSQL, Python 3 — and new solutions where it makes sense. When I first started, I had an unhealthy bias towards trying the latest and greatest thing!
+
+My other initial bias was favoring model-complexity in machine learning. Machine learning is a Swiss Army knife — different tools should be used for different problems. The most complex tool is not necessarily the best tool for the job. This is especially true in finance. Because of the low signal to noise ratio in the data, and non-stationarity, you often find simpler approaches are the most viable, and actually perform surprisingly well compared to more complex methods such as tree-based models, neural networks and so on. Fundamentally, however, you need to have a reason to use the tool you choose. Your model complexity should be tailored to your objective; for example, predictive accuracy or whether you can reasonably productionize the model.
+
+What are the big changes occurring in data science, and which currently interest you?
+
+The big push in the past six months has been towards decentralized applications. People are now beginning to question whether it is good to have data and services reliant on few big providers – in cloud computing, databases, etc. – and are instead looking for trustless solutions that utilize technologies such as IPFS and Ethereum. It is an open question whether the Dapp model will work, as scalability problems remain and there is an efficiency sacrifice by moving away from centralization, but it is a big theme now.
+
+For AI and machine learning, the big revolution in the last two years has been the growth in software. TensorFlow and PyTorch are part of a new paradigm known as “differentiable programming,” which utilizes a technique known as automatic differentiation to allow for quick construction of deep learning models. When you write software, you are now able to integrate advanced learning algorithms directly. I think the next change is going to be the maturation of the “machine-learning-as-a-service” business model. Examples of this model include AWS Sagemaker and Google Cloud AutoML. It is still early days, but this could allow for greater penetration of data science into more verticals and help solve the skill shortage problem.
+
+What do you most admire about your company and data science companies more generally?
+
+The best thing about working at ALPIMA is the ability to try new ideas. I am currently in a position that allows me to look at ways of applying new technology to make finance more efficient and more data-driven. This is a really rewarding liberty, especially as it enables the company’s clients to build some of the most impressive products in the industry.
+
+In data science more generally, the emphasis needs to be not only the companies, but also the open-source community, which has really driven the development of much of the toolkit (for example, pandas and scikit-learn for Python). This is an encouraging achievement, as it shows people from all over the world can collaborate to make cutting-edge software, without coordination from a single company or set of companies.
+
+This also ties into my own motivation for work, which is to have the broadest impact possible. That means making software applications that are widely used and provide substantial utility. That doesn’t mean I have one master project in mind, but I am driven by the problems I want to solve and try to use data to solve those problems.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Summary: Insightive.tv’s Robin Block sat down with Ross to discuss his motivations, the common challenges faced in data science and what it take to break into the field.
+Robin: How did you enter the field of data science, and what advice would you give someone trying to do the same?
+Ross: My advice would be to get started on a side project or get involved in open-source software.
+It is still early days, but this could allow for greater penetration of data science into more verticals and help solve the skill shortage problem.
+What do you most admire about your company and data science companies more generally?
+
+Other Blogs by Robin Block: https://dataconomy.com/author/robin-block/

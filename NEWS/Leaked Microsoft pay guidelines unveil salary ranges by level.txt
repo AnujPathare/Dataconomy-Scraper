@@ -1,0 +1,194 @@
+Title: Leaked Microsoft pay guidelines unveil salary ranges by level
+
+Article Link: https://dataconomy.com/2023/10/17/leaked-microsoft-pay-guidelines/
+
+Author: Kerem Gülen
+
+Publish Date: 2023-10-17
+
+Article:
+The recently surfaced leaked Microsoft pay guidelines reveal intriguing insights about the tech giant’s compensation strategies for new recruits. This structured framework, which came to light earlier this year, delineates the boundaries on base salary, hiring incentives, and yearly stock grants.
+
+These guidelines serve as a pivotal reference for hiring managers, assisting them in finalizing competitive offers to prospective employees, as indicated by an individual closely acquainted with the procedure.
+
+However, it remains ambiguous to what extent these leaked Microsoft pay guidelines are universally applicable. It’s still under speculation whether they cater to specific job titles or business sectors. Regardless, they undeniably offer a glimpse into Microsoft’s nuanced approach to its varied hierarchical tiers.
+
+It’s pivotal to note that Microsoft’s compensation structure isn’t monolithic. While the guidelines might suggest certain figures, pay at Microsoft oscillates based on geography and role specifics. For instance, employees stationed in high-cost locales like San Francisco and New York invariably pocket heftier paychecks. Moreover, some specialties, like engineering, command more lucrative remuneration than others.
+
+The leaked Microsoft pay guidelines, as observed by Insider, illuminate a diverse pay structure within the tech titan’s walls. At the pinnacle, we see a sumptuous package comprising a $361,500 salary, bolstered by a staggering $1.2 million in hiring perks and approximately $1 million in yearly stock rewards. On the flip side, the entry bar sits at a modest $42,500, devoid of any sign-on bonuses or assured stock grants.
+
+Intricacies lie within Microsoft’s unique level system that signifies an employee’s seniority. These guidelines elucidate that as you climb the echelon, the compensation becomes increasingly attractive. Although these levels exhibit variation depending on the specific role and geographical location, an Insider scoop suggests the “senior” benchmark begins at level 63, “principal” emerges at 65, and “partner” reigns starting from 68.
+
+IRS takes aim at Microsoft over $28.9 Billion in back taxes
+
+Interestingly, while not all roles touch the revered level 70, an engineering genius who does is christened a “Distinguished Engineer”. The zenith, level 80, denotes the “technical partner” – generally viewed as one of the company’s top echelons.
+
+Microsoft took proactive measures addressing internal discontent related to remuneration in 2022, especially in juxtaposition with rivals. To stem the tide of potential talent drain towards more lucrative offers, Microsoft green-lit 67 hires with generous stock grants.
+
+This move was largely driven by the board’s decision to boost pay scales below certain levels, a strategy seemingly tailor-made to counteract Amazon’s allure. However, as the economy hit rough waters, Insider highlighted Microsoft’s strategic pivot: freezing base salary increments and trimming budgets for bonuses and stock rewards.
+
+Leaked Microsoft pay guidelines
+
+Below you can see leaked Microsoft pay guidelines shared by Insider:
+
+Level 70:
+
+Base salary: $231,700 to $361,500
+
+On-Hire Stock Award: $310,000 default with approval to $1.2 million
+
+Annual stock award range: $0 to $945,000
+
+Level 69:
+
+Base salary: $202,400 to $316,000
+
+On-hire stock award: $235,000 default with approval to $1.1 million
+
+Annual stock award range: $0 to $750,000
+
+Level 68:
+
+Base salary: $186,200 to $291,000
+
+On-hire stock award: $177,000 default to $1 million with approval
+
+Annual stock award range: $0 to $490,600
+
+Level 67:
+
+Base salary: $171,600 to $258,200
+
+On-Hire Stock Award: $168,000 with default to $700,000 with approval
+
+Annual stock award range: $0 to $336,000
+
+Level 66:
+
+Base salary: $157,300 to $236,300
+
+On-Hire Stock Award: $75,000 with default to $600,000 with approval
+
+Annual stock award range: $0 to $160,000
+
+Level 65:
+
+Base salary: $144,600 to $216,600
+
+On-Hire Stock Award: $36,000 default to $300,000 with approval
+
+Annual stock award range: $0 to $90,000
+
+Level 64:
+
+Base salary: $125,000 to $187,700
+
+On-Hire Stock Award: $24,000 default to $250,000 with approval
+
+Annual stock award range: $0 to $60,000
+
+Level 63:
+
+Base salary: $113,900 to $171,500
+
+On-Hire Stock Award: $17,000 default to $200,000 with approval
+
+Annual stock award range: $0 to $44,000
+
+Level 62:
+
+Base salary: $103,700 to $156,400
+
+On-Hire Stock Award: $11,000 default to $125,000 with approval
+
+Annual stock award range: $0 to $32,000
+
+Level 61:
+
+Base salary: $92,600 to $138,100
+
+On-Hire Stock Award: $6,500 default to $75,000 with approval
+
+Annual stock award range: $0 to $24,000
+
+Level 60:
+
+Base salary: $83,500 to $125,000
+
+On-Hire Stock Award: $4,500 default to $50,000 with approval
+
+Annual stock award range: $0 to $16,000
+
+Level 59:
+
+Base salary: $74,400 to $110,800
+
+On-Hire Stock Award: $3,000 default to $30,000 with approval
+
+Annual stock award range: $0 to $12,000
+
+Level 58:
+
+Base salary: $70,300 to $92,600
+
+On-Hire Stock Award: $2,500 default to $20,000 with approval
+
+Annual Stock Award Range: “By Career Stage”
+
+Level 57:
+
+Base salary: $63,800 to $83,000
+
+On-Hire Stock Award: $1,500 default to $10,000 with approval
+
+Annual Stock Award Range: “By Career Stage”
+
+Level 56:
+
+Base salary: $60,700 to $77,900
+
+On-Hire Stock Award: $1,500 default to $10,000 with approval
+
+Annual Stock Award Range: “By Career Stage”
+
+Level 55:
+
+Base salary: $55,200 to $71,300
+
+On-Hire Stock Award: N/A
+
+Annual Stock Award Range: “By Career Stage”
+
+Level 54:
+
+Base salary: $51,600 to $67,000
+
+On-Hire Stock Award: N/A
+
+Annual Stock Award Range: “By Career Stage”
+
+Level 53:
+
+Base salary: $46,600 to $59,700
+
+On-Hire Stock Award: N/A
+
+Annual Stock Award Range: “By Career Stage”
+
+Level 52:
+
+Base salary: $42,500 to $54,600
+
+On-Hire Stock Award: N/A
+
+Annual Stock Award Range: “By Career Stage”
+
+Featured image credit: Kerem Gülen/DALL-E 3
+
+Summary: The recently surfaced leaked Microsoft pay guidelines reveal intriguing insights about the tech giant’s compensation strategies for new recruits.
+This structured framework, which came to light earlier this year, delineates the boundaries on base salary, hiring incentives, and yearly stock grants.
+However, it remains ambiguous to what extent these leaked Microsoft pay guidelines are universally applicable.
+While the guidelines might suggest certain figures, pay at Microsoft oscillates based on geography and role specifics.
+The leaked Microsoft pay guidelines, as observed by Insider, illuminate a diverse pay structure within the tech titan’s walls.
+
+Other Blogs by Kerem Gülen: https://dataconomy.com/author/kerem-gulen/

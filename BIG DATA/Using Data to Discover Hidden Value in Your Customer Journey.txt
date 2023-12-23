@@ -1,0 +1,86 @@
+Title: Using Data to Discover Hidden Value in Your Customer Journey
+
+Article Link: https://dataconomy.com/2016/12/27/data-value-customer-journey/
+
+Author: Ronald van Loon
+
+Publish Date: 2016-12-27
+
+Article:
+The world of business and customer service has changed immensely over the past few years. Whereas once business was largely driven by outbound marketing and advertising, in today’s world you have to consider the customer experience and your customers’ journey as they interact with your brand.
+
+Today, thanks to the advent of the Internet and mobile technology, customers can buy almost anything in the world online, and they can compare and contrast brands, prices, and quality with a few swipes on their phone, tablet, or smart watch. Customers today do not care as much about fancy advertising as they do about superior customer service and a quality experience as they work with your brand. They choose the brands they like based on the relationships that they can build with them.
+
+Thus, as you consider efficient ways to improve your business, you should always prioritize customer experience and the customer journey. But what is the customer journey, and how can you leverage it to create more value for your business?
+
+What Is the Customer Journey?
+
+The customer journey is the path that a customer takes through various touch points as they interact with your brand and your products. These touch points are the individual transactions and interactions that your customer has with your business. They can include clicking on an ad, visiting your website, clicking on a specific product, purchasing that product online (including each touch point involved in the online checkout process), follow-up emails from you, etc.
+
+50% of all customer interactions happen during multi-event, multi-channel, cross-time journeys
+
+Of course, it’s dangerous to focus too much on single touch points as you analyze your customer journey. Basically, when you focus on individual touch points, you isolate each one and ignore your customer’s overall, end-to-end journey and experience. Doing this can blind you to major issues, and you can miss a lot of great opportunities for added value, too.
+
+However, when you look at the customer journey with more data integrated data points and more attention to the context of your customers’ experiences, you will begin to see a better picture of how your customers see your brand and how you can improve your brand reputation and customer retention while bringing on more new customers without spending a ton of money and resources on new marketing campaigns.
+
+4 Reasons Companies Do Not Explore the Value of the Customer Journey
+
+So why aren’t more companies exploring this new and better way of looking at the customer journey? There are actually multiple reasons:
+
+1. Failure to Realize That the Customer Journey Goes Beyond Marketing
+
+First, a lot of businesses today think of the customer journey as something that only the marketing department should pay attention to. To them, improving the customer journey is a job for marketing, but this is entirely untrue. This is the kind of compartmentalized thinking that needs to be left behind. Cross-functional and interdisciplinary efforts can improve the customer journey and have massive effects on the customer experience.
+
+2. Lack of Proper Data Analytics Implementations
+
+Next, a lot of companies simply have not implemented the data analytics tools and processes necessary to see the big picture. They have fragmented data that covers individual touch points, which is good, but it’s not good enough to show the hidden value that they’re missing in the customer journey.
+
+3. Inability to Scale and Grow Data Storage and Analytics Tools
+
+This brings many companies to the dilemma of “build it” vs. “buy it.” Their current data storage and data analytics tools are not scalable, and if they want to address issues with tracking the customer journey, they’ll have to deal with implementing scalable storage and analytics processes. Continuous innovation and development of storage and analytical implementations may be unsustainable for some businesses, which creates a significant dilemma for owners and decision makers.
+
+4. Resistance to Cloud Storage and Improved Data Storage Solutions
+
+Furthermore, many businesses are still resisting the push to move their data storage to the cloud. This is done for a number of reasons, but failing to move forward with improved data storage solutions, including cloud storage, means that companies will continue to struggle with slower data analytics and will not keep up with the competition. The change simply has to be made to keep up with today’s market and to mine as much value from your customers’ journeys and experiences as possible.
+
+Why You Should Discover More About Your Customer Journey Right Now
+
+So why is it so important to unearth this hidden value in the customer journey? Right now, certain market changes are making it possible for savvy businesses to take advantage of streaming data and cross-functional processes to learn more about their customers and gain a serious advantage over the competition.
+
+Today’s customers are more demanding than ever, and they have extremely high expectations. They want a seamless experience, and they want it now. For example, consider the fact that not too long ago the idea of Wi-Fi on an airplane was unheard of. Today, it’s on nearly every plane in the sky, and customers are already complaining that it’s too slow and that they can’t stream their movies. Simply providing an extraordinary service is not enough if you cannot predict where customers will have pain points and determine how to address them.
+
+Today’s customers are more demanding than ever before, and thus businesses are looking for new and better ways to meet customers’ demands and improve customer satisfaction. You may not be able to change the price point of your product or service, or you may not have the ability to add more features without increasing price, but, with improved customer journeys and experiences, you can distinguish your business from the competition with superior customer service and customer satisfaction.
+
+Finally, if you look at the history of data analytics, you can see how quickly this field has grown and how much more growth we can expect to see in the next weeks, months, and years. In fact, we are now seeing near real-time insights into customer journeys that will allow companies to steer their customers to better outcomes in the midst of their journeys. With new solutions for data storage and fast data analytics, you will no longer have to wait to make changes or improve customer service. You’ll be able to do it within the customer journey, itself. Smart business owners and strategists are always looking for the next thing, and this is it.
+
+Impact for Your Business
+
+When you can take a real-time look at the big picture for your customers’ journeys with your brand, you can significantly improve customer satisfaction and loyalty. According to recent data, when companies deploy the power of cross-functional data storage and analytics on their customer journeys, they can improve customer satisfaction by as much as 20% and lower the costs of providing their services significantly, as well.
+
+Analyzing the customer journey provides results that are repeatable and effective, giving you a clear advantage over the competition.
+
+Example that deploys the power of cross-functional data storage and analytics on their customer journeys
+
+Examples of Customer Journey Analysis in Action
+
+But what does that look like? Consider just a few examples:
+
+Preventing digital leakage – According to recent statistics, more than 10% of all web visits leak into other channels. When you have actionable data on the customer journey, you can avoid issues like technical difficulties with an app or website that result in calls to customer service. Preventing these leaks can improve your customer experience significantly.
+
+Implementing effective digital migration – How often do customers visit a store or branch for services that could be performed online? How can you use this information to make life easier for your customers and to improve your business’ efficiency?
+
+Improving the customer experience – When you have better data, you have more access to your customers’ pain points, and you can fix issues before they become major problems for your customers and your business.
+
+This post appeared originally here
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Thus, as you consider efficient ways to improve your business, you should always prioritize customer experience and the customer journey.
+Failure to Realize That the Customer Journey Goes Beyond MarketingFirst, a lot of businesses today think of the customer journey as something that only the marketing department should pay attention to.
+Lack of Proper Data Analytics ImplementationsNext, a lot of companies simply have not implemented the data analytics tools and processes necessary to see the big picture.
+Resistance to Cloud Storage and Improved Data Storage SolutionsFurthermore, many businesses are still resisting the push to move their data storage to the cloud.
+Why You Should Discover More About Your Customer Journey Right NowSo why is it so important to unearth this hidden value in the customer journey?
+
+Other Blogs by Ronald van Loon: https://dataconomy.com/author/ronaldvanloon/

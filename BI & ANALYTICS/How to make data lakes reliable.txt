@@ -1,0 +1,32 @@
+Title: How to make data lakes reliable
+
+Article Link: https://dataconomy.com/2020/02/21/how-to-make-data-lakes-reliable/
+
+Author: admin
+
+Publish Date: 2020-02-21
+
+Article:
+Data professionals across industries recognize they must effectively harness data for their businesses to innovate and gain competitive advantage. High quality, reliable data forms the backbone for all successful data endeavors, from reporting and analytics to machine learning.
+
+Delta Lake is an open-source storage layer that solves many concerns around data lakes and makes data lakes reliable. It provides:
+
+ACID transactions
+
+Scalable metadata handling
+
+Unified streaming and batch data processing
+
+Delta Lake runs on top of your existing data lake and is fully compatible with Apache Spark™ APIs.
+
+In this guide, we will walk you through the application of Delta Lake to address four common industry use cases with approaches and reusable code samples. These can be repurposed to solve your own data challenges and empower downstream users with reliable data.
+
+Learn how you can build data pipelines for:
+
+Summary: Data professionals across industries recognize they must effectively harness data for their businesses to innovate and gain competitive advantage.
+High quality, reliable data forms the backbone for all successful data endeavors, from reporting and analytics to machine learning.
+Delta Lake is an open-source storage layer that solves many concerns around data lakes and makes data lakes reliable.
+It provides:ACID transactionsScalable metadata handlingUnified streaming and batch data processingDelta Lake runs on top of your existing data lake and is fully compatible with Apache Spark™ APIs.
+These can be repurposed to solve your own data challenges and empower downstream users with reliable data.
+
+Other Blogs by admin: https://dataconomy.com/author/admin/

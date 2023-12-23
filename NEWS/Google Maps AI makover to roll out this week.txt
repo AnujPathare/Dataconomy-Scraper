@@ -1,0 +1,42 @@
+Title: Google Maps AI makover to roll out this week
+
+Article Link: https://dataconomy.com/2023/10/27/google-maps-ai-makover/
+
+Author: Onur Demirkol
+
+Publish Date: 2023-10-27
+
+Article:
+According to the latest announcement by the technology giant, the upcoming Google Maps AI makeover will bring quite new features to make things easier for users. You will have better directions, place-specific recommendations, better service for EV drivers, and many more.
+
+Google Maps is about to receive a significant upgrade, bringing in some powerful AI-driven features that promise to make our navigation and exploration smoother and more user-friendly. This revamp is set to blur the lines between Google Maps and Google Search with new capabilities that’ll reshape how we use the service.
+
+Google Maps AI makeover comes with new features
+
+A star feature in this update is “Immersive View.” While not entirely new, it’s expanding its reach to cover more cities. This feature enhances your navigation experience by providing vivid and lifelike visuals that make it easier to get your bearings. Think of it as a step closer to actually being there. It’s all about creating a more immersive and enjoyable way to explore the world.
+
+If you’ve ever struggled with confusing directions while using Google Maps, the update’s new and improved directions will be fresh air. Whether navigating through a city’s hustle and bustle or taking a scenic route, these clear and straightforward directions will ensure you get where you’re going with ease. It’s like having a trusted guide right there with you.
+
+Google Assistant with Bard is coming for Android and iOS devices
+
+Google Maps AI makeover offers easier exploration with enhanced search
+
+Google’s mission is to transform Maps into a one-stop platform. Not only can you get directions and locate nearby spots like coffee shops and EV charging stations, but you can also ask broader, open-ended questions. You can now type in queries like “fall foliage,” “latte art,” or “things to do in Tokyo” and expect to receive a wealth of valuable suggestions. This means that discovering new places and experiences is easier than ever, all thanks to the Google Maps AI algorithm.
+
+But there’s more to the story. Google Maps now boasts more detailed imagery, with lifelike buildings and improved highway lane guidance, especially when tricky exits are in play. It even provides HOV lane information and straightforward speed limit displays. Additionally, Google Maps is about to utilize AI to suggest lists of activities based on billions of photos. For example, if you’re planning things to do in Tokyo, it can categorize activities like anime or museum exhibitions, making trip planning a breeze.
+
+And don’t worry, electric vehicle (EV) drivers have not been left behind. Google Maps is gearing up to provide detailed charging station information, including compatibility with your car and the station’s usage history, so that you can make an informed choice.
+
+“Starting this week, building on our capabilities in cars with Google built-in, EV drivers on Android and iOS will now see even more helpful charging station information, including whether a charger is compatible with their vehicle and whether the available chargers are fast, medium, or slow to help you find the charging station that best meets your needs. And since roughly 25% of all chargers in the U.S. are down at any given time, you can also see when a charger was last used to help you avoid wasting time heading to a broken charger. These updates start rolling out globally on iOS and Android this week wherever EV charging station information is available,” Google said in the official announcement.
+
+These Google Maps AI updates set the course for the future of navigation and exploration. With AI at the helm, it promises to make our journeys more enjoyable, our directions more straightforward, and our discoveries more exciting. So, prepare for the next chapter of Google Maps as it rolls out this week, bringing a world of possibilities to your fingertips.
+
+Featured image credit: Henry Perks/Unsplash
+
+Summary: According to the latest announcement by the technology giant, the upcoming Google Maps AI makeover will bring quite new features to make things easier for users.
+This revamp is set to blur the lines between Google Maps and Google Search with new capabilities that’ll reshape how we use the service.
+Google Maps AI makeover comes with new featuresA star feature in this update is “Immersive View.” While not entirely new, it’s expanding its reach to cover more cities.
+This means that discovering new places and experiences is easier than ever, all thanks to the Google Maps AI algorithm.
+These Google Maps AI updates set the course for the future of navigation and exploration.
+
+Other Blogs by Onur Demirkol: https://dataconomy.com/author/onurdemirkol/

@@ -1,0 +1,52 @@
+Title: The data lakehouse: just another crazy buzzword?
+
+Article Link: https://dataconomy.com/2021/04/13/data-lakehouse-another-crazy-buzzword/
+
+Author: Helena Schwenk
+
+Publish Date: 2021-04-13
+
+Article:
+Data professionals have long debated the merits of the data lake versus the data warehouse. But this debate has become increasingly intense in recent times with the prevalence of data and analytics workloads in the cloud, the growing frustration with the brittleness of Hadoop, and hype around a new architectural pattern – the “data lakehouse.”
+
+The data lakehouse is a relatively new paradigm that refers to a hybrid data architecture that aims to mix the best of a data warehouse and data lake. If the term is new to you, you’re not alone.
+
+The terms explained
+
+To fully understand how these terms fit into the overall data landscape, it’s worth unpicking their similarities and differences.
+
+To begin with, all are used for the management of operational and transactional data, which support business intelligence (BI) and analytical workloads across both business departments and developer functions. Digging into their specific definitions also reveals the different goals they serve.
+
+Data warehouses, for example, are optimized for predefined and repeatable analytics queries where structured data can be scaled across an organization. Because they are often used for business performance and regulatory reporting, data warehouses are highly governed data environments and are suited towards high-performance, sometimes complex queries and high levels of concurrent access.
+
+Data lakes collate unrefined structured and semi-structured data from multiple different sources and are subject to less rigorous data governance regimes. They often use cheaper and scalable storage where different processing styles and methods, including machine learning (ML) and batch-orientated workloads, are supported. However, data lakes are rarely optimized for the demands of production delivery – such as concurrency, latency, and workload management.
+
+Despite some apparent differences, overlaps between the two architectural patterns do exist. For example, a data lake can use approaches that employ star schemas for batch-orientated queries, and a data warehouse could be leveraged to operationalize data science with ML models running against governed data.
+
+Cutting through the data lakehouse hype
+
+Conceptually, a data lakehouse is designed to combine the core elements of data warehousing with the core concepts of a data lake, for example, by providing the lower costs of cloud storage for raw data with support for high-performance processing of ML, BI, analytics workloads, and data governance.
+
+This might sound like a good idea, but the lakehouse is an emerging concept that is still misunderstood by many and subject to a lot of hype and speculation.
+
+Despite this, there are strong advocates on both sides of the data architecture divide. Those with a background in data warehousing position the lakehouse around relational technology concepts. Those on the data lake side have roots in ML and Spark processing, where support for Java, Python, and R workloads is a higher priority. Both, however, promote the use of the cloud for storage and analytical processing.
+
+It’s rarely an either/or decision
+
+While the debate continues, the lakehouse is unlikely to remove the need for either the data lake or data warehouse, at least in the short term, not least for those organizations who have made significant investments in either or both. Likewise, as an emerging concept, it still has a lot of catching up to do in terms of the decades of innovation we have seen in areas such as in-database analytics, query and performance optimization, and columnar storage and compression.
+
+There is also still a sound argument for the co-existence of data warehouses and data lakes where it provides a basis for businesses to scale and democratize data as well as rationalizing data ecosystems. A co-existence approach, in whatever combination, draws on the strengths of each architectural design to serve a wider number of use cases than any of these architectures can support independently.
+
+Prioritize flexibility
+
+With the backdrop of an ever-changing and complex data landscape, data professionals need to ensure their existing environment that utilizes data warehouses and/or data lakes work together rather than against each other. For example, the data warehouse can provide well-defined and repeatable data analytics while the data lake supports more experimental or developer-led ML use cases utilizing a wider pool of data. Combining both gives organizations the ability to support different use cases and different audiences – such as business users and data scientists, and apply different data governance treatments, data curation, and data quality.
+
+Exactly where and how a data lakehouse fits in this environment remains to be seen. The concept is still untested by the market at large, with the promise of the one-size-fits-all approach likely to be a step too far for those organizations who have invested significantly in data lakes and warehouses. It is, however, an important debate to have in such an innovative and fast-moving data infrastructure market that continues to evolve.
+
+Summary: Data professionals have long debated the merits of the data lake versus the data warehouse.
+Cutting through the data lakehouse hypeConceptually, a data lakehouse is designed to combine the core elements of data warehousing with the core concepts of a data lake, for example, by providing the lower costs of cloud storage for raw data with support for high-performance processing of ML, BI, analytics workloads, and data governance.
+There is also still a sound argument for the co-existence of data warehouses and data lakes where it provides a basis for businesses to scale and democratize data as well as rationalizing data ecosystems.
+Prioritize flexibilityWith the backdrop of an ever-changing and complex data landscape, data professionals need to ensure their existing environment that utilizes data warehouses and/or data lakes work together rather than against each other.
+Combining both gives organizations the ability to support different use cases and different audiences – such as business users and data scientists, and apply different data governance treatments, data curation, and data quality.
+
+Other Blogs by Helena Schwenk: https://dataconomy.com/author/helena-schwenk/

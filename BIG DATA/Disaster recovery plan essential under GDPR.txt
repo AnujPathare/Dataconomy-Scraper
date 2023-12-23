@@ -1,0 +1,64 @@
+Title: Disaster recovery plan essential under GDPR
+
+Article Link: https://dataconomy.com/2017/07/18/disaster-recovery-plan-gdpr/
+
+Author: Dataconomy News Desk
+
+Publish Date: 2017-07-18
+
+Article:
+Data security is being pushed to the top of the agenda by the new General Data Protection Regulation that comes into force next May, and that means a focus on issues that many organisations have neglected.
+
+Companies across the globe that process data about European Union (EU) individuals will need to take much more stringent security measures to keep that data safe from prying eyes, whether those are criminals or employees.
+
+One area of the GDPR that hasn’t got quite as much attention though is continued access to data. In fact, it seems that the regulation will create a disaster recovery obligation on organisations, so that if there are any attacks or unforeseen problems that bring a company off-line, they will need to get back up and running as fast as possible, or face a fine as well as the wrath of their customers.
+
+Getting to grips with the GDPR
+
+The GDPR is an EU-wide piece of legislation which will creates a revolutionary series of new rights for individuals and will force everyone to think differently about how individuals’ data is treated. Essentially, the principle is that everyone becomes the owner of their personal information. A Data Subject – any individual – has the right to much greater control over how their data is used by Data Controllers – people or companies who keep personal information such as sales records – and Data Processors, the people who use the data, such as call centres.
+
+One of the responsibilities of both data controllers and data processors is to keep that data safe, and if there is a data breach, organisations can be fined up to 4% of their annual global turnover or €20 million.
+
+“Security of processing” and the GDPR
+
+For all the focus on individual rights and the possibilities of a breach, one area of the GDPR has been broadly overlooked – article 32, the security of processing.
+
+This includes two provisions which, according to Giancarlo Butti, a security expert and author, mean that a disaster recovery plan is an essential part of every organisation’s set up:
+
+“the ability to ensure the ongoing confidentiality, integrity, availability and resilience of processing systems and services”
+
+and
+
+“the ability to restore the availability and access to personal data in a timely manner in the event of a physical or technical incident”
+
+Previous EU regulations gave firms up to seven days to restore data – restoring access to personal data in a “timely manner” is likely to be interpreted more strictly. As Butti says: “Surely we are far from the concept of ‘seven days’.”
+
+Why businesses need a disaster recovery plan
+
+Many larger businesses have relied on back-up tapes as a fixed form of storage – sometimes known as “immutable buckets” of data as they can’t be amended and are separate from the rest of the system. Tapes create an “air gap” which means that even if a ransomware attack succeeds, the tapes cannot be affected.
+
+However, the length of time that tapes require to restore data may be prohibitive, both for the business and its potential reputational damage, and under the new GDPR.
+
+Companies like Sungard AS offer online solutions which are much faster and use a Data-Recovery-as-a-Service model which means that data protection and recovery expertise can be brought into focus on the affected system. Since most businesses have multiple systems and data flows, there is seldom any single way of protecting data, which makes a holistic approach vital.
+
+Cloud data storage and recovery, using data centres such as Amazon’s AWS service, are now being used by NASA, the United States Air Force and the US Department of Justice, which offers a great vote of confidence in the levels of security for the data.
+
+Not having a disaster recovery plan means losing valuable data – and worse
+
+Data is at the heart of most companies’ ability to do business, which means that every minute counts. Banks that can’t give customers access to their money, when RBS and NatWest customers could not use ATMs, or an airline which can’t check in passengers, like British Airways’ computer failure – these issues cause massive disruption to a business, reputational damage and significant financial loss.
+
+In 2016, a study by IBM found that a single data breach cost companies in the US around $7million on average, with an over increase in costs amounting to seven percent. Many businesses that don’t have a data recovery plan simply never recover. In the case of British Airways, the incident led to 700 cancelled flights, 75,000 passengers stranded and a bill of £80million.
+
+The GDPR may seem at first glance to add a significant level of non-urgent and overly arduous regulation to a business. Yet the GDPR offers an opportunity for businesses and organisations to develop a detailed and practical disaster recovery plan that will protect them from serious harm.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: One area of the GDPR that hasn’t got quite as much attention though is continued access to data.
+Not having a disaster recovery plan means losing valuable data – and worseData is at the heart of most companies’ ability to do business, which means that every minute counts.
+Many businesses that don’t have a data recovery plan simply never recover.
+The GDPR may seem at first glance to add a significant level of non-urgent and overly arduous regulation to a business.
+Yet the GDPR offers an opportunity for businesses and organisations to develop a detailed and practical disaster recovery plan that will protect them from serious harm.
+
+Other Blogs by Dataconomy News Desk: https://dataconomy.com/author/dataconomynewsdesk/

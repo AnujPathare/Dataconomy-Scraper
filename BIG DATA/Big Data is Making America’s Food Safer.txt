@@ -1,0 +1,28 @@
+Title: Big Data is Making America’s Food Safer
+
+Article Link: https://dataconomy.com/2014/06/24/big-data-making-americas-food-safer/
+
+Author: Eileen McNulty
+
+Publish Date: 2014-06-24
+
+Article:
+Each year, 1 in 6 Americans gets sick from simply eating the food they’ve purchased. Of these 48 million people affected, 128,000 are hospitalized, and 3,000 die simply from eating the wrong food. But Big Data might be able to alter these damning statistics. Food producers and transporters are now turning to sensor-based technologies to gain greater understanding of their supply chains. The technology is so granular, that it will allow transporters to trace contaminated food right back to field it came from.
+
+Still, trying to track such elaborate and multi-faceted journeys is not without its difficulties. “The challenge is that there are many different vendors and many different scheduling requirements,” said Greg Braun, senior vice president sales and marketing for C3 Solutions, which provides dock scheduling and yard management solutions. “Yard transactions should be done electronically, yet they get done via email or through a highly manual process.”
+
+One technology they’re employing is “track and trace” monitoring, a process which uses sensor- and RFID-based technologies to trace food shipments through warehouses, distribution centres and eventually retail outlets. As well as GPS information which can locate any given food shipment within the logistics network, they’re also using sensors within the supply chain to make sure certain conditions are met. For instance, if the goods are “cold chain” and have to be refrigerated, or have to be kept within a specific range of humidity, sensors will collect data on the temperature/humidity, and send out automatic alerts if these conditions aren’t being met.
+
+This all comes on the heels of an outbreak of E.coli in beef distributed across America last month. 1 in 6 people getting ill from bad food, particularly in a developed nation, is simply too high of a statistic- let’s hope this injection of big data into food transport leads to some marked improvements.
+
+Read more here.
+
+(Image credit: Flickr)
+
+Summary: Each year, 1 in 6 Americans gets sick from simply eating the food they’ve purchased.
+Of these 48 million people affected, 128,000 are hospitalized, and 3,000 die simply from eating the wrong food.
+Food producers and transporters are now turning to sensor-based technologies to gain greater understanding of their supply chains.
+The technology is so granular, that it will allow transporters to trace contaminated food right back to field it came from.
+1 in 6 people getting ill from bad food, particularly in a developed nation, is simply too high of a statistic- let’s hope this injection of big data into food transport leads to some marked improvements.
+
+Other Blogs by Eileen McNulty: https://dataconomy.com/author/eileen-mcnulty/

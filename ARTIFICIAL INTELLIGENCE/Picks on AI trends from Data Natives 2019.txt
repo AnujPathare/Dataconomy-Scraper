@@ -1,0 +1,84 @@
+Title: Picks on AI trends from Data Natives 2019
+
+Article Link: https://dataconomy.com/2019/12/19/picks-on-ai-trends-from-data-natives-2019/
+
+Author: Diksha Dutta
+
+Publish Date: 2019-12-19
+
+Article:
+A sneak-peek into a few AI trends we picked for you from Data Natives 2019 – Europe’s coolest Data Science gathering.
+
+We are about to enter 2020, a new decade in which Artificial Intelligence is expected to dominate almost all aspects of our lives- the way we live, the way we communicate, how we sleep, what we do at work and more. You may say it already does- and it is true. But I assume the dominance will magnify in the coming decade and humans will become even more conscious of tech affecting their life and the fact that AI is now living with them as a part of their everyday existence. McKinsey estimates AI techniques have the potential to create between $3.5T and $5.8T in value annually across nine business functions in 19 industries. The study equates this value-add to approximately 40% of the overall $9.5T to $15.4T annual impact that could be enabled by all analytical techniques. Something or the other makes us a part of this huge wave in the tech industry, even if we don’t realize it. Hence, the question we asked this year at Data Natives 2019, our yearly conference was “What makes us Tech?”– consciously or subconsciously.
+
+
+
+Elena Poughia, Founder and Head Curator at Data Natives and Managing Director Dataconomy Media defines this move towards the future in a line,
+
+“We are on a mission to make Data Science accessible, open, transparent and inclusive.”
+
+It is certainly difficult to capture the excitement and talks at this year’s Data Natives in one single piece as it included 7 days of 25+ satellite events, 8.5 hours of workshops, 8 hours of inspiring keynotes, 10 hours of panels on five stages and a 48 hours-long hackathon, over 3500 data enthusiasts and 182+ speakers. Hence, I decided to pick up a few major discussions and talks that define critical trends in AI for this year and the coming decade from Data Natives 2019. Here is a look:
+
+How human intelligence will rescue AI?
+
+In the world of Data Scientists, it is now fashionable to call AI stupid. Unable to adapt to change, to be aware of itself and its actions, a simple performer of the algorithms created by the human hand; and especially supposed to be unfit to reproduce the functioning of a human brain. According to Dr Fanny Nusbaum, Chercheur Associé en Psychologie et Neurosciences, there is a form of condescension, of snobbery in these allegations.
+
+“Insulting a machine is obviously not a problem. More seriously, this is an insult to some human beings. To understand, we must ask ourselves: what is intelligence?”
+
+Fanny Nusbaum explains that intelligence is indeed a capacity for adaptation, but adaptation can take many forms. There is a global intelligence, based on the awareness allowing adaptation to new situations and an understanding of the world. Among the individuals demonstrating an optimal adaptation in this global thinking, one can find the great thinkers, philosophers or visionaries, called the “Philocognitives”.
+
+But there is also a specific intelligence, with adaptation through the execution of a task and whose representatives the most zealous, the “Ultracognitives”, can be high-level athletes, painters, musicians. This specific intelligence strangely looks like what AI does. A swim lane, admittedly, with little ability to adapt to change, perhaps, but the task is usually accomplished in a masterful way. Thus, rather than gargling a questionable scientific knowledge of what intelligence is, perhaps to become the heroes of an AI-frightened population, some experts would be better off seeking convergence between human and artificial intelligences that can certainly work miracles hand in hand.
+
+The role of AI in the Industrial Revolution
+
+Alistair Nolan, a Senior Policy Analyst at the OECD, spoke about AI in the manufacturing sector. He emphasized that AI is now used in all phases of production, from industrial design to research. However, the rate of adoption of AI among manufacturers is low. This is a particular concern in a context where OECD economies have experienced a decline in the rate of labor productivity growth for some decades. Among other constraints, AI skills are everywhere scarce, and increasing the supply of skills should be a main public-sector goal.
+
+“All countries have a range of institutions that aim to accelerate technology diffusion, such as Fraunhofer in Germany, which operates applied technology centers that help test and prototype technologies. It is important that such institutions cater to the specific needs of firms that wish to adopt AI. Data policies, for instance, linking firms with data that they don’t know how to use to expertise that can create value from data is also important. This can be facilitated through voluntary data-sharing agreements that governments can help to broker. Policies that restrict cross-border flows of data should generally be avoided. And governments must ensure the right digital infrastructure, such as fiber-based broadband,” he said.
+
+AI, its bias and the mainstream use
+
+The AI Revolution is powerful, unstoppable, and affects every aspect of our lives. It is fueled by data, and powered by AI practitioners. With great power comes great responsibility to bring trust, sustainability, and impact through AI.
+
+AI needs to be explainable, able to detect and fix bias, secure against malicious attacks, and traceable: where did the data come from, how is it being used? The root cause of biased AI is often biased human decisions infused into historic data – we need to build diverse human teams to build and curate unbiased data.
+
+Leading AI platforms offer capabilities for trust & security, low-code build-and-deploy, and co-creation, also lowering the barrier of entry with tools like AutoAI. Design Thinking, visualization, and data journalism are a staple of successful AI teams. Dr. Susara van den Heever, Executive Decision Scientist and Program Director, IBM Data Science Elite said that her team used these techniques to help James Fisher create a data strategy for offshore wind farming, and convince stakeholders of the value of AI.
+
+“AI will have a massive impact on building a sustainable world. The team at IBM tackled emissions from the transport industry in a co-creation project with Siemens. If each AI practitioner focuses some of their human intelligence on AI for Good, we will soon see the massive impact,” she says.
+
+The use of Data and AI in Healthcare
+
+Before we talk about how AI is changing healthcare, it is important to discuss the relevance of data in the healthcare industry. Bart De Witte, Founder HIPPO AI Foundation and a digital healthcare expert rightly says,
+
+“Data isn’t a commodity, as data is people, and data reflects human life. Data monetization in healthcare will not only allow surveillance capitalism to enter into an even deeper layer of our lives. If future digital medicine is built on data monetization, this will be equivalent to the dispossession of the self. “
+
+He mentioned that this can be the beginning of an unequal new social order, a social order incompatible with human freedom and autonomy. This approach forces the weakest people to involuntarily participate in a human experiment that is not based on consensus. In the long run, this could lead to a highly unequal balance of power between individuals or groups and corporations, or even between citizens and their governments.
+
+One might have reservations about the use of data in healthcare but we cannot deny the contribution of AI to this industry. Tjasa Zajc, Business Development and Communications Manager at Better emphasized on “AI for increased equality between the sick and the healthy” in her talk. She noted that researchers are experimenting with AI software that is increasingly able to tell whether you suffer from Parkinson’s disease, schizophrenia, depression, or other types of mental disorders, simply from watching the way you type. AI-supported voice technologies are detecting our mood and help with psychological disorders, and machine vision technologies are recognizing what’s invisible to the human eye. Artificial pancreas — a closed-loop system automatically measuring glucose levels and regulating insulin delivery, is changing diabetes into an increasingly easier condition to manage.
+
+“While a lot of problems plague healthcare, at the same time, many technological innovations are improving the situation for doctors and patients. We are in dire need of that because the need for healthcare is rising, and the shortage of healthcare workers is increasing,” she said.
+
+
+
+The Future of AI in Europe
+
+According to McKinsey, the potential of Europe to deliver on AI and catch up against the most AI-ready countries such as the United States and emerging leaders like China is large. If Europe on average develops and diffuses AI according to its current assets and digital position relative to the world, it could add some €2.7 trillion, or 20 percent, to its combined economic output by 2030. If Europe were to catch up with the US AI frontier, a total of €3.6 trillion could be added to collective GDP in this period.
+
+Why are some companies absorbing AI technologies while most others are not? Among the factors that stand out are their existing digital tools and capabilities and whether their workforce has the right skills to interact with AI and machines. Only 23 percent of European firms report that AI diffusion is independent of both previous digital technologies and the capabilities required to operate with those digital technologies; 64 percent report that AI adoption must be tied to digital capabilities, and 58 percent to digital tools. McKinsey reports that the two biggest barriers to AI adoption in European companies are linked to having the right workforce in place.
+
+The European Commission has identified Artificial Intelligence as an area of strategic importance for the digital economy, citing it’s cross-cutting applications to robotics, cognitive systems, and big data analytics. In an effort to support this, the Commission’s Horizon 2020 funding includes considerable funding AI, allocating €700M EU funding specifically. This panel of “future of AI in Europe” was one of the most sought after panels at the conference by Eduard Lebedyuk, Sales Engineer at Intersystems, Alistair Nolan, Organisation for Economic Co-operation and Development at OECD and Nasir Zubairi, CEO at The LHoFT – Luxembourg House of Financial Technology, Taryn Andersen President & co-founder at Impulse4women & a jury Member at EIC SME Innovation Funding Instrument, Dr. Fanny Nusbaum Fondatrice et directrice du Centre PSYRENE, PSYchologie, REcherche, NEurosciences and moderated by Elena Poughia, Founder & CEO of Datanatives.
+
+AI and Ethics. Why all the fuss?
+
+Amidst all these innovations in AI that are affecting all sectors of the economy, the aspect that cannot and should not be forgotten is ‘Ethics in AI’. A talk by Dr. Toby Walsh, Professor of AI at the TU Berlin emphasized the need to call out bad behavior when it comes to ethics and wrongs in the world of AI. The most fascinating statement of his talk was when he said that the definition of “fair” itself is questionable. There are 21 definitions of ‘fair’ and most definitions are mutually incompatible unless the predictions are 100 percent accurate or groups are identical. In Artificial Intelligence, maximizing profit will give you a completely different solution “again” and a solution that is unlikely to be seen as fair. Hence, while AI does jobs for us, it is important to question what is “fair” and how we define it at every step.
+
+(The views expressed by the speakers at Data Natives 2019 are their own and the content of this article is inspired by their talks)
+
+Read a full event report on Data Natives 2019 here.
+
+Summary: A sneak-peek into a few AI trends we picked for you from Data Natives 2019 – Europe’s coolest Data Science gathering.
+Hence, the question we asked this year at Data Natives 2019, our yearly conference was “What makes us Tech?”– consciously or subconsciously.
+Hence, I decided to pick up a few major discussions and talks that define critical trends in AI for this year and the coming decade from Data Natives 2019.
+If each AI practitioner focuses some of their human intelligence on AI for Good, we will soon see the massive impact,” she says.
+(The views expressed by the speakers at Data Natives 2019 are their own and the content of this article is inspired by their talks)Read a full event report on Data Natives 2019 here.
+
+Other Blogs by Diksha Dutta: https://dataconomy.com/author/diksha-dutta/

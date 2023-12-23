@@ -1,0 +1,54 @@
+Title: Hadoop and Spark: A Match Made in (Big Data) Heaven
+
+Article Link: https://dataconomy.com/2016/03/07/hadoop-and-spark-a-match-made-in-big-data-heaven/
+
+Author: Jim Scott
+
+Publish Date: 2016-03-07
+
+Article:
+If you listen in on what people are talking about at Big Data conferences, chances are you’ll hear a lot of buzz around Hadoop and Spark. People often think of Hadoop and Apache Spark as key tools for tackling a wide range of big data challenges, but they assume that they have to choose one tool over the other. However, these choices are not mutually exclusive; there are many situations where you are much better off if you are using both, as they complement each other in many situations. Let’s take a look at both frameworks and how they can play nicely together on the same team.
+
+What Hadoop and Spark Bring to the Big Data Table
+
+Until just recently, Hadoop was considered the leading open source framework. However, lately there have been many reports that proclaim that Hadoop is dead. Click bait headlines aside, Hadoop is very much alive and kicking, and continues to be the foundation for big data initiatives at organizations around the world.
+
+Hadoop, as you probably already know, is a software framework that’s used for storing data in a distributed fashion which allows the processing of very large sets of data on commodity hardware. Hadoop MapReduce performs batch processing, and is able to provide fast and reliable analysis of both structured data and unstructured data.
+
+Spark, on the other hand, is a general-purpose computation engine that performs processing of data in-memory. It supports data streaming along with distributed processing. Organizations tend to leverage Spark for providing online product recommendations, aggregating machine logs, detecting fraud, and implementing real-time marketing campaigns. For developers, Spark is relatively easy to learn, as it supports a wide range of programming languages, including its native language of Scala, as well as Python, R, Java, and SQL.
+
+Why You Should Consider Using Hadoop and Spark Together
+
+If you think about Spark as merely a replacement for Hadoop, you are short-changing yourself. Instead of replacing Hadoop, consider Spark a complementary technology that should be used in partnership with Hadoop. Keep in mind that Spark can run separately from the Hadoop framework, where it can integrate with other storage platforms and cluster managers. It can also run directly on top of Hadoop, where it can easily leverage its storage and cluster manager. Simply put, Spark can run on Hadoop, Mesos, standalone, or in the cloud.
+
+How Hadoop can add value to Spark
+
+There are two key ways that Hadoop can add value to Spark:
+
+Spark does not provide an independent storage system. By integrating Spark with Hadoop, organizations can take advantage of many of the Hadoop capabilities that you need in your production environments. Resource management is accomplished via the YARN resource manager, which handles scheduling tasks across available nodes in the cluster. The underlying file system (HDFS or MapR-FS), is where data is persisted when the cluster runs out of free memory, and don’t forget that Spark must load the data from somewhere in order to process it. Additionally, disaster recovery capabilities are inherent with Hadoop. You can integrate Hadoop with Spark for tasks such as cluster administration and data management for data processing and analysis workloads.
+
+Hadoop provides enhanced data security, which is critical for production workloads, especially in regulated industries such as financial services and healthcare. Hadoop makes it possible for Spark workloads to be deployed on available resources anywhere in a distributed cluster, without needing to manually allocate and track individual tasks.
+
+How Spark can add value to Hadoop
+
+Conversely, Spark can complement Hadoop in two key ways:
+
+Spark’s machine learning library, called MLlib, provides capabilities that are not easily exploited in Hadoop MapReduce without the use of a general-purpose computation engine like Spark. These machine learning algorithms are able to execute faster since they’re executed in-memory, as opposed to MapReduce programs which have to move data in and out of the disks between different stages of the processing pipeline.
+
+Hadoop stores data on the disk, while Spark allows fast in-memory processing of large data volumes. Spark first places data into RDDs (Resilient Distributed Datasets) so that the data may be accessed quickly. This feature is a major contributor to the capabilities of a Hadoop cluster, as it reduces lag time and increases performance. In addition, RDDs are resilient because Spark tracks their lineage. Whenever there is a failure in the system, RDDs can be recomputed using the prior information.
+
+Clearly, newer big data frameworks such as Spark are gaining momentum. As of early 2015, more than 500 organizations were using Spark in production, according to the Apache Software foundation. In fact, the foundation states that organizations are running Spark on clusters of thousands of nodes, with the largest cluster containing close to 8,000 nodes. Does this mean the end of Hadoop? No, and industry research confirms this. Market research firm MarketAnalysis.com states in its June 2015 report that the Hadoop market is forecast to grow at a compound annual growth rate of 58%, surpassing $1 billion by the year 2020.
+
+Remember, Spark is meant to enhance, not replace, the Hadoop stack. In order to gain even greater value from your big data endeavors, you should consider using Hadoop and Spark together for better analytics and storage capabilities. Look for a Hadoop distribution that supports the complete Spark stack and also offers a completely free online interactive training program to get you started, and you’ll be headed into a bright future where you can run your operational and analytics workloads on a single cluster in a highly-performing, scalable manner. Now that’s a match made in (big data) heaven.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: What Hadoop and Spark Bring to the Big Data TableUntil just recently, Hadoop was considered the leading open source framework.
+Why You Should Consider Using Hadoop and Spark TogetherIf you think about Spark as merely a replacement for Hadoop, you are short-changing yourself.
+By integrating Spark with Hadoop, organizations can take advantage of many of the Hadoop capabilities that you need in your production environments.
+You can integrate Hadoop with Spark for tasks such as cluster administration and data management for data processing and analysis workloads.
+Now that’s a match made in (big data) heaven.
+
+Other Blogs by Jim Scott: https://dataconomy.com/author/jims/

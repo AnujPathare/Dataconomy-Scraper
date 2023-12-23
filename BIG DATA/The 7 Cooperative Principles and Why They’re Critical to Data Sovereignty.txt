@@ -1,0 +1,84 @@
+Title: The 7 Cooperative Principles and Why They’re Critical to Data Sovereignty
+
+Article Link: https://dataconomy.com/2022/02/01/7-cooperative-principles-data-sovereignty/
+
+Author: Thorsten Dittmar
+
+Publish Date: 2022-02-01
+
+Article:
+Cooperatives are best understood as groups of people with identical or highly similar needs. These needs have traditionally included insurance, money lending and saving, achieving economies of scale, or marketing goods. With data being one of the most valuable commodities on earth (if not the most valuable), it is only natural to apply cooperative principles to the use of information.
+
+The first recognized cooperative business is the “Philadelphia Contributionship for the Insurance of Houses from Loss by Fire.” It was established in 1752 with none other than Benjamin Franklin as one of its founders, and it is still in operation today.
+
+The dictionary defines a cooperative as “a jointly owned enterprise engaging in the production or distribution of goods or supplying services, operated by its members for their mutual benefit, typically organized by consumers.” Of course, the dictionary definition does not tell us the guiding principles that make cooperatives successful. It also doesn’t explain whether they stand the test of time and can be applied to data sovereignty as successfully as we used them for insurance and savings.
+
+The seven cooperative principles
+
+Cooperatives worldwide generally operate according to the same core principles and values, adopted by the International Co-operative Alliance in 1995, which in turn were based on those laid out by the Rochdale Society of Equitable Pioneers in 1844, otherwise known as “Rochdale Principles.”
+
+Voluntary and open membership
+
+Anyone can join a co-op – they don’t discriminate based on gender, social, racial, political, or religious factors.
+
+Democratic member control
+
+Members control their business by deciding how it’s run and who leads it.
+
+Members’ economic participation
+
+All co-op members invest in their cooperative so that people, not shareholders, benefit from a co-op’s profits.
+
+Autonomy and independence
+
+When making business deals or raising money, co-ops never compromise their autonomy or democratic member control.
+
+Education, training, and information
+
+Co-ops provide education, training, and information so their members can contribute effectively to the success of their co-op.
+
+Cooperation among cooperatives
+
+Co-ops believe working together is the best strategy to empower their members and build a robust co-op economy.
+
+Concern for the community
+
+Co-ops are community-minded and contribute to the sustainable development of their communities by sourcing and investing locally.
+
+Applying 19th-century cooperative principles to 21st-century data
+
+Everyone should have a right to privacy, especially on the internet. It has become impossible to move around on the internet without leaving traces of personal data. And in what seems an unfair twist, we give that information away for free while giant corporations make billions from our data at the expense of our privacy.
+
+If we want a fairer solution, we all have to be part of it. It’s easy to see how most cooperative principles, including voluntary and open membership, democratic member control, economic participation, and concern for the community, are the cornerstones of such an endeavor.
+
+And let’s be clear – nobody suggests that data collection is inherently evil or wrong. Think of all the services that you enjoy using – ordering food, calling a ride, streaming movies, or paying with one click. For all of these things, data is required. It’s not just about the pleasant but also about the necessary, such as fighting a global pandemic or coordinating aid in the event of a disaster.
+
+The problem is we don’t control our data. Monopolies like Facebook, Google, and Amazon do. They have built empires based on the information we give away for free in return for personalized services. This not only harms us, but it also harms all citizens, and our economy, which is why a cooperative fits the solution so ideally – an opportunity for us to come together and take back control of our data.
+
+Of course, any cooperative concerned with the fair use of personal information needs to work with those organizations that require data to provide their services, and that’s where the fourth and sixth principles become essential.
+
+Another way to think about principle four – autonomy and independence – is that if the cooperative enters into agreements with other organizations, including governments, or raises capital from external sources, it should do so on terms that uphold democratic control by their members and maintain their cooperative autonomy.
+
+Similarly, principle six – cooperation among cooperatives – will become crucial to building a worldwide data sovereignty movement. Cooperatives serve their members most effectively and strengthen the cooperative movement by working together through local, national, regional, and international structures and partnering with other co-ops.
+
+Finally, education, training, and information – the fifth principle – are more critical now than ever. While data privacy, security, and sovereignty are undoubtedly more mainstream than ever before – thanks to whistleblowers like Brittany Kaiser and Frances Haugen and documentaries such as The Great Hack and The Social Dilemma – there’s a long way to go in educating the world’s five billion internet users.
+
+Thanks to their structure, cooperatives offer the ability to give away knowledge at scale in ways that a single organization simply can’t.
+
+Standing the test of time
+
+There are few examples of anything created in the 18th and 19th centuries that still apply to the modern world, but clearly, the seven cooperative principles are an outlier.
+
+Not only do they form a foundation upon which to build a strong cooperative, but they also offer a blueprint for every data stakeholder – consumers, businesses, corporations, organizations, governments, regulatory bodies, and more – to create a fair solution for all.
+
+Cooperatives offer a unique opportunity to bring privacy back in an era where we have almost given up on the idea of returning control of information to the consumers that provide it.
+
+Now, all that remains is for enough people to want to see – and be – the change and for the platforms and solutions to enable a data sovereignty revolution.
+
+Summary: With data being one of the most valuable commodities on earth (if not the most valuable), it is only natural to apply cooperative principles to the use of information.
+It also doesn’t explain whether they stand the test of time and can be applied to data sovereignty as successfully as we used them for insurance and savings.
+Applying 19th-century cooperative principles to 21st-century dataEveryone should have a right to privacy, especially on the internet.
+Similarly, principle six – cooperation among cooperatives – will become crucial to building a worldwide data sovereignty movement.
+Now, all that remains is for enough people to want to see – and be – the change and for the platforms and solutions to enable a data sovereignty revolution.
+
+Other Blogs by Thorsten Dittmar: https://dataconomy.com/author/thorsten-dittmar/

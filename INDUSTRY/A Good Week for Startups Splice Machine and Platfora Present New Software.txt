@@ -1,0 +1,30 @@
+Title: A Good Week for Startups: Splice Machine and Platfora Present New Software
+
+Article Link: https://dataconomy.com/2014/05/19/good-week-startups-splice-machine-platfora-present-new-software/
+
+Author: Eileen McNulty
+
+Publish Date: 2014-05-19
+
+Article:
+The analytics startups market was a hive of activity last week. As well as more established companies making exciting announcements, such as IBM’s new software-defined storage technology and SAS’ expansion of their Hadoop in-memory analytics range, it was a big week for the startups too.
+
+Monday saw Splice Machine’s Hadoop database launch into public beta. Talking about the unqiue features of their software, Splice Machine CEO and co-founder Monte Zweben said: “It’s radically different to anything else that’s out there because it’s the first true ANSI SQL transactional database on the Hadoop stack. It can power concurrent applications. People can read and write from the database at the same time.” Splice Machine also claim the price-performance of their software is ten times better than that of Oracle RAC Implementations.
+
+On Wednesday, Platfora, another company working with the Hadoop stack, announced updates to their software which would allow for increased data mobility. In this update, data in Platfora “lenses” can be made available for statistical analysis in R, or for integration into recommendation engines. Ben Werther, founder and CEO of Platfora said new software would allow organisations to “interactively work with multi-structured data”, and would help them “create new opportunities and solve once unsolvable problems, often within days of installation”.
+
+Wednesday also saw the announcement of Acxiom’s acquisition of startup LiveRamp. However, initial excitement around the acquistion quickly dissolved when Acxiom’s shares plummeted 21% on the day of the acquisition. Shares are down 42% overall this year- it will be interesting to see what strategy Acxiom come up with to try and turn this around.
+
+As the market for big data analytics continues to expand, it’s good to see a diverse range of companies- from big names to startups- staking their claim to this incredibly profitable industry.
+
+Read more here.
+
+(Image credit: Platfora Website)
+
+Summary: The analytics startups market was a hive of activity last week.
+Monday saw Splice Machine’s Hadoop database launch into public beta.
+On Wednesday, Platfora, another company working with the Hadoop stack, announced updates to their software which would allow for increased data mobility.
+In this update, data in Platfora “lenses” can be made available for statistical analysis in R, or for integration into recommendation engines.
+As the market for big data analytics continues to expand, it’s good to see a diverse range of companies- from big names to startups- staking their claim to this incredibly profitable industry.
+
+Other Blogs by Eileen McNulty: https://dataconomy.com/author/eileen-mcnulty/

@@ -1,0 +1,72 @@
+Title: Enterprise data sovereignty is the latest trend, so what is it?
+
+Article Link: https://dataconomy.com/2022/02/22/enterprise-data-sovereignty-trend-what-is-it/
+
+Author: Thorsten Dittmar
+
+Publish Date: 2022-02-22
+
+Article:
+Data sovereignty is becoming a hot topic, but almost all articles on the subject and the bulk of the proposed solutions focus on consumers and their ability to own their data. Enterprise data sovereignty is a different beast, but it operates on the same principle – making data “free.”
+
+By free, we don’t mean “without charge or compensation.” Free in this sense means available and actionable data to all business units, departments, and territories. That may seem like a utopian organizational vision, but true enterprise data sovereignty is achievable. However, reaching the point where managing, monetizing, and unlocking the value of arguably every organization’s most valuable enterprise asset comes with significant challenges and changes to the status quo.
+
+Enterprise data sovereignty requires implementing modern approaches to management and architecture, global regulatory compliance, and new policies for data ownership.
+
+What is enterprise data sovereignty?
+
+Enterprise data sovereignty (EDS) means different things to different organizations. But the commonality is that it’s about data ownership, access, and monetization. At its most basic level, EDS boils down to these three points:
+
+Data availability and sharing within the organization
+
+Metadata management
+
+Data monetization
+
+For example, if the finance department needs to aggregate data from all over the world to perform its job function, it should have ready access to that data. If you consider all of the different business units in an organization, they need their metadata repositories to control who has access to what data within their department. If you consider the enterprise as a whole, it should be able to monetize its data for re-use or sell it through an open marketplace.
+
+Underpinning all of these points is compliance with local legislation governing trade and the use of personally identifiable information (PII), not just within the organization’s control but also globally. The primary driver for enterprise data sovereignty isn’t to share data with all employees, departments, and business units at will. It’s about enabling the company to function in different jurisdictions worldwide while respecting local laws.
+
+The bottom line is that having large amounts of your company’s data locked up in data islands isn’t good for business. The only way to unlock it is all at once, which requires a new approach.
+
+Why do we need enterprise data sovereignty?
+
+The primary motivation behind EDS is the demand for global access to information. It becomes exponentially more challenging to manage data when adding more data sources and people who need access. Just as scale creates technical challenges, it also creates governance and security issues.
+
+Although each group of users might not need all of the data in their silos, they do need the ability to access the relevant information they require when it’s needed. Allowing groups to both control what information they’re granted access to without having IT interfere while also allowing that information to be centrally managed for policy compliance is the only way to go.
+
+Then there are regulatory considerations, which come in different flavors globally. GDPR rules apply to Europe (no matter how flawed they may be), but other countries such as Vietnam and Indonesia have complex and challenging data privacy laws. The Equifax data breach in 2017 is a clear-cut example of the need for enterprise data sovereignty. Because of its cross-border nature, the data was easily accessible to anyone who cared to try and had access credentials.
+
+What are the benefits of enterprise data sovereignty?
+
+EDS enables your company to operate in different regions more seamlessly. For some businesses, having the option to store data locally means circumventing oppressive currency exchange rates. Others might have compliance rules that require them to keep certain types of information within the host country, so EDS is their only way to access it.
+
+Likewise, companies can use EDS as a differentiator for business growth by using geographic data sets. This is especially true for ecommerce companies who can sell a product in a particular region if they know where their customers live.
+
+What are the biggest challenges of enterprise data sovereignty?
+
+EDS requires greater visibility into what information is being accessed and by whom. Each department or business unit should specify exactly who can access its metadata and when, but this has to be done within the context of a globally compliant system. It’s not enough to safelist IP addresses or trusted business units because it becomes too easy for someone to get around this by using a VPN or other workarounds.
+
+Another challenge is that EDS requires an entirely different architecture from traditional data storage and management systems. Instead of a network of isolated database servers, EDS has to function globally while still allowing individual groups the autonomy they need. Centralized management is excellent for tracking access and compliance, but it’s not conducive to enabling rapid data sharing.
+
+How do you implement an enterprise data sovereignty strategy?
+
+Enterprise data sovereignty isn’t just about talking the talk; it’s about walking the walk. And that means having a global system in place that will enable your company to operate as needed wherever you’re required to do business.
+
+To start with, you need an encryption solution that allows your data to be encrypted at rest and in motion. This is foundational for enterprise data sovereignty because, without it, you don’t have anything to define what’s being shared, with whom, or how you should handle it.
+
+Next up is having a system that will facilitate enterprise data integrity. This means ensuring the data can only be accessed by authorized users and applications while not allowing sensitive information to fall into the wrong hands.
+
+Finally, you need to monitor access and enforce policies through an authentication solution. This is crucial because it allows your data sovereignty strategy to be audited, which helps ensure compliance and protects against breaches.
+
+Enterprise Data Sovereignty: the time is now
+
+Enterprise data sovereignty will continue to trend upwards at a considerable rate. It’s early enough to start planning, building, and implementing the new systems to deliver the evident and apparent benefits, but don’t wait too long. Your competitors will be moving quickly too, and with data being the most valuable commodity on earth, those who act now will reap the substantial rewards soonest.
+
+Summary: That may seem like a utopian organizational vision, but true enterprise data sovereignty is achievable.
+Enterprise data sovereignty requires implementing modern approaches to management and architecture, global regulatory compliance, and new policies for data ownership.
+The primary driver for enterprise data sovereignty isn’t to share data with all employees, departments, and business units at will.
+The Equifax data breach in 2017 is a clear-cut example of the need for enterprise data sovereignty.
+Enterprise Data Sovereignty: the time is nowEnterprise data sovereignty will continue to trend upwards at a considerable rate.
+
+Other Blogs by Thorsten Dittmar: https://dataconomy.com/author/thorsten-dittmar/

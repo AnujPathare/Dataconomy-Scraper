@@ -1,0 +1,46 @@
+Title: Europe’s largest data science community launches the digital network platform for this year’s conference
+
+Article Link: https://dataconomy.com/2020/10/30/europes-largest-data-science-community-launches-the-digital-network-platform-for-this-years-conference/
+
+Author: Evgeniya Panova
+
+Publish Date: 2020-10-30
+
+Article:
+The DN Unlimited Conference will take place online for the first time this year
+
+More than 100 speakers from the fields of AI, machine learning, data science, and technology for social impact, including from The New York Times, IBM, Bayer, and Alibaba Cloud
+
+Fully remote networking opportunities via a virtual hub
+
+The DN Unlimited Conference will take place online for the first time this year.
+
+The Data Natives Conference, Europe’s biggest data science gathering, will take place virtually and invite data scientists, entrepreneurs, corporates, academia, and business innovation leaders to connect on November 18-20, 2020.
+
+The conference’s mission is to connect data experts, inspire them, and let people become part of the equation again. With its digital networking platform, DN Unlimited expects to reach a new record high with 5000+ participants. Visitors can expect keynotes and panels from the industry experts and a unique opportunity to start on new collaborations during networking and matchmaking sessions.
+
+In 2019, the sold-out Data Natives conference gathered over 3000 data, technology professionals and decision-makers from over 30 countries, including 29 sponsors, 45 community and media partners, and 176 speakers.The narrative of DN Unlimited Conference 2020 focuses on assisting the digital transformation of businesses, governments, and communities by offering a fresh perspective on data technologies – from empowering organizations to revamp their business models to shedding light on social inequalities and challenges like Climate Change and Healthcare accessibility.
+
+Data science, new business models and the future of our society
+
+In spring 2020, the Data Natives community of 80.000 data scientists mobilised to tackle the challenges brought by the pandemic – from the shortage of medical equipment to remote care – in a series of Hackcorona and EUvsVirus hackathons. Through the collaboration of governments such as the Greek Ministry for Digital Governance, institutions such as the Charité and experts from all over Europe, over 80 data-driven solutions have been developed. DN Unlimited conference will continue to facilitate similar cooperation.
+
+The current crisis demonstrates that only through collaboration, businesses can thrive. While social isolation may be limiting traditional networking opportunities, we are more equipped than ever before to make connections online.
+
+The ability to connect to people and information instantly is so common now. It’s just the beginning of an era of even more profound transformation. We’re living in a time of monumental change. And as the cloud becomes ambiguous, it’s literally rewriting entire industries Gretchen O’Hara, Microsoft VP; DN Unlimited & HumanAIze Open Forum speaker.
+
+The crisis has called for a digital realignment from both companies and institutions. Elena Poughia, the Founder of Data Natives, perceives the transformation as follows:
+
+It’s not about deploying new spaces via data or technology – it’s about amplifying human strengths. That’s why we need to continue to connect with each other to pivot and co-create the solutions to the challenges we’re facing. These connections will help us move forward Elena Poughia, the Founder of Data Natives
+
+The DN Unlimited Conference will bring together data & technology leaders from across the globe – Christopher Wiggins (Chief Data Scientist, The New York Times), Lubomila Jordanova (CEO & Founder, Plan A), Angeli Moeller (Bayer AG, Head Global Data Assets), Jessica Graves (Founder & Chief Data Officer, Sefleuria) and many more will take on the virtual stages to talk about the growing urge for global data literacy, resources for improving social inequality and building a data culture for agile business development.
+
+On stage among others:
+
+Summary: The Data Natives Conference, Europe’s biggest data science gathering, will take place virtually and invite data scientists, entrepreneurs, corporates, academia, and business innovation leaders to connect on November 18-20, 2020.
+With its digital networking platform, DN Unlimited expects to reach a new record high with 5000+ participants.
+DN Unlimited conference will continue to facilitate similar cooperation.
+And as the cloud becomes ambiguous, it’s literally rewriting entire industries Gretchen O’Hara, Microsoft VP; DN Unlimited & HumanAIze Open Forum speaker.
+Elena Poughia, the Founder of Data Natives, perceives the transformation as follows:It’s not about deploying new spaces via data or technology – it’s about amplifying human strengths.
+
+Other Blogs by Evgeniya Panova: https://dataconomy.com/author/evgeniya-panova/

@@ -1,0 +1,104 @@
+Title: Big data basics for tech beginners
+
+Article Link: https://dataconomy.com/2018/02/01/big-data-basics-tech-beginners/
+
+Author: Alexander Bekker
+
+Publish Date: 2018-02-01
+
+Article:
+Despite big data currently ranking among top business intelligence and data analytics trends, businesses continue to suffer from a lack of data-savvy talent. Research from BARC shows half of respondents reporting a lack of analytical or technical know-how for big data analytics. This is good news for tech beginners, however, whose knowledge and skills are being welcomed by companies who want to reap the benefits of big data.
+
+If you find data science a tempting opportunity, you’ll benefit from this overview of big data basics for beginners. Below, we’ll discuss what the requirements for jobs are and which skills you should master in order to start a successful data science career.
+
+What is big data?
+
+Instead of reciting a definition or giving a generic overview, let’s look at big data’s key features through the lens of something that is well known to all of us: recommendation engines. These are tools widely used in e-commerce to aid in customer experience, but that also help gather data about consumers. Web store visitors search for products, view them, add and remove them from their carts, make purchases like, etc. – and every activity is an entry in a database. The entry may look like “Customer X opened Product Y page.” Millions of customers exist, and they perform dozens of activities per visit, which means that a retailer needs impressive storage capacity to log all these actions.
+
+Distributed data storage has become a solution to this problem. According to this principle, data is stored on numerous standard computers rather than on one custom-built powerful machine. This allows companies to achieve high scalability: when the number of records increases, the retailer can just add extra machines.
+
+Each time a visitor starts a new tour on the website, the analytical system tracks all their activities and
+
+compares them with previous activities of this particular visitor and those of other visitors. In order to perform this task quickly, the analytical system divides the tasks among numerous machines to enable parallel data processing. The analysis results lay the basis for personalized recommendations.
+
+Summing it up: Big data is data sets that resemble a log of events by nature and require distributed data storage, parallel data processing and special approaches and methods. You can learn more about big data use cases in this primer.
+
+Big data technology stack
+
+You should generally expect to master multiple technologies to become an expert in big data. We’ve selected the most popular frameworks and programming languages for a beginner to get acquainted with. The list is not exhaustive: so, feel free to go beyond it whenever you are ready.
+
+Big data frameworks
+
+ Apache Hadoop is a framework for parallel data processing and distributed data storage.
+
+ Apache Spark is a parallel data processing framework.
+
+ Apache Kafka is a stream processing framework.
+
+ Apache Cassandra is a distributed NoSQL database management system.
+
+Big data programming languages
+
+ Java
+
+ Scala
+
+ Python
+
+ R (not obligatorily, but good to know)
+
+What are the programming paradigms used in big data?
+
+It’s advisable to grasp general programming concepts (such as declarative and imperative), as
+
+well as big data-specific paradigms (MapReduce).
+
+Declarative paradigm is the approach to programming that is focused on declaring what the task is and the expected results are, without describing the control flow. This approach is used in database programming. For example, SQL (Structured Query Language) is a declarative language.
+
+Imperative programming is the approach focused on describing the commands that should be executed
+
+for the program to change its state. It is used for backend development (for instance, in Java).
+
+For example: Copy a directory from A to B shows a declarative approach, while if it’s enriched with
+
+such commands as check if there are existing files with the same name and copy only new ones – it’s an
+
+imperative approach.
+
+MapReduce paradigm is the concept of parallel processing of distributed data. It allows for dealing with large data sets by applying map function for data filtering, sorting or parameterization and reduce function for summarizing the interim results.
+
+Jobs in big data
+
+Now for the burning question: What kinds of big data jobs exist? The good news: there is quite a choice.
+
+ Data analysts closely interact with the end users to identify their needs, analyze and interpret
+
+data, build reports and visualize data.
+
+ Data scientists assess data sources and establish data collection procedures, apply algorithms
+
+and machine-learning techniques to mine data.
+
+ Data architects design databases and develop relevant documentation and policies.
+
+ Database managers control database performance, troubleshoot the corporate databases and
+
+upgrade hardware and software.
+
+ Big data engineers design, implement and support big data solutions.
+
+Don’t be misled by the fact that only one of the jobs – a big data engineer – refers to big data directly. With good knowledge of big data, you have more value for any job in data analytics. With the lack of
+
+such knowledge, you may have limited opportunities in terms of the tasks or projects assigned.
+
+Big data is evolving as more and more businesses see its benefits. However, research clearly shows a lack of big data experts. It’s time to bridge this gap by educating the next wave of tech beginners. To pave your way into the big data world, it’s important to get a strong grasp of the basics first. A newbie should cover both big data-specific technologies and general ones. Feel free to refer back to this article on your education journey, and best of luck!
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Summary: If you find data science a tempting opportunity, you’ll benefit from this overview of big data basics for beginners.
+Summing it up: Big data is data sets that resemble a log of events by nature and require distributed data storage, parallel data processing and special approaches and methods.
+Big data technology stackYou should generally expect to master multiple technologies to become an expert in big data.
+ Big data engineers design, implement and support big data solutions.
+Don’t be misled by the fact that only one of the jobs – a big data engineer – refers to big data directly.
+
+Other Blogs by Alexander Bekker: https://dataconomy.com/author/alexander-bekker/

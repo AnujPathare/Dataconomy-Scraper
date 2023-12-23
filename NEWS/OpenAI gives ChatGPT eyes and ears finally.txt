@@ -1,0 +1,98 @@
+Title: OpenAI gives ChatGPT eyes and ears finally
+
+Article Link: https://dataconomy.com/2023/09/25/image-search-chatgpt-chatgpt-voices-how/
+
+Author: Eray Eliaçık
+
+Publish Date: 2023-09-25
+
+Article:
+Soon, you will hear a lot about “ChatGPT image search” and “ChatGPT voices.” Because the popular AI chatbot is no longer a companion that lives in your browser tab silently. OpenAI just announced that ChatGPT can now see, hear, and speak. Of course, if you are a ChatGPT Plus or Enterprise subscriber.
+
+It’s time to welcome a new era of interaction as ChatGPT takes the next step, gaining the ability to be more than text-based. Picture having a conversation with your AI assistant, or showing it images to spark discussions you never thought possible. This is no longer science fiction; it’s the remarkable reality crafted by OpenAI. Get ready to dive into the future of AI, where words, voices, and images converge in a symphony of innovation and possibility. If you wonder about how will these new features work, here is the explanation.
+
+ChatGPT can now see, hear, and speak. Rolling out over next two weeks, Plus users will be able to have voice conversations with ChatGPT (iOS & Android) and to include images in conversations (all platforms). https://t.co/uNZjgbR5Bm pic.twitter.com/paG0hMshXb — OpenAI (@OpenAI) September 25, 2023
+
+OpenAI’s ChatGPT evolving
+
+ChatGPT is stepping into the future with a swagger. Have you ever wanted an AI sidekick who has gone from just reading your messages to chatting, listening, and even checking out your pics? It’s like having a tech-savvy buddy who can tell you bedtime stories, join your dinner debates, and make sense of the chaos in your fridge, all with a quick pic.
+
+It’s not just an upgrade; it can be “the milestone” that ChatGPT seeks for a while. With the abilities to see, hear, and speak, OpenAI seems to want to be the first choice when a question comes to your mind
+
+What if these features are used for malicious purposes? OpenAI is rolling out these superpowers carefully, making sure they’re used for good. Voice tech, which can cook up voices that sound just like us, is starting with friendly uses like chat and translation. When it comes to images, they’ve learned from apps for folks with visual challenges to respect privacy. With clear rules and advice, OpenAI wants ChatGPT to be your trusty sidekick, here to chat, help, and enlighten in the most chill and responsible way possible. Just recently, OpenAI announced that AI image generation would come to ChatGPT with DALLE-3 too. We have to mention that, in an early DALL-E 3 vs Midjourney comparison, DALLE-3 beats Midjourney.
+
+Welcome to the AI future; it’s cool, it’s user-friendly, and it’s already here.
+
+ChatGPT voice conversations: Your AI companion speaks up
+
+Imagine having a real conversation with your AI assistant. Thanks to new ChatGPT voice conversation capabilities, this dream is now a reality. Whether you’re on the move, looking for a bedtime story for your kids, or resolving a lively dinner table debate, ChatGPT can engage in seamless, back-and-forth voice conversations.
+
+Use your voice to engage in a back-and-forth conversation with ChatGPT. Speak with it on the go, request a bedtime story, or settle a dinner table debate. Sound on 🔊 pic.twitter.com/3tuWzX0wtS — OpenAI (@OpenAI) September 25, 2023
+
+How to use ChatGPT voices
+
+Here’s a step-by-step guide to activate ChatGPT’s voice feature:
+
+Open the mobile app: First, ensure you have the ChatGPT mobile app installed on your device. If you haven’t already, download and install it from your app store.
+
+First, ensure you have the ChatGPT mobile app installed on your device. If you haven’t already, download and install it from your app store. Access settings: Launch the ChatGPT app, and in the app’s interface, look for the “Settings” option. It’s typically represented by a gear or cogwheel icon.
+
+Launch the ChatGPT app, and in the app’s interface, look for the “Settings” option. It’s typically represented by a gear or cogwheel icon. Voice conversations: In the Settings menu, you’ll find various options and preferences. Look for an option that says “Voice Conversations” or something similar. This is where the magic begins.
+
+In the Settings menu, you’ll find various options and preferences. Look for an option that says “Voice Conversations” or something similar. This is where the magic begins. Opt-in: Select the “Voice Conversations” option, and you’ll likely be prompted to opt into this feature. Confirm your choice to enable voice interactions with ChatGPT.
+
+Select the “Voice Conversations” option, and you’ll likely be prompted to opt into this feature. Confirm your choice to enable voice interactions with ChatGPT. Choose your voice: After opting in, you’ll have the opportunity to select your preferred voice from a range of options. ChatGPT offers five distinct voices for you to choose from. Pick the one that resonates with you or suits your preferences.
+
+After opting in, you’ll have the opportunity to select your preferred voice from a range of options. ChatGPT offers five distinct voices for you to choose from. Pick the one that resonates with you or suits your preferences. Experience human-like audio: Now, ChatGPT’s voice capabilities are ready to roll. When you engage in a voice conversation, the cutting-edge text-to-speech model goes to work. It takes your text input and a brief audio sample, weaving them together to produce astonishingly human-like audio.
+
+Now, ChatGPT’s voice capabilities are ready to roll. When you engage in a voice conversation, the cutting-edge text-to-speech model goes to work. It takes your text input and a brief audio sample, weaving them together to produce astonishingly human-like audio. Crafted by professionals: OpenAI has gone the extra mile to ensure a natural and pleasing experience. They’ve collaborated with professional voice actors to create these voices, guaranteeing that your conversations sound as authentic as possible.
+
+OpenAI has gone the extra mile to ensure a natural and pleasing experience. They’ve collaborated with professional voice actors to create these voices, guaranteeing that your conversations sound as authentic as possible. Text transcription with whisper: To facilitate smooth communication, OpenAI employs Whisper, their open-source speech recognition system. It listens to your spoken words and expertly transcribes them into text, allowing ChatGPT to understand and respond effectively.
+
+With these steps, you’ll be able to enjoy engaging voice conversations with ChatGPT, tapping into the power of cutting-edge AI technology and expertly crafted voices for a truly immersive experience.
+
+The new voice technology, capable of crafting lifelike synthetic voices, offers immense potential for creativity and accessibility. To mitigate risks, OpenAI is initially deploying this technology for voice chat, collaborating directly with voice actors and partners like Spotify for responsible use cases like Voice Translation.
+
+ChatGPT image search: A new visual dimension
+
+As if that wasn’t enough, ChatGPT is now visually savvy too. With ChatGPT Image Search, you can show one or multiple images, opening up a world of possibilities. Troubleshoot your malfunctioning grill, plan dinner by exploring your fridge and pantry contents, or analyze complex graphs for work-related data. The mobile app even offers a drawing tool for pinpointing specific image details.
+
+ChatGPT Image Search capability is powered by multimodal GPT-3.5 and GPT-4 models, which apply their formidable language reasoning skills to a wide array of visual content, including photographs, screenshots, and documents combining text and images.
+
+ChatGPT Image Search brings its own set of challenges, from hallucinations to high-stakes interpretations. OpenAI thoroughly tested these models with red teamers and alpha testers to establish key safety measures. Real-world usage and user feedback will be instrumental in further enhancing these safeguards.
+
+ChatGPT image search, ChatGPT voices, and more: Release dates to look for
+
+ChatGPT image search, ChatGPT voices, and other new features are initially rolling out to Plus and Enterprise users in the coming weeks. Developers and other groups will soon have the opportunity to harness the full potential of ChatGPT’s enhanced abilities.
+
+In summary, ChatGPT’s evolution into a multi-modal AI marks a significant step towards making artificial intelligence more relatable and versatile. With the power of voice and image at its disposal, ChatGPT is poised to become an indispensable companion in our daily lives, providing assistance and insights in ways we’ve only dreamed of. As OpenAI continues to prioritize safety, transparency, and responsible usage, the future looks even brighter for AI-powered interactions.
+
+For more information about it, click here.
+
+Oh, are you new to AI, and everything seems too complicated? Keep reading…
+
+AI 101
+
+You can still get on the AI train! We have created a detailed AI glossary for the most commonly used artificial intelligence terms and explain the basics of artificial intelligence as well as the risks and benefits of AI. Feel free to use them. Learning how to use AI is a game changer! AI models will change the world.
+
+In the next part, you can find the best AI tools to use to create AI-generated content and more.
+
+AI tools we have reviewed
+
+Almost every day, a new tool, model, or feature pops up and changes our lives, and we have already reviewed some of the best ones:
+
+See this before login ChatGPT; you will need it. Do you want to learn how to use ChatGPT effectively? We have some tips and tricks for you without switching to ChatGPT Plus, like how to upload PDF to ChatGPT! However, When you want to use the AI tool, you can get errors like “ChatGPT is at capacity right now” and “too many requests in 1-hour try again later”. Yes, they are really annoying errors, but don’t worry; we know how to fix them. Is ChatGPT plagiarism free? It is a hard question to find a single answer. Is ChatGPT Plus worth it? Keep reading and find out!
+
+While there are still some debates about artificial intelligence-generated images, people are still looking for the best AI art generators. Will AI replace designers? Keep reading and find out.
+
+Do you want to explore more tools? Check out the bests of:
+
+Featured image credit: OpenAI
+
+Summary: https://t.co/uNZjgbR5Bm pic.twitter.com/paG0hMshXb — OpenAI (@OpenAI) September 25, 2023OpenAI’s ChatGPT evolvingChatGPT is stepping into the future with a swagger.
+ChatGPT voice conversations: Your AI companion speaks upImagine having a real conversation with your AI assistant.
+ChatGPT image search: A new visual dimensionAs if that wasn’t enough, ChatGPT is now visually savvy too.
+With ChatGPT Image Search, you can show one or multiple images, opening up a world of possibilities.
+ChatGPT image search, ChatGPT voices, and more: Release dates to look forChatGPT image search, ChatGPT voices, and other new features are initially rolling out to Plus and Enterprise users in the coming weeks.
+
+Other Blogs by Eray Eliaçık: https://dataconomy.com/author/eray-eliacik/

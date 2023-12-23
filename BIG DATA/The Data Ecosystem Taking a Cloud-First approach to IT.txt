@@ -1,0 +1,48 @@
+Title: The Data Ecosystem: Taking a Cloud-First approach to IT
+
+Article Link: https://dataconomy.com/2017/06/12/data-ecosystem-cloud-first-approach/
+
+Author: Jaspreet Singh
+
+Publish Date: 2017-06-12
+
+Article:
+The amount of data that businesses create continues to grow; at the same time, more of it is slipping out of our central data centres and into a mix of Cloud applications, mobile endpoints and remote or branch office file servers. But how can companies keep track of all this data when it is not in one place or even one type of location? The answer lies in taking a “Cloud First” approach to IT.
+
+Taking a “Cloud First” approach to IT doesn’t mean simply lifting everything into public Cloud services like Amazon Web Services or Microsoft Azure then trying to maintain existing management processes. Instead, it requires a new mindset around how to make the most of Cloud architectures while still meeting compliance and security goals.
+
+According to research by industry analysts, around 40 per cent of all corporate data is outside the data centre at the moment. Gartner predicts that this percentage will grow to more than 50 per cent of all data by 2020. This trend is an interesting one, as companies want to take advantage of the flexibility that mobile working and cloud-based services can deliver.
+
+However, IT can’t afford to lose all control. Regulations like the General Data Protection Regulation put together by the European Union forces all companies to keep control over customer records or risk heavy fines. For companies with operations in multiple countries, different standards of data privacy can make it difficult to ensure that all necessary steps around data protection are followed.
+
+The shift to Cloud has led to the growth of more management controls around how and where data can be created, in order to keep pace with business needs for governance. Whereas this started as a way to build trust in the Cloud, today this has begun to take over more of the management requirements across all the places where data might exist across all business IT assets.
+
+As IT becomes more fractured across internal services, external IT assets and third party providers, it’s important to look at how to keep a consistent approach to data management in place. This includes looking at how to consolidate management requirements while ensuring that all data is handled appropriately.
+
+What Cloud First strategies have to deliver
+
+The availability of information means that finding a common platform internally can be very challenging, if not impossible. As applications move to the Cloud, the data they produce tends to follow. Similarly, the devices used to consume data from Cloud applications can be more mobile, making it even more difficult to use internal infrastructure as a platform for data protection.
+
+Secondary storage requirements will tend to follow where applications and service move. There are two reasons for this: the first is that the Cloud can provide that common location for data to sit where it can be available to those that need it, while also being kept secure. The second reason is cost, as Cloud services can host data far more cost effectively than the equivalent internal platform can achieve.
+
+However, these two reasons should not be seen as the end goals for “Cloud First” initiatives. Simply keeping track of data or reducing cost on their own provide some value, but they don’t capture all the opportunities that Cloud can provide. Instead, the emphasis should be on how to make the most of having this data in one central location, even as the data created gets more dispersed. By efficiently consolidating, auditing and indexing data from multiple enterprise sources, businesses can derive more value from the information that users create, wherever that happens to be.
+
+By linking up on-demand compliance, search, recoverability and analytics services on top of the underlying data set, users can be supported more efficiently. However, the business can use this insight to run its own operations more efficiently too. Detecting anomalies in data being rewritten can not only stop annoyances like ransomware from harming individuals; it can prevent those small problems becoming huge company-wide issues.
+
+Similarly, anomaly detection can be used to prevent security problems caused by rogue employees that suddenly start deleting large amounts of data, whether this data is held on individual devices or elsewhere. By looking at baseline activity for file creation and usage, deviations can be spotted by tracking against either previous personal activity or comparing to other similar job roles.
+
+Where user activity starts to deviate from previous patterns, this can be flagged and the right next steps initiated. On a human level, actions here might include taking a closer look at activity to check that it is OK, alerting a line manager or consulting performance results to see that there are no problems in store. From technology and data perspectives, keeping multiple data protection requirements fulfilled will help over time. In the example of a rogue employee, this includes being able to roll back to previous sets of data, whether the user wanted to keep them or not.
+
+By looking at the whole business and taking a “Cloud First” approach, company IT teams can take a more proactive and automated approach to management of problems. Moreover, these teams can look to provide better service and compliance handling wherever those users happen to be working. By concentrating on what data management issues currently exist and making the most of Cloud technologies, IT teams can overcome some of the most challenging issues that face them.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Taking a “Cloud First” approach to IT doesn’t mean simply lifting everything into public Cloud services like Amazon Web Services or Microsoft Azure then trying to maintain existing management processes.
+According to research by industry analysts, around 40 per cent of all corporate data is outside the data centre at the moment.
+This includes looking at how to consolidate management requirements while ensuring that all data is handled appropriately.
+The second reason is cost, as Cloud services can host data far more cost effectively than the equivalent internal platform can achieve.
+By looking at the whole business and taking a “Cloud First” approach, company IT teams can take a more proactive and automated approach to management of problems.
+
+Other Blogs by Jaspreet Singh: https://dataconomy.com/author/jaspreet-singh/

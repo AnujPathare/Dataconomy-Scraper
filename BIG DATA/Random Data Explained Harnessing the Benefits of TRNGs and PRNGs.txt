@@ -1,0 +1,70 @@
+Title: Random Data Explained: Harnessing the Benefits of TRNGs and PRNGs
+
+Article Link: https://dataconomy.com/2017/12/11/random-data-can-benefit-business/
+
+Author: Helen Clark
+
+Publish Date: 2017-12-11
+
+Article:
+Data. Where would we be without it? We all know that it’s in the very DNA of our everyday life, from business to social experiences, from the smartphones in our hands to the cars we drive. Data is a driving force both directly and indirectly in our society – a fact that is becoming increasingly prevalent with the rise of technology.
+
+What many people may not know and appreciate, however, is that data has been used for generations beyond science, mathematics and technology in sectors such as gambling, literature and the arts.
+
+The monetization of the data economy has actually been a long time coming. Data has underpinned every strand of big business for generations, and yet it has been widely ignored, with industries either unwilling or unable to embrace the power of big data collection and interpretation. Now, trucks are fitted with sensors that monitor 200 key data points and fix themselves; Google is developing data-driven software to transform the world of medical diagnosis; and Scanadu are forging ahead with monitors designed to track vital signs.
+
+This acceleration of technology in society has brought an increased need for quality data. Although computers have become more adept at the production and interpretation of data in general, their very nature – built on accuracy and instruction – does not lend itself to generating a truly random data sample. Random data generation is important in a great number of industries.
+
+Random data: use cases and challenges
+
+While still dependent on the sector in question, random number generation is an enormous industry based on our everyday lives. Big data is perhaps the most obvious example of this, with 75% of companies either planning to invest in the big data industry or already doing so. Gartner research suggests that 75% of companies have specific and simple goals for their big data plans, such as improving their customer experience and service, ensuring existing processes are as efficient as possible, gathering more targeted marketing and reducing costs overall.
+
+Banking and security industries rely on random data selection in order to gather early warning signs around fraud detection and audit trails. Major media and entertainment companies use random data to better understand the patterns of real-time media usage.
+
+Computer programs are now serving to modernize industries that have been around for generations. Gambling is one such industry that is completely beholden to truly random data production. For many years, slot machines have used mechanical random generators. Moving the industry to online casinos provided a challenge for casinos to generate truly random numbers in coordination with their weighting system. It is through highly developed and computerized random number generators that the games’ outcomes are determined.
+
+This method of data sampling is very useful for the data economy, giving researchers the ability to narrow down to a direct sample from a wider pool of data. This is similar to methods used in academia, where entirely random sampling is taken from a pool of research, otherwise known as stratified random sampling or probability sampling. Random sampling has many key attributes, including its simplicity and ability to provide a succinct and accurate representation of a wider data pool.
+
+This randomness is also vital when it comes to simulation, which is used in the safety, logistics and technological industries when running tests on goods and services. Again, where a less random data sample may provide unreliable information, truly random data gives a clearer picture of reality, allowing for automation of processes such as predictive maintenance.
+
+The challenges associated with generating a genuinely random sample are huge. Making sure every piece of the larger data pool has a perfectly even chance of being selected is difficult when both conscious and subconscious biases come into play. This illustrates why computer randomization is so beneficial.
+
+There are two main methods of extracting random data from computers: True Random Number Generators, or TRNGs, and Pseudo-Random Number Generators, most commonly known as PRNGs. Let’s take a look at both.
+
+TRNGs explained
+
+Perhaps the truest form of random data collection in computing, True Random Number Generators, rely on unrelated physical phenomenon outside of their own power to determine the end number – much the same way that rolling dice to land a random figure is a physical phenomenon outside of a human’s control.
+
+TRNGs often take their physical phenomenon from the timing of a user’s keystrokes or the movement of a mouse. Neither of these methods is entirely efficient; a computer can struggle to process this data and, as a result, allow the results to stack up before they are delivered to the source. This can lead to slightly unreliable data.
+
+Many TRNG operators prefer to use natural phenomena to ensure their data is truly random. One example of this is the use of a radioactive source, as the point in time when the source dies is completely unpredictable. Switzerland’s FormiLab is a company utilizing radioactivity to provide TRNG data through their HotBits generator.
+
+Atmospheric noise levels are also one of the most popular sources of true randomness, although anyone using such a method should be aware of interfering issues such as computer fans, which revolve on a wheel and therefore cannot be truly random.
+
+PRNGs explained
+
+As suggested by their name, Pseudo-Random Number Generators do not offer absolute randomness. They are less sophisticated computer programs with algorithms that deliver seemingly random sequences of digits.
+
+Keeping to the dice analogy, PRNGs make a list of random numbers in the same way that you would if you wrote down the result of a pair of dice rolled over and over again. To the person or computer collecting the next number, the data would seem entirely random. In reality, these numbers are predetermined.
+
+Most computer systems have their own PRNG, with mixed results in terms of efficiency and reliability. PHP users with GNU or Linux are generally delighted with their random number calculators. PHP for Windows has a different reputation, however, and its random numbers aren’t quite as watertight. This was uncovered by a damning 2008 study, followed by an example as far back as 2002, when testers discovered that PRNG on MacOS wasn’t efficient enough for the simulation of computer viruses.
+
+TRNGs vs PRNGs
+
+These two types of random number generators are different in their essences and how they are put together, making them useful to the data economy in different ways.
+
+TRNGs tend to be less efficient than PRNGs in terms of speed and regularity, making them less suitable for applications that require huge amounts of data or data at regular stages. That said, their true randomness qualities are preferred for tasks such as data encryption, games and gambling.
+
+On the other hand, the poor efficiency and non-deterministic nature of TRNGs make them less suitable for simulation and modeling applications, which often require more data than they can realistically generate.
+
+Random number generation can be tricky to grasp at first, but its widespread benefits are enormous. Whether it’s analyzing a sector, testing a new product or providing a true and random basis for a whole industry, TRNGs and PRNGs provide value for almost every industry.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Summary: Random data: use cases and challengesWhile still dependent on the sector in question, random number generation is an enormous industry based on our everyday lives.
+Big data is perhaps the most obvious example of this, with 75% of companies either planning to invest in the big data industry or already doing so.
+This is similar to methods used in academia, where entirely random sampling is taken from a pool of research, otherwise known as stratified random sampling or probability sampling.
+Again, where a less random data sample may provide unreliable information, truly random data gives a clearer picture of reality, allowing for automation of processes such as predictive maintenance.
+There are two main methods of extracting random data from computers: True Random Number Generators, or TRNGs, and Pseudo-Random Number Generators, most commonly known as PRNGs.
+
+Other Blogs by Helen Clark: https://dataconomy.com/author/helena-clark/

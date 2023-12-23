@@ -1,0 +1,232 @@
+Title: High Performance Big Data Analysis Using NumPy, Numba & Python Asynchronous Programming
+
+Article Link: https://dataconomy.com/2017/07/31/big-data-numpy-numba-python/
+
+Author: Ernest Bonat, Ph.D.
+
+Publish Date: 2017-07-31
+
+Article:
+Introduction
+
+A couple of months ago a client of mine asked me the following question: “What is the faster data structure object in Python for Big Data analysis today?” I get questions like this one all the time. Some of them are not easy to solve at all and it takes some time to find the right optimized solutions for them. In general, I do this for fun on the weekends and at night.
+
+At that time, based on this question, my first simple answer was the Python List object. I used the List object in many Data Science projects including Data Pipeline and Extract-Transform-Load (ETL) production system. Then the following questions came to mind: Can I use the List object for data manipulation and analysis of millions or billions of rows? What about if I divide a Data Science project into small tasks and run them asynchronously using the latest Python asyncio library? Based on these questions, I decided to spend some time and find out some practical solutions for Big Data analysis using Pythion Data Ecosystem libraries. To make it simple to understand and find the results quickly, the program will calculate the Arithmetic Mean, Median and Sample Standard Deviation values from a float one dimensional NumPy array. For the programs runtime comparison I’ll use the following libraries:
+
+NumPy – The fundamental Pyrhon package for scientific computing.
+
+Numba – Numba gives you the power to speed up your applications with high performance functions written directly in Python. With a few annotations, array-oriented and math-heavy Python code can be just-in-time compiled to native machine instructions, similar in performance to C, C++ and FORTRAN, without having to switch languages or Python interpreters.
+
+asyncio – Python asynchronous programming library.
+
+Why use NumPy?
+
+As the NumPy website said: NumPy is the fundamental package for scientific computing with Python. It provides a powerful N-dimensional array object and sophisticated (broadcasting) functions. With NumPy imported library the Python programs performance better with a high execution speed, more convenient for consistency and a lot of numerical and matrix functionalities. Maybe because of this there isn’t a reason to use Python List objects anymore? It’s important to mention that many Python Data Ecosystem libraries are built on top of NumPy like Pandas, SciPy, Matplotlib, etc.
+
+Used Python Algorithms
+
+I have decided to provide simple calculations of the Arithmetic Mean, Median and Sample Standard Deviation to show the Python programs execution time (runtime) and compare them. The test data will be generated using one dimensional NumPy array with float 64-bit data type. The following three Python algorithms were implemented and analyzed:
+
+NumPy array NumPy array with asyncio asynchronous library NumPy array with Numba library
+
+NumPy Array Program
+
+Let’s look at the code for each algorithm. Every algorithm has its own class object and a main calling program to follow the Object-Oriented Programming (OOP) methodology. This class object contains the following five methods:
+
+calculate_number_observation() – calculate number of observation
+
+calculate_arithmetic_mean() – calculate arithmetic mean
+
+calculate_median() – calculate median
+
+calculate_sample_standard_deviation() – calculate sample standard deviation
+
+print_exception_message() – print exception message if occurred
+
+Listing 1 shows the summary statistics class object code using NumPy array only.
+
+[codesyntax lang=”python”]
+
+import sys import traceback import time from math import sqrt class SummaryStatistics(object): """ calculate number of observations, arithmetic mean, median and sample standard deviation using standard procedures """ def __init__(self): pass def calculate_number_observation(self, one_dimensional_array): """ calculate number of observations :param one_dimensional_array: numpy one dimensional array :return number of observations value """ number_observation = 0 try: number_observation = one_dimensional_array.size except Exception: self.print_exception_message() return number_observation def calculate_arithmetic_mean(self, one_dimensional_array, number_observation): """ calculate arithmetic mean :param one_dimensional_array: numpy one dimensional array :param number_observation: number of observations :return arithmetic mean value """ arithmetic_mean = 0.0 try: sum_result = 0.0 for i in range(number_observation): sum_result += one_dimensional_array[i] arithmetic_mean = sum_result / number_observation except Exception: self.print_exception_message() return arithmetic_mean def calculate_median(self, one_dimensional_array, number_observation): """ calculate median :param one_dimensional_array: numpy one dimensional array :param number_observation: number of observations :return median value """ median = 0.0 try: one_dimensional_array.sort() half_position = number_observation // 2 if not number_observation % 2: median = (one_dimensional_array[half_position - 1] + one_dimensional_array[half_position]) / 2.0 else: median = one_dimensional_array[half_position] except Exception: self.print_exception_message() return median def calculate_sample_standard_deviation(self, one_dimensional_array, number_observation, arithmetic_mean): """ calculate sample standard deviation :param one_dimensional_array: numpy one dimensional array :param number_observation: number of observations :param arithmetic_mean: arithmetic mean value :return sample standard deviation value """ sample_standard_deviation = 0.0 try: sum_result = 0.0 for i in range(number_observation): sum_result += pow((one_dimensional_array[i] - arithmetic_mean), 2) sample_variance = sum_result / (number_observation - 1) sample_standard_deviation = sqrt(sample_variance) except Exception: self.print_exception_message() return sample_standard_deviation def print_exception_message(self, message_orientation = "horizontal"): """ print full exception message :param message_orientation: horizontal or vertical :return none """ try: exc_type, exc_value, exc_tb = sys.exc_info() file_name, line_number, procedure_name, line_code = traceback.extract_tb(exc_tb)[-1] time_stamp = " [Time Stamp]: " + str(time.strftime("%Y-%m-%d %I:%M:%S %p")) file_name = " [File Name]: " + str(file_name) procedure_name = " [Procedure Name]: " + str(procedure_name) error_message = " [Error Message]: " + str(exc_value) error_type = " [Error Type]: " + str(exc_type) line_number = " [Line Number]: " + str(line_number) line_code = " [Line Code]: " + str(line_code) if (message_orientation == "horizontal"): print( "An error occurred:{};{};{};{};{};{};{}".format(time_stamp, file_name, procedure_name, error_message, error_type, line_number, line_code)) elif (message_orientation == "vertical"): print( "An error occurred:
+
+{}
+
+{}
+
+{}
+
+{}
+
+{}
+
+{}
+
+{}".format(time_stamp, file_name, procedure_name, error_message, error_type, line_number, line_code)) else: pass except Exception: pass
+
+[/codesyntax]
+
+Listing 1. Summary statistics class object code using NumPy array
+
+Listing 2 shows the summary statistics main program. As you can see this program creates the summary_statistics class object and then the methods that they are called. The NumPy library needs to be imported to generate the one dimensional array. The program runtime is calculated by using the clock() method of the time module.
+
+[codesyntax lang=”python”]
+
+import time import numpy as np from class_summary_statistics import SummaryStatistics def main(one_dimensional_array): # create summary statistics class object summary_statistics = SummaryStatistics() # calculate number of observation number_observation = summary_statistics.calculate_number_observation(one_dimensional_array) print("Number of Observation: {} ".format(number_observation)) # calculate arithmetic mean arithmetic_mean = summary_statistics.calculate_arithmetic_mean(one_dimensional_array, number_observation) print("Arithmetic Mean: {} ".format(arithmetic_mean)) # calculatte median median = summary_statistics.calculate_median(one_dimensional_array, number_observation) print("Median: {} ".format(median)) # calculate sample standard deviation sample_standard_deviation = summary_statistics.calculate_sample_standard_deviation(one_dimensional_array, number_observation, arithmetic_mean) print("Sample Standard Deviation: {} ".format(sample_standard_deviation)) if __name__ == '__main__': start_time = time.clock() one_dimensional_array = np.arange(100000000, dtype=np.float64) main(one_dimensional_array) end_time = time.clock() print("Program Runtime: {} seconds".format(round(end_time - start_time, 1)))
+
+[/codesyntax]
+
+Listing 2. Summary statistics main program code using NumPy array
+
+With one million rows the summary statistics main program will show the result below:
+
+Number of Observation: 1000000
+
+Arithmetic Mean: 499999.5
+
+Median: 499999.5
+
+Sample Standard Deviation: 288675.27893349814
+
+Program Runtime: 1.3 seconds
+
+Numpy Array with asyncio Library
+
+Listing 3 shows the summary statistics asyncio class object code with Python asyncio asynchronous library. Note that the main() method starts the event loop asynchronous process with the calculate_number_observation() as the first and unique task.
+
+[codesyntax lang=”python”]
+
+import sys import time import traceback import asyncio from math import sqrt class SummaryStatisticsAsyncio(object): """ calculate number of observations, arithmetic mean, median and sample standard deviation using asyncio library """ def __init__(self): pass async def calculate_number_observation(self, one_dimensional_array): """ calculate number of observations :param one_dimensional_array: numpy one dimensional array :return none """ try: print('start calculate_number_observation() procedure') await asyncio.sleep(0) number_observation = one_dimensional_array.size print("Number of Observation: {} ".format(number_observation)) await self.calcuate_arithmetic_mean(one_dimensional_array, number_observation) print("finished calculate_number_observation() procedure") except Exception: self.print_exception_message() async def calcuate_arithmetic_mean(self, one_dimensional_array, number_observation): """ calculate arithmetic mean :param one_dimensional_array: numpy one dimensional array :param number_observation: number of observations :return none """ try: print('start calcuate_arithmetic_mean() procedure') await self.calculate_median(one_dimensional_array, number_observation) sum_result = 0.0 await asyncio.sleep(0) for i in range(number_observation): sum_result += one_dimensional_array[i] arithmetic_mean = sum_result / number_observation print("Arithmetic Mean: {} ".format(arithmetic_mean)) await self.calculate_sample_standard_deviation(one_dimensional_array, number_observation, arithmetic_mean) print("finished calcuate_arithmetic_mean() procedure") except Exception: self.print_exception_message() async def calculate_median(self, one_dimensional_array, number_observation): """ calculate median :param one_dimensional_array: numpy one dimensional array :param number_observation: number of observations :return none """ try: print('starting calculate_median()') await asyncio.sleep(0) one_dimensional_array.sort() half_position = number_observation // 2 if not number_observation % 2: median = (one_dimensional_array[half_position - 1] + one_dimensional_array[half_position]) / 2.0 else: median = one_dimensional_array[half_position] print("Median: {} ".format(median)) print("finished calculate_median() procedure") except Exception: self.print_exception_message() async def calculate_sample_standard_deviation(self, one_dimensional_array, number_observation, arithmetic_mean): """ calculate sample standard deviation :param one_dimensional_array: numpy one dimensional array :param number_observation: number of observations :param arithmetic_mean: arithmetic mean value :return none """ try: print('start calculate_sample_standard_deviation() procedure') await asyncio.sleep(0) sum_result = 0.0 for i in range(number_observation): sum_result += pow((one_dimensional_array[i] - arithmetic_mean), 2) sample_variance = sum_result / (number_observation - 1) sample_standard_deviation = sqrt(sample_variance) print("Sample Standard Deviation: {} ".format(sample_standard_deviation)) print("finished calculate_sample_standard_deviation() procedure") except Exception: self.print_exception_message() def print_exception_message(self, message_orientation = "horizontal"): """ print full exception message :param message_orientation: horizontal or vertical :return none """ try: exc_type, exc_value, exc_tb = sys.exc_info() file_name, line_number, procedure_name, line_code = traceback.extract_tb(exc_tb)[-1] time_stamp = " [Time Stamp]: " + str(time.strftime("%Y-%m-%d %I:%M:%S %p")) file_name = " [File Name]: " + str(file_name) procedure_name = " [Procedure Name]: " + str(procedure_name) error_message = " [Error Message]: " + str(exc_value) error_type = " [Error Type]: " + str(exc_type) line_number = " [Line Number]: " + str(line_number) line_code = " [Line Code]: " + str(line_code) if (message_orientation == "horizontal"): print( "An error occurred:{};{};{};{};{};{};{}".format(time_stamp, file_name, procedure_name, error_message, error_type, line_number, line_code)) elif (message_orientation == "vertical"): print( "An error occurred:
+
+{}
+
+{}
+
+{}
+
+{}
+
+{}
+
+{}
+
+{}".format(time_stamp, file_name, procedure_name, error_message, error_type, line_number, line_code)) else: pass except Exception: pass def main(self, one_dimensional_array): """ start the event loop asynchronous process :param one_dimensional_array: numpy one dimensional array """ try: ioloop = asyncio.get_event_loop() tasks = [ioloop.create_task(self.calculate_number_observation(one_dimensional_array))] wait_tasks = asyncio.wait(tasks) ioloop.run_until_complete(wait_tasks) ioloop.close() except Exception: self.print_exception_message()
+
+[/codesyntax]
+
+Listing 3. Summary statistics asyncio class object code with Python asynchronous library
+
+The summary statistics asyncio main program is shown in Listing 4. As you can see the main() method is the only one to be called.
+
+[codesyntax lang=”python”]
+
+import time import numpy as np from class_summary_statistics_asyncio import SummaryStatisticsAsyncio def main(one_dimensional_array): # create summary statistics asyncio class object summary_statistics_asyncio = SummaryStatisticsAsyncio() # call main method summary_statistics_asyncio.main(one_dimensional_array) if __name__ == '__main__': start_time = time.clock() one_dimensional_array = np.arange(1000000000, dtype=np.float64) main(one_dimensional_array) end_time = time.clock() print("Program Runtime: {} seconds".format(round(end_time - start_time, 1)))
+
+[/codesyntax]
+
+Listing 4. Summary statistics asyncio main program code with Python asynchronous library
+
+With one billion rows the summary statistics asyncio main program will show the result below. I have included the printing of the start/finish procedures to show how the asynchronous process works in this particular case.
+
+start calculate_number_observation() procedure
+
+Number of Observation: 1000000000
+
+start calcuate_arithmetic_mean() procedure
+
+starting calculate_median()
+
+Median: 499999.5
+
+finished calculate_median() procedure
+
+Arithmetic Mean: 499999.5
+
+start calculate_sample_standard_deviation() procedure
+
+Sample Standard Deviation: 288675.27893349814
+
+finished calculate_sample_standard_deviation() procedure
+
+finished calcuate_arithmetic_mean() procedure
+
+finished calculate_number_observation() procedure
+
+Program Runtime: 1504.4 seconds
+
+Numpy Array with Numba Library Program
+
+The summary statistics class object code with Numba library is shown in Listing 5. Check the Numba GitHub repository to learn more about this Open Source NumPy-aware optimizing compiler for Python. It’s important to mention that Numba supports CUDA GPU programming. As you can see the debugging code has been removed to run the program in compile mode.
+
+[codesyntax lang=”python”]
+
+import time from numba import jit import numpy as np from math import sqrt class SummaryStatisticsNumba(object): """ calculate number of observations, arithmetic mean, median and sample standard deviation using numba library """ def __init__(self): pass @jit def calculate_number_observation(self, one_dimensional_array): """ calculate number of observations :param one_dimensional_array: numpy one dimensional array :return number of observations value """ number_observation = one_dimensional_array.size return number_observation @jit def calcuate_arithmetic_mean(self, one_dimensional_array, number_observation): """ calculate arithmetic mean :param one_dimensional_array: numpy one dimensional array :param number_observation: number of observations :return arithmetic mean value """ sum_result = 0.0 for i in range(number_observation): sum_result += one_dimensional_array[i] arithmetic_mean = sum_result / number_observation return arithmetic_mean @jit def calculate_median(self, one_dimensional_array, number_observation): """ calculate median :param one_dimensional_array: numpy one dimensional array :param number_observation: number of observations :return median value """ one_dimensional_array.sort() half_position = number_observation // 2 if not number_observation % 2: median = (one_dimensional_array[half_position - 1] + one_dimensional_array[half_position]) / 2.0 else: median = one_dimensional_array[half_position] return median @jit def calculate_sample_standard_deviation(self, one_dimensional_array, number_observation, arithmetic_mean): """ calculate sample standard deviation :param one_dimensional_array: numpy one dimensional array :param number_observation: number of observations :param arithmetic_mean: arithmetic mean value :return sample standard deviation value """ sum_result = 0.0 for i in range(number_observation): sum_result += pow((one_dimensional_array[i] - arithmetic_mean), 2) sample_variance = sum_result / (number_observation - 1) sample_standard_deviation = sqrt(sample_variance) return sample_standard_deviation
+
+[/codesyntax]
+
+Listing 5. Summary statistics class object code with Numba library
+
+The summary statistics Numba main program is shown in Listing 6.
+
+[codesyntax lang=”python”]
+
+import time import numpy as np from class_summary_statistics_numba import SummaryStatisticsNumba def main(one_dimensional_array): # create class summary statistics_numba class object class_summary_statistics_numba = SummaryStatisticsNumba() # calculate number of observation number_observation = class_summary_statistics_numba.calculate_number_observation(one_dimensional_array) print("Number of Observation: {} ".format(number_observation)) # calculate arithmetic mean arithmetic_mean = class_summary_statistics_numba.calcuate_arithmetic_mean(one_dimensional_array, number_observation) print("Arithmetic Mean: {} ".format(arithmetic_mean)) # calculatte median median = class_summary_statistics_numba.calculate_median(one_dimensional_array, number_observation) print("Median: {} ".format(median)) # calculate sample standard deviation sample_standard_deviation = class_summary_statistics_numba.calculate_sample_standard_deviation(one_dimensional_array, number_observation, arithmetic_mean) print("Sample Standard Deviation: {} ".format(sample_standard_deviation)) if __name__ == '__main__': start_time = time.clock() one_dimensional_array = np.arange(1000000000, dtype=np.float64) main(one_dimensional_array) end_time = time.clock() print("Program Runtime: {} seconds".format(round(end_time - start_time, 1)))
+
+[/codesyntax]
+
+Listing 6. Summary statistics Numba main program
+
+With one billion rows the summary statistics Numba main program will show the result below:
+
+Number of Observation: 1000000000
+
+Arithmetic Mean: 499999999.067109
+
+Median: 499999999.5
+
+Sample Standard Deviation: 288675134.73899055
+
+Program Runtime: 40.2 seconds
+
+It’s a very exciting result to see the calculations finished in 40.2 seconds with one billion rows in the NumPy array. I think it’s time to use NumPy array with Numba library wherever possible in Big Data Science projects. Some research and testing may be require for specific cases.
+
+Laptop Hardware Parameters
+
+Here are the laptop hardware parameters used to run the Python programs:
+
+Windows 10 64-bit OS
+
+Intel Core™ i7-2670QM CPU @ 2.20 GHz
+
+16 GB RAM
+
+Programs Runtime Comparison
+
+Table 1 shows the programs runtime execution for 1 million, 10 million, 100 million and 1 billion rows.
+
+Number of Rows Used Python Algorithms NumPy array NumPy array with asyncio
+
+asynchronous library NumPy array with Numba
+
+library 1 million 1.3 seconds 1.4 seconds 0.9 seconds 10 million 12.8 seconds 12.7 seconds 1.1 seconds 100 million 2.16 minutes 2.17 minutes 4.4 seconds 1 billion 22.66 minutes 22.64 minutes 40.2 seconds
+
+
+
+Table 1: Programs Runtime Comparison
+
+Conclusions
+
+There is not a practically difference between using NumPy array and NumPy array with asyncio asynchronous library. Although these calculations are not totally sufficient to prove the performances of the asyncio asynchronous library in Python Data Science projects therefore more research may be required to find the right applications. The combination of NumPy array with Numba library provides the best performance for data manipulation and analysis compared with NumPy array and NumPy array with asyncio asynchronous library. I was very impressed to see 40.2 seconds execution time with one billion rows in the Numpy array. I wonder if R programs can do that today! If not, maybe it’s time for R programmers to learn Python and its Data Ecosystem libraries. One more thing, make sure to write Python programs using OOP methodology for real production environments with Continue Integration software development and deployment practices. In Data Pipeline and Extract-Transform-Load (ETL) system projects with different types of data sources, the NumPy array with Numba library implementation is one of the best programming practices for Big Data analysis today. There shouldn’t be a need of using Python List objects for it.
+
+Feel free to email Ernest any questions about his article.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: The test data will be generated using one dimensional NumPy array with float 64-bit data type.
+The following three Python algorithms were implemented and analyzed:NumPy array NumPy array with asyncio asynchronous library NumPy array with Numba libraryNumPy Array ProgramLet’s look at the code for each algorithm.
+I think it’s time to use NumPy array with Numba library wherever possible in Big Data Science projects.
+The combination of NumPy array with Numba library provides the best performance for data manipulation and analysis compared with NumPy array and NumPy array with asyncio asynchronous library.
+In Data Pipeline and Extract-Transform-Load (ETL) system projects with different types of data sources, the NumPy array with Numba library implementation is one of the best programming practices for Big Data analysis today.
+
+Other Blogs by Ernest Bonat, Ph.D.: https://dataconomy.com/author/ernest-bonat/

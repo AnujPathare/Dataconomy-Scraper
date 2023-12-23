@@ -1,0 +1,24 @@
+Title: The History of Artificial Intelligence, by Narrative Science
+
+Article Link: https://dataconomy.com/2015/09/30/the-history-of-artificial-intelligence-by-narrative-science/
+
+Author: Dan Gray
+
+Publish Date: 2015-09-30
+
+Article:
+Narrative Science has been a regular feature on Dataconomy over the past year, from Chief Scientist Kris Hammond’s post about the impact of artificial intelligence on banking, to the launch of their Quill Connect application for processing unstructured text data from social media.
+
+I think for AI in general, the goal is not to make the machine smarter and destroy us, but to make machines smarter and as a result, put us in a position where we no longer have to deal with the machine, as an unintelligent device which requires frequent input and supervision. We can deal with the machine as a partner, whose job is to make us smarter. We get smarter because it gets smarter. Because who in the world wants to actually look at a spreadsheet, or figure out what’s going on in the visualization, or go to massive textual data to get the answer to a question? No one wants to do that. As the machine takes more and more of that on, our lives become more human. – Kris Hammond, “Why AI Isn’t Going to Kill You or Take Your Job“
+
+As a company that specializes in using Big Data and machine learning algorithms to form narratives, who better to tell the story of how artificial intelligence has transformed various industries over the last 65 years? They were kind enough to share the infographic below with us:
+
+(Image credit: Luis Vidal, CC2.0)
+
+Summary: Narrative Science has been a regular feature on Dataconomy over the past year, from Chief Scientist Kris Hammond’s post about the impact of artificial intelligence on banking, to the launch of their Quill Connect application for processing unstructured text data from social media.
+We can deal with the machine as a partner, whose job is to make us smarter.
+We get smarter because it gets smarter.
+As the machine takes more and more of that on, our lives become more human.
+They were kind enough to share the infographic below with us:(Image credit: Luis Vidal, CC2.0)
+
+Other Blogs by Dan Gray: https://dataconomy.com/author/dan-gray/

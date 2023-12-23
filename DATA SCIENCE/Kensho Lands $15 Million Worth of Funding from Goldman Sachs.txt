@@ -1,0 +1,40 @@
+Title: Kensho Lands $15 Million Worth of Funding from Goldman Sachs
+
+Article Link: https://dataconomy.com/2014/11/25/kensho-lands-15-million-worth-of-funding-from-goldman-sachs/
+
+Author: Artur Lapinsch
+
+Publish Date: 2014-11-25
+
+Article:
+Kensho, a pioneering real-time statistical computing systems and scalable analytics architectures announced on Monday that it has acquired a $15 million funding round led by Goldman Sachs. The bank will roll out the platform across its business as well as to some of its big clients.
+
+The terms of the deal remain undisclosed, but sources say this puts Goldman on top of Kensho’s list of investors. The source added that the deal placed Kensho’s valuation in the 9-figure range. Kensho had previously raised a $10 million seed round from the likes of Accel Partners, Breyer Capital, General Catalyst, Google Ventures and NEA.
+
+Cambridge-based Kensho harnesses massively-parallel statistical computing, user-friendly visual interfaces and breakthroughs in unstructured data engineering to create the next-generation analytics platform for investment professionals. Kensho reportedly offers a Siri- like platform for investors analysts and traders, answering financial questions.
+
+Their website states- “Addressing the most significant challenges surrounding investment analysis on Wall Street today—achieving speed, scale, and automation of previously human-intensive knowledge work—Kensho’s intelligent computer systems are capable of answering complex financial questions posed in plain English, and in real-time.” This adds another facet to the widespread scepticism surrounding Artificial Intelligence, possibly giving analysts a run for their money.
+
+Daniel Nadler, chief executive of Kensho said not being able to quickly analyse hard-to-structure events – central bank announcements, geopolitical events, weather phenomena, technology product releases – was “trying to see the world with not only one eye covered, but one eye covered and the other eye half-closed.”
+
+Regarding the investment he said, “Wall Street historically was constrained to playing in the 20 per cent of data that move markets,”. “Every Wall Street bank could only look at – with any real speed or automation – financial statistics: P/E ratios, and book value and market cap and similar things.”
+
+Nadler further added “One problem for banks such as Goldman has been the limited number of data scientists available to analyse financial information.” He continued, “These graphical- and natural language-based computer systems open up data science to the entire firm for the first time,”
+
+As part of Goldman’s deal, Rana Yared, managing director at the bank’s securities division, has joined Kensho’s board of directors, while Don Duet, co-head of its tech division, joins the company’s advisory board.
+
+Read more here.
+
+Follow @DataconomyMedia
+
+
+
+(Image credit: Dan Nguyen)
+
+Summary: Kensho, a pioneering real-time statistical computing systems and scalable analytics architectures announced on Monday that it has acquired a $15 million funding round led by Goldman Sachs.
+The bank will roll out the platform across its business as well as to some of its big clients.
+The terms of the deal remain undisclosed, but sources say this puts Goldman on top of Kensho’s list of investors.
+Kensho had previously raised a $10 million seed round from the likes of Accel Partners, Breyer Capital, General Catalyst, Google Ventures and NEA.
+Cambridge-based Kensho harnesses massively-parallel statistical computing, user-friendly visual interfaces and breakthroughs in unstructured data engineering to create the next-generation analytics platform for investment professionals.
+
+Other Blogs by Artur Lapinsch: https://dataconomy.com/author/artur-lapinsch/

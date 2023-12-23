@@ -1,0 +1,34 @@
+Title: How GDPR is Affecting Marketing Data
+
+Article Link: https://dataconomy.com/2018/07/05/how-gdpr-is-affecting-marketing-data/
+
+Author: Melinda Hobbs
+
+Publish Date: 2018-07-05
+
+Article:
+It’s been one month since GDPR, General Data Protection Regulation, a policy set in place to address the digital age’s ever increasing flow of personal data, went into effect for European industries. GDPR is meant to give consumers more control over their personal data usage by companies, and this shift in data control is causing a ripple in European marketing strategies. Let’s look at how GDPR is impacting marketing strategy and what that means for you as a customer.
+
+Lesser Quantity of Data, But Targeted Audience Profiles
+
+According to Chad Wollen, CMO of Smartpipe, higher customer control of personal information restricts access to the information marketers rely on to target audiences. Wollen further says ad tech vendors may find themselves starved of data as consumers chose to opt-out of sharing their personal information. Marketers have lesser access to information about their audiences, thereby also losing information they need to target similar types of customers. Despite the loss of larger quantities of information, the quality of information will dramatically increase due to, as comments from the director of OpenX Ryan Eney points out, businesses only collecting information they need, setting time limits on data storage, and gaining a legal basis to process consumer data. CTO of Crownpeak expands on what these processing bases are, mentioning that companies need a compelling legitimate interest to process and use data. Overall the stronger customer hold on personal data creates restrictions to marketing companies building target audience profiles, resulting in less quantity of data, but more quality information and deeper consumer trust.
+
+
+
+Deeper Consumer Relationships
+
+Consent policies are evolving to adapt to GDPR guidelines and consequently, companies need to make sure their customers feel comfortable giving personal data to corporations. With stricter rules set in place to protect the consumer, winning over the consumer will now be the primary aim of brands, “and they will only do this if they go beyond having a legal right to operate, ensuring their data practices are socially acceptable to”, adds Chad Wollen. Consumers need to feel as though they can trust the companies with their personal information enough to grant consent to use their information for marketing and analytics purposes. Consent policies will need to evolve to include the policy guidelines of GDPR and therefore companies will need to evolve their practices to finesse the trust and establish deeper relationships with their customers.
+
+
+
+The Future of Consumer Data
+
+Moving forward, marketing and compliance strategies practiced by companies will evolve around deeper customer relationships and more in-depth consent policies. Management of consent will evolve to consider the compliance and relationships of the consumer. Without these adaptive marketing measures, it will be difficult for companies to flourish in light of GDPR. As a consumer, you should expect more transparency from corporations about your data usage and more meaningful conversations and interactions from organizations to gain your trust.
+
+Summary: It’s been one month since GDPR, General Data Protection Regulation, a policy set in place to address the digital age’s ever increasing flow of personal data, went into effect for European industries.
+GDPR is meant to give consumers more control over their personal data usage by companies, and this shift in data control is causing a ripple in European marketing strategies.
+Let’s look at how GDPR is impacting marketing strategy and what that means for you as a customer.
+Wollen further says ad tech vendors may find themselves starved of data as consumers chose to opt-out of sharing their personal information.
+Overall the stronger customer hold on personal data creates restrictions to marketing companies building target audience profiles, resulting in less quantity of data, but more quality information and deeper consumer trust.
+
+Other Blogs by Melinda Hobbs: https://dataconomy.com/author/melinda-hobbs/

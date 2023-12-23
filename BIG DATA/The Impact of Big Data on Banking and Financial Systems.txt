@@ -1,0 +1,58 @@
+Title: The Impact of Big Data on Banking and Financial Systems
+
+Article Link: https://dataconomy.com/2017/07/24/big-data-banking-financial-systems/
+
+Author: Andriy Feschyn
+
+Publish Date: 2017-07-24
+
+Article:
+Today, most banking, financial services, and insurance (BFSI) organizations are working hard to adopt a fully data-driven approach to grow their businesses and enhance the services they provide to customers. Like most other industries, analytics will be a critical game changer for those in the financial sector.
+
+Though many BFSI organizations are beginning to disrupt their analytics landscapes by gathering immense volumes of data assets, these companies are at varying levels of Big Data maturity. In many cases, these initial data projects lead business stakeholders to a very simple question: “How can this data help us solve our business problems?”
+
+As customer volume increases, it dramatically affects the level of services offered by the organization. Existing data analytics practices have simplified the process of monitoring and evaluation of banks and other financial services organizations, including vast amounts of client data such as personal and security information. But with the help of Big Data, banks can now use this information to continually track client behavior in real time, providing the exact type of resources needed at any given moment. This real-time evaluation will in turn boost overall performance and profitability, thus thrusting the organization further into the growth cycle.
+
+Identifying more areas where Big Data resources can be utilized most efficiently involves the alignment of business cases and technological capabilities, which reveals opportunities for improved business processes. There are three primary areas where banks and other financial organizations can attain benefits from advanced analytics: the customer experience, operation optimization, and employee engagement.
+
+Customer Experience
+
+The pace of almost any data initiatives in the BFSI industry is directly related to the size of the company, as it often requires additional infrastructure investments for enterprise organizations. But despite the size of organization, customer-centric objectives play the primary role among most of data–related activities.
+
+It is very important to focus on the customers’ needs as today’s customers have high expectations on the ways of how they interact with their banks or credit unions. Their buying journey is complex and non-linear so financial players must be able to carefully understand customer preferences and motivation.
+
+To achieve a 360-degree view of the customer, a series of customer snapshots are no longer enough. Companies need a central data hub that combines ALL of the customer’s interaction with the brand, including basic personal data, transaction history, browsing history, service, and so on.
+
+According to McKinsey, using data to make better marketing decisions can increase marketing productivity by 15-20% – that’s as much as $200 billion given the average annual global marketing spend of $1 trillion per year.
+
+Data-fueled analytics can empower those in the BFSI sector with customer insights and help create customer segmentation. This information collection and evaluation requires additional investment into an organization’s infrastructure as well as input and alignment between people across multiple functional areas of the organization – but having a customer-centric culture, processes, and infrastructure almost always translates into increased conversion and revenue.
+
+Operation Optimization
+
+While Big Data is already being used in many fields of BFSI, except a few early adopters, risk management has yet to unlock its power.
+
+Big Data technology can improve the predictive power of risk models, exponentially improve system response times and effectiveness, provide more extensive risk coverage, and generate significant cost savings by providing more automated processes, more precise predictive systems, and less risk of failure. Risk teams can gain more accurate risk intelligence from variety of sources in nearly real-time.
+
+There are many areas in risk management where Big Data can apply and bring value, including fraud management, credit management, market and commercial loans, operational risks, and integrated risk management.
+
+Systems enabled with Big Data can detect fraud signals, analyze them in real-time using machine learning, and accurately predict illegitimate users and/or transactions. Big Data offers the ability to provide a global vision of different factors and areas related to financial risk.
+
+Employee Engagement
+
+For all the attention Big Data has received, many companies tend to forget about one potential application that can have a huge impact on their business – the employee experience. When done right, it can it help track, analyze, and share employee performance metrics. Applying Big Data analytics to your employees’ performance helps you identify and acknowledge not only the top performers, but the struggling or unhappy workers, as well. These tools allow companies to look at real-time data, rather than just annual reviews based on human memory.
+
+When you have the right tools and analytics in place, you can measure everything right including individual performance, team spirit, interactions between departments, and the overall company culture. When the data is related to customer metrics, it can also enable employees to spend less time on manual processes and more time on higher-level tasks.
+
+In addition to architecting and engineering the initial technology solution, data experts can help set the appropriate goals for a new Big Data project and inject analytics expertise into components of a businesses for maximum benefit, internally and externally. By aligning with Big Data and other global trends, the BFSI industry will obtain a better grasp of their needs both internally and with customers and will also be able to provide improved services in a timely manner with optimized operational costs. Though the implementation of Big Data on a large scale has just started to evolve in the BFSI industry, the sooner organizations adopt Big Data practices to keep up in this digital world the better.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Existing data analytics practices have simplified the process of monitoring and evaluation of banks and other financial services organizations, including vast amounts of client data such as personal and security information.
+Systems enabled with Big Data can detect fraud signals, analyze them in real-time using machine learning, and accurately predict illegitimate users and/or transactions.
+Big Data offers the ability to provide a global vision of different factors and areas related to financial risk.
+Applying Big Data analytics to your employees’ performance helps you identify and acknowledge not only the top performers, but the struggling or unhappy workers, as well.
+Though the implementation of Big Data on a large scale has just started to evolve in the BFSI industry, the sooner organizations adopt Big Data practices to keep up in this digital world the better.
+
+Other Blogs by Andriy Feschyn: https://dataconomy.com/author/andriy-feshchyn/

@@ -1,0 +1,50 @@
+Title: Big Data for Humans: The Importance of Data Visualization
+
+Article Link: https://dataconomy.com/2017/05/08/big-data-data-visualization/
+
+Author: Rosemary Radich
+
+Publish Date: 2017-05-08
+
+Article:
+Everyone has heard the old moniker garbage in – garbage out. It is a simple way of saying that machine learning is only as good as the data, algorithms, and human experience that goes into them. But even the best results can be thought of as garbage if no one can see and understand the value of the output.
+
+That’s where the importance of visualization comes in. Visualization is the means by which humans understand complex analytics and is often the most crucial and overlooked step in the analytics process. As you increase the complexity of your data, the complexity of your final model increases as well, making effective communication and visualization of data even more difficult and critical to end users.
+
+Data Visualization is the key to actionable insights
+
+Visualization allows you to take your complex findings and present them in a way that is informative and engaging to all stakeholders – and a strong understanding of data science is required for that visualization to be successful.
+
+We must all remember that in the end, the consumer of the product of all artificial intelligence or machine learning endeavors will be people. We should ensure results are delivered as actionable, impactful insights to act upon in business and in life. The human brain is only able to process two to three pieces of information at a time and many different aspects of consumer behavior are influenced by more than just two or three events. This means you have to utilize advanced analytics and statistical modeling to accurately predict consumer behavior and KPIs for businesses.
+
+Every Data team needs a talented communicator
+
+The first thing many companies focus on when starting a department or initiative for big data is either the actual data or the talent needed to analyze that data. Most data scientists will tell you the more data they have the better the model, and that often becomes the main focus. A skilled data scientist can assist with this process, but you also need someone who has domain knowledge of your business and the ability to effectively communicate information back to end users.
+
+The amount of data available to businesses and consumers can often be overwhelming, and it is only continuing to increase, which makes finding accurate, granular, and relevant data through the clutter more difficult and important.
+
+The weather industry is a great example for effective use of big data. Weather models utilize a vast amount of data and the final forecast a consumer receives is often the result of several models. Forecasts for weather and businesses are becoming increasingly complex, so being able to take a model output and deliver that information in a fashion that audiences can understand and quickly act upon is necessary for success.
+
+However, once you have those results, how do you explain them? When you have 20 different components going into a model with interactions, lags, and non-linear relationships, how do you explain that to a user in a way that makes it easy for them to act upon?
+
+The impact of integrating multiple sources of data
+
+Weather shows how one data source can be used for multiple purposes. Weather influences what beer people drink, what music they listen to, how many steps they take, and their drive time to work – in other words, virtually every part of their day. Quantifying and communicating how weather impacts people in their daily lives is where visualization comes in.
+
+Through the right graphics, a user can quickly ingest multiple pieces of complex information. For weather this is especially important which because it is highly dependent on geography. Each climate zone has different weather events and different reactions to weather. We know that six inches of snow in Chicago will have a much different impact than six inches of snow in Dallas, Texas, but what happens when we’re looking at hundreds or thousands of locations? How do you properly communicate those complex relationships? This is where having capabilities in GIS is key. The quality and granularity of your data influences the accuracy of model outputs and the relevancy of the end results—regardless of how compelling the visuals are.
+
+You can create the most complex and accurate forecasts possible, but those solutions also have to be scalable to a large audience and available through multiple delivery channels. Taking in multiple data sources across the world and serving it up to a large global audience in a way that is responsive and accurate takes the right skills and resources.
+
+When you think about the impact this new age of analytics will have and what it could do for your business, remember that it is the smart people involved at all levels of the process that will help deliver the insights you and your customers need to make informed decisions that will impact your life and bottom line
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Visualization is the means by which humans understand complex analytics and is often the most crucial and overlooked step in the analytics process.
+As you increase the complexity of your data, the complexity of your final model increases as well, making effective communication and visualization of data even more difficult and critical to end users.
+Every Data team needs a talented communicatorThe first thing many companies focus on when starting a department or initiative for big data is either the actual data or the talent needed to analyze that data.
+Most data scientists will tell you the more data they have the better the model, and that often becomes the main focus.
+Each climate zone has different weather events and different reactions to weather.
+
+Other Blogs by Rosemary Radich: https://dataconomy.com/author/rosemary-radich/

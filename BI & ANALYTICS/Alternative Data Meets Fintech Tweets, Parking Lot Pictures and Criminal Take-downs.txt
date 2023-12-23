@@ -1,0 +1,84 @@
+Title: Alternative Data Meets Fintech: Tweets, Parking Lot Pictures and Criminal Take-downs
+
+Article Link: https://dataconomy.com/2019/08/29/how-alternative-data-is-used-in-fintech/
+
+Author: Gabriel Onyango
+
+Publish Date: 2019-08-29
+
+Article:
+In an increasingly competitive market, how are fintech companies adapting to improve their decision making? In industries such as insurance, capital markets, cryptocurrency, wealth and asset management — alternative data is proving to be a valuable source of insight.
+
+Like a broken leaf to a hunter or a change of wind direction to a sailor, alternative data, though seemingly unrelated, is now providing tiny crumbs that act as clues to those in fintech.
+
+Any data used to evaluate and make decisions about a company or an investment that is outside traditional sources i.e. financial statements, press releases, Securities and Exchange Commission (SEC) filings etc is regarded as alternative data.
+
+Alternative Data and Cryptocurrency
+
+Cryptocurrency prices are sensitive to speculation-a factor that you don’t expect to find in any financial record. So how do investors gain predictive insight into a cryptocurrency like bitcoin?
+
+Well, at the root of it, Bitcoin appeals to three groups of people; technology enthusiasts/computer programmers interested in crypto-mining or blockchain technology, speculators using it as a store of value and hoping to sell at a higher price, and criminals conducting illegal activity and using bitcoin as an anonymous means of transacting.
+
+Data relating to the behaviour of these user profiles are the bread crumbs that form insights used to predict bitcoin price changes.
+
+One of those data sources, which are based on people’s online behaviour is Google Trends; a free tool that allows people to track the most popular search terms across the world. A 2015 study by Aaron Yelowitz and Mathew Wilson used Google Trends information to establish a relationship between searches on Google (that were not directly related to bitcoin) and bitcoin interest.
+
+The study tracked search terms related to illegal activity and computer programming and found that increased interest in illegal activity and computer programming (bitcoin miners) on Google increased interest in bitcoin.
+
+Additionally, a previous study by researcher Ladislav Kristoufek shows a positive correlation between bitcoin searches and prices at exchanges. Thus, the two studies together show that if one was to track alternative data from the three bitcoin user-profiles mentioned earlier, then they would find a way to predict cryptocurrency prices.
+
+A real-life example of this phenomenon at work is a 22 % reduction in bitcoin price in 2013 after the FBI had unravelled an online criminal marketplace called Silk Road; where products including guns and ecstasy were exchanged for bitcoin.
+
+Using the bank accounts that were attached to the bitcoin transactions, the FBI was able to work backwards and arrest some of the account owners; thereby thwarting the anonymity factor that attracted criminal entities to the cryptocurrency and affecting its price.
+
+Twitter Sentiments
+
+Social media, particularly Twitter, has shown a strong correlation to cryptocurrency prices; Nasdaq’s Analytics Hub, which provides data used by thousands of investors, is exploring cryptocurrency datasets that include social media sentiments and fund flows from crypto exchanges.
+
+A 2014 study by Ciaran McAteer from the University of Dublin found a positive correlation between bitcoin exchange rates and twitter sentiments. This analysis evaluated the volume of tweets connected to the subject as well as retweets. It was discovered that the opinions expressed on twitter about bitcoin affected prices and this manifested after 24 hours.
+
+It’s a chain reaction where twitter sentiments affect investors who in turn affect prices. Using machine learning techniques and twitter reports one can get insights on price changes and act early.
+
+Alternative Data and Capital Markets
+
+Capital markets and data have always been in the same boat; market data, bank transactions etc. have been traditionally used to provide insight. However, when it comes to alternative data this sector does not disappoint.
+
+Ever heard of Foursquare? The app that lets you share when you are at your favourite restaurant by checking in online. The company anonymises this data and provides it as a service to other companies who can find value in it.
+
+The power of this type of data was evident in 2016. Using data from foot traffic in 1,900 Chipotle stores that its users had checked into, Foursquare predicted that Chipotle’s 2019 first quarter sales would drop by nearly 30%; which was confirmed when Chipotle reported a 29.7% Q1 drop in sales.
+
+Another source of alternative data used for capital markets investment is satellite imagery. Images of supermarket parking lots are taken daily by satellites; the number of parked vehicles on those images are analysed to come up with estimates for shopper traffic. Investors can then make moves before financial records even have the chance to show the changes.
+
+Sample this: Orbital Insights, a company in this field, identified a 5.4% quarterly decrease in traffic at Walmart before the company’s 2019, Q2 earnings call. The range of satellite data used includes real estate traffic, ship movement that indicates shipments of commodities as well as manufacturing shifts.
+
+Asset and Wealth Management
+
+In 2019 alone, hedge funds are estimated to spend in excess of $1 billion on alternative data and close to double the amount in 2020, according to web intelligence company YipitData- Alterntivedata.org.
+
+Some of this alternative data includes geospatial data that shows the proximity of competitors, credit card transactions, supply chain & logistics data, all of which can be used to evaluate new and existing investment opportunities.
+
+The attitude towards alternative data is positive among asset managers. A survey commissioned by IHS Markit, a business information provider, found that 71 % of asset managers believe that they get an edge over competitors due to non-traditional data. The 2019 study also showed that institutions’ yearly alternative data expenditure stood at about $900,000.
+
+Subsequently, this interest has trickled down to other industries such as insurance where companies are selling anonymised data for additional revenue streams. This is how it works : Say insurance company A has issued 100 policies on a single day. If these have been issued to new car owners, that data is valuable to an investor who is evaluating their investment options in the automotive industry.
+
+The same extends to real estate insurance where if a buyer takes out insurance on their new house, data that includes the number and nature of the policies-even when anonymised-could reveal insights about house demand as well as the things bought for those homes. Quandl, a company that brokers such deals has over 400,000 people using its alternative data according to its website.
+
+Insurance
+
+Above selling data to other industries, the insurance sector has also embraced the revolution by incorporating alternative data into its day-to-day processes. One such use case involves telematics, which combines telecommunications, electrical engineering and computer science technologies to facilitate communication and control of devices: then incorporating that into insurance.
+
+For instance, to determine car insurance premiums rates, UK’s Aviva has a mobile app that monitors a driver’s skills i.e. braking, cornering and acceleration. And just like in a video game, drivers earn points that earn them better premium prices. Additionally, in case of accidents, drivers can opt for a dashboard camera connected to the app that acts as an eye witness.
+
+On another front, the US is experiencing growing adoption of private flood insurance, which is separate from the government-provided National Flood Insurance Program (NFIP). This shift has brought about challenges in measuring flood risk appropriately.
+
+Since the NFIP hadn’t released flood claim data to the public until August 2019, data which private insurers can use in models. Alternative data such as flood-related social media posts, land-soil moisture and ocean salinity levels; which are detected by a radio telescope in space that senses microwave emissions from the earth and uses them to predict flooding, have come into play.
+
+Alternative data has shown a lot of potential for the fintech industry, as the capabilities of artificial intelligence and big data continue to improve, more applications areas should open up.
+
+Summary: financial statements, press releases, Securities and Exchange Commission (SEC) filings etc is regarded as alternative data.
+Alternative Data and CryptocurrencyCryptocurrency prices are sensitive to speculation-a factor that you don’t expect to find in any financial record.
+Alternative Data and Capital MarketsCapital markets and data have always been in the same boat; market data, bank transactions etc.
+Another source of alternative data used for capital markets investment is satellite imagery.
+Alternative data has shown a lot of potential for the fintech industry, as the capabilities of artificial intelligence and big data continue to improve, more applications areas should open up.
+
+Other Blogs by Gabriel Onyango: https://dataconomy.com/author/gabriel/

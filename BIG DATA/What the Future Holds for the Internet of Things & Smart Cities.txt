@@ -1,0 +1,68 @@
+Title: What the Future Holds for the Internet of Things & Smart Cities
+
+Article Link: https://dataconomy.com/2014/09/30/what-the-future-holds-for-the-internet-of-things-smart-cities/
+
+Author: Eileen McNulty
+
+Publish Date: 2014-09-30
+
+Article:
+In the latest installment of our expert interviews about the future of the Internet of Things, we discuss the promise of these smart cities with RF Code‘s VP of Worldwide Marketing & Strategic Partnerships, Richard Jenkins. As a leading environmental monitoring and asset management solutions provider, RF Code have been working within the RFID and Internet of Things space for over a decade, and are uniquely placed to offer insights into what the future holds for the internet of things and smart cities.
+
+Why do you think the interest in the Internet of Things and smart cities has grown so much in recent years?
+
+The Internet of Things describes the connection of people and things, via the internet, to other people and things. The IoT is all about data, how that data is used to extract valuable information and, subsequently, how that information is used to improve ‘something’.
+
+Public interest has grown through the invention and availability of consumer devices and interconnected media. We socialize instantaneously through mobile devices that track our every activity and now wearable technology is enabling the monitoring and understanding of our health, sport and environmental interactions.
+
+From a commercial perspective, the IoT has been around longer, but not always under its current much-hyped moniker. Supply chains have tracking devices, the retail industry manages inventory using RFID and critical assets in healthcare are located in real-time to ensure they are where they should be, when they are needed.
+
+The commercial value of the IoT is rapidly becoming indispensable; a competitive differentiator that could not only affect success, but also the existence of brands and services if not utilized correctly. Automated communities, product development and accurate management of organizations’ facilities and data centers further increases profitability and market dominance.
+
+What are the opportunities that the IoT and sensor data open up to us? Are there any current uses you find particularly interesting?
+
+The applications are almost limitless but that is where a common issue lies. Too many people discuss an ambitious world vision where data from countless sources is shared and utilized. This vision may eventually occur in the future but currently there are three areas with tangible benefits:
+
+The inbound corporate IoT – real-time intelligence and a competitive differentiator that delivers realistic corporate outcomes
+
+real-time intelligence and a competitive differentiator that delivers realistic corporate outcomes The internal IoT – intelligent buildings, the smart office, operational control and efficiency
+
+intelligent buildings, the smart office, operational control and efficiency Smart urban infrastructure management – transport and traffic efficiency, utilities management, healthcare advancement, public services
+
+Take the intelligent business as an example – with integrated internal and inbound IoT environments, the business knows in real-time what something is, its available capacity, where it is, where it is going and what condition it is in.
+
+This combination of sensor networks, advanced data analytics and business process management ensures a business can be connected from the customer all the way to the boardroom.
+
+What about the challenges?
+
+Maintaining focus is critical. Thinking ‘Big’ is undeniably valuable for certain sectors – financial services, healthcare and other public services – but for the majority, a targeted and strategic implementation of sensor data will deliver positive outcomes and benefit our lives.
+
+Data security and scalability are issues, but the largest challenge is how to store, analyze, predict and utilize the data being generated and collated. The IoT relies entirely on the data center. Businesses and governments have to address data center inefficiency before they can strive forward with the IoT.
+
+How will the rise of the Internet of Things change our data warehousing requirements?
+
+Data warehousing is an interesting term as the IoT will put significant pressure on both the application (storage, Big Data analytics, etc.) of the IoT and the facilities in which these massive data processing environments are housed.
+
+The aforementioned focus will be the only method that ensures the IoT data deluge does not confound organizations. Understanding what is relevant and valuable, and then how it can be used to better the provision of products or services will be critical. The data center allows an organization to collate, analyze, predict and act on data which, ultimately, will keep the hub of any company running.
+
+How intelligent do you think intelligent cities are going to get? What possible future applications do you foresee?
+
+We already see cities looking at far more intelligent uses of sensor networks. Today, the infrastructure that runs cities – transportation, utilities, traffic flow, financial services – are using a rudimentary level of sensors. As population density increases, the public’s expectations increase, (and technology advances), so the instrumentation of cities will demand unprecedented data center infrastructure and data analytics.
+
+Intelligent buildings that manage their own lighting, temperature, power distribution, IT networks and space are increasingly being assessed. The power demands of data centers, and their associated climatic impact, is driving the deployment of sophisticated environmental monitoring technology, with positive results seeing rewards from energy companies and governments. Elsewhere asset control in hospitals is leading to improved patient care and lower treatment costs.
+
+The IoT is already having an impact of the quality of our lives and will, noticeably, drive new economies and allow a small planet to accommodate a large number of people!
+
+Follow @DataconomyMedia
+
+
+
+(Image credit: Brian Koprowski)
+
+Summary: In the latest installment of our expert interviews about the future of the Internet of Things, we discuss the promise of these smart cities with RF Code‘s VP of Worldwide Marketing & Strategic Partnerships, Richard Jenkins.
+As a leading environmental monitoring and asset management solutions provider, RF Code have been working within the RFID and Internet of Things space for over a decade, and are uniquely placed to offer insights into what the future holds for the internet of things and smart cities.
+Why do you think the interest in the Internet of Things and smart cities has grown so much in recent years?
+The Internet of Things describes the connection of people and things, via the internet, to other people and things.
+How intelligent do you think intelligent cities are going to get?
+
+Other Blogs by Eileen McNulty: https://dataconomy.com/author/eileen-mcnulty/

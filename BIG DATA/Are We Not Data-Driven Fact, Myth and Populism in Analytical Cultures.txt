@@ -1,0 +1,58 @@
+Title: Are We Not Data-Driven? Fact, Myth and Populism in Analytical Cultures
+
+Article Link: https://dataconomy.com/2016/09/16/not-data-driven-fact-myth-populism-analytical-cultures/
+
+Author: Sri Raghavan
+
+Publish Date: 2016-09-16
+
+Article:
+Today’s tech-savvy organizations are typically proud of their innovation and culture. Most will say they are indeed “data-driven.” However, is it true? In my experience with many silicon entities, not meaning to court tabloid controversy, I would have to answer this question with a “No.” Let me explain by invoking three dimensions of critical investment for an organization that should be considered before a team claims itself to be “data driven:” infrastructure, people, and practice.
+
+Infrastructure: technology actually capable of supporting any relevant business question or query
+
+What exactly is infrastructure? Is it just a lugubrious conglomeration of high powered servers – custom made and commodity? Is it the agglomeration of high powered visual tools that turn just about any data point into the prettiest picture this side of the Louvre? Or is it a motley collection of data mining, intelligence, and unstructured query tools that each analyst can effortlessly power up from the cool confines of her workspace?
+
+Truth is, infrastructure, particularly in the realm of advanced analytics, is vastly perceived as throwing high fidelity compute clusters on top of the last mentioned set of tools with the unhealthy expectation that somehow there is an insight waiting to be wrangled at the other end. Not reality.
+
+When an investment in infrastructure is made in a manner that comports with the critical business questions to be asked — one that virtually anyone in the organization can and should have the ability to address, then that is a wise infrastructure investment.
+
+In other words, in making analytics as a cultural trait more pervasive, one must not start with a litany of tools and equipment to purchase. It behooves organizations to see infrastructure investments as part of the broader issue of organizational culture.
+
+Investments in technology cannot be made with a motif that says to the user “I am the provider and you are the user” but more from the standpoint of empowering users to create for themselves the ability to generate critical business insights.
+
+People: whose intellectual framing, expertise and creativity lead to the most advantageous choices
+
+Given the proliferation of technologies and the ever-increasing volumes of data of different types, the ability to interrogate the data in various forms is a natural expectation. New forms of interrogation require new skills and facilities with new technology paradigms that are not easy to get. So, as you can tell, the logical progression is for us to hire the “right” people with skills to leverage the new technologies that would, in turn, result in the delivery of critical insights to the business.
+
+Sounds great, right? It’s not. It is not about getting people with the latest technological capabilities that matters most. Of course it matters that there are technically competent people around. But the battle is well-nigh lost if the accent is primarily on technology. It is about hiring the folks who can rise above the immediate exigencies of the technology to deliver results that transcend these technologies.
+
+In other words, the business needs a group of individuals whose intellectual framing, expertise and creative powers of association enable them to recommend business choices not based on the latest industry trends (e.g., Spark, Flink) but more on how the pressing business and analytical issues could be best resolved – and delivered — to the majority of a vastly technology agnostic consumer base.
+
+Practice: based on a balance of data-driven evidence and experience aimed at optimal outcomes
+
+Some call it practice, others process, and a few others with choice epithets. Irrespective of the nomenclature, having a structure wherein decisions are taken, verified, disproved, and retested is a sine qua non for organizations that claim to be data driven. This often invokes the scientific approach to decision making.
+
+However, it is not the scientific approach in the sense of only applying an evidence-based approach to understanding the natural world as it happens around us. It is also an approach which considers our own worldview and the careful consideration of other, sometimes incompatible, worldviews, when decisions are made. This is challenging.
+
+We are asking ourselves to create a durable, decision-making culture where the facts, bare and verifiable, must be carefully weighed against the actual experiences resulting from decisions made in the past, some of which are likely to have resulted in flawed outcomes. It is this leavening of the current evidence with a carefully imparted subjective view of the world that makes “decisioning” an alchemy of both science and art.
+
+So, there we have it. Infrastructure, People, and Practice, in my view, are three solid pillars for any organization to consider to the fullest before making the claim to be data driven.
+
+These pillars may seem obvious to some, but the organization’s own liturgical book about how these three areas are conceived and implemented is anything but.
+
+Often, the latest technical fads are adopted without a view to definitive business issues. This is a major ‘faux pas’ because pre-determining preferred business outcomes ought to be priority one, and the truly data-driven organization move forward accordingly. Does this work always? No. Has this the potential to work the best among competing approaches? You bet.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Image: Dennis Yang
+
+Summary: Infrastructure: technology actually capable of supporting any relevant business question or queryWhat exactly is infrastructure?
+Is it the agglomeration of high powered visual tools that turn just about any data point into the prettiest picture this side of the Louvre?
+It behooves organizations to see infrastructure investments as part of the broader issue of organizational culture.
+New forms of interrogation require new skills and facilities with new technology paradigms that are not easy to get.
+This is a major ‘faux pas’ because pre-determining preferred business outcomes ought to be priority one, and the truly data-driven organization move forward accordingly.
+
+Other Blogs by Sri Raghavan: https://dataconomy.com/author/sriraghavan/

@@ -1,0 +1,54 @@
+Title: Big Data in Real Estate: Staying Ahead of the Curve
+
+Article Link: https://dataconomy.com/2017/06/02/big-data-real-estate-ahead-curve/
+
+Author: Philip Piletic
+
+Publish Date: 2017-06-02
+
+Article:
+Rapidly changing data management technology in the 21st Century has created cost-saving, business-expanding opportunities. Big companies around the world have realized the potential of modern technology to take over complex operations with more ease than a skilled worker could. There are debates about how it is pushing some traditional methods aside, but advantages tend to outweigh disadvantages. Technological advancement is occurring at such an accelerated rate, that businesses are struggling to keep up.
+
+Real Estate is not behind in adapting to modern technology. The shiny new trend in the Real Estate market is Big Data. The term Big Data is a wide-ranging description of datasets that cannot be processed in conventional data bases, but when analyzed computationally reveal actionable trends, patterns and associations. Big data helps realtors make some quick and accurate business decisions that might be considered cold and calculating, which isn’t the aura of warmth and personal service realtors want to exude. However, savvy agents know that Big Data analysis can give them those actionable facts that allow them to tailor a solution to each client’s needs, and the result is an approach that is more personalized, not less.
+
+Analyzing big data helps Real Estate businesses stay on top of the latest trend in the market. Here are some important aspects of Real Estate which are benefitting from Big Data.
+
+Appraisals
+
+Appraisals are a routine for real estate agencies. The process involves a visit of a qualified agent to the property, to discern the value of the asset by considering many factors. The appraisals are mostly used by banks to determine the actual worth of an asset before offering loans because there is a risk of lending more money than the real price of property.
+
+Due to the rapid expansion of cities and new suburban societies, appraisals have become a complicated process because there are many factors involved to estimate the actual value of the property. With the help of Big Data, appraisals can be become a less complex affair. Big Data analysis can reveal the worth of neighboring properties in a particular area which results in accurate estimates in shorter time spans.
+
+Finances
+
+Making sound financial decisions is a necessity of any business, including real estate. Agency owners have to take many financial decisions on a regular basis. If a decision backfires in later stages, it can hurt any real estate business badly. There are many variables involved in real estate financial decisions that despite having a team of experts working on every angle and thinking about any possibility, there are still chances that something can go wrong.
+
+Big Data has made this process much easier for the decision makers as it offers some great insights on risk analysis of any asset on the agenda. Big Data also helps to predict the worth of upcoming housing or building projects and helps determine realtors whether it is safe to invest or not.
+
+Money Laundering Prevention
+
+Big real estate companies have investment funds coming and going on the fly. In the wrong hands, the global nature of resources can cause many illegal problems like money laundering. No matter where are you working from, Big Data can provide suspicious activity analysis and can alert the concerned owners at the right time. Once the suspicious activity is detected, the digital trail exposed by the analysis is so detailed…For example, in 2016, 22 people were arrested in South Florida fraud scheme that laundered potentially billions of dollars of drug money by turning it into pricey real estate investments using shell companies. According to the New York Times, the US government is now tracking secret buyers of luxury properties, a practice made possible with advanced data analysis technology. Initial analysis determined that nearly 50 percent of homes sold in the US for $5 million and more are purchased through shell companies. The concern is that many of them are covering fraud. Suspicious activity monitoring and analysis will expand to many other businesses offering the business owners a better control of their organization.
+
+Targeted Marketing
+
+If some property is not selling despite some significant efforts from multiple agents and potential customers do not leave a bad review either, it is time to dig deep. If the realtors know some notable trends in a particular gender, age, or geographical area, then they can avail this opportunity to find the best suitable properties for those people. For example, analytics showed that SMS absolutely trumps email marketing in this particular sector. Targeted marketing has evolved a lot in the recent years. Big Data analysis can deliver some great targeted marketing assets by predicting the trends, behaviors, and success factors.
+
+Insurance Analytics
+
+Insurance companies are heavily relying on automated tools to make the best out of their insurance plans. A certain small area or larger geographical location can be analyzed with Big Data to determine what kind of coverages the people would need. Then the insurance plans are customized according to those areas.
+
+Verdict
+
+Big Data is need of the hour for real estate business. Software developers around the world are creating new tools every day to make the Big Data analysis process easier and intelligent. Now is the right time to incorporate Big Data into your real estate business before it is too late.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: The shiny new trend in the Real Estate market is Big Data.
+Analyzing big data helps Real Estate businesses stay on top of the latest trend in the market.
+Here are some important aspects of Real Estate which are benefitting from Big Data.
+Software developers around the world are creating new tools every day to make the Big Data analysis process easier and intelligent.
+Now is the right time to incorporate Big Data into your real estate business before it is too late.
+
+Other Blogs by Philip Piletic: https://dataconomy.com/author/philip-piletic/

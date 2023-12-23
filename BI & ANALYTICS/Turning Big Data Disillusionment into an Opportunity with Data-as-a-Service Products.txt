@@ -1,0 +1,86 @@
+Title: Turning Big Data Disillusionment into an Opportunity with Data-as-a-Service Products
+
+Article Link: https://dataconomy.com/2016/11/11/turning-big-data-disillusionment-opportunity-data-service-products/
+
+Author: Elizabeth Press
+
+Publish Date: 2016-11-11
+
+Article:
+Following the success of our Creating Data-as-a-Service Products at Data Natives, Elizabeth Press from D3M Labs and Dataconomy are joining forces to give your organization the opportunity to jump start your next innovative data product. Contact us to book a training specifically designed for your organization.
+
+Even though analysts publish optimistic forecasts, Big Data is in the trough of disillusionment
+
+Big Data’s descent from the peak of inflated expectations into the trough of disillusionment made a splash when Gartner came out with its 2016 Hype Cycle for Business Intelligence and Analytics. This stage is decisive: Big Data either delivers, and so rises a bit further up the slope of enlightenment to the plateau of productivity, or it doesn’t, and so it slides further down the trough.
+
+The total Data market is expected to nearly double in size, growing from $69.6B in revenue in 2015 to $132.3B in 2020, according to 451 Research. Through 2020, Spending on Cloud-Based Big Data and Analytics (BDA) Technology Will Grow 4.5x Faster Than Spending for On-Premises Solutions, according to IDC.
+
+Business transformation remains an improvement opportunity
+
+In a report that ZS Associates did together with Economist Intelligence Unit in a survey of US executives, 70% of respondents say marketing analytics are very important to their own business’ competitive advantage. Only 2% believe that transformations in capabilities at their companies have had a “broad, positive” effect.
+
+Despite the huge number of tools on the market for big data in German-speaking Europe, according to a BARC study, 47% of German-speaking companies use Excel, making it the most used software tool for planning and budgeting.
+
+An organization’s size is a major factor affecting how organizations use data. According to a report KPMG authored with BitKom, while 75% of large companies with more than 2,000 employees are able to find concrete use cases for their data analysis, only 60% of companies with less than 500 employees achieve this. An organization’s industry is also a major factor regarding successful implementation in Germany. The same report showed that Mechanical Engineering and Construction as well as automotive industries are leading the way in Germany in using data strategically.
+
+…and that is a good thing
+
+Organizations and thought leaders are realizing that ability to formulate a use case (and business case if you desire to reap financial value), contextualize, create insight and transformational action will be their strategic differentiator.
+
+As big data innovations become more sophisticated, organizations are realizing their limitations regarding their abilities to invest in and foster specialized big data skillsets and sift through the multitude of big data technology vendors to build both a team and a technology stack.
+
+As awareness of the importance of a well-thought through use case increases, companies will focus on their core competence and outsource steps in the data productization process to expert suppliers.
+
+That creates a huge opportunity for Data-as-a-Service (DaaS) Products.
+
+So, what is Data-as-a-Service (DaaS)?
+
+In my last blog Creating your Data-as-a-Service Customer, I explained that Data-as-a-Service (DaaS) can be described as productized data-driven insight on demand. DaaS allows multiple business users to access the data and insights they need at the timing they desire, location-independent of where the data has been sourced and managed.
+
+Going beyond the technology stack and into core business decisions, DaaS distinguishes itself from other as-a-Service products, because it enables data to become an active partner in human decision making.
+
+Using Ovum’s nomenclature, the productizing of data has three basic steps:
+
+Sourcing: This step is procuring the data itself and creating the infrastructure for the data.
+
+Management: At this point, the data is aggregated, cleansed and undergoes analytical processing.
+
+Provision: This is where the data is packaged in a consumable form. That often means it is evaluated and visualized. This step also includes access and distribution.
+
+Why is DaaS important to your organization? – Profits, profits, profits
+
+The ability to create a compelling Data-as-a-Service product will be the competitive differentiator.
+
+Monetizing the insights from your data can be very profitable. The data that you generate can be used to earn additional cash flow – and even change your business model, increase your profitability and fuel growth into new customer segments and markets.
+
+Disillusionment is an opportunity to create your DaaS customer
+
+The trough of disillusionment is where viable use cases are discovered, and organizations learn how to leverage the capabilities of big data.
+
+Those who can proactively productize and scale technology at the peak of inflated expectations in Gartner’s Hype Cycle for Business Intelligence and Analytics, 2016, such as Real-Time Analytics, Geo Spacial and Location Data, Self Service Data Preparation, Hadoop-Based Data Discovery and more can realize huge monetary and strategic opportunities.
+
+How can you create an innovative Data-as-a-Service product?
+
+Hacks
+
+Here are some hacks that will help you action the learnings from our analysis of the US presidential elections, along with an exercise you can use to jump start your team’s next innovative Data-as-a-Service product. Those who download these hacks will receive our New Year’s Report for Innovative Data-as-a-Service Products, where we will provide you with insight and tips for monetizing the latest innovations through productizing data.
+
+These hacks include a case study of a professor who correctly predicted the outcome of every US presidential election since 1984 plus another surprising prediction he recently released. Click here to download!
+
+Training
+
+Following the success of our Creating Data-as-a-Service Products at Data Natives, Elizabeth Press from D3M Labs and Dataconomy are joining forces to give your organization the opportunity to jump start your next innovative data product. In addition to and in combination with our Creating Data-as-a-Service Products workshop, D3M Labs is offering specialized workshops for social media analysis, managing social media listening projects and combining social media listening with traditional analytical methods. Contact us to book a training specifically designed for your organization.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Image: Matthew G
+
+Summary: Following the success of our Creating Data-as-a-Service Products at Data Natives, Elizabeth Press from D3M Labs and Dataconomy are joining forces to give your organization the opportunity to jump start your next innovative data product.
+As big data innovations become more sophisticated, organizations are realizing their limitations regarding their abilities to invest in and foster specialized big data skillsets and sift through the multitude of big data technology vendors to build both a team and a technology stack.
+That creates a huge opportunity for Data-as-a-Service (DaaS) Products.
+In my last blog Creating your Data-as-a-Service Customer, I explained that Data-as-a-Service (DaaS) can be described as productized data-driven insight on demand.
+TrainingFollowing the success of our Creating Data-as-a-Service Products at Data Natives, Elizabeth Press from D3M Labs and Dataconomy are joining forces to give your organization the opportunity to jump start your next innovative data product.
+
+Other Blogs by Elizabeth Press: https://dataconomy.com/author/epress/

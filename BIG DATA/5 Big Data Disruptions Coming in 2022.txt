@@ -1,0 +1,56 @@
+Title: 5 Big Data Disruptions Coming in 2022
+
+Article Link: https://dataconomy.com/2021/12/13/5-big-data-disruptions-coming-2022/
+
+Author: Devin Partida
+
+Publish Date: 2021-12-13
+
+Article:
+Big data has already transformed how many industries operate. Now that the pandemic has accelerated digital transformation around the globe, the field has grown faster than most could have predicted. This unprecedented growth will undoubtedly bring considerable disruption in 2022.
+
+Big data will disrupt industries further as new challenges and opportunities arise in the upcoming year. Here are five of the most significant changes professionals can expect in 2022.
+
+1. Big Data Becomes a Matter of Foreign Policy
+
+Governments will regulate big data more closely as it becomes a larger industry. This trend has already begun to take shape with laws like the GDPR and China’s Data Security Law, but government interest will expand in 2022. China’s recently announced plan to triple its big data industry by 2025 is a sign of things to come.
+
+Big data will become a foreign policy issue as more governments take steps to regulate the industry and support their local sectors. Nations may start to draw lines and issue digital trade restrictions relating to the industry. Operations will have to navigate increasingly complex regulatory issues as a result.
+
+2. Big Data Optimizes Recruiting and Training
+
+Businesses in 2022 will apply big data more heavily to recruitment amid widespread worker shortages. The Marine Corps has announced it will use big data to match recruits to roles where they’re best suited. Other organizations will likely employ similar tactics as capitalizing on available workers becomes more important.
+
+Passive candidates make up 70% of the workforce, and big data analytics can help companies recruit workers they wouldn’t find otherwise. Similarly, organizations will use information to personalize training programs and maximize their staff’s potential. These operations will help mitigate worker shortages and boost productivity.
+
+3. Real-Time Analytics Sustains E-Commerce
+
+Another big data application that will grow in 2022 is real-time analytics, specifically in e-commerce. It has skyrocketed throughout the pandemic, and brands will have to capitalize on big data to make the most of it. Real-time analytics can help online stores market more effectively and optimize shipping routes for greater customer satisfaction.
+
+Map data can already define deliverability polygons, which inform what steps are necessary for deliveries, and real-time analytics can take these further. In 2022, e-commerce delivery routes will update in real-time according to traffic patterns, weather developments, and other factors. Companies and their logistics partners will then reduce expenses and vastly improve efficiency.
+
+4. Data Poisoning Grows More Severe
+
+One of big data’s most significant applications is machine learning. Already, 50% of surveyed companies have implemented ML in at least one function, and that number will only grow. As additional businesses rely heavily on these models, data poisoning will become a more relevant and severe problem.
+
+Data professionals preparing for 2022 must anticipate a wave of data poisoning attacks. Companies must understand these threats to improve security around their machine learning models and data pools. If cybersecurity standards in 2022 don’t adapt to meet these threats, machine learning may cause more harm than good.
+
+5. The Rise of Green Data Centers
+
+As big data demands rise, so will their impact on the environment. With climate change growing increasingly severe, more companies will look for ways to use big data sustainably in 2022. Namely, green data centers and renewable energy facilities will become more popular.
+
+Businesses that transition to green data centers early could gain more loyalty from eco-conscious consumers. Companies may force government pressure to use these facilities in some areas as sustainability becomes a larger focus for world politics. This transition may cause initial disruption for the industry, but it will ensure success and protect the planet in the long term.
+
+Big Data Is Reaching New Heights in 2022
+
+Big data has already made impressive strides in its relatively short history, and it’s only going to keep growing in 2022. This means there are still many disruptions ahead before the field reaches maturity. Changing technologies, social trends, and legal developments will reshape big data and how companies use it.
+
+These five shifts represent the most significant disruptions that will likely come to big data in 2022. If companies and data professionals can prepare for them now, they can ensure success in the future.
+
+Summary: Big Data Becomes a Matter of Foreign PolicyGovernments will regulate big data more closely as it becomes a larger industry.
+China’s recently announced plan to triple its big data industry by 2025 is a sign of things to come.
+Big Data Optimizes Recruiting and TrainingBusinesses in 2022 will apply big data more heavily to recruitment amid widespread worker shortages.
+Real-Time Analytics Sustains E-CommerceAnother big data application that will grow in 2022 is real-time analytics, specifically in e-commerce.
+The Rise of Green Data CentersAs big data demands rise, so will their impact on the environment.
+
+Other Blogs by Devin Partida: https://dataconomy.com/author/devin-partida/

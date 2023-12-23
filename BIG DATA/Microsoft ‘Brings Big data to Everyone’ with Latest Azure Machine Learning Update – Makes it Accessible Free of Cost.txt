@@ -1,0 +1,34 @@
+Title: Microsoft ‘Brings Big data to Everyone’ with Latest Azure Machine Learning Update – Makes it Accessible Free of Cost
+
+Article Link: https://dataconomy.com/2014/11/07/microsoft-brings-big-data-to-everyone-with-latest-azure-machine-learning-update-makes-it-accessible-free-of-cost/
+
+Author: admin
+
+Publish Date: 2014-11-07
+
+Article:
+Microsoft announced a stash of new services and updates at Professional Association for SQL Server (PASS) Summit earlier this week, in order to expand on its big data platform.
+
+Keeping in line with their “efforts to bring big data to everyone,” the roll out sees an update for the database-as-a-service, Azure SQL Database, and “easier access” to their machine learning service, Azure Machine Learning. Moreover with the ease-of-access, Microsoft pitches to DBAs, developers, business intelligence professionals and nascent data scientists to open more avenues to bring in business against competitors Amazon and Google.
+
+Azure Machine Learning is now available free of charge, without a subscription or credit card with only the need for a Microsoft account ID
+
+Furthermore, T.K. Ranga Rengarajan, corporate vice president for the data platform inside Microsoft’s cloud and enterprise group, while making the announcement in a blog also promised “new version of Azure SQL Database that represents another major milestone for this database-as-a-service,” later this year.
+
+“With this preview, we will add SQL Server capabilities that will make it easier to extend and migrate applications to the cloud, including support for larger databases with online indexing and parallel queries, improved T-SQL support with common language runtime and XML index, and monitoring and troubleshooting with extended events,” he explained.
+
+Read more here
+
+Follow @DataconomyMedia
+
+
+
+(Image Credit: Kārlis Dambrāns)
+
+Summary: Microsoft announced a stash of new services and updates at Professional Association for SQL Server (PASS) Summit earlier this week, in order to expand on its big data platform.
+Keeping in line with their “efforts to bring big data to everyone,” the roll out sees an update for the database-as-a-service, Azure SQL Database, and “easier access” to their machine learning service, Azure Machine Learning.
+Moreover with the ease-of-access, Microsoft pitches to DBAs, developers, business intelligence professionals and nascent data scientists to open more avenues to bring in business against competitors Amazon and Google.
+Azure Machine Learning is now available free of charge, without a subscription or credit card with only the need for a Microsoft account IDFurthermore, T.K.
+Ranga Rengarajan, corporate vice president for the data platform inside Microsoft’s cloud and enterprise group, while making the announcement in a blog also promised “new version of Azure SQL Database that represents another major milestone for this database-as-a-service,” later this year.
+
+Other Blogs by admin: https://dataconomy.com/author/admin/

@@ -1,0 +1,70 @@
+Title: Five Ways to Make Better Data-Driven Decisions in 2020
+
+Article Link: https://dataconomy.com/2019/11/07/five-ways-to-make-better-data-driven-decisions-in-2020/
+
+Author: Ralph Tkatchuk
+
+Publish Date: 2019-11-07
+
+Article:
+Is your organization data-driven? Across industries, data has become a core component of most modern businesses. Here is how budgets and corporate planning reflect this trend.
+
+A McKinsey study found that 36% of companies say data has had an impact on industry-wide competition, while 32% report actively changing their long-term strategies to adapt to new data analytics technology.
+
+A recent survey from MicroStrategy, meanwhile, discovered that over half of enterprise organizations use data analytics to drive their strategy and change, and 78% planned to expand their spending to hire analytics talent in 2019.
+
+Even so, having data doesn’t make an organization data-driven, nor does it make a real impact on its own. For data to be valuable, you need to find ways to properly organize, analyze, and understand it.
+
+Getting the most out of your data is not impossible. Here are five ways you can boost your business to make better data-driven decisions in 2020.
+
+1. Create and Enforce KPIs Across Your Organization
+
+KPIs are a vital piece of the analytics puzzle, as they provide you with a real barometer of how your organization is working and where it must improve. However, there are a few problems with how KPIs can be implemented if not done correctly from the outset. The first is that KPIs must be properly defined and thought out to offer real insights. Tracking every facet of every operation seems tempting, but it can drown out valuable information in white noise due to data overload.
+
+Moreover, lax tracking of KPIs on an organizational level reduces the effectiveness for everyone. Instead of simply creating as many KPIs as you can think of, it’s best to take the measured approach and focus on KPIs that are not only relevant, but that can also be implemented across your company.
+
+Focusing on creating a reporting culture and properly tracking your employees’ performance can aid smarter choices about improving operations and inculcating a better workplace culture.
+
+2. Empower Your Team to Access Their Data
+
+As the size and scale of a company grows so does the amount of data it produces, and the demand for it. In organizations where data is handled centrally—via IT or through a dedicated data analytics team—scalability becomes a problem as more users request access to data that is vital for excelling in their roles.
+
+More than simply the volume of requests, the stumbling block of relaying requests back and forth slows operations and reduces the value of data the greater the latency of eventually reaching users. Making better decisions requires access for every team member to the data they need, when they need it.
+
+Using business intelligence tools like Sisense, for instance, can reduce the steps your line-of-business colleagues must take to access data. This includes offering them customizable dashboards and reporting, real-time ad-hoc analytics and more importantly, direct access to the data they need. By empowering your team to access data directly, you can help them make more informed and relevant decisions to adapt to changes.
+
+3. Layer Machine Intelligence on Human Decision-Making
+
+Sometimes, even the right analytics tool can only take you so far. Despite the versatility and capacity of most BI tools, what they can’t account for is human decision-making. Moreover, the sheer volume of data being parsed means that you may be making decisions with partial visibility. This is highly problematic in areas where fast decision-making is critical, and even more so when you must scour requests, queries, and logs manually to respond.
+
+AI and machine learning tools help reduce the likelihood that this is a problem by enhancing your analysis and decision-making capabilities. Log management, for instance, requires parsing through hundreds (and sometimes thousands, depending on your company size) of complaints, possible bugs, and error reports that must be individually scanned. Tools like XpoLog can automate the process and reduce strain on decision makers by scanning and collecting logs and highlighting the important takeaways.
+
+This makes decision-making smoother and more confident by providing greater insight with every data point.
+
+4. Encourage a Decision Culture That Is More Collaborative
+
+A recent survey uncovered an interesting dichotomy in the decision-making model present at most companies. On one hand, 39% employ a top-down decision-making model that prioritizes executives’ views over their teams. On the other, however, is the growing opinion, among 69% of respondents, that companies would operate more efficiently via a more collaborative approach to decision-making.
+
+In cultures that don’t value collaboration, access to vital data is not a priority, and it shows.
+
+Collaboration goes beyond who makes the final call on a given situation—it’s about bringing perspectives into a problem and ultimately arriving at a better solution. Encouraging a collaborative decision-making culture starts with letting your team gain access to important data and contribute real input and views toward any final decision. Moreover, it means letting go of some control to empower teams to use their own data and make smarter choices on the fly.
+
+5. Organize Your Data to Create a Single BI Truth
+
+Perhaps one of the biggest enemies of good decision-making is data overflow and disparity. Most organizations rarely have a single source of data, instead gathering data points from Google, Facebook, ad platforms, CRMs, other internal software, and likely many more tools. The result is a collection of disparate data pools that can appear contradictory or redundant, negatively affecting your ability to uncover the truth behind the data.
+
+To avoid this, the best initial step to take is building a single truth by unifying your data streams. While different sets are unique—after all, sales and operations data are not similar—they can all help build a single, more holistic picture instead of requiring multiple truths that may or may not coincide.
+
+Focus on structuring your data storage—either through a warehouse, lake, or mart—and building a steady pipeline that feeds information into a single source, delivering a better picture and easier path towards the right decision.
+
+Make Smarter, Faster Decisions
+
+Data is vital because it is so valuable. Taking advantage of the mountains of data your organization produces doesn’t require a corporate overhaul, but it does require some careful consideration. Focus on making your data operations as smooth and streamlined as possible to eventually generate better decisions and powerful results.
+
+Summary: Here are five ways you can boost your business to make better data-driven decisions in 2020.
+Making better decisions requires access for every team member to the data they need, when they need it.
+Using business intelligence tools like Sisense, for instance, can reduce the steps your line-of-business colleagues must take to access data.
+By empowering your team to access data directly, you can help them make more informed and relevant decisions to adapt to changes.
+Focus on making your data operations as smooth and streamlined as possible to eventually generate better decisions and powerful results.
+
+Other Blogs by Ralph Tkatchuk: https://dataconomy.com/author/ralph-tkatchuk/

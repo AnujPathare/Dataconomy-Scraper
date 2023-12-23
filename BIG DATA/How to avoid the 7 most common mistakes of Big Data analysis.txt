@@ -1,0 +1,46 @@
+Title: How to avoid the 7 most common mistakes of Big Data analysis
+
+Article Link: https://dataconomy.com/2017/01/13/7-mistakes-big-data-analysis/
+
+Author: Aditya Rana
+
+Publish Date: 2017-01-13
+
+Article:
+One of the coolest things about being a data scientist is being industry-agnostic. You could dive into gigabytes or even petabytes of data from any industry and derive meaningful interpretations that may catch even the industry insiders by surprise. When the global financial crisis hit the American market in 2008, few people predicted the sheer size of the catastrophe. Even the Federal Reserve claims that nothing in the field of finance or economics could have predicted the economic fallout from what happened with the housing market.
+
+Cashing in from the crisis
+
+Yet, a few people did. Hedge fund managers like Mike Burry (made famous as interpreted by Christian Bale in the movie “The Big Short”) were able to read the data pertaining to the subprime mortgage loans and could see the devastating effect they would have on the economy at large. One study used big data to look into the Troubled Asset Release Program (TARP) to find that politically connected traders were able to cash in from the financial crisis.
+
+It is now nearly a decade since the onset of the financial crisis. Would our advances in big data management in the years of its aftermath help prevent another catastrophe of this magnitude? The Bank of England, for instance, did not have a real-time information system to assist in decision making. Instead, all it had at its disposal was quarterly summary statements. But since then, the bank has started using technology to look at financial data at a lot more granular level and in real-time. This use of big data helps The Bank of England to spot irregularities faster and more frequently. But the degree to which banks act on these insights is a different matter altogether.
+
+From the perspective of the mortgage industry, one of the key areas where big data has been immensely useful is in risk assessment. New startups in this space have taken to big data extensively to perform several critical tasks like qualifying borrowers not just on their conventional loaning history, but also with unmined data like those from social media and purchase patterns. Besides this, big data technology is also used with predictive modeling (for example, in the case of a young couple moving into a bigger house), risk assessment (e.g. predictive modeling to identify borrowers under distress), fraud detection (spotting new buying trends and patterns with big data) and performing due diligence.
+
+How do you properly assess risk?
+
+Data quality plays a crucial role in determining how effective big data can be with risk assessment. Not all data is created equal, and insufficient or incomplete data could often drive data scientists towards conclusions that may not be entirely correct and thus potentially disastrous. To be more specific, the effectiveness of big data on risk assessment depends on these five factors : accuracy, consistency, relevance, completeness and timeliness. In the absence of any of these factors, data analytics may fail to provide the necessary risk assessment that businesses require.
+
+According to Cathy O’Neil, this is already happening. Cathy is a mathematician from Harvard who recently authored the book, ‘Weapons of Math Destruction’. In the book, she talks about how shallow and volatile data sets are increasingly being used by businesses to assess risk which is causing a ‘silent financial crisis’. For instance, a young black man from a crime-infested neighborhood has algorithms stacked against him at every stage of his life – be it education, buying a home or getting a job. So even if the young man in question may aspire higher, the big data algorithms might fuel a self-fulfilling prophecy to keep him tied to the neighborhood and background he aspires to move up from.
+
+7 common biases of Big Data analysis
+
+There are essentially seven common biases when it comes to big data results, especially those in risk management.
+
+Confirmation bias is where data scientists use limited data to prove a hypothesis that they instinctively feel is right (and thus ignore other data sets that don’t align to this hypothesis). The other is selection bias , when the data is selected subjectively and not objectively. Surveys are a good example, because here, the analyst comes up with the questions, thus shaping (almost picking) the data that is going to be received. Data scientists also frequently misinterpret outliers as normal data which can skew results. Simpson’s Paradox is one where groups of data point to one trend, but this trend can reverse when these various groups of data are combined. There are cases when confounding variables are overlooked that can vary the results immensely. In other cases, analysts assume a bell curve while aggregating results but when it doesn’t exist, it can lead to biased results. This is called Non-Normality Overfitting , which is an overly complicated, noisy model, and Underfitting , using an overly simple model.
+
+In a report released almost a year ago, the Federal Trade Commission warned businesses of the risks associated with “hidden biases” that can contribute to disparities in opportunity (and also make goods more expensive in lower-income neighborhoods) and that can raise frauds and data breaches. Still, the benefits of big data in risk assessment and management far outweigh the potential risks with bad data. As a data scientist, risk assessment, combined with predictive analytics, is a fantastic opportunity to see the economy through the prism of numbers (instead of models) and this can go a long way in ensuring the calamities of 2008 do not rear their head ever again.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Image: Kole Dalunk, CC BY 2.0
+
+Summary: Would our advances in big data management in the years of its aftermath help prevent another catastrophe of this magnitude?
+Data quality plays a crucial role in determining how effective big data can be with risk assessment.
+Not all data is created equal, and insufficient or incomplete data could often drive data scientists towards conclusions that may not be entirely correct and thus potentially disastrous.
+7 common biases of Big Data analysisThere are essentially seven common biases when it comes to big data results, especially those in risk management.
+Still, the benefits of big data in risk assessment and management far outweigh the potential risks with bad data.
+
+Other Blogs by Aditya Rana: https://dataconomy.com/author/aditya-rana/

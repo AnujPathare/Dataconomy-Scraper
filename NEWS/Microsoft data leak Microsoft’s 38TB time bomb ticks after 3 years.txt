@@ -1,0 +1,54 @@
+Title: Microsoft data leak: Microsoft’s 38TB time bomb ticks after 3 years
+
+Article Link: https://dataconomy.com/2023/09/18/microsoft-data-leak-wiz-azure/
+
+Author: Eray Eliaçık
+
+Publish Date: 2023-09-18
+
+Article:
+The recent Microsoft data leak shows that where data is king and guardian, even giants can find themselves entangled in a web of their creation. Picture this: a data breach that remained hidden for nearly three years, a digital treasure chest left ajar, and an accidental unveiling by vigilant cyber sleuths. This is the sensational story of the Microsoft data leak—a cautionary tale that peels back the curtain on the complexities of data security in the age of artificial intelligence. Buckle up as we journey through a digital maze where terabytes of secrets lay hidden and where lessons about the responsible stewardship of data await those daring enough to tread.
+
+Welcome to the era where innovation and vigilance dance a delicate tango, and even tech titans must learn to navigate the fine line between progress and peril.
+
+The unveiling of the accidental Microsoft data leak
+
+The saga began in July 2020 when the Microsoft AI research division embarked on a mission to contribute open-source AI learning models to a public GitHub repository. While their intentions were noble, the unintended consequences of their actions would not surface until much later.
+
+Fast forward to 2023, when cloud security firm Wiz made a startling discovery. Their vigilant security researchers stumbled upon a URL shared by a Microsoft employee. Little did that employee know that this URL led to a misconfigured Azure Blob storage bucket containing terabytes of sensitive data.
+
+Microsoft swiftly traced the data exposure to an excessively permissive Shared Access Signature (SAS) token. This token essentially granted full control over the shared files, opening Pandora’s box of potential security risks. It’s worth noting that when used correctly, SAS tokens offer a secure way to grant delegated access to resources within a storage account.
+
+The enigma of SAS tokens
+
+When wielded with care, SAS tokens provide precise control over a client’s data access. They allow administrators to specify which resources users can interact with, define their permissions, and set the duration of the token’s validity. However, as the Microsoft incident demonstrates, misuse of SAS tokens can lead to grave consequences.
+
+One of the challenges posed by SAS tokens is their limited tracking and management capabilities within the Azure portal. Moreover, these tokens can be configured to last indefinitely, with no upper limit on their expiry time. This makes them a security risk and calls for their careful and sparing use.
+
+The data exposure
+
+The Wiz Research Team’s investigation revealed that aside from the open-source AI models, the misconfigured internal storage account inadvertently granted access to 38 terabytes of additional private data. This treasure trove included backups of personal information belonging to Microsoft employees, such as passwords for Microsoft services, secret keys, and an archive of over 30,000 internal Microsoft Teams messages from 359 employees.
+
+No customer data at risk
+
+Microsoft acted swiftly upon learning of the Microsoft data leak. In a statement, the company assured that no customer data was exposed or other internal services were compromised. The incident served as a wake-up call, prompting immediate action to rectify the situation.
+
+TransUnion breach compromises user information again
+
+Lessons learned
+
+As the dust settles on the Microsoft data leak, it serves as a stark reminder of the challenges that arise in the era of AI and big data. The rapid pace of AI development demands strict security checks and safeguards. While pushing the boundaries of technology, data scientists and engineers must also be vigilant custodians of the vast amounts of data they handle.
+
+AI holds immense potential for tech companies, but this potential must be harnessed responsibly. The Microsoft incident underscores the growing difficulty in monitoring and safeguarding data as it flows through complex AI pipelines. As technology evolves, so too must our commitment to data security.
+
+In an age where data is king, the Microsoft data leak stands as a cautionary tale, reminding us that even giants can stumble when they neglect the fundamental importance of safeguarding the digital treasures they hold. It’s a lesson we must heed as we journey deeper into artificial intelligence and data-driven innovation.
+
+Featured image credit: Yusuf P/Pexels
+
+Summary: The recent Microsoft data leak shows that where data is king and guardian, even giants can find themselves entangled in a web of their creation.
+This is the sensational story of the Microsoft data leak—a cautionary tale that peels back the curtain on the complexities of data security in the age of artificial intelligence.
+The unveiling of the accidental Microsoft data leakThe saga began in July 2020 when the Microsoft AI research division embarked on a mission to contribute open-source AI learning models to a public GitHub repository.
+No customer data at riskMicrosoft acted swiftly upon learning of the Microsoft data leak.
+In an age where data is king, the Microsoft data leak stands as a cautionary tale, reminding us that even giants can stumble when they neglect the fundamental importance of safeguarding the digital treasures they hold.
+
+Other Blogs by Eray Eliaçık: https://dataconomy.com/author/eray-eliacik/

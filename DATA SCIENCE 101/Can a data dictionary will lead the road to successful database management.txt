@@ -1,0 +1,170 @@
+Title: Can a data dictionary will lead the road to successful database management?
+
+Article Link: https://dataconomy.com/2022/04/04/what-is-a-data-dictionary/
+
+Author: Eray Eliaçık
+
+Publish Date: 2022-04-04
+
+Article:
+Let’s start by answering the first thing that comes to mind: What is a data dictionary? A data dictionary, also known as a data definition matrix, contains comprehensive data about the company’s data, such as the definition of data elements, their meanings, and allowable values.
+
+The dictionary, in essence, is a tool that allows you to convey business stakeholder needs in a way that allows your technical team to build a relational database or data structure faster. It aids in the prevention of project disasters, such as requiring information in a field for which a business stakeholder can’t reasonably be asked or expecting the wrong type of information in a field.
+
+Data dictionary definition
+
+It is a compendium of terms, definitions, and attributes that apply to data elements in a database, information system, or study portion. It explains the denotation and connotation of data elements in the context of a project and offers recommendations on how they should be interpreted.
+
+A data dictionary also includes data element metadata. The information included in a data dictionary may help you establish the scope and characteristics of data elements and the management that governs their usage and application.
+
+Why is a data dictionary important?
+
+Data dictionaries are helpful for a variety of reasons. To summarize, they have the following characteristics:
+
+Assist in eliminating project data inconsistencies.
+
+Define conventions that will be utilized throughout the project to avoid confusion.
+
+Provide consistency in data collection and usage across the team.
+
+Make it easier to analyze data.
+
+Enforce the use of data standards
+
+What are data standards?
+
+Standardized data follow standards. Data are gathered, recorded, and represented in accordance with standards. Standards provide a common framework for interpreting and utilizing data sets.
+
+Researchers in different fields must use comparable standards to know that the manner their data are collected and described will be consistent across different projects. Using Data Standards as part of a well-designed dictionary might help make your research data more accessible. It will guarantee that data will be identifiable and usable by others.
+
+The key elements of a data dictionary
+
+It is a document that explains the meaning of each attribute in a data model. An attribute is a database position that contains information. For example, if we wanted to represent the articles on this website, we could have attributes for article title, author, category, and content.
+
+It is generally organized in a spreadsheet. The spreadsheet contains rows for each attribute, with columns labeled for each piece of information relevant to the attribute.
+
+A data dictionary has two essential elements:
+
+List of tables (or entities) List of columns (or fields, or attributes)
+
+Let’s look at the most frequent components included in the dictionary.
+
+Attribute Name – A distinguishing name that is used to identify each feature.
+
+– A distinguishing name that is used to identify each feature. Optional/Required – Whether information is necessary for an attribute before a record may be stored is indicated by the presence of this checkbox.
+
+– Whether information is necessary for an attribute before a record may be stored is indicated by the presence of this checkbox. Attribute Type – How you determine what data will be included in a field is defined by this setting. Text, numeric, date/time, enumerated list, look-ups, booleans, and unique identifiers are just a few possible data types.
+
+A data dictionary may include the origin of the data, the table or concept in which the attribute is found, and additional information about each component.
+
+Types of data dictionary
+
+It’s possible to split the dictionary into two categories:
+
+Active data dictionary Passive data dictionary
+
+Active data dictionary
+
+When the data definition language (DDL) changes the database object structure, it must be reflected in the data dictionary. The job of updating the data dictionary tables for any modifications is solely that of the database in which the data dictionary is located.The data dictionary is automatically updated if created in the same database. As a result, there will be no mismatch between the actual structure and the data dictionary details. An active data dictionary is current at the time of writing this book.
+
+System Catalog
+
+It’s a term used to describe several things: the System Catalog, system tables, data dictionary views, etc. The System Catalog is a collection of system tables or views incorporated into a database engine (DBMS) to allow users to access data in the database. It also contains information about security, logs, and health.
+
+Moreover, System Catalog has some standards, such as Information Schema.
+
+Information Schema
+
+The Information Schema is a popular System Catalog standard defined by SQL-92. It’s a unique schema named information_schema with preconfigured system views and tables. Despite being a norm, each vendor implemented this standard to some degree, adding its tables and columns.
+
+Some of the tables in information_schema:
+
+tables
+
+columns
+
+views
+
+referential_constraints
+
+table_constraints
+
+Passive data dictionary
+
+Some databases include a dictionary in a separate, independent database only used to store dictionary components. It’s often saved as XML, Excel files, or other file formats.
+
+In this scenario, a concerted effort is required to keep the data dictionary in sync with the database objects. A passive dictionary is what you’re dealing with here. There’s a chance that the database objects and the data dictionary won’t match in this instance. This kind of DD has to be handled with great sensitivity.
+
+The passive data dictionary is distinct from the database and must be updated manually or with specialized software whenever the database structure changes.
+
+A passive dictionary might be implemented in a variety of ways:
+
+A document or spreadsheet
+
+Tools Data Catalogs Data integration/ETL metadata repositories Data modeling tools
+
+Custom implementations
+
+Data dictionary example
+
+You’re undoubtedly asking how everything fits together.
+
+Here’s a look at an inventory list, a basic example of a data dictionary.
+
+As you can see, a dictionary organizes critical information about each attribute in a business-oriented way. It also groups information that may be found in multiple documents and specifications, making it more straightforward for your database developer to create or change a database that fulfills company demands.
+
+Functions of data dictionary
+
+A dictionary may be used for a variety of things. The following are some important uses:
+
+Data dictionary in database systems (DBMS)
+
+The information about data structures is kept in special formats in most relational database management systems – predefined tables or views that contain metadata for each component of a database, such as tables, columns, indexes, foreign keys, and constraints.
+
+A data-driven tool generates reports based on the database schema, including all parts of the data model and programs.
+
+Data modeling
+
+Data models can be constructed with the data dictionary as a tool. This may be accomplished using specialized data modeling software or simply a spreadsheet or document. In this instance, the dictionary acts as a specification of entities and their fields, assisting business analysts, subject matter experts, and architects in collecting requirements and modeling the domain. You’ll develop and deploy a physical database and application following this document.
+
+Documentation
+
+It is also possible to use a data dictionary as a reference and cataloging tool for existing data assets – databases, spreadsheets, files, etc.
+
+With a few formats and programs, you can achieve this:
+
+You may export read-only HTML or PDFs from a DBMS with database tools.
+
+Excel spreadsheets that have been manually created and maintained.
+
+The data modeling tools utilize reverse engineering.
+
+Database documentation tools.
+
+Metadata management/data catalogs
+
+All of these efforts are for healthy database management.
+
+What is database management?
+
+A database’s data can be organized, stored, and retrieved using Database Management. A Database Administrator (DBA) may use various tools to manage data throughout its lifecycle.
+
+Designing, implementing, and supporting stored data to increase its value is the goal of database management. There are different types of Database Management Systems.
+
+Centralized : All data resides in one system handled by a single person or team. Users go to that one system to access the information.
+
+: All data resides in one system handled by a single person or team. Users go to that one system to access the information. Distributed : The organization wanted a highly scalable system that allowed data to be accessed quickly.
+
+: The organization wanted a highly scalable system that allowed data to be accessed quickly. Federated : Data is extracted from your existing source data without the requirement for extra storage or replication of original material. It combines numerous independent databases into a single colossal item. This style of Database Architecture is ideal for integration projects involving many different types of data. The following are examples of federated databases: Loosely Coupled: The relational structure of a component database is defined by its federated schema, which must be accessed via a multi-database language to access other component database systems. Tightly Coupled : Components use separate processes to generate and publish into a connected federal schema.
+
+: Data is extracted from your existing source data without the requirement for extra storage or replication of original material. It combines numerous independent databases into a single colossal item. This style of Database Architecture is ideal for integration projects involving many different types of data. The following are examples of federated databases: Blockchain: A decentralized database architecture that allows you to keep track of your finances and other transactions securely.
+
+Do you think your data dictionary will lead the road to successful database management?
+
+Summary: A data dictionary, also known as a data definition matrix, contains comprehensive data about the company’s data, such as the definition of data elements, their meanings, and allowable values.
+Types of data dictionaryIt’s possible to split the dictionary into two categories:Active data dictionary Passive data dictionaryActive data dictionaryWhen the data definition language (DDL) changes the database object structure, it must be reflected in the data dictionary.
+The job of updating the data dictionary tables for any modifications is solely that of the database in which the data dictionary is located.The data dictionary is automatically updated if created in the same database.
+System CatalogIt’s a term used to describe several things: the System Catalog, system tables, data dictionary views, etc.
+Do you think your data dictionary will lead the road to successful database management?
+
+Other Blogs by Eray Eliaçık: https://dataconomy.com/author/eray-eliacik/

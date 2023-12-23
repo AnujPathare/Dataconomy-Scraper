@@ -1,0 +1,30 @@
+Title: Big Data & Archaeology: Peering into Lost Worlds
+
+Article Link: https://dataconomy.com/2014/07/15/big-data-archaeology-peering-lost-worlds/
+
+Author: Eileen McNulty
+
+Publish Date: 2014-07-15
+
+Article:
+When we see archaeologists on the big screen, we think of them running through tombs, outrunning traps laid centuries ago and narrowly avoiding being flattened by boulders. Rarely do we think of them sat in front of a computer, combing satellite images to find the next great dig site.
+
+But that is the daily reality for some, including researchers at the College of Charleston, who are harnessing new technologies to help them discover lost worlds. One of their data-driven studies involves designing a system to analyse clay tablets found at the Palace of Nestor in Pylos, Greece, written in the oldest known form of the Greek language. Another, known as the Avkat Project, is using satellite images to plot the trade route between Europe and Turkey, and identify potential dig sites- a process which manually could take years.
+
+This is not the kind of research that can be performed by any amateur digger with a metal detector. It requires high-end computing software, capable of processing the raw satellite data, the files from which are usually several gigabytes. It also requires specialised computing skills, and experience with programmes such as ERMapper for image processing, and ARCGIS & ENVI for spectral analysis. As James Newhard, director of archaeology and associate professor of classics at the College of Charleston states “You are either proficient in a range of software applications or you involve someone that is, as computer skills are necessary to analyze the data received”.
+
+“Archaeologists are consummate borrowers and thieves,” he continues. “If there is something out there that will help me tease out more data, I’ll use it, as we are dealing with scraps and fragments of the past.”
+
+Newhard is hopeful that greater data processing capabilities will open up even more new insights for archaeologists. “The ability to virtualize a historical landscape in a 3D environment and incorporate everything found from historical tax records to artifacts and documents will allow a clear picture of the past.”
+
+Read more here.
+
+(Image credit: Yiannis Chatzitheodorou)
+
+Summary: Rarely do we think of them sat in front of a computer, combing satellite images to find the next great dig site.
+But that is the daily reality for some, including researchers at the College of Charleston, who are harnessing new technologies to help them discover lost worlds.
+It requires high-end computing software, capable of processing the raw satellite data, the files from which are usually several gigabytes.
+It also requires specialised computing skills, and experience with programmes such as ERMapper for image processing, and ARCGIS & ENVI for spectral analysis.
+“If there is something out there that will help me tease out more data, I’ll use it, as we are dealing with scraps and fragments of the past.”Newhard is hopeful that greater data processing capabilities will open up even more new insights for archaeologists.
+
+Other Blogs by Eileen McNulty: https://dataconomy.com/author/eileen-mcnulty/

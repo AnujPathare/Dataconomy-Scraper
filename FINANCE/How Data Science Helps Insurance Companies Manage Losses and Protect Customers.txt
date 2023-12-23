@@ -1,0 +1,58 @@
+Title: How Data Science Helps Insurance Companies Manage Losses and Protect Customers
+
+Article Link: https://dataconomy.com/2021/10/29/how-data-science-helps-insurance-companies/
+
+Author: Kiara Taylor
+
+Publish Date: 2021-10-29
+
+Article:
+Big data, specifically with the help of artificial intelligence (AI), empowers insurance companies to make better financial decisions. Data science can help mitigate fraudulent claims, enhance risk management, optimize customer support, and predict future events, among many other benefits. The result is higher profits for insurance companies and lower premiums for their customers.
+
+In this article, we’ll look at three ways big data can help insurance companies manage their losses and protect their customers and why this is so beneficial for both parties.
+
+Detecting insurance fraud
+
+Insurance fraud causes an estimated $34 billion worth of lost revenue for insurance companies. Detecting insurance fraud is difficult, as a thorough investigation can be very time-consuming and yield vague results. Typically, insurance fraud involves deliberate damage to an insured item or a staged event to trigger an insurance payout.
+
+Insurance companies must consider this lost revenue when pricing out premiums for customers, which results in a higher overall price for insurance coverage. Unfortunately, like in many aspects of life, law-abiding citizens end up paying the price for the actions of a few dishonest individuals.
+
+In some cases, the cost of insurance prohibits some individuals from having it at all. In Canada, for instance, only 33% of adults with children report having a life insurance policy. Life insurance ownership is higher in the US at 52%, but this is still barely half of the country.
+
+But now, with technology giving insurance companies the tools to avoid losing money on fraudulent claims, life insurance can be more affordable for everyone. For example, big data combined with AI can create a virtual catalog of legitimate insurance claims and those discovered to be fraudulent.
+
+By using algorithms, you can detect similarities between fraudulent claims to “red flag” potentially fraudulent claims for further investigation. Image analysis can also pinpoint whether photos have been altered or time stamps have been changed in any way.
+
+Furthermore, AI can detect anomalies in a customer’s claim by providing an in-depth look at a variety of factors. For example, for an automobile insurer, AI can quickly and accurately analyze the reported location of an accident, the position of the vehicles, the speed of the crash, and the time of the incident. They can also detect inconsistencies by factoring in additional data such as reports from involved parties, injury details, vehicle damages, weather data, doctor’s notes, and prescriptions, and notes from law enforcement or auto body shop workers.
+
+Predictive analytics for risk management
+
+In the past, insurance companies relied on broad-scale data for risk assessments. One commonly known fact is that young men pay higher insurance rates than young women or older men. This is based on statistics that show that teenagers, specifically those that are male, are more likely to drive above the speed limit or engage in risky behavior when behind the wheel.
+
+Basing premiums on factors such as gender has met with some pushback for being discriminatory. However, developments in predictive analytics can help eliminate this issue by creating insurance rates that are customized for the individual.
+
+For example, the Snapshot device by automobile insurer Progressive can be hooked up to a customer’s car to provide personal data about the driver. Data like the rate of speed, amount of short stops, and the average amount of driving time and distance covered can be used to create a more accurate risk assessment for the individual driver.
+
+However, using big data to assess the lifestyle and habits of individuals comes with legitimate data privacy concerns for consumers. Insurance companies who want to use telematics devices such as Snapshot must take care to protect customer data privacy as they gather, store, and utilize user data. Depending on the country or even state the insurance company operates in, data breaches or compromised customer data can result in legal action or hefty fines.
+
+Big data in health insurance
+
+Big data is perhaps the most useful in health insurance scenarios when a variety of different factors can influence a patient’s risk of health concerns. For example, in the Affordable Care Act, federal legislation regarding health insurance premiums in the United States, health insurance companies can charge smokers a premium up to 50% higher than other patients. This is based on statistics that show that smokers are more likely to need extensive medical treatment due to the damage tobacco smoke causes to the lungs.
+
+Health insurance companies can now gather sensitive health data through many other methods, such as smartwatches (such as FitBit) or health apps on mobile phones. They can also factor in a customer’s online behavior when paying out claims or detecting potential fraud. If, for example, a client reported having an expensive medical procedure on a particular day during which he was also very active on social media, this may raise red flags for further questioning.
+
+A group of former NBA players recently revealed how easy it is to commit health insurance fraud, racking up $3.9 million in fake claims, $2.5 million of which were paid out. The group’s scheme was discovered when one filed a claim for a pricy dental procedure in Beverly Hills during the same week he was playing televised basketball in Taiwan. Digital travel itineraries, email correspondence, and publicly available box scores helped prosecutors prove the fraud in court.
+
+Conclusion
+
+The amount of data gathered by governments and corporations about individuals is a cause of concern for many. However, when placed in good hands and used for beneficial purposes, big data and AI can increase insurance companies’ profits and lower premiums for customers.
+
+By leveraging the power of AI to interpret large swathes of data, insurance companies can more accurately pinpoint fraud. They can also use this information to engage in predictive analytics that can help accurately assess risk levels. This all results in an insurance plan that is genuinely custom-fit for your lifestyle, providing rewards for your good behavior and ensuring you are covered for whatever life may throw at you in the future – as predicted by AI.
+
+Summary: In this article, we’ll look at three ways big data can help insurance companies manage their losses and protect their customers and why this is so beneficial for both parties.
+Typically, insurance fraud involves deliberate damage to an insured item or a staged event to trigger an insurance payout.
+But now, with technology giving insurance companies the tools to avoid losing money on fraudulent claims, life insurance can be more affordable for everyone.
+For example, in the Affordable Care Act, federal legislation regarding health insurance premiums in the United States, health insurance companies can charge smokers a premium up to 50% higher than other patients.
+Health insurance companies can now gather sensitive health data through many other methods, such as smartwatches (such as FitBit) or health apps on mobile phones.
+
+Other Blogs by Kiara Taylor: https://dataconomy.com/author/kiara-taylor/

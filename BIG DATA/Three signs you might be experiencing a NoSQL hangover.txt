@@ -1,0 +1,52 @@
+Title: Three signs you might be experiencing a NoSQL hangover
+
+Article Link: https://dataconomy.com/2017/07/19/three-signs-nosql-hangover/
+
+Author: Dennis Duckworth
+
+Publish Date: 2017-07-19
+
+Article:
+Selecting a database technology to build your new application on is often a complex and even stressful process. While the business use case for the application is pretty straightforward, the nuances of the data platform that will power it are often much less clear, with the decision on what technology to use left in the hands of budget-starved development teams. The pressure to select not only the best database technology for the job, but also the technology with the lowest sticker price makes NoSQL technologies, particularly open source, a tempting choice. However, while going with a NoSQL solution can seem like a smart decision in the moment, just like the decision on Saturday night to stay for one more drink, the aftermath can be a similar kind of regret. Something we call the “NoSQL Hangover.”
+
+That’s not to say NoSQL is never the right choice. There are many applications where NoSQL works well, but if you don’t fully understand both the current AND future needs of your business applications, then you may be wishing you hadn’t finished off that bottle of Barolo before making that NoSQL decision. For instance, will batch processing meet the real-time data ingestion, analysis and action needs of your application, even at a large scale? What about the consistency of transactions? If accuracy and speed matter, or will matter in the future, having a better understanding of the strengths and weaknesses of NoSQL offerings can help you make the right decision now and also provide some insurance for the future when your boss asks “can we add this new feature by next week?”
+
+For years SQL was the go-to language and then new systems like NoSQL began to emerge as new data management requirements evolved. For many, the divide between SQL and NoSQL is becoming even less clear, as developers integrate additional technologies into the data platform stack. Below are three indications that your choice to go NoSQL while building applications for the digital economy may not have been right one.
+
+Your application is available but not necessarily reliable
+
+Looking at availability – being constantly responsive, even during network partitions – NoSQL systems appear to be an attractive option. In fact, you could even say that NoSQL was originally created for availability. When faced with network partitions, it is impossible for a distributed system to have both perfect availability and consistency, so each system makes a choice of favoring one or the other. Those choosing availability will always provide a fast answer, but it may not be the most accurate or current answer – in other words, it may be wrong. Depending on your use case and your SLAs, 100 percent of the answers you get from a NoSQL system may be inaccurate or out of date. And while this is not a big deal in some industries, the “almost” correct output can be crippling for those in financial services, healthcare, adtech and telecommunications. For applications where consistency is an absolute must, such as billing, trade verification, fraud detection, bid and offer management, sensor management in IoT, operations support (telco), SLA management and more, going NoSQL will likely lead to problems.
+
+NewSQL systems tend to favor consistency over availability in network failure scenarios, which ensures that the results returned are correct and current. Most of these systems have highly available features as well, such as data replication within and across clusters, so that there is no disruption to your application or business should a cluster “break.”
+
+The speed you bought suddenly isn’t fast enough
+
+While NoSQL offers datastore speed, it struggles to administer consistent, reliable transactions at scale. For example, placing a trade at the best offer price, detecting a fraudulent card swipe before the transaction is approved, and allowing a mobile call to connect while verifying the caller’s balance, all require scalable, consistent transactions.
+
+These types of transactions touch many industries, including online gaming, financial services, telco and adtech, and are occurring all over the world, sometimes millions of times per second. All of these industries will need to be able to handle the fluctuating velocity and volume of these types of events and require transactional consistency or risk basing critical decisions on incorrect or not current data.
+
+Speed is also a characteristic of application development – you need to be able to develop new applications and modify existing applications quickly and easily. Agile devops is the way to go, particularly when you are running your application as a service that needs to stay up and be updated regularly. Some data management systems make that easy and some not so easy. The ones that make that easy provide more capabilities within the platform itself so app developers can take advantage of them in their applications without adding complexity through more code.
+
+Your system can scale but there are difficulties
+
+When it comes to scalability, NoSQL offerings can seem attractive, especially to companies that are struggling with large amounts of incoming, unstructured data from multiple sources like mobile devices, user status updates, web clicks, etc. As a result, these databases have to scale out, and NoSQL allows you to easily scale applications on inexpensive hardware.
+
+Despite this benefit, NoSQL still has scalability challenges. In particular, not all NoSQL databases do well with automating sharding, which is the process of spanning a database across nodes. And if a database is unable to automatically shard, it cannot scale automatically according to varying demand.
+
+Issues also begin to arise when you want to take action on streams of incoming data in real-time. Working on a static set of data is one thing – it is always there in case you need to access it again. But streaming data is always changing. If you have a hiccup in your processing or your system crashes, you need your system to recover quickly and gracefully and to be able to remember enough of the data for your analytics and actions to be valid, all while handling the newly arriving data. When you are dealing with complex stacks of components, that graceful recovery becomes much more challenging, particularly at scale. Solutions with fewer components are much easier to test for and manage through all possible failure scenarios.
+
+NewSQL systems were built to address these same scalability challenges while also allowing you to perform real-time analytics and assign immediate actions from your database. If you want to dump data into a data lake for future analysis, NoSQL scales perfectly well. If you want to benefit from that same data by taking action on it the moment it arrives, when it is most relevant, then it’s time to take another Advil because NoSQL systems have difficulty blending speed and scale.
+
+When it comes to choosing your next database technology, NoSQL may be the right choice for you and leave you regret-free. But in today’s world where real-time analytics, predictable high performance, trustworthy data and reliable scalability are becoming increasingly critical, it’s always a good idea to fully understand what your business and applications require in a data platform. Considering the symptoms above may help you make the right decision and avoid any future NoSQL hangovers.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Something we call the “NoSQL Hangover.”That’s not to say NoSQL is never the right choice.
+Your application is available but not necessarily reliableLooking at availability – being constantly responsive, even during network partitions – NoSQL systems appear to be an attractive option.
+Depending on your use case and your SLAs, 100 percent of the answers you get from a NoSQL system may be inaccurate or out of date.
+As a result, these databases have to scale out, and NoSQL allows you to easily scale applications on inexpensive hardware.
+When it comes to choosing your next database technology, NoSQL may be the right choice for you and leave you regret-free.
+
+Other Blogs by Dennis Duckworth: https://dataconomy.com/author/dennis-duckworth/

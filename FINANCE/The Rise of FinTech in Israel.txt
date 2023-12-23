@@ -1,0 +1,52 @@
+Title: The Rise of FinTech in Israel
+
+Article Link: https://dataconomy.com/2016/02/26/the-rise-of-fintech-in-israel/
+
+Author: Hannah Augur
+
+Publish Date: 2016-02-26
+
+Article:
+Talking about FinTech can be a bit tricky. Even when we think outside of the box, leaving behind California, London and Stockholm, many will still forget one of the biggest FinTech contributors today: Israel. Despite having four Israelis listed among HotTopic’s recent “100 Most Influential FinTech Leaders,” and a large pool of successful start-ups in Tel Aviv, Israel is very often forgotten. Perhaps this is because it’s not as trendy, or it is quite simply farther away. Their news and information sources are not as accessible on this side of the pond.
+
+One possible reason is simply the type of technology coming out of Israel. There might be thousands of great start-ups, but many of them aren’t the cool, trendy ones being splashed across a friendly “Top 10” list. Payoneer may have grossed some $500 million in its early years, but it is a payment solution for large companies, not little guys. Another possibility is that these companies morph into “international” companies, rather than Israeli companies.
+
+When these companies relocate to far west locations, their Israeli identity is often left behind or merged to create something new. Famous names like Fundbox, or the mega-hit BillGuard have Israeli roots—though you wouldn’t guess that when reading about them. Whether it’s “based in San Fransisco,” or “headquarters located in New York,” the origin of such companies are often ignored as they are absorbed into the North American and European markets. Of course, that doesn’t keep the industry in Israel from booming.
+
+Numbers Don’t Lie
+
+How is Israel FinTech growing so quickly? Some suggest it’s simply the environment of innovation. When successful innovators found or fund other innovations, the results are rapid development and, more importantly, continued success. It seems outside companies are also seeing the build in FinTech innovation coming out of Israel, the ultra famous TechStars Accelerator announced it would open a FinTech-specific branch in Tel Aviv. MassChallenge, the massive accelerator, also announced its second foreign location: Jerusalem. Stepping outside of the US and the UK, MassChallenge will be setting up in Israel in 2016. Why Jerusalem? As described by Israeli innovation website NoCamels, MassChallenge perceived that Tel Aviv was already a powerhouse of opportunity; whereas Jerusalem has the innovators, but not the means and resources. With great universities and untapped venture capital, Jerusalem may be the next FinTech boom.
+
+If you need real proof that Tel Aviv is booming, the latest IVC-KPMG Survey revealed Israeli start-ups raised $1.1 billion just this quarter. Not to mention, they have raised $3.2 billion this year, compared to to $2.2 billion at this time last year. NoCamels also noted that not only are many of these start-ups FinTech-specific, but the occurrence of large funding deals (over $20 million) are on the rise.
+
+The Perfect Climate for Innovation
+
+With plenty of big cities, thinkers and innovators around the world, what is that makes Tel Aviv, and Israel in general, so powerful on the tech scene? One major factor must be the general personality and climate of the country. Moshe Hogeg, managing partner and chairman of Israeli VC Fund, Singulariteam is quoted as describing Israeli innovation as “a question of survival.”
+
+“We must continue to innovate. Israel is surrounded by enemies and we don’t have natural resources. This means that our number one commodity is the brain. Israelis have also understood that success is not served on a silver platter: you will only win if you are better.”
+
+The role of immigrants in Israel may also play a key role. For example, some of the more memorable immigrants include Soviet Jews moving in the late 1980’s. Many of these folks would have been at the top of scientific and engineering fields. Bringing their knowledge to Israel may be a very special ingredient in the country’s tech success.
+
+In a climate where self-reliance is hailed as a vital trait, and strict observance of rules always left on the back burner, innovation and creativity becomes natural. It also seems that the diversity within Israeli society leaves many doors open, and also means that judgements are based on veracity rather than nepotism. A system that rewards merit and real ingenuity doesn’t only lead to good inventions, but also to a healthier and more productive environment. It creates the environment where successful innovators turn around and help other innovators is vital to growing the FinTech start-up scene exponentially.
+
+The Special Case of FinTech
+
+The fact that Israel has one of the highest percentages of scientists and engineers per capita does not necessarily mean that Israel will become a FinTech hub. However, the Israeli financial environment has some very specific attributes that make it ideal for start-ups and innovators. With a unique combination of high smart phone penetration—even higher than the U.S.—and a relatively small size, Israel has the very special chance to reach people, to test markets, and engage more personally with customers. Another strange aspect is the often referenced, big-data-heavy army intelligence units, which almost on accident produces brilliant start-up founders (including BillGuard’s Raphael Ouzan). For many, Israel’s Intelligence Unit 8200 is almost synonymous with Israeli start-up culture.
+
+The financial regulations of Israel also offers a unique backdrop for creating and testing. One shining example of Israel’s willingness and ability to adapt new technologies is the rise of bitcoin and cryptocurrencies. Even Bitcoin says Tel Aviv is one of the leading cities for Bitcoin. The size of the country, the flexibility of the financial system and the mental openness to new tech all make Israel a tech hub ready for FinTech.
+
+The microcosm of Tel Aviv allows innovators to create, test and grow their companies before branching out across the world. The addition of a TechStars FinTech department in Israel is both a great opportunity and a sign. It’s impossible to ignore the fact Tel Aviv is near the top of the FinTech field. Fundbox, Payoneer, eToro, Zooz—so many innovative and successful start-ups are coming out of Israel. That’s why Carmel Ventures (also Israeli) created this amazing infographic.
+
+featured image credit: Yoni Lerner
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Despite having four Israelis listed among HotTopic’s recent “100 Most Influential FinTech Leaders,” and a large pool of successful start-ups in Tel Aviv, Israel is very often forgotten.
+Another possibility is that these companies morph into “international” companies, rather than Israeli companies.
+Numbers Don’t LieHow is Israel FinTech growing so quickly?
+The Special Case of FinTechThe fact that Israel has one of the highest percentages of scientists and engineers per capita does not necessarily mean that Israel will become a FinTech hub.
+It’s impossible to ignore the fact Tel Aviv is near the top of the FinTech field.
+
+Other Blogs by Hannah Augur: https://dataconomy.com/author/hannah-augur/

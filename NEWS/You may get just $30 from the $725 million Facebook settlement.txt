@@ -1,0 +1,42 @@
+Title: You may get just $30 from the $725 million Facebook settlement
+
+Article Link: https://dataconomy.com/2023/09/08/you-may-get-just-30-from-the-725-million-facebook-settlement/
+
+Author: Eray Eliaçık
+
+Publish Date: 2023-09-08
+
+Article:
+The $725 million Facebook privacy settlement, potentially the largest U.S. class-action lawsuit, faces deductions for legal fees and plaintiff compensation. The settlement, stemming from allegations of data sharing with third parties like Cambridge Analytica, awaits final approval but may encounter delays due to possible appeals.
+
+A record-breaking number of claims for the Facebook settlement
+
+Lawyers involved in the case recently revealed that over 28 million applications for compensation have been submitted by affected users. Lesley Weaver, co-lead counsel for the plaintiffs, stated, “As far as we can tell, that’s the largest number of claims ever filed in a class action in the United States.” Out of the 28 million claims, approximately 17 million have already been preliminarily validated, signaling that a substantial portion of users will receive compensation pending final approval.
+
+However, this validation process has not been without its challenges, with 2 million duplicate claims and 8 million potentially fraudulent ones weeded out. Approximately 1 million claims remain under review.
+
+Unpacking the Facebook settlement fund
+
+Once the total number of eligible claimants is confirmed, the $725 million Facebook settlement will be distributed, but not without deductions. The legal team handling the case is requesting about $180 million in attorneys’ fees, reducing the settlement fund to $545 million. Administrative fees for overseeing the claims process will further diminish the fund, but the exact amount remains undisclosed.
+
+Additionally, each of the eight plaintiffs representing all Facebook users in the case is entitled to $15,000, which will further reduce the available funds. These necessary deductions are crucial in ensuring that the remaining compensation reaches those who were affected by the privacy breaches.
+
+Fair compensation, uneven distribution
+
+While the final amount each claimant will receive depends on various factors, it’s certain that those with a longer history on Facebook will receive larger sums. Predicting an exact amount in advance is challenging, but class counsel estimates a median payment size of around $30.
+
+Judge Vince Chhabria has granted the plaintiffs’ lawyers an additional week to file necessary documents with the court. Once the Facebook settlement receives final approval, the distribution of payments will move one step closer. However, potential appeals could introduce delays in the process.
+
+Do you remember Cambridge Analytica?
+
+The settlement stems from allegations that Meta, Facebook’s parent company, allowed users’ personal data to be shared with third parties, most notably Cambridge Analytica, which played a significant role in supporting Donald Trump’s 2016 presidential campaign. Meta, while agreeing to the payout, denies wrongdoing, highlighting the ongoing battle for online privacy and accountability.
+
+In conclusion, the Facebook settlement represents a monumental legal battle with an unprecedented number of claimants seeking justice for data breaches. This case underscores the importance of protecting online privacy and holding tech giants accountable for their actions. As the legal process unfolds, it serves as a stark reminder of the ongoing struggle to safeguard our digital lives.
+
+Summary: The $725 million Facebook privacy settlement, potentially the largest U.S. class-action lawsuit, faces deductions for legal fees and plaintiff compensation.
+Unpacking the Facebook settlement fundOnce the total number of eligible claimants is confirmed, the $725 million Facebook settlement will be distributed, but not without deductions.
+The legal team handling the case is requesting about $180 million in attorneys’ fees, reducing the settlement fund to $545 million.
+Once the Facebook settlement receives final approval, the distribution of payments will move one step closer.
+In conclusion, the Facebook settlement represents a monumental legal battle with an unprecedented number of claimants seeking justice for data breaches.
+
+Other Blogs by Eray Eliaçık: https://dataconomy.com/author/eray-eliacik/

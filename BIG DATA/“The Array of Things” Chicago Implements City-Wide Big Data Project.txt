@@ -1,0 +1,42 @@
+Title: “The Array of Things”: Chicago Implements City-Wide Big Data Project
+
+Article Link: https://dataconomy.com/2014/06/24/the-array-of-things-chicago-implements-city-wide-big-data-project/
+
+Author: admin
+
+Publish Date: 2014-06-24
+
+Article:
+Follow @DataconomyMedia
+
+
+
+In recent months, Chicago has received considerable attention due to its extensive use of technology and big data to improve public safety, transportation, energy and education. However, these efforts were just the beginning of the potential technological tools the city is looking to advance.
+
+The Chicago Tribune released an article on Monday announcing that The University of Chicago and Argonne National Laboratory will be installing high-tech sensors onto streetlights along Michigan Avenue (one of the main avenues in Chicago). The sensors are designed to collect data on everything from weather, pollution, temperature, air quality, noise, carbon dioxide and even a city’s population.Moreover, the project — dubbed the “Array of Things” — will also monitor cell phone data to count the number of people passing by each post to measure pedestrian traffic.
+
+Although this is not the first time a city has gathered big data from its streets, as Gizmondo notes, “it could be first time permanent infrastructure…rolled out across an entire urban landscape.” The use of big data, experts claim, could help significantly improve city planning, resource management and even emergency relief.
+
+As optimistic as experts are about its potential to transform various aspects of city life, the project is not without controversy. Privacy expert Fred Cate, for example, argues that this vast collection of data could easily be monopolized by large corporations without the public’s approval. Nevertheless, Charlie Catlett, a senior computer scientist at Argonne National Labs and the University of Chicago, emphasized firstly, that whichever data is collected will be anonymous (no actual images, sounds, or the address of digital devices) and secondly, and that the data is being collected for benefit of the public. For example, the project will give residents direct access to information about their neighborhoods – the amount of pollution or pollen levels on a particular day, for example – and encourage the development of innovative apps that could potentially, “warn drivers of ice on the road” or help “tourists find well-beaten walking routes”. As Catlett emphasizes, “Part of the goal is to make these things essentially a public utility”.
+
+The project is expected to go live as early as July and the data collected from the lamp posts, according to one report, will be available to the public immediately.
+
+Read more here
+
+Follow @DataconomyMedia
+
+
+
+Interested in more content like this? Sign up to our newsletter, and you wont miss a thing!
+
+[mc4wp_form]
+
+(Image Credit: Flikr)
+
+Summary: Follow @DataconomyMediaIn recent months, Chicago has received considerable attention due to its extensive use of technology and big data to improve public safety, transportation, energy and education.
+The Chicago Tribune released an article on Monday announcing that The University of Chicago and Argonne National Laboratory will be installing high-tech sensors onto streetlights along Michigan Avenue (one of the main avenues in Chicago).
+Although this is not the first time a city has gathered big data from its streets, as Gizmondo notes, “it could be first time permanent infrastructure…rolled out across an entire urban landscape.” The use of big data, experts claim, could help significantly improve city planning, resource management and even emergency relief.
+As optimistic as experts are about its potential to transform various aspects of city life, the project is not without controversy.
+The project is expected to go live as early as July and the data collected from the lamp posts, according to one report, will be available to the public immediately.
+
+Other Blogs by admin: https://dataconomy.com/author/admin/

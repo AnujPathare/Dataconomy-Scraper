@@ -1,0 +1,42 @@
+Title: Are CEO’s Missing out on Big Data’s Big Picture?
+
+Article Link: https://dataconomy.com/2016/08/15/are-ceos-missing-out-on-big-datas-big-picture/
+
+Author: Ronald van Loon
+
+Publish Date: 2016-08-15
+
+Article:
+Big data allows marketing and production strategists to see where their efforts are succeeding and where they need some work. With big data analytics, every move you make for your company can be backed by data and analytics. While every business venture involves some level of risk, with big data, that risk gets infinitesimally small, thanks to information and insights on market trends, customer behaviour, and more.
+
+Unfortunately, however, many CEOs seem to think that big data is available to all of their employees as soon as it’s available to them. In one survey, nearly half of all CEOs polled thought that this information was disseminated quickly and that all of their employees had the information they needed to do their jobs. In the same survey, just a little over a quarter of employees responded in agreement.
+
+Great Leadership Drives Big Data
+
+In entirely too many cases, CEOs look at big data as something that spreads in real-time and that will just magically get to everyone who needs it in their companies. That’s not the case, though. Not all employees have access to the same data collection and analytics tools, and without the right data analysis and data science, all of that data does little to help anyone anyway.
+
+In the same study that we mentioned above, of businesses with high-performing data-driven marketing strategies, 63% had initiatives launched by their own corporate leaders. Plus, over 40% of those companies also had centralized departments for data and analytics. The corporate leadership in these businesses understood that simply introducing a new tool to their companies’ marketing teams wouldn’t do much for them. They also needed to implement the leadership and structure necessary to make those tools effective.
+
+Great leaders see big data for what it is – a tool. If they do not already have a digital strategy – including digital marketing and production teams, as well as a full team for data collection, analytics, data science, and information distribution – then they make the moves to put the right people in the right places with the best tools for the job.
+
+Vision, Data-Driven Strategy, and Leadership Must Fit Together
+
+CEOs should see vision, data-driven strategy, and leadership as a three-legged chair. Without any one of the legs, the chair falls down. Thus, to succeed a company needs a strong corporate vision. The corporate leadership must have this vision in mind at all times when making changes to strategy, implementing new tools and technology, and approaching big data analytics.
+
+At the same time, marketing and production strategies must be data-driven, and that means that the employees who create and apply these strategies must have full access to all of the findings of the data collection and analysis team. They must be able to make their strategic decisions based directly on collected data on the market, customer behaviour, and other factors.
+
+To do all this, leadership has to be in place to organize all of strategic initiatives and to ensure that all employees have everything they need to do their jobs and move new strategies forward.
+
+This post originally appeared on RonaldvanLoon.com
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Big data allows marketing and production strategists to see where their efforts are succeeding and where they need some work.
+With big data analytics, every move you make for your company can be backed by data and analytics.
+Unfortunately, however, many CEOs seem to think that big data is available to all of their employees as soon as it’s available to them.
+Great Leadership Drives Big DataIn entirely too many cases, CEOs look at big data as something that spreads in real-time and that will just magically get to everyone who needs it in their companies.
+Great leaders see big data for what it is – a tool.
+
+Other Blogs by Ronald van Loon: https://dataconomy.com/author/ronaldvanloon/

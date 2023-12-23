@@ -1,0 +1,230 @@
+Title: Data modeling: A blueprint for valuable database
+
+Article Link: https://dataconomy.com/2022/04/05/what-is-data-modeling/
+
+Author: Eray Eliaçık
+
+Publish Date: 2022-04-05
+
+Article:
+What is data modeling is a question of the day. Databases help run applications and provide almost any information a company might require. But what makes a database valuable and practical? How can you be sure you’re building a database that’ll fulfill all of your requirements?
+
+Consider data modeling as the bridge between acquiring data and turning it into an actionable database, and learn how data modeling uses abstraction to represent and comprehend the nature of data flow within an organization’s information system.
+
+What is data modeling?
+
+The process of building a data model for the data to be stored in a database is known as data modeling (data modelling). This data model is a logical representation of Data objects, their connections, and the laws that govern them.
+
+What is data modeling?
+
+Models visualize data, enforce business rules, and comply with legal requirements and government regulations. Models guarantee data quality by consistent data in its naming structures, default values, meanings, and security controls.
+
+The data model is essentially a blueprint for an architect’s building project. It’s a technique for documenting intricate software system designs in the form of a diagram that anybody can comprehend. The text and symbols show how data will be used to produce the diagram. It is also referred to as a software or application blueprint because it serves as the foundation for developing new software or re-engineering any existing system.
+
+Metadata and data modeling tools aid in the development and documentation of models that describe the structures, flows, mappings, and transformations among data as well as the quality of the information.
+
+To obtain an accurate picture, a data modeler creates a model of data relationships between the data elements and attributes. Data architects are also concerned with developing physical blueprints for databases.
+
+The use of standardized schemas and formal data modeling approaches permits a uniform, consistent, and predictable approach to defining and managing data resources across an organization or even beyond.
+
+Ideally, data models should be living documents that adapt to changing business demands. They’re crucial for ensuring that company processes run smoothly and that IT architecture and strategy are planned correctly. Data models may be shared with vendors, consultants, and/or industry colleagues.
+
+What is data model?
+
+The Data Model is a framework that organizes data description, data semantics, and consistency constraints. Instead of focusing on what operations will be done on the data, the data model emphasizes what data is required and how it should be organized. The Data Model serves as a building plan for architects, helping them build concepts and establish connections between pieces of information.
+
+Advantages of data model
+
+A significant aim of a data model is to ensure that the functional team’s data objects are accurately represented.
+
+The data model should be detailed enough to serve as the basis for the physical database.
+
+The data model defines the relationship between tables, primary and foreign keys, and stored procedures.
+
+The data model supports businesses in communicating both inside and across organizations.
+
+The data model aids the ETL process by providing records mappings between documents.
+
+Assist the model is populated with correct data by recognizing valid data sources.
+
+Disadvantages of data model
+
+To create a Data model, you must first understand the physical data stored properties.
+
+Data modeling is a method of generating complicated application development and management. As a result, it necessitates an understanding of biographical reality.
+
+Minor changes in the structure must be reflected throughout the entire application.
+
+There is no standard for data manipulation in a DBMS.
+
+Types of data models
+
+Data modeling aims to develop a visual representation of your raw data and its relationships. Data modeling necessitates dealing with three points of view on a data model.
+
+Conceptual Model
+
+The data model is a representation of the data that is required to enable business operations. It also tracks company activities and measures performance in conjunction with them.
+
+Conceptual modeling is a method of representing information and its structure to explain the system as a whole. This form of Data Modelling is concerned with finding the data utilized by a company rather than processing flow. This data model aims to arrange and define business policies and concepts. It aids executives in seeing any data, such as market statistics, consumer insights, and purchase behavior.
+
+Logical Model
+
+The map of rules and data structures in the logical data model includes the relevant data, such as tables, columns, etc. Data Architects and Business Analysts create the Logical Model. We may use the logical model to convert it into a database.
+
+This sort of Data Modelling is always included in the root package object. This data model serves as the foundation for the physical model. There are no secondary or primary keys in this example.
+
+Physical Data Model
+
+Implementing a physical data model is described using a particular database system. It lists all of the components and services necessary to construct a database. It’s generated using the database language and queries. The physical data model represents each table, column, and restrictions such as primary key, foreign key, NOT NULL, etc.
+
+The essential function of the physical data model is to create a database. This model is created by the Database Administrator (DBA) and developers. The Data Modelling technique allows us to abstract away from databases and constructs the schema. This model explains how the data model is implemented in this situation. The physical data model aids in database column keys, constraints, and RDBMS capabilities.
+
+Importance of data modeling
+
+A data model aids in the creation of a database at all three physical, logical, and conceptual levels.
+
+Stored procedures, relational tables, and foreign and primary keys are part of the data model.
+
+It’s a simple yet powerful tool that allows database users to see the data in its entirety. Database designers may use it to design physical databases.
+
+The data model depicts the most significant level of comprehension of business needs.
+
+The data model aids in the detection of duplicate and missing information.
+
+What is data modeling?
+
+Advantages of data modeling
+
+The data model assists us in identifying proper data sources to inhabit the model.
+
+The Data Model ensures that information is shared throughout the company.
+
+The data model aids in the documentation of the ETL process’s data mapping.
+
+Data modeling enables us to query the database’s data and get various reports based on it. Data modeling aids in data analysis by providing reports.
+
+Data modeling techniques
+
+Model types have evolved alongside database management systems, getting more complex as organizations’ data storage requirements have increased. Here are five types of techniques for arranging data:
+
+Hierarchical Technique
+
+In the hierarchical model, each node is connected to the next via a hierarchy of subordinate nodes. There is one root node or parent node, and the other child nodes are organized in a particular order. However, this model isn’t widely used these days. This method may be used to represent real-world model relationships.
+
+Object-oriented Model
+
+The object-oriented approach aims to build objects that contain stored values. The object-oriented approach enables data abstraction, inheritance, and encapsulation while also communicating.
+
+Network Technique
+
+The network model makes it possible to represent objects and their relationships more flexibly. It has a schema, which is a graph that depicts the data. An object is represented as a node with an edge connecting it to other nodes, allowing them to keep track of many parent and child records.
+
+Entity-relationship Model
+
+A business system is a collection of interrelated data and information. The ER model (Entity-relationship model) is a high-level relational model for describing data elements and associations between entities in a system. This abstract design provides a clearer view of the data, making it easier to understand. In this framework, the whole database is represented by an entity-relationship diagram, which comprises Entities, Attributes, and Relationships.
+
+Relational Technique
+
+Relationships are defined between the items, as well. There are several connections between the things, such as one-to-one, one-to-many, many-to-one, and many-to-many.
+
+Data modeling process
+
+Data modeling as a field invites stakeholders to scrutinize data processing and storage in great detail. Various conventions govern the use of tokens, how models are arranged, and how business demands are expressed in data modeling. All methods provide formalized processes with a series of activities that must be completed iteratively. These workflows resemble this:
+
+Identify the people, places, and things that you want to monitor. Define the critical characteristics of each entity. Determine how entities are connected. Map attributes to entities entirely. Determine how many keys you’ll need and what degree of normalization is appropriate. Validate the data model and conclude it.
+
+Data model examples in real-life
+
+To better comprehend the critical activities involved in generating accurate data models, study one or more real-world data modeling instances.
+
+It would be best to start by defining your entities, the critical things of interest. Entities are the subjects about which you wish to keep records. For example, you might want to define an entity called EMPLOYEE for your employees since you must store information about everyone who works for your firm. You could also create a departmental entity called DEPARTMENT.
+
+Next, you define entity primary keys. A primary key is a distinct identifier for an entity. You probably need to store a lot of data concerning the EMPLOYEE entity. However, most of this information (such as gender and birth date) would be a poor choice for the primary key. You could use a unique employee ID or number (EMPLOYEE_NUMBER) as the primary key in the DEPARTMENT entity scenario.
+
+You may now define the relationships that exist between your entities. The primary keys are used to establish the connections. According to the relationship between EMPLOYEE and DEPARTMENT, employees are assigned to departments.
+
+You may add new attributes to the entities, their primary keys, and their relationships at this point. For example, you might define the following additional attributes for the EMPLOYEE entity:
+
+Birthdate
+
+Hire date
+
+Home address
+
+Office phone number
+
+Gender
+
+Resume
+
+Finally, you standardize the data.
+
+What is data modeling?
+
+3 best data modeling tools
+
+A large number of Data Modeling Tools are available for various database platforms. It’s difficult to choose one that meets the user’s demands. To make this time-consuming task more manageable, look at the three most popular Data Modeling Tools listed below.
+
+ER/Studio
+
+Idera’s ER/Studio is a data modeling software that allows you to identify and manage your company’s data assets and sources across several databases. It can build and share data models and track them from beginning to end. ER/Studio runs on Windows, Linux, and Mac computers. A comprehensive corporate lexicon may assist you in defining your business terminology, ideas, and relationships. With ER/Studio, businesses may rapidly model and comprehend the interaction between procedures, data, and people.
+
+Key Features:
+
+It may be used for both logical and physical layouts.
+
+The tool does an impact analysis for new database changes.
+
+It’s an integrated development environment that supports both scripting and automation.
+
+The following display types are supported: HTML, PNG, JPEG, RTF, XML, Schema, and DTD.
+
+It ensures that models and databases are in agreement.
+
+To learn more, go to the ER/Studio page here.
+
+IBM InfoSphere Data Architect
+
+InfoSphere Data Architect is a data integration design tool from IBM that simplifies and speeds up the process of connecting services, applications, data structures, and processes. It’s one of the most efficient Data Modeling Tools for aligning services, apps, data structures, and procedures.
+
+Key Features:
+
+The software is simple to use and quick to create.
+
+Analytics capabilities allow you to understand data assets to improve productivity and reduce time to market.
+
+The primary goal of a document management system is to help teams work together and integrate.
+
+You may both import and export custom mapping.
+
+The program automatically detects the structure of diverse data sources by scanning metadata.
+
+Data models for both physical and logical data can be constructed.
+
+It’s also possible to connect with other solutions like data studio and query workload tuner.
+
+To learn more, go to the IBM InfoSphere Data Architect website here.
+
+Oracle SQL Developer Data Modeler
+
+Oracle SQL Developer Data Modeler is a tool that aids in the creation of physical database architecture for the Oracle platform. Data analysis, study, management, and insights are all addressed. It’s a program that increases productivity and makes various data modeling tasks more efficient.
+
+Key Features:
+
+The ability to build and update relational, multi-dimensional, and data type models will be available.
+
+It can do both forward and reverse engineering.
+
+The program is designed to support collaborative development via source code management.
+
+It’s one of the most powerful free data modeling software, and it works in both cloud and traditional environments.
+
+To learn more about Oracle SQL Developer Data Modeler, visit the official website.
+
+Summary: Consider data modeling as the bridge between acquiring data and turning it into an actionable database, and learn how data modeling uses abstraction to represent and comprehend the nature of data flow within an organization’s information system.
+The process of building a data model for the data to be stored in a database is known as data modeling (data modelling).
+Data modeling processData modeling as a field invites stakeholders to scrutinize data processing and storage in great detail.
+Data model examples in real-lifeTo better comprehend the critical activities involved in generating accurate data models, study one or more real-world data modeling instances.
+3 best data modeling toolsA large number of Data Modeling Tools are available for various database platforms.
+
+Other Blogs by Eray Eliaçık: https://dataconomy.com/author/eray-eliacik/

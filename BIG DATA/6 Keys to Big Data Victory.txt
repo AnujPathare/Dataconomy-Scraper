@@ -1,0 +1,58 @@
+Title: 6 Keys to Big Data Victory
+
+Article Link: https://dataconomy.com/2015/10/19/6-keys-to-big-data-victory/
+
+Author: Ron Bodkin
+
+Publish Date: 2015-10-19
+
+Article:
+When I start helping a company unlock the vast potential of big data, I often get a tour of the technology they’ve acquired and data repositories bursting with potential. But frankly, that’s not what I want to see because shiny new technology and boatloads of data are not the keys to success.
+
+After the tour, I ask about what really matters. Do you have the needed skills in your organization? (Usually the answer is yes, but not nearly enough.) Is there an established way for all the people with needed skills to work together? (Almost always, the answer is no.)
+
+The power of big data emerges when a company assembles a cross-functional tiger team that works together in new ways to discover value in big data, operationalize their discoveries, and, based on a deeper understanding, implement innovations in the core business.
+
+If you look at big data as something that happens inside your organization’s current boundaries, that uses technology to process data and discover signals, and then to deliver those signals in established ways, you will get some value. Bigger wins come from using big data and a data lake to support a much wider and deeper effort. This expansion can only happen when users (whether analysts or product engineers), software engineers, data management professionals, DevOps, and business experts all work together.
+
+A data lake is perfectly suited to enable such a cross-functional team to thrive. Instead of seeing part of the picture, you can see all of it, going years back, in great detail, illuminated by powerful analytics. When the group has a question, the tools to massage the data, perform analytics, and create applications or deliver the data to existing tools are right at hand. Everyone can use their skills to quickly knock down barriers to progress. The data lake becomes the campfire around which everyone huddles and communicates.
+
+Contrast this image of cross-functional creativity with silos, competing agendas, meetings, distractions, and politics. Of course, big data and Hadoop don’t eliminate these challenges with the wave of a wand, but the excitement and potential around them can spur creation of an effective cross-functional team, which is the secret ingredient in the most impressive victories I’ve seen.
+
+I try to help the companies I work with understand the importance of cross-functional teams and a fully functional data lake. Here are 6 important tips to help you overcome common problems I’ve seen.
+
+1. Start with a goal
+
+The goal can’t be something trivial or no one will care. It can’t be too large because you won’t get there. Create a roadmap that starts with achievable, impactful products that make substantial progress toward building a data lake and leveraging it. Get a small initial cross-functional tiger team together. As your big data initiative delivers results, you can expand and cross-pollinate to form new and bigger teams.
+
+2. Build an enterprise-grade data lake
+
+An enterprise-grade data lake is the foundation for long-lasting progress. Just tossing data into Hadoop will not break down silos and encourage collaboration. You need a data lake that captures metadata so datasets can be found and managed and ensure the lineage of transformations is tracked by design. You need security to control access as well as management functions such as archiving.
+
+3. Build confidence
+
+An enterprise-grade data lake offers data protection, so departments will be less likely to object to landing their data there. Without such protection, the data lake won’t become a place that allows blending data in new ways. The effort you invest in an enterprise data lake engenders confidence in data: that it’s complete, trustworthy, and not redundant. Confidence in data is a key driver of success.
+
+4. Master change management
+
+You need to communicate goals, train people how to use new technologies building on the successes of pioneers, and find a way to get the cross-functional team going. This demands leadership. The management team must agree to incorporate change management at every step along the way. The right tactics vary across organizations, but ignoring change management leads to failure in most cases.
+
+5. Get access to skills
+
+Most large organizations have people with the aptitudes to succeed, but they often lack skills with new technologies and the trade craft in best practices and patterns that show how to really use these technologies to store and analyze data effectively. It’s great to train the team, but it takes real world experience. Often it’s important to get mentors who can help the team learn and build up practical skills. Moreover, a cross-functional team won’t succeed if everyone works on it after they finish their day job. Most of the time, the capable people who can make the transition are in high demand. Senior management needs to make these skilled professionals available, pulling them from other activities when necessary.
+
+6. Pay attention to tools
+
+The signals discovered in big data may be operationalized though existing BI technology. Or perhaps existing analysis teams will use SQL-based technology like Presto to access data derived from raw big data or use new BI tools built for big data like Zoomdata or Datameer. In this way, a data lake can supercharge existing efforts. But using Hadoop only as a huge file system with no attempt to blend data and perform new analytics in the data lake trivializes the big data effort.
+
+By overcoming these barriers, you can avoid the weak interaction between data, systems, and business that often leads to project failure. Addressing them gives you the best shot at creating a collaborative integration of analytics and big data capabilities that leads to insights, improved operations, and eventually a much better business.
+
+(image credit: Jer Thorpe, CC2.0)
+
+Summary: Bigger wins come from using big data and a data lake to support a much wider and deeper effort.
+Build confidenceAn enterprise-grade data lake offers data protection, so departments will be less likely to object to landing their data there.
+The effort you invest in an enterprise data lake engenders confidence in data: that it’s complete, trustworthy, and not redundant.
+Or perhaps existing analysis teams will use SQL-based technology like Presto to access data derived from raw big data or use new BI tools built for big data like Zoomdata or Datameer.
+But using Hadoop only as a huge file system with no attempt to blend data and perform new analytics in the data lake trivializes the big data effort.
+
+Other Blogs by Ron Bodkin: https://dataconomy.com/author/ron-bodkin/

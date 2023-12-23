@@ -1,0 +1,64 @@
+Title: Behavioral Science Shapes Data Science and Drives Change
+
+Article Link: https://dataconomy.com/2019/01/30/behavioral-science-shapes-data-science-and-drives-change/
+
+Author: Lee Newman
+
+Publish Date: 2019-01-30
+
+Article:
+Here is why Data Scientists need to think like a behavioural economist or psychologist when they communicate or story tell their insights. This helps companies to take concrete and bias-free decisions to acquire customers, retain employees and deal with managers within the organization.
+
+
+
+Picture this scenario: There are two investment firms which have each introduced competing products. Both firms have gathered information about their clients and are trying to group them in order to accurately match these new products with their clients’ needs. There is a high risk of losing clients if the firms don’t offer the right product fit or bother them with non targeted messaging. Furthermore, one of the companies wants to use this data to shake up the current internal processes to add value by being more competitive not only because of the introduction of new products but from reshaping the company as a whole.
+
+Firm A has been using advanced clustering algorithms to identify different customer profiles in an attempt to target new clients to offer these new financial instruments. While the firm has been careful to gather pertinent behaviour profile information on these new clients, they have also been careful to address the needs of the IT department and keep the collection of data from transactions, social media behavior, client needs and life goals, etc. to a minimum and store as little as possible.
+
+Meanwhile, Firm B follows a different approach. It knows the behaviour is messy, and that even a seemingly unimportant bit of data can turn out to be highly explanatory. The firm, therefore, collects as much as they legally can, stores it, and their IT department has also figured out how to deal with the large volume of data. The firm also gathers behavioural, process and performance data at different points in time regarding how old products have evolved and merges them with customer related behavioural data.
+
+While both firms A and B are successful with the new release, the customer churn for firm B is lower as they were able to outline the main focus of customers. For instance, based on the data collected and the analysis, they knew which customers were checking their accounts during the weekend and could accordingly guide their customer service team.
+
+This allowed the firm to have a new product in the market based on the real need of its customers and not just a “gut feeling”. Additionally, the firm was able to efficiently staff up the customer service department and introduced, among other measures, earning-sharing mechanisms that fostered the openness and dedication of all departments to customers. This improved the customer journey and set the pace to transform and change the behaviour of the different departments that had touch points with the customers.
+
+In this, factual example, there is only one more ingredient to add – customers were able to opt-in from the start knowing who, how and for what their data was used which decreased churn and increased their willingness and engagement with firm B. What we see here is that behaviour matters and when linked with data, it can completely change the rules of the game about engagement, customers and companies. It is important to think carefully about how bits of data might somehow reveal counterintuitive or unexpected aspects of a customer or employees behaviour.
+
+This is a clear example of how data, used to support and to foster change requires a deep understanding of the human aspects that are behind it. Technology and data can make companies act smarter but human sciences and behaviour will differentiate them from the rest making change and transformation easier. If a change of mindset is required to turn a traditional company into a digital one where data-driven decision-making is at the core, data science needs to meet social sciences to think more broadly incorporating not only the economic context of the company but also its human dimension first.
+
+Below are three key behavioural ideas that modern-day data scientists need to take into account:
+
+Actions don ́t always follow the data
+
+Data is supposed to be objective, as it might inform about facts that have taken place. The problem is how we transform data into information and information into knowledge for our decision-making process and actions hereafter. Human brains need to process information to make daily business judgments and decisions and it is at that point in which another kind of bias (and a strong one) comes into play – cognitive bias. This is a human ́s inalienable feature by default which makes us eat less if we sit in front of a mirror, or imitate others behaviour in an elevator when they stare at a certain place without asking.
+
+This is the behavioural side that data scientists must have when they want to provide actionable data insights. They need to think like a behavioural economist or psychologist when they communicate or story tell their insights. Knowing one’s audience is key in this case. They need to jump out of their shoes and not only think of different ways that they might draw conclusions from their data, but they need to understand the minds of the managers who will use these insights as an input in their decision-making process and their eventual actions. This will allow them to coordinate behaviour and data to avoid the possible confirmation biases that managers may often fall prey to.
+
+Good data sources – Strategic data foresight
+
+As in the example mentioned at beginning of this article, data needs to be collected from multiple sources (such as social media, Net Promoter Score surveys etc.) and shouldn’t only focus on present needs. A cost-benefit analysis needs to be carried out to determine and size the data that will be gathered. Are we looking just to sell a new product or to be the best sellers of that new product? The more data we can combine and the further ahead into the future we can look will determine not only our success to provide actionable insights but to establish the need and reliability of the gathering-analysis-decision- action cycle within companies.
+
+Furthermore, from the point in time in which we decide that this kind of analysis will be useful to the time in which we are able to draw conclusions, there is a time lapse. This delay requires us to think in advance about the experimental design, future hypothesis and the small nuances in behavioural data that can make the difference.
+
+As an example, recall the experiment done in Stanford in 1975 in which a group of students had to classify the authenticity of suicide notes. Two groups were formed and after the experiment took place; both groups were assigned a score of either high or low based on their ability to choose the actual notes from the fake notes. Both groups were then told that they performed average as a whole. Despite this, the group that scored high points, still believed that they could accurately pick the actual notes from the fake notes and the group that scored low points believed that they couldn’t accurately pick the actual notes from the fake notes. This indicated that their perception was anchored to their assigned score rather than the actual ‘facts’ presented to them. This is something that data scientists need to consider not only in the next A/B test that they design but also in the way they collect and present data.
+
+Harnessing the power of visual perception
+
+One important part of a data scientist’s everyday job in corporations is to highlight actionable data insights that will drive change. With an array of code-free plug and play solutions and new tools, coding is becoming ‘easier’. The democratization of data science thanks to this, is bringing the power of analytics to more people’s hands and therefore the need of visualizations to convey real insights for less deep data analysts. Again, behaviour plays a big part in this. The need to understand the aspects of visual perception is becoming critical for data analytics and business intelligence professionals who need to design dashboards and tools to translate their findings into a managerial language and bridge the gap between the complex abstract thinking behind data analysis and the potential need for organizational change.
+
+
+
+Conclusion
+
+These are just three examples of the way in which behaviour and data are closely intertwined. This trend is here to stay and will grow as sound data analysis is adopted by more companies in their decision-making processes. In the new reality of data science, math/stats, coding and IT are not the only ingredients required to be a successful actor of change as a data scientist. Behaviour from data gathering to visualization are critical tools every data scientist should have in their toolbox. We are definitely at a crossroads between behaviour and data in which those who successfully incorporate the former to their analysis will have an advantage through a better understanding of not only their customers but also of the mindset of organizations.
+
+References:
+
+Zimbardo, Philip. “Stanford Prison Experiment.” Stanford Prison Experiment, 2019, www.prisonexp.org/.
+
+Summary: This is the behavioural side that data scientists must have when they want to provide actionable data insights.
+Good data sources – Strategic data foresightAs in the example mentioned at beginning of this article, data needs to be collected from multiple sources (such as social media, Net Promoter Score surveys etc.)
+Harnessing the power of visual perceptionOne important part of a data scientist’s everyday job in corporations is to highlight actionable data insights that will drive change.
+In the new reality of data science, math/stats, coding and IT are not the only ingredients required to be a successful actor of change as a data scientist.
+Behaviour from data gathering to visualization are critical tools every data scientist should have in their toolbox.
+
+Other Blogs by Lee Newman: https://dataconomy.com/author/lee-newman/

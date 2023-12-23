@@ -1,0 +1,52 @@
+Title: Nvidia CEO explores India’s AI potential on the road to G20 Summit
+
+Article Link: https://dataconomy.com/2023/09/05/nvidia-ceo-explores-indias-ai-potential-on-the-road-to-g20-summit/
+
+Author: Eray Eliaçık
+
+Publish Date: 2023-09-05
+
+Article:
+As the world eagerly awaits the G20 summit set to take place in India, Nvidia’s CEO, Jensen Huang, made a significant visit to the country. During his trip, he had a fruitful meeting with Indian Prime Minister Narendra Modi, highlighting the immense potential India holds in the realm of Artificial Intelligence (AI).
+
+The meeting and subsequent events underscored the growing importance of India in the global AI landscape and Nvidia’s commitment to fostering this partnership.
+
+A promising conversation
+
+Prime Minister Modi took to Twitter to express his enthusiasm about his meeting with Jensen Huang. He noted that they had engaged in an excellent discussion about the vast opportunities India presents in the field of AI.
+
+Had an excellent meeting with Mr. Jensen Huang, the CEO of @nvidia. We talked at length about the rich potential India offers in the world of AI. Mr. Jensen Huang was appreciative of the strides India has made in this sector and was equally upbeat about the talented youth of… pic.twitter.com/zT6Cyrmk5z — Narendra Modi (@narendramodi) September 4, 2023
+
+Modi also emphasized that Nvidia recognized and appreciated the strides India has made in this sector, echoing his optimism about the country’s talented youth.
+
+AI is a gold rush and Nvidia knows where to dig well
+
+Informal gathering of minds
+
+Following his meeting with Prime Minister Modi, Jensen Huang hosted an informal dinner gathering that brought together some of India’s brightest minds in the fields of science and technology.
+
+Among the attendees were researchers from esteemed institutions like the Indian Institute of Science and various Indian Institute of Technology campuses. This diverse gathering represented experts in fields ranging from large language models to astrophysics, medicine, quantum computing, and natural language processing.
+
+Nvidia’s Indian footprint
+
+Nvidia’s entry into the Indian market in 2024 marked the beginning of a promising partnership. The company has since established four engineering development centers across India, including Gurugram, Hyderabad, Pune, and Bengaluru, with a workforce of over 3,800 employees. This local presence demonstrates Nvidia’s commitment to harnessing India’s technical talent and resources.
+
+Also, Nvidia’s developer program has garnered significant traction in India, with over 320,000 developers actively participating. The company’s CUDA parallel programming platform enjoys substantial popularity, with an estimated 40,000 monthly downloads in India. The country also boasts around 60,000 skilled CUDA developers, further emphasizing India’s role in Nvidia’s global development ecosystem.
+
+India’s AI prowess
+
+A research report by The Brookings Institution positions India among the top 10 countries globally in terms of technological progress and AI investment. This underscores the country’s commitment to embracing AI as a transformative technology. According to Statista, India’s AI market is projected to reach a substantial $4.2 billion by 2030, reflecting the nation’s growing influence in the global AI landscape.
+
+Conclusion
+
+Jensen Huang’s visit to India and his meetings with Prime Minister Narendra Modi and leading researchers highlight the burgeoning partnership between Nvidia and India in the field of AI. India’s rapid strides in technology and artificial intelligence have not gone unnoticed, and it is clear that this relationship will continue to bear fruit in the years to come.
+
+As the G20 summit approaches, the world watches with anticipation to see how India’s role in AI and technology will shape global discussions and collaborations.
+
+Summary: As the world eagerly awaits the G20 summit set to take place in India, Nvidia’s CEO, Jensen Huang, made a significant visit to the country.
+Had an excellent meeting with Mr. Jensen Huang, the CEO of @nvidia.
+Nvidia’s Indian footprintNvidia’s entry into the Indian market in 2024 marked the beginning of a promising partnership.
+India’s AI prowessA research report by The Brookings Institution positions India among the top 10 countries globally in terms of technological progress and AI investment.
+According to Statista, India’s AI market is projected to reach a substantial $4.2 billion by 2030, reflecting the nation’s growing influence in the global AI landscape.
+
+Other Blogs by Eray Eliaçık: https://dataconomy.com/author/eray-eliacik/

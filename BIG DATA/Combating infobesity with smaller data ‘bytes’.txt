@@ -1,0 +1,58 @@
+Title: Combating infobesity with smaller data ‘bytes’
+
+Article Link: https://dataconomy.com/2021/07/28/combatting-infobesity-smaller-data-bytes/
+
+Author: Michael Ringman
+
+Publish Date: 2021-07-28
+
+Article:
+“Infobesity” is a term we’re hearing more frequently these days as consumers are creating exponentially more data in their daily lives, and brands are similarly consuming larger portions. From eCommerce sites to a multitude of social media channels, there are terabytes of data available in today’s increasingly digital world.
+
+But, companies can’t possibly collect, filter, manage and use all the data that’s out there. Consider user-generated content alone, like videos, images, and audio. Just on Instagram, 95 million photos and videos are shared each day – there’s simply too much data to process. As any teen who’s tried will attest, you simply can’t consume it all.
+
+There’s too much noise and not enough control over the data collection process. Big datasets may be a good thing when it comes to finding aggregate level trends, but how much of it is actually needed to deliver great customer service support and brand experiences?
+
+Instead of succumbing to the siren song of more data, companies should be focusing on the caliber of the information. In other words, prioritizing data quality over quantity. You don’t always need massive amounts of data to come up with valid insights. In certain scenarios, smaller sets of actionable information can be just as insightful.
+
+Small data’s big value
+
+Many companies have fallen into the habit of collecting data simply because they can. What they’re finding, though, is that big data isn’t a cure-all for what ails them. Companies typically think of big data in terms of the 5Vs: volume, the variety of data types, the velocity at which it’s processed, value and veracity – its accuracy. All of these combine to make big data very useful, but at the same time, can be difficult to manage and extract meaning from without the right tech and tools, or a third-party provider.
+
+In contrast, small data consists of usable chunks that are easily consumed. According to Martin Lindstrom, a business and culture transformation expert and author of Small Data: The Tiny Clues that Uncover Huge Trends, big data is about correlations, but small data “is all about finding the causation, the reason why.”
+
+In the customer experience (CX) industry, small data can take the form of research sourced from consumer surveys, focus groups, qualitative interviews or comments captured via a CRM (customer relationship management) system by a customer service representative. It can also be customized to your specific industry, needs, customers and the channels your business prefers to use, thus making it all the more functional.
+
+Anticipating and personalizing your CX
+
+Another perk of small data is its ability to impact your brand’s bottom line. Small data’s manageability makes it more actionable.
+
+Consider the importance of delivering a personalized customer experience to consumers. When you access small data through CRMs and tap into its knowledge of customers, it can help you refine the customer journey. Based on customer preferences, brands can better tailor and target email campaigns or send a web visitor content relating specifically to their searches. This customization makes people feel ‘known’ and makes the interactions effortless, ultimately leading to increased revenue.
+
+There’s also tremendous value in the interactions that customer support personnel have with consumers on a daily basis. Even the most detailed data analysis may not give you the same clarity as an actual 1:1 conversation — and the small data contained in those moments of authentic connection can be amplified to transform the overall quality of your customer experience.
+
+Making faster, more informed decisions
+
+Because small data is agile, it can be collected and transformed into useful insights within a short time frame. While AI-powered algorithms can make decisions and recommendations based on terabytes of data by analyzing and identifying correlations and trends, these valuable insights take time to derive. The data needs to be accurately labeled, training datasets need to be created, and machine learning platforms need time to ‘learn.’ Small data, on the other hand, can be processed, analyzed, and used immediately.
+
+With real-time insights at your fingertips, you can optimize your customer experience on the spot. As insideBIGDATA reports, “The customer sentiments that small data findings uncover give marketers the unique ability to observe whether changes to their products or services have a positive or negative effect on customer experience.”
+
+Providing a better employee experience
+
+It isn’t just customers and companies who stand to gain from small data. Small data can also empower employees, leading to more engaging, rewarding, and impactful work.
+
+For example, TELUS International’s Agent Assist chatbot was created by a group of our team members that were delivering customer support services for a specific client. By comparing their experiences and challenges amongst themselves and looking at the data available to them, such as the time it was taking to resolve inquiries and customers’ satisfaction levels, they found immediate opportunities to enhance the client’s existing platform to make it more efficient. The accessibility of small data is an invitation to employee innovation, ultimately leading to a better employee experience.
+
+Small but mighty – the answer to infobesity
+
+Combating infobesity isn’t just about reducing the amount of data you have but understanding and fully leveraging the smaller data that you may currently be overlooking. These small bits of information, extracted from daily customer touchpoints, can provide real-time insights and benefits and ultimately make a big impact on both customer and employee experiences. Simply ask yourself what kind of data your team actually needs to do their job effectively and work to mine that data on their behalf.
+
+Good things really do come in small packages!
+
+Summary: Instead of succumbing to the siren song of more data, companies should be focusing on the caliber of the information.
+What they’re finding, though, is that big data isn’t a cure-all for what ails them.
+In contrast, small data consists of usable chunks that are easily consumed.
+Anticipating and personalizing your CXAnother perk of small data is its ability to impact your brand’s bottom line.
+Small data can also empower employees, leading to more engaging, rewarding, and impactful work.
+
+Other Blogs by Michael Ringman: https://dataconomy.com/author/michael-ringman/

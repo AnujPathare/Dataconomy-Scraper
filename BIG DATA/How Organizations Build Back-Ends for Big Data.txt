@@ -1,0 +1,44 @@
+Title: How Organizations Build Back-Ends for Big Data
+
+Article Link: https://dataconomy.com/2016/10/16/organizations-build-back-ends-big-data/
+
+Author: Juan Salazar
+
+Publish Date: 2016-10-16
+
+Article:
+For businesses to stay relevant in the 21st century and survive in an ultra competitive era, they have to continually be willing to change to stay ahead of the market curve. Change is always based on decisions and just about every Fortune 500 company knows that any important decision is always based on big data.
+
+Big Data is the buzzword du jour
+
+Most of the top organizations in the world spend a significant amount of money each year to upgrade their systems and put processes and procedures in place that enable them to collect significant amounts of data, which gives them an in-depth analysis of their products and services, demographic, sales and marketing responses, customer history and lifetime sales of each customer.
+
+A lot of this big data is now being collected via numerous social media channels such as Facebook, Twitter and Instagram which allow big organizations to interact with their global customer database and get real time information. This information is carefully analyzed to determine market trends and customer demands, after which these big organizations update their content management systems (CMS) to reflect these changes and help meet their customer demands better.
+
+The online casino industry is a great example of how some of the top organizations in the world rely heavily on big data to stay ahead of their competitors. They are always looking to collect as much data as possible from its players to understand their preferences and then cater their list of services to those demands. A dynamic CMS allows big popular online casinos to roll out the changes quickly and optimize their games pages, to keep their players happy.
+
+Investing and implementing big data systems that are of a high quality is critical as only then will businesses be able to collect reliable data that give them real time information to make critical changes. Big data can be collected in numerous forms such as online surveys, data mining, crowdsourcing, textual analysis, network analysis and sentiment analysis. This data then goes through an analysis that involves performance management, data exploration, social analytics and decision science.
+
+A number of small and medium size organizations are also realizing the importance of big data and are stretching their budget to invest in big data services. Management guru Peter Drucker once said that what you cannot measure, you cannot manage effectively and organizations are hiring and strengthening their management information system (MIS) teams whose main responsibilities are analyzing and processing data collected.
+
+How to avoid back-end blunders
+
+There are many companies who make critical mistakes when they decide on setting up a dynamic back end, because sometimes they assume that choosing a big brand that deals with content management software is the best way to go, and end up paying plenty money for a sophisticated program without really get their money’s worth. There are some important points to keep in mind to shortlist a suitable CMS provider.
+
+Let’s take the example of a major online casino, looking to install a dynamic backend. The online gambling business can be broken down into two parts – the first is the interactive front end of the website, which online players access. The second is the back end, which allows the management and staff to control what goes on their site, monitor the performance of the players, generate critical player data and constantly upgrade new promotions and offers.
+
+Any company looking to gather critical big data analytics will first have to hire an analyst who can figure out what exactly the management wants from its dynamic backend. Most companies will require the different pages and services of their website to be linked directly to the backend, which enables the management to easily monitor all activities taking place behind the scenes of the website. Some of the key aspects that need to be integrated into a dynamic backend portal will usually include all online products and services offered payment and withdrawal notifications, a customer database, general ledger and employee information.
+
+A checklist consisting of these essential facets of the backend should be prepared and shared with prospective backend vendors. Ideally, you want to choose an IT vendor with existing software that incorporates all of the company checklist items easily, or that has the ability to quickly upgrade their software to cover all of the required checklist items. It is very important to see the vendor’s portfolio of customers and see if there are any clients on the list who have a similar business model as the one you employ. It is always a good idea to ask for references, as you get direct feedback from customers who have used the vendor’s software.
+
+Should the references be positive and the vendor is able to confirm that their software can meet all your requirements and give you the big data analytics that you require, then you should check about after sales support and the possibility of future upgrades as the business grows. Only when you get a green light on all of the above, should you ask for a detailed proposal. The best way to negotiate on your CMS installation is to get a minimum of two quotes from different vendors and then decide what suits you best in terms of features, benefits and costs.
+
+Some of the industries that rely on big data analytics and dynamic CMS portals include banking and finance, information technology, business process outsourcing, scientific research groups and marketing companies.
+
+Summary: Change is always based on decisions and just about every Fortune 500 company knows that any important decision is always based on big data.
+A lot of this big data is now being collected via numerous social media channels such as Facebook, Twitter and Instagram which allow big organizations to interact with their global customer database and get real time information.
+Big data can be collected in numerous forms such as online surveys, data mining, crowdsourcing, textual analysis, network analysis and sentiment analysis.
+This data then goes through an analysis that involves performance management, data exploration, social analytics and decision science.
+A number of small and medium size organizations are also realizing the importance of big data and are stretching their budget to invest in big data services.
+
+Other Blogs by Juan Salazar: https://dataconomy.com/author/juan-salazar/

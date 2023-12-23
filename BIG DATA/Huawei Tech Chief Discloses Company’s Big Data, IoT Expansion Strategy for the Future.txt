@@ -1,0 +1,48 @@
+Title: Huawei Tech Chief Discloses Company’s Big Data, IoT Expansion Strategy for the Future
+
+Article Link: https://dataconomy.com/2015/01/07/huawei-tech-chief-discloses-companys-big-data-iot-expansion-strategy-for-the-future/
+
+Author: Eileen McNulty
+
+Publish Date: 2015-01-07
+
+Article:
+Following a Reuters reveal on new year’s eve regarding the Chinese telecom equipment and smartphone manufacturer Huawei’s smartphone sales going up a third to $11.8 billion in 2014, company chief, Ken Hu offered a public enunciation of the company’s growing revenue and portfolio.
+
+“In 2014, the ICT industry grew tremendously as 4G was rolled out worldwide. Technological innovations in cloud computing, Big Data, and the Internet of Things (IoT) accelerated, with smart devices connecting the lives of more and more people. We have seized these opportunities, continued to focus on our pipe strategy, streamlined management, and maintained effective growth. As a result, our sales revenue is expected to reach US$46 billion in 2014, an increase of over 15% year-on-year,” he wrote.
+
+In context to their treading Big Data and Analytics territory, Hu pointed out that their enterprise catering business plans on “being integrated” through open collaboration such as SAP and Accenture for joint innovation on cloud computing and Big Data.
+
+In this regard, Huawei has set up over 480 data centers around the world, including 160 cloud data centers, while their agile networks and S12700 agile switch now serve hundreds of top-tier industry customers.
+
+As Thevarguy pointed out the company’s 2015 blueprint includes:
+
+Delegating “responsibility and authority to operational units in the field”
+
+Improving “project operations and management capabilities”
+
+Focusing on “market-oriented innovation and customer engagement”
+
+Improving its cybersecurity efforts
+
+Building a “global value chain“
+
+Continuing to incent performance for its employees
+
+Hu and subsequently the company intends to see more than 100 billion connections globally by 2025, ‘creating a market of unprecedented scale.’ “How to store and process, transmit and distribute, acquire and present these massive data are enormous challenges as well as strategic opportunities to Huawei.”
+
+Read more here.
+
+Follow @DataconomyMedia
+
+
+
+(Image credit: John Karakatsanis)
+
+Summary: Technological innovations in cloud computing, Big Data, and the Internet of Things (IoT) accelerated, with smart devices connecting the lives of more and more people.
+We have seized these opportunities, continued to focus on our pipe strategy, streamlined management, and maintained effective growth.
+As a result, our sales revenue is expected to reach US$46 billion in 2014, an increase of over 15% year-on-year,” he wrote.
+In context to their treading Big Data and Analytics territory, Hu pointed out that their enterprise catering business plans on “being integrated” through open collaboration such as SAP and Accenture for joint innovation on cloud computing and Big Data.
+In this regard, Huawei has set up over 480 data centers around the world, including 160 cloud data centers, while their agile networks and S12700 agile switch now serve hundreds of top-tier industry customers.
+
+Other Blogs by Eileen McNulty: https://dataconomy.com/author/eileen-mcnulty/

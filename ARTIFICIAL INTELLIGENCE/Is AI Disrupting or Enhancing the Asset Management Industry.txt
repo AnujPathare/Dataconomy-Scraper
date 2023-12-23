@@ -1,0 +1,74 @@
+Title: Is AI Disrupting or Enhancing the Asset Management Industry?
+
+Article Link: https://dataconomy.com/2021/05/27/is-ai-disrupting-enhancing-asset-management/
+
+Author: Kiara Taylor
+
+Publish Date: 2021-05-27
+
+Article:
+Technologies like machine learning and AI are changing the way that we do many things, including asset management, investing, trading, and managing money. Fintech solutions have been gaining popularity and challenging many key aspects of our financial landscape in the digital age.
+
+Commission-free transactions and unlimited access make well-known stock trading apps like Robinhood appealing because consumers want transparency and a streamlined user experience. AI is at the core of these emerging financial technologies, and asset management firms may view such solutions as a threat.
+
+But this also forces the industry to raise the bar and empower consumers while still supporting financial advisors and portfolio managers. Let’s explore the impacts of AI in asset management and see how it can be both a challenge and a boon when leveraged effectively.
+
+How is AI challenging the industry?
+
+Most firms realize that staying relevant through data analytics and digital capabilities will be major differentiators in the future. Strategies like “customization for the masses” will be imperative for asset managers to adopt if they want to remain profitable.
+
+Accessibility
+
+The most obvious challenge that faces asset managers today is the widespread availability of fintech apps and software powered by AI. With the rise of high-quality, cloud-based solutions that track assets and move money, more individuals and businesses rely on financial tools to provide crucial features like multi-business tracking and instant updates.
+
+AI makes accounting solutions and financial insights almost instantaneous, so asset managers are going to have to provide more value to consumers to match the ease of access and versatility that they can now hold in their hands.
+
+Cost
+
+Additionally, for many consumers, cost is the deciding factor when choosing between apps and asset managers. Trading through apps like Robinhood costs as little as $60 per year with no per-trade or per-contract fees. While these platforms have more limited stock options and no mutual funds or bonds, this is still a very competitive rate.
+
+In contrast, brokerage fees are sometimes as much as $50 per trade with thousands of dollars per year in fees to work with an asset manager. This limits the clientele that traditional service providers have access to, while apps are more accessible for younger and less well-off users.
+
+Privacy
+
+AI is also challenging the way that asset managers and consumers think about the privacy of financial data. Data availability brings a certain power to the industry, but this power should not be wielded unethically.
+
+On the one hand, users appreciate that tech-powered solutions can offer them personalized monitoring and management of their funds and other personal data, sometimes right on a website or app. On the other side, companies can leverage AI to process massive amounts of user data to tailor services to consumers. The challenge for asset managers will be finding ways to collaborate with tech firms to create privacy and security standards that build trust with their clients.
+
+Benefits of AI in asset management
+
+The core of the asset management industry is data and analytics. And while you certainly need a human touch to evaluate and communicate plans, this high-speed, accurate analysis is precisely what AI is great at.
+
+When managing financial assets, risk is a significant concern. AI has several important uses when it comes to risk management, such as assessing, modeling, and forecasting market fluctuations that could impact customer portfolios.
+
+Advisors can even find ways to lower their costs by infusing AI asset management tools into their services to accelerate data preparation and automate insight generation. This will appeal to consumers from a cost standpoint and appeal to service providers due to the accuracy and comprehensive nature of automated analysis.
+
+Asset managers can also utilize AI to analyze forms of data that we haven’t previously been able to quantify. Data points such as image and sound can be leveraged for investment purposes. For example, using satellite imagery to predict crop yields or retail traffic provides a unique vantage point and opens a lot of doors when it comes to financial management.
+
+Additionally, AI can be used to counteract emotional investing and impulse trading. Human irrationality does not exist in an algorithm based on hard data. Machine learning algorithms are also constantly being improved in an attempt to eliminate human bias from their analyses.
+
+Side effects of AI
+
+Not all results of technology adoption are intended or even anticipated. The adoption of AI and other technologies in asset management creates a wave of information potential throughout the entire industry.
+
+For one thing, we can’t talk about AI and finance in 2021 without mentioning blockchain and cryptocurrencies. As blockchain is becoming more mainstream and secure, there has been a push for a more democratized financial market. Asset managers can play a big part in diversifying their client portfolios as this shift builds momentum, but they should also advise clients to be wary of volatile investments like crypto.
+
+What’s more, when it comes to trading, AI algorithms can be taught to identify certain indicators that trigger an automatic trade at an optimum time. And while the regulations for using AI in asset management are not as stringent as they are in other industries, there is a push for increased oversight of such services.
+
+For example, London-based financial investor Alex Williams of Hosting Data advises that third-party brokerage platforms are of the utmost importance to segregate your funds. “This prevents brokerage firms from commingling company assets with client investments,” says Williams. “If a brokerage firm liquidates for some reason, the client’s assets can be immediately returned. This stops businesses from illegally using client investments for their own purposes (and putting them at risk).”
+
+If an online platform doesn’t provide this feature, then you should find another. In this way, we can expect that increased trust and consumer control over assets will be one of the more profound side effects of the increased use of AI in asset management.
+
+Conclusion
+
+While there are many challenges associated with AI, there are also many opportunities, particularly in the financial industry. Asset managers may find that AI capabilities will simplify the process of analyzing, predicting, and applying financial data in their client’s portfolios. And consumers may find that tech-savvy asset management services are unparalleled when it comes to stability and profitability.
+
+AI streamlines and automates repetitive processes, and it is also great at detecting and responding to fluctuations (such as in the stock market). For these reasons, the fusion of AI and asset management is only part of a natural progression towards greater personalization and efficiency in the financial services industry.
+
+Summary: AI is at the core of these emerging financial technologies, and asset management firms may view such solutions as a threat.
+Let’s explore the impacts of AI in asset management and see how it can be both a challenge and a boon when leveraged effectively.
+Strategies like “customization for the masses” will be imperative for asset managers to adopt if they want to remain profitable.
+Benefits of AI in asset managementThe core of the asset management industry is data and analytics.
+The adoption of AI and other technologies in asset management creates a wave of information potential throughout the entire industry.
+
+Other Blogs by Kiara Taylor: https://dataconomy.com/author/kiara-taylor/

@@ -1,0 +1,62 @@
+Title: Rollbar data breach acknowledged after a month
+
+Article Link: https://dataconomy.com/2023/09/14/rollbar-data-breach/
+
+Author: Onur Demirkol
+
+Publish Date: 2023-09-14
+
+Article:
+Rollbar has announced that its systems were hacked in August, and it was identified recently. The Rollbar data breach was acknowledged a month after the incident actually happened, and the threat actors stole information about Bitcoin wallets and more.
+
+Rollbar publicly disclosed a data breach after unknown attackers infiltrated its systems in early August. The breach was not identified until September 6, leaving many users concerned about the safety of their sensitive information. This revelation has raised questions about the security of cloud-based bug-monitoring platforms and the protection of customer data.
+
+Rollbar data breach was acknowledged on September 6
+
+Rollbar became aware of the security breach on September 6 when they were reviewing their data warehouse logs. These logs revealed that a service account had been used for logging into their cloud-based bug monitoring platform. This raised immediate red flags as the company had not authorized such access.
+
+Upon discovering the Rollbar data breach, the company promptly disabled the service account and began a thorough analysis of the unauthorized activity. It was revealed that the attackers had been inside Rollbar’s systems for a period of three days, from August 9 to August 11, 2023.
+
+During this time, they combed through sensitive customer information, including usernames, email addresses, account names, and project details, such as environment names and service link configurations. The hackers were able to fetch information for three days straight, which is definitely not the best news.
+
+When the hackers got into Rollbar’s systems, they looked for cloud log in information and Bitcoin wallets in the company’s data.
+
+Troy Hunt, the creator of “Have I Been Pwned,” shared a post on X to let people know what it is all about and what kinds of information have been stolen by the hackers. According to the notification letter that Hunt shared, the unauthorized party accessed:
+
+Usernames and user email addresses
+
+Account name
+
+Project and environment names
+
+Project access tokens
+
+Project service link configuration
+
+Project access tokens are compromised
+
+Perhaps the most concerning aspect of this breach is the theft of customers’ project access tokens. These tokens enable users to interact with Rollbar projects, and their compromise has potential ramifications for the security of these projects.
+
+Forever 21 data breach: Over half a million customers and employees at risk
+
+However, Rollbar has taken swift action in response. Access tokens that grant access to Rollbar project data with read and write capabilities have already expired, while those that allow data submission to an active project will expire in 30 days.
+
+Rollbar is not taking this breach lightly. They have communicated their commitment to ensuring the security of their customers’ data and have already engaged a third-party forensic consultant to assist in verifying their findings. This investigation is ongoing, and Rollbar remains dedicated to providing transparency throughout the process.
+
+760k users are in danger after the Discord.io data breach
+
+“Although our investigation is ongoing, we hold the security of our customers data paramount and are therefore writing to promptly notify you of the discovery and the steps we have taken. We will also engage a third-party forensic consultant to assist us in verifying these findings, and that work is ongoing,” the company said in its notification letter.
+
+What is Rollbar?
+
+Rollbar is a widely used error logging and tracking service utilized by more than 400 million application end users and thousands of prominent companies, including Salesforce, Twilio, Uber, Twitch, and Pizza Hut. Their track record in assisting customers is evident, with over 5,000 clients and 23,000 paid users processing a staggering 40 billion errors just last year, says Bleeping Computer.
+
+Featured image credit: Michael Geiger/Unsplash
+
+Summary: The Rollbar data breach was acknowledged a month after the incident actually happened, and the threat actors stole information about Bitcoin wallets and more.
+Rollbar publicly disclosed a data breach after unknown attackers infiltrated its systems in early August.
+Rollbar data breach was acknowledged on September 6Rollbar became aware of the security breach on September 6 when they were reviewing their data warehouse logs.
+Upon discovering the Rollbar data breach, the company promptly disabled the service account and began a thorough analysis of the unauthorized activity.
+Forever 21 data breach: Over half a million customers and employees at riskHowever, Rollbar has taken swift action in response.
+
+Other Blogs by Onur Demirkol: https://dataconomy.com/author/onurdemirkol/

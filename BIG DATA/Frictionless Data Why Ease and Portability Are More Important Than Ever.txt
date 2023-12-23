@@ -1,0 +1,58 @@
+Title: Frictionless Data: Why Ease and Portability Are More Important Than Ever
+
+Article Link: https://dataconomy.com/2018/04/04/frictionless-data-why-ease-and-portability-are-more-important-than-ever/
+
+Author: Nathan Sykes
+
+Publish Date: 2018-04-04
+
+Article:
+In the field of data, ease of access and portability are becoming increasingly important. Businesses need to utilize data to remain competitive; meaning, they must have quick, real-time access to their data. Now more than ever, accessing this data can mean the difference between competition being one step ahead or behind.
+
+The General Data Protection Regulation (GDPR) hopes to make personal data more accessible to subjects, prompting discussion of why ease and portability may have detrimental effects in addition to positive outcomes.
+
+Why Portability Is Important
+
+Data portability is the concept behind protecting users from having their data stored in various places
+
+that are incompatible with one another. Making this data portable means that consumers will have an
+
+easier time accessing their data across a number of channels and platforms. Portable data is important beyond convenience. For one, data portability provides more transparency since it enables people to search and analyze relevant data from organizations. Additionally, portable data is an excellent pairing with analytics, since portable data can link with several types of activity — everything from tracking your travel distance when using a commuter vehicle to monitoring energy usage on-the-go.
+
+Portable data’s high level of transparency serves as an extension of data protection legislation. For example, GDPR lets people exercise their data access rights free of charge. This increased access will likely result in more people exercising their right to find out the information that organizations have on them. In the long-term, the use of analytics with portable data creates greater versatility and personalization.
+
+Services can utilize portable data to create an accurate picture of a consumer, designing their service around that consumer’s preferences and analytical behavior. GDPR requires data collection to be transparent. Nonetheless, the regulations align with the vision of utilizing data to help people make optimal decisions.
+
+For example, a grocery store app can utilize the portable data of your past purchases to provide relevant sales offers and recipes. Alternatively, a doctor can use portable data to quickly find information regarding your blood type, diet and general activity. Portable data has the potential to enhance our lives and serve as a more transparent form of data.
+
+Businesses are also using data virtualization and federation to make data work better for them. Data virtualization provides a simplified view of real-time business data, creating a useful hub for your analytics, applications and users. Data federation is a type of data virtualization, improving the ability to query and aggregate data by applying specific architecture.
+
+The Struggles of Portable Data
+
+Portable data offers a variety of exciting opportunities in helping with decision-making and user experience, though it has its share of limitations. For example, the transparency of portable data prompts questions regarding security. Third parties routinely access and scrape password protected sites, asking users for login information. For someone who uses the same password across multiple sites, it only takes one hacker to manipulate this process and gain access to someone’s entire digital existence. Poorly implemented data can provide a lucrative endeavor for identity thieves and phishing attempts.
+
+Additionally, although GDPR requires data to be recorded in a commonly used format, there is no guarantee that data will be standardized across platforms. Where one business may label a field “Location,” another one may label the same field “Locale.” As a result, it’s no sure thing regarding data’s ability to be imported or aligned with other data unless manually processed.
+
+GDPR also states organizations must respond within a month if they receive a request under the data portability right. While this sounds fine, issues arise regarding competition. For example, a company may provide general consumers with requested data quickly, while holding off on giving the same data to what they perceive as competition.
+
+For these responses, large businesses will implement automation to deal with a flurry of requests, while smaller companies respond in an ad hoc way. As a result, access to such data will vary depending on whether the business perceives you as competition.
+
+Portable data and GDPR will strive to prevent those taking advantage of data requests, purely to build their marketing databases – though the success of that prevention is no sure thing. People must choose wisely in granting access, while still complying with GDPR.
+
+The Future of Data Portability
+
+Despite its exciting aspects, data portability may discourage innovation. GDPR’s role in creating standards for data may force services toward choosing compliance over innovation, with there being ample debate over what defines essential data. Additionally, data portability may place more power in the hands of large companies, who have the resources to automate data requests, dedicate a department to compliance and reach into their deep pockets to pay any GDPR fines.
+
+There’s also the future potential of data importation being a mandatory requirement for all site sign-ups. In their efforts to deter spammers, sites may opt for a recognition method utilizing portable data, which can identify an individual online. As a result, consumer and privacy rights groups will likely find fault in mandatory data importation for service or site sign-ups, labeling it “data greed.”
+
+More positive results include that data portability can encourage people to donate data for good causes, especially in medical research. Portable data that can track one’s medical statistics can provide incredible insight into the progression of diseases and potential methods for treatment. Ease and portability of data will be a significant talking point in the coming years. Businesses and consumers alike will undoubtedly weigh the pros and cons of frictionless data as GDPR makes its entrance into the conversation.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Summary: Making this data portable means that consumers will have aneasier time accessing their data across a number of channels and platforms.
+For one, data portability provides more transparency since it enables people to search and analyze relevant data from organizations.
+Additionally, portable data is an excellent pairing with analytics, since portable data can link with several types of activity — everything from tracking your travel distance when using a commuter vehicle to monitoring energy usage on-the-go.
+Portable data has the potential to enhance our lives and serve as a more transparent form of data.
+The Future of Data PortabilityDespite its exciting aspects, data portability may discourage innovation.
+
+Other Blogs by Nathan Sykes: https://dataconomy.com/author/nathan-sykes/

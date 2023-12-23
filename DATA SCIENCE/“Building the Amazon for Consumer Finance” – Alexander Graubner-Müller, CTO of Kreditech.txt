@@ -1,0 +1,58 @@
+Title: “Building the Amazon for Consumer Finance” – Alexander Graubner-Müller, CTO of Kreditech
+
+Article Link: https://dataconomy.com/2015/09/29/building-the-amazon-for-consumer-finance-alexander-graubner-muller-cto-of-kreditech/
+
+Author: Dan Gray
+
+Publish Date: 2015-09-29
+
+Article:
+As the founder and CTO of Kreditech, Alexander strongly believes that algorithms and statistical data are the building blocks for the next Industrial Revolution. Kreditech, one of Germany’s most data-driven FinTech companies, is a testament to that belief. Before founding Kreditech alongside Sebastian Diemer, Alexander managed engineering and product development at Rocket Internet and worked in the investment and banking sectors.
+
+We are proud to have Alexander presenting at Data Natives 2015!
+
+5 years ago your career shifted focus from finance to technology – what was the motivation at the time?
+
+I have always been very passionate about technology and have been coding since high school. During the same time I discovered my interest for the stock markets and started experimenting with algorithmic trading approaches. My academic career was mainly driven by collecting all the skills to do that on a professional basis: economics, statistics, financial engineering, IT. During research I also learned to use the power of web-data in that domain, for instance how to build aggregated indicators based Twitter or Google news to predict the economy.
+
+Unfortunately, the financial crisis was in full swing when I was about to start my career. Job opportunities in banking hence were constrained at the time. So instead I decided to become entrepreneur and commercialize the technologies developed during my research. Together with Sebastian Diemer I co-founded a company called PredictX – a prediction-market engine – which we later sold to a financial institution.
+
+Can you describe the journey that led to you co-founding Kreditech, and your major influences along the way?
+
+PredictX brought us into the startup scene and we were hired by Rocket Internet for a venture development project in China. We also started to brainstorm other areas where we can apply our skillsets in predictive analytics based on information which has been collected from the web. Forecast recessions, forecast elections, forecast sovereign default etc. We also looked into the personal context – e.g. recommendations based on algorithms. Predicting credit risk was also on the list but only caught our full attention when we coincidentally witnessed how cumbersome it really is to apply for a loan in a bank. There was not yet a technical solution to make this process fast and efficient. We realized that this is a huge opportunity to innovate a whole industry and were confident that we can build an algorithmic solution. Our goal was to make a loan application as easy as purchasing something on Amazon, an “Amazon for Consumer Finance”. Combining our knowledge, passion and willingness to create something new and amazing, we came up with what then became Kreditech.
+
+What kind problem are aiming to tackle at Kreditech?
+
+In first step it is about solving the inefficiencies of consumer credit scoring. The current approach used by banks is outdated and highly inconvenient for the customer. Just think of branch-visits, physical documents, several days for the loan decision and many more complicated processes.
+
+Banks also fail in another way: Large groups of people, the so called underbanked, are completely excluded from credit given that banks are unable to rate their credit risk. Our technology solves both problems: It enables to handle loan applications completely online in minutes, get a credit decision in seconds and receive a loan payment directly afterwards. Also, it creates a service available for traditionally underbanked customers as well. It is about making credit consumer-friendly and suitable for the 21st century and our broader vision is to build a full digital bank in line with this thinking.
+
+What major milestones changes you’ve seen in the financial sector with the rise of FinTech? What do you think is going to happen next?
+
+In the consumer space most fintech companies have been growing on opportunities where banks have traditionally offer very poor service – online payments or remittances are great examples. Then a wave of companies developed from the fact that banks did not manage to provide viable online versions of their services, such as in the fields of consumer lending, wealth management and banking accounts for the next-generation. The next big step the industry will undertake is context-driven consumer understanding by providing smart, personal and data-driven recommendations for instance.
+
+[bctt tweet=”The next big step is context-driven consumer understanding. #Fintech”]
+
+If you could choose a different problem to tackle, or perhaps the project that will come next, what would it be?
+
+I would think of other areas to use machine learning for building better consumer services. Algorithmic personalization and recommendation services are very interesting. This could be a personalized, digital newspaper or similar.
+
+Of your achievements so far, of which are you most proud?
+
+Many! Building the heart of the company: Kreditech’s unique scoring algorithm is definitely one of them.
+
+Anything you would have done differently?
+
+No regrets.
+
+Which companies individuals inspire you, and keep you motivated to achieve great things?
+
+I am a big fan of people who have continuously excelled in their field as entrepreneurs and innovators: Elon Musk and Steve Jobs are leading examples for sure.
+
+Summary: As the founder and CTO of Kreditech, Alexander strongly believes that algorithms and statistical data are the building blocks for the next Industrial Revolution.
+Before founding Kreditech alongside Sebastian Diemer, Alexander managed engineering and product development at Rocket Internet and worked in the investment and banking sectors.
+5 years ago your career shifted focus from finance to technology – what was the motivation at the time?
+Our goal was to make a loan application as easy as purchasing something on Amazon, an “Amazon for Consumer Finance”.
+In first step it is about solving the inefficiencies of consumer credit scoring.
+
+Other Blogs by Dan Gray: https://dataconomy.com/author/dan-gray/

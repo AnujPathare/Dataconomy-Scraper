@@ -1,0 +1,42 @@
+Title: Skillsoft’s Big Data Initiative Delivers Improved Learning Engagement and Outcomes
+
+Article Link: https://dataconomy.com/2014/11/19/skillsofts-big-data-initiative-delivers-improved-learning-engagement-and-outcomes/
+
+Author: admin
+
+Publish Date: 2014-11-19
+
+Article:
+Skillsoft has completed a series of live customer pilots as part of its goal to deliver an enhanced adaptive learning experience through big data. The efforts are powered by combining data from Skillsoft’s 19 million users across 60,000 learning assets with IBM Research’s big data and analytics capabilities. The results of the pilot program revealed that empirical, data-driven learning experiences were able to distinctively enhance learner engagement.
+
+Users’ responses to the individualized content formed the basis of the evaluation of the program. During the pilot, Skillsoft evaluated user interaction from direct email response behavior and learning patterns as well as through a survey of users and found concrete patterns indicating improved engagement with learning content, including:
+
+29 percent of users clicked on at least one recommendation in their first email opened;
+
+128 percent improvement in user engagement with content compared to the baseline; and
+
+84 percent of users stated that one or more recommendations were relevant to them.
+
+“We now have documented proof that harnessing analytics and big data leads to improved learner engagement,” said John Ambrose, Senior Vice President, Strategy & Corporate Development, Skillsoft. “This level of adaptive, personalized learning will be paramount in the Learning Age. As the skilled worker shortage impacts organizations around the world, it’s crucial that learners are engaged and given the right tools and content so they can quickly build their skills and fill the gap. Our work with big data is a key building block for that next generation of adaptive learning.”
+
+Content interaction of learners was analyzed using advanced machine learning and optimization algorithms, and tested with approximately 32,000 learners during the pilot program. Each learner was presented with a unique set of content recommendations that were tailored to their specific needs, as inferred by the system based on user-content interactions, content relationships and timing of consumption patterns. Further, the recommendations were delivered via email at times deemed to be optimal for the individual user with a visual supporting explanation of the rationale of the recommendations.
+
+“Working with Skillsoft was a tremendous opportunity to pair our analytics capabilities with the wealth of user behavior information Skillsoft is able to capture,” said Anshul Sheopuri, Manager of Consumer Modeling, IBM Research. “With the completion of the second phase of this program, we’re now able to demonstrate the power of big data in the learning space.”
+
+Feedback from Skillsoft customers is reinforcing the value of improved learner engagement in skill acquisition and career development. “TELUS was excited and thankful to be considered as a partner in the big data pilot,” said Benny Ramos, Senior Career Development Consultant, TELUS. “We were encouraged by the resulting trends and implications of how the information could be used to provide a more personalized and dynamic experience for our learners. We believe this initiative aligns to our overall goal as an organization of raising overall engagement to make our learning programs more effective for career development.”
+
+The next stage for the project will be to further fine-tune the algorithms and roadmap their implementation into Skillsoft’s products so its customers and learners can begin to realize the value demonstrated in the pilot program daily. Additionally, Skillsoft will expand its data sets to include the human resources (HR) information now available through its full learning-centric Talent Expansion suite, including the offerings from SumTotal Systems, a Skillsoft company. This includes learning, talent and workforce processes for SumTotal System’s 3,500 customers and 49 million users worldwide.
+
+Follow @DataconomyMedia
+
+
+
+(Image Credit: Education Rethink)
+
+Summary: Skillsoft has completed a series of live customer pilots as part of its goal to deliver an enhanced adaptive learning experience through big data.
+The efforts are powered by combining data from Skillsoft’s 19 million users across 60,000 learning assets with IBM Research’s big data and analytics capabilities.
+The results of the pilot program revealed that empirical, data-driven learning experiences were able to distinctively enhance learner engagement.
+“We now have documented proof that harnessing analytics and big data leads to improved learner engagement,” said John Ambrose, Senior Vice President, Strategy & Corporate Development, Skillsoft.
+“TELUS was excited and thankful to be considered as a partner in the big data pilot,” said Benny Ramos, Senior Career Development Consultant, TELUS.
+
+Other Blogs by admin: https://dataconomy.com/author/admin/

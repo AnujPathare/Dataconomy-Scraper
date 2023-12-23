@@ -1,0 +1,36 @@
+Title: US Military Using Big Data to Improve Situational Awareness
+
+Article Link: https://dataconomy.com/2014/06/12/us-military-using-big-data-improve-situational-awareness/
+
+Author: Eileen McNulty
+
+Publish Date: 2014-06-12
+
+Article:
+The military and intelligence community in the US have been publicly discussing how they’re integrating Big Data analytics to increase situational awareness. But for the military using big data is not without its challenges; with oceans of data at their disposal, knowing with data is valuable and how best to use it can prove difficult.
+
+In spite of the challenges, Big Data heralds an era of new opportunities for the intelligence community. “Historically, the intelligence community … has suffered from what is termed as ‘operational thrashing,’ where analysts are overwhelmed with the sheer volume of unstructured data, aged intelligence and circular reporting, making real-time accurate decision support extremely difficult, resulting in intelligence analysis paralysis,” said Peter Tran, senior director of the worldwide advanced cyber defense practice at RSA, a security consulting firm. “Big data application has improved signal-to-noise ratio efficiency, context enrichment, and integration of open-domain and closed-domain intelligence.”
+
+Lisa Shaler-Clark, deputy director, Futures, for the Army Intelligence and Security Command (INSCOM), talked about specific actionable insights already gained. “Big data analytics allow analysts to look broadly in new areas, such as parts of Africa, which are emerging areas of interest, and also to look deeply within familiar areas to understand what is happening — or what happened in the recent past.” One of the main focuses will be analysing data in retrospect, trying to identify patterns within already-existing data to build algorithms and make better-informed decisions in the future.
+
+Discussing what will be key to the initiative’s success, the ISR have established two main objectives. One, all sources used must be in-depth, and enriched with as many different data points as possible. Two, observations and user notes must be used as part of the data set where possible, as a separate additional “source”.
+
+Another factor which will be key to successful Big Data integration will be establishing uses cases where Big Data can be useful, and knowing where adhering to “small” data approaches will prove more servicable. “Some areas where situational awareness is needed are simply sparse areas where not much information is known by people outside the area,” Shaler-Clark said. “Remote areas or closed regimes are examples of these sparse zones where other [non big data-related] approaches may be more useful.”
+
+Picking the right analysts for the job is also a priority. Knowing which data to keep, building the algorithms to use it and knowing exactly where this information will come in useful all fall under the remit of human responsibility. CAPT Christopher Page, deputy director of Assured Command and Control in the Office of the Deputy Chief of Naval Operations for Information Dominance, stated finding the right people for the job is still a primary focus- vitally important for us to continue placing heavy emphasis on recruiting, employing and retaining the best of the best”.
+
+Read more here.
+
+(Photo credit: Soldier Media Center)
+
+Follow @DataconomyMedia
+
+
+
+Summary: The military and intelligence community in the US have been publicly discussing how they’re integrating Big Data analytics to increase situational awareness.
+But for the military using big data is not without its challenges; with oceans of data at their disposal, knowing with data is valuable and how best to use it can prove difficult.
+In spite of the challenges, Big Data heralds an era of new opportunities for the intelligence community.
+Another factor which will be key to successful Big Data integration will be establishing uses cases where Big Data can be useful, and knowing where adhering to “small” data approaches will prove more servicable.
+“Some areas where situational awareness is needed are simply sparse areas where not much information is known by people outside the area,” Shaler-Clark said.
+
+Other Blogs by Eileen McNulty: https://dataconomy.com/author/eileen-mcnulty/

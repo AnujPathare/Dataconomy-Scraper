@@ -1,0 +1,38 @@
+Title: US Attorney General Raises Concerns About Big Data in Criminal Justice
+
+Article Link: https://dataconomy.com/2014/08/04/us-attorney-general-raises-concerns-big-data-criminal-justice/
+
+Author: Eileen McNulty
+
+Publish Date: 2014-08-04
+
+Article:
+US Attorney General Eric Holder spoke on Friday about the risks posed by big data in the criminal justice system. In a speech to the National Association of Criminal Defense Lawyers, he highlighted the potential of big data tools, as well as the perils- namely, that such programmes could adversely affect underprivileged and minority groups.
+
+His concern centres around data-fuelled “Risk Assessment” programmes, which aim to determine the likelihood of recidivism whilst a suspect is on bail. Kentucky are already rolling out such a scheme, whilst Pennsylvania and Tennessee have passed laws making such assessments a federal requirement in sentencing decisions. Holder’s concern stems from the fact some of the metrics in the scheme- such as economic background and social demographic- are unchangeable, and should not have a place in determining verdicts.
+
+“By basing sentencing decisions on static factors and immutable characteristics—like the defendant’s education level, socioeconomic background, or neighborhood—they may exacerbate unwarranted and unjust disparities that are already far too common in our criminal justice system and in our society,” Mr. Holder stated. He continued, “Criminal sentences should not be based on unchangeable factors that a person cannot control, or on the possibility of a future crime that has not taken place.”
+
+He did however praise the use of big data in crime prediction and prevention, such as the crime mapping pioneered by the New York Police Department, which has allowed officers to take a proactive approach to keeping the streets safe.
+
+Anne Milgram, who works for the Laura and John Arnold Foundation who are working on the Kentucky pre-trial project, commented: “No risk assessment should have a racial bias, and if that’s what he’s saying, I couldn’t agree more.” She was however keen to stress that their project did not take into account immutable characteristics, adding “We’re not doing anything that has a racial bias, period.” The Foundation claims their assessments have cut pre-trial crime by 15%, whilst also releasing more suspects on bail. The also stated that defendants flagged up by the programme as being likely to commit a violent crime were 17 times more likely to do so than defendants with low risk factors.
+
+The Senate Judiciary Committee has passed legislation that will make such risk assessments mandatory. The bill also allows provisions for offenders to reduce their sentences through a number of factors. Hopefully, the committee will be vigilant in heeding Holden’s words, and ensuring the assessments don’t entrench racial bias.
+
+Read more here.
+
+(Featured image: Flickr)
+
+Follow @DataconomyMedia
+
+Interested in more content like this? Sign up to our newsletter, and you wont miss a thing!
+
+[mc4wp_form]
+
+Summary: US Attorney General Eric Holder spoke on Friday about the risks posed by big data in the criminal justice system.
+In a speech to the National Association of Criminal Defense Lawyers, he highlighted the potential of big data tools, as well as the perils- namely, that such programmes could adversely affect underprivileged and minority groups.
+His concern centres around data-fuelled “Risk Assessment” programmes, which aim to determine the likelihood of recidivism whilst a suspect is on bail.
+The Senate Judiciary Committee has passed legislation that will make such risk assessments mandatory.
+Hopefully, the committee will be vigilant in heeding Holden’s words, and ensuring the assessments don’t entrench racial bias.
+
+Other Blogs by Eileen McNulty: https://dataconomy.com/author/eileen-mcnulty/

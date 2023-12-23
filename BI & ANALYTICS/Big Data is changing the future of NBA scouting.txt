@@ -1,0 +1,38 @@
+Title: Big Data is changing the future of NBA scouting
+
+Article Link: https://dataconomy.com/2017/08/04/big-data-changing-nba-scouting/
+
+Author: Bove Beardsley
+
+Publish Date: 2017-08-04
+
+Article:
+Big data and sports analytics are changing the ways many things in sports have traditionally been done. They are allowing for new processes that have the potential to alter the way that organizations conduct their scouting. This is because data science and sports analytics are opening up new data points and avenues of information about draft prospects.
+
+Predictive analytics are beneficial to teams because it gives them even more information that they can take into account when making their draft selection. Smart organizations understand that they should look at each situation from as many angles as possible, especially when making such important decisions as who to draft. And so all these new metrics and data points are being generated, allowing teams and fans to get as much information about a prospect as possible.
+
+Teams utilize film and scouting services such as Synergy Sports Technology to streamline the process of accessing that information. Data science and technology are now also playing an increasing role in the fans perception of draft prospects, as ESPN is one of the many groups that create their own statistical models designed to identify which players are more likely to succeed at the next level, and which players have a higher probability of disappointing. Overall, data science has been trickling into every part of the NBA scouting process, from the front office to the media to the fans and is altering it in new ways.
+
+Data science really started to enlarge its profile in the world of basketball scouting after the introduction of Synergy Sports Technology. It is a service that collects film and statistics and compiles it into an easily accessible and user friendly database. Game film is cut from the NBA, Division I college basketball, the G-League, and leagues all across Europe and Asia. Using this computer program, scouts are able to track the most minute of details and statistics and then immediately access the relevant game film in order for them to see those statistics in action. This means that scouts are easily able to see the efficiency with which a certain player drives to the basket with his left hand, and then see clips of him doing that exact thing.
+
+This service is currently being used by all 30 NBA teams and a large number of Division I college programs, and it has had a tremendous effect on the scouting process of these organizations and teams. Having all of a player’s game clips for each statistic within a few clicks of the mouse makes the scouting process quite a bit easier and also helps to integrate more advanced statistics into the process as they are much easier to make a visual connection with when there is relevant game tape available to see the numbers in action.
+
+Outside of front offices, there are a myriad of independent groups that are developing their own statistical models to project a prospect’s future in the league. ESPN has developed a model that aims to project a player’s chances of becoming an All-Star, starter, or role-player. They try to project a player’s Statistical Plus-Minus for his 2nd through 5th seasons. Statistical Plus-Minus is a metric that takes all of a player’s box score stats and uses them to make an estimation on a player’s impact on their team’s scoring differential per 100 possessions.
+
+ESPN’s model attempts to project a player’s Statistical Plus Minus in order to predict the quality of player they will be. There are many other groups making similar models, and they all add to the discussion of draft prospects and their potential. This is a noteworthy development because it demonstrates how it is not just the NBA front office scouts that are delving into this field, but the media and the fans as well.
+
+During the night of the NBA draft ESPN would display each drafted players’ standing in this metric. This meant that fans watching at home were having conversations about the analytical side of basketball and how it can give us more information about a draft prospect’s future potential.
+
+Ultimately, data science and sports analytics has been spreading all over the modern sports industry, and the scouting process of NBA teams is one of many key examples of this. Teams are increasingly relying on these methods in order to help their scouting departments gain as much information as possible about individual prospects. But it is not just the organizations themselves that are delving into this field, as media outlets are increasingly integrating advanced metrics and analytics into their draft coverage which in turns influences the fan conversations regarding draft prospects resulting in a bottom line that has data science flowing into every part of the scouting and drafting process in the NBA.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: This is because data science and sports analytics are opening up new data points and avenues of information about draft prospects.
+Overall, data science has been trickling into every part of the NBA scouting process, from the front office to the media to the fans and is altering it in new ways.
+Data science really started to enlarge its profile in the world of basketball scouting after the introduction of Synergy Sports Technology.
+There are many other groups making similar models, and they all add to the discussion of draft prospects and their potential.
+Ultimately, data science and sports analytics has been spreading all over the modern sports industry, and the scouting process of NBA teams is one of many key examples of this.
+
+Other Blogs by Bove Beardsley: https://dataconomy.com/author/bove-beardsley/

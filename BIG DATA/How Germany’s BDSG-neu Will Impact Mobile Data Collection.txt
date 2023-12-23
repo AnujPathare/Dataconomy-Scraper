@@ -1,0 +1,60 @@
+Title: How Germany’s BDSG-neu Will Impact Mobile Data Collection
+
+Article Link: https://dataconomy.com/2018/05/25/how-the-bdsg-neu-will-impact-mobile-data-collection/
+
+Author: Martin McDonald
+
+Publish Date: 2018-05-25
+
+Article:
+Mobile adoption in Germany is rising — with smartphone user volumes tipping 59 million and set to reach 65 million in just four years. For companies, this swelling popularity is a gift – providing insight into customers’ online interactions and habits.
+
+However, the way they access this data is changing. Federal laws are getting tighter: notably the Bundesdatenschutzgesetz (BDSG), which has been revised to integrate EU’s General Data Protection Regulation (GDPR), thereby creating the BDSG-neu. As a result, the future validity of mobile tracking tools that companies have conventionally depended on may need to be re-considered.
+
+We’ve all been confronted by the traditional tracking method when viewing a website – the cookie pop-up, or first-party cookie. Under the BDSG-neu, these will still be allowed when correctly managed. But it’s the cookies that are used to track a customer’s journey, and then passed to a third party, that are in question. These are known as third-party cookies.
+
+First-party cookies are beneficial to consumers and disabling them would mean a user’s activity would not be tracked as they moved between pages within a site. For example, they would not be able to buy multiple items in one go because each time they added a product from another page, it would be treated as a new transaction. On the other hand, advertisers leverage third-party cookies to tailor ads, although users often perceive them as a threat to their online security and an infringement of their privacy. This idea forms the very basis of the BDSG-neu.
+
+So, the key question is: what will be the impact of the regulation on mobile data collection, and how can marketers continue to harness user insight from mobile without over-reliance on tools such as third-party cookies?
+
+The BDSG-neu and cookies
+
+When the European Commission released its ePrivacy Directive (known as the cookie law), Germany was considered exempt because articles in the Telemedia Act (TMG) were deemed sufficient. But there are some inconsistencies. For example, the TMG states companies must inform individuals of data collection and obtain consent, but when it comes to tracking tools used for advertising, it only demands an opt-out notice.
+
+The BDSG-neu brings greater clarity. Firstly, it classifies any cookie collating data that can be used to identify individuals as personal data, including name, IP and email address. Secondly, it stipulates unambiguous consent must be obtained to access this data. And finally, it states companies that allow third-party cookies on their sites are liable if data processing breaches legalization. So, while it will be possible to use opt-out provisions for collating non-sensitive data, such as items in online shopping carts, most vital cookie gathering will require consent.
+
+The challenges on mobile
+
+Cookies have been the foundation of digital activity monitoring for more than 20 years, and although they remain a valuable tool for first-party tracking on desktop, their efficacy in mobile environments is more limited — and, consequently, marketers are starting to incorporate other mobile tracking methods into their strategies.
+
+With some mobile users, cookies are losing favor. That’s largely because they have a tendency to cause slow page loading and use data allowances, and there are concerns about their impact on privacy. Research has shown that US users delete their cookies four times per month. Additionally, cookies can’t translate from one app to another, which means they only trace snippets of consumer journeys — not the whole picture organizations need to tailor their marketing efforts. Recently, mobile giants such as Apple have begun to block third-party cookies and thereby disabled many tracking tools. Mobile cookies can also be inaccurate as they are typically device identifiers, rather than people identifiers. For example, they are unable to tell if different individuals are using the same device and might therefore attribute all activity to one person. Or they can make the opposite error and fail to recognize that a single user is active across multiple mobile devices.
+
+So, leaning solely on cookies can be detrimental for mobile tracking and leave organizations with only a partial view of what consumers do on a key platform. Companies must also consider that incorrect mobile data could see them breaking GDPR rules enshrined in the BDSG-neu, such as demands for data precision.
+
+Next steps: a shift in tracking focus
+
+To use mobile effectively, businesses are beginning to turn their attention to location. The chief benefit of doing so is that location insight produces a clearer picture of context-based interests and preferences. Location data utilizes the always-near nature of mobile devices to provide a constant window into activity — without relying on interactions. When overlaid with known positions of places (such as stores and public buildings), this data can then help map unique journeys and create a holistic understanding of consumers.
+
+There are also multiple ways for companies to access this data. For example, they can opt to deploy practices that leverage the networks that devices connect to as a means of determining location – such as operator-based or Wi-Fi tracking — both of which have minimal impact on the physical handsets in that they do not require software downloads. Or they can also employ geolocation methods that pinpoint the whereabouts of a handset using the signals it emits, either through GPS or identifying its specific IP address.
+
+Staying in line with the law
+
+Of course, any methods that organizations adopt must also comply with the BDSG-neu. And to achieve adherence they must do two things. First and foremost, they should create systems for gaining consent and ensure any networks or insight providers they partner with have adequate measures in place.
+
+Next, they should turn their attention to protecting data. With safeguarding privacy a core focus, it’s worth considering techniques that add extra layers of security by removing identifiable elements from data. In line with this, companies might choose to implement approaches such as pseudonymization, which replaces one or more personally identifying fields in data records with artificial identifiers (pseudonyms). This, in turn, keeps pertinent information about individuals, but prevents information from being traced back to them specifically.
+
+Given the equally strong emphasis of the BDSG-neu on burden of proof, organizations might also wish to streamline data so documentation illustrating adherence can be easily provided. The most efficient way to achieve that is integrating smart platforms that can centralize data, drawing multiple data fragments into one hub to allow companies to measure exactly what they have and how it is used. Plus, this will also allow companies to gather all information about individuals and their journeys to inform delivery of tailored services.
+
+There’s no denying that the effect of the BDSG-neu will be significant. It could even mean the end of cookie-based tracking on mobile. But it doesn’t necessarily follow that companies will lose access to a crucial source of insight, as cookies will still play a role in behavioral insight on desktop and laptop devices.
+
+By adopting location-centric tracking practices that suit the mobile environment and BDSG-neu in conjunction with consented mobile data, organizations can build trust through intelligent engagement. They can also ensure continued access to mobile data, as well as increase the quality of the insight gathered. All things considered, it’s really just better standards of data, enhanced digital safety and a more sustainable future. Sounds like the best news yet for both mobile and businesses.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Summary: So, the key question is: what will be the impact of the regulation on mobile data collection, and how can marketers continue to harness user insight from mobile without over-reliance on tools such as third-party cookies?
+Mobile cookies can also be inaccurate as they are typically device identifiers, rather than people identifiers.
+Companies must also consider that incorrect mobile data could see them breaking GDPR rules enshrined in the BDSG-neu, such as demands for data precision.
+By adopting location-centric tracking practices that suit the mobile environment and BDSG-neu in conjunction with consented mobile data, organizations can build trust through intelligent engagement.
+They can also ensure continued access to mobile data, as well as increase the quality of the insight gathered.
+
+Other Blogs by Martin McDonald: https://dataconomy.com/author/martinmcdonald/

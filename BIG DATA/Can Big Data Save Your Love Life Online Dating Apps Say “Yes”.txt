@@ -1,0 +1,56 @@
+Title: Can Big Data Save Your Love Life? Online Dating Apps Say “Yes”
+
+Article Link: https://dataconomy.com/2016/02/09/can-big-data-save-your-love-life/
+
+Author: Hannah Augur
+
+Publish Date: 2016-02-09
+
+Article:
+What’s the most romantic city in America? What kind of gifts are people buying their Valentine? Given the size of the online dating industry, it’s no surprise that they’ve started leveraging big data to create better matching systems. The real million dollar question is: can you leverage all those numbers and data points to help yourself?
+
+If you’re single, you may have already considered online dating. Nearly 11% of American adults have tried it, and chances are you may end up on Match, OKCupid, or any one of the countless dating sites. Some try to rig the dating-game from the very beginning. They consider which cities will have the best matches for them, or what line of work will get them the most attention. Plenty of Fish did their own data study and found Portland to be the “most romantic city in the US.” While Michigan was found to have the most romantic singles, Louisiana came in last. They did this using data from 5 million singles. “The most romantic places were determined by the percentage of singles within that region who list interests like ‘romance’, ‘long walks on the beach’, ‘cuddling by the fire’, (and thousands of other romantic phrases) on their PlentyOfFish profiles.”
+
+Now, the problem with data in online dating has already presented itself. Determining something as abstract as “romance” (or even “love”) with data is not easy. Some of the other top romantic interests listed on profile included:
+
+Holding Hands
+
+Bubble Baths
+
+Romantic massages
+
+Given the fact many of us would never list these things on a profile begs the question whether PlentyOfFish found the most romantic states, or simply the cheesiest. Many are skeptical about data in the dating industry, and stress that it’s data quality that matters most. Christian Rudder, one founder of OKCupid, explains that one of the biggest hurdles faced in the industry isn’t just finding the algorithm, but finding the right data.
+
+“My intuition is that most of what users enter is true, but people do misunderstand themselves,” he says. Even if a couple seems to match mathematically, there’s a level of superficiality and less-than-perfect information companies need to peel back in order to get a realistic match. One study from Berkeley found that “81 percent of online daters reported inaccurate information about their weight, height, or age,” and that’s likely not even on accident! For example, while someone might list “classical music” as an interest, they really only mean they like it in a vague, theoretical way. Analyzing their personal playlists might prove that they, in fact, care little about the genre. This brings online dater’s to the two important rules:
+
+First, be honest in questionnaires. They may be frustrating. You may want to sound more interesting. You may be thinking, “just show me the matches, already!” These algorithms, however, can only work with the data that’s given to them. Giving flawed information will mean more flawed dates. Second, when possible, connect to other outlets. If users are willing to give permission for companies to scan their Spotify, Netflix, Facebook or search histories, a wealth of far more reliable data can be used. Good algorithms won’t just match you based on mutual friends, or whether you both like Downtown Abbey. They can create several new models for finding matches.
+
+One unexpected method is by comparing users against their competition. If two users seem to have similar music taste and keep chatting with similar people, data from one individual may help generate matches or information for the other. This can also help engines determine just how desirable your own profile is to other users. Algorithms can also decide how attractive your profile is by comparing it to similar users and their popularity—which does sound a little scary.
+
+Dating Data Must Be Used More Creatively
+
+Rudder of OKCupid revealed that there is surprising information data analysis has returned. By compiling data of OKCupid members who ended up in relationship via the online platform, they found three questions most first dates agreed on:
+
+“Do you like horror movies?” “Have you ever travelled around another country alone?” “Wouldn’t it be fun to chuck it all and go live on a sailboat?”
+
+The seemingly innocuous questions reveal much more about personality and life trajectory than dozens of useless data points. Amy Webb’s TEDTalk, titled “How I Hacked Online Dating,” has almost 4.5 million views. This is because people not only find the topic interesting, but they likely have had similar, perhaps negative, experiences in online dating. Users are asked questions that, while useful, can’t encapsulate a person as a whole. What she did was reverse-engineer the system and create her own data points to find Mr. Right. She used 72 data points to find a match…and it worked! She had great success finding a sea of quality fish. Unfortunately, they didn’t like her back, due to the way she, herself, had presented and assembled her profile. That led her to study what made other users likable and popular. The results ranged average message word counts (97), to average time between communications (23 hours) and, of course, the photos. The problem wasn’t a lack of data—it was just the wrong data.
+
+How should a data-nerd show their Valentine they care?
+
+By leveraging data. The National Retail Foundation is more than happy to analyze where shoppers will be spending their money on Valentine’s Day. In the past, they’ve found discount and department stores to be major destinations. They even pinpointed the average spending of those celebrating Valentine’s would be $87.94 exactly in 2015. They know folks aged 45-54 were the biggest spenders, and that men were creating more music playlists for the occasion. This is the kind of data that informs, but doesn’t necessarily tell lovers what to do.
+
+Just like Michigan shouldn’t be deemed the most romantic state because of seemingly “romantic” statements, data can help inform lovers on how to get a little more creative. Statistics from StatisticBrain show some 198,000,000 roses will be purchased for Valentine’s Day. The most given gift is cards, followed by candy, dinner, flowers and jewelry—gift cards even made the list. Flower purchases at Proflowers.com and 1800flowers.com peaked enormously last year on February 13th. The same occurred on 123greetings.com, an e-greeting site. Lovers of the world, data can be leveraged to find love and to keep. The key is to use it creatively and correctly.
+
+image source: Online Dating University
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Given the size of the online dating industry, it’s no surprise that they’ve started leveraging big data to create better matching systems.
+The real million dollar question is: can you leverage all those numbers and data points to help yourself?
+If you’re single, you may have already considered online dating.
+Dating Data Must Be Used More CreativelyRudder of OKCupid revealed that there is surprising information data analysis has returned.
+Amy Webb’s TEDTalk, titled “How I Hacked Online Dating,” has almost 4.5 million views.
+
+Other Blogs by Hannah Augur: https://dataconomy.com/author/hannah-augur/

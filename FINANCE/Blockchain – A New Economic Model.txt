@@ -1,0 +1,56 @@
+Title: Blockchain – A New Economic Model
+
+Article Link: https://dataconomy.com/2015/09/29/blockchain-a-new-economic-model/
+
+Author: Arunkumar Krishnakumar
+
+Publish Date: 2015-09-29
+
+Article:
+Almost a year ago, when I was reading about sharing economy and impact investing, I came across the term “collaborative capitalism”. I felt that the world was adjusting itself between capitalism at one end and communism at the other, and now blockchain technology has the potential to take it one step closer to communism.
+
+Until about a couple of weeks ago, I was explaining blockchain as a “decentralized database”. Then the focus was on blockchain as an innovative data store, but the idea of decentralisation is even more powerful. I have researched and discussed some interesting business models based on blockchain that I’ll cover below.
+
+The first Blockchain use case was bitcoin, but the applications go far beyond financial services. Telecommunication, cloud computing, sharing economy, gambling, internet of things are some of the other industries that could potentially be disrupted by blockchain.
+
+[bctt tweet=”#Blockchain applications go far beyond financial services. -@karunk”]
+
+Financial Services
+
+Firms like SETL and Ripple are trying to disrupt the payments landscape using blockchain by providing a real time settlement and clearing platform, commonly described as DCL (distributed consensus ledger). With the regulators cracking down on financial services firms to provide accurate transaction reporting, blockchain could potentially help bring robustness and transparency to the post-trade environment.
+
+Elliptic is a start up that identifies with a high level of accuracy, the origin and destination of transactions on the blockchain. This could help immensely in anti money laundering.
+
+Everledger are trying to combat insurance fraud by using a fingerprinting process based on blockchain technology. They identify precious metals (for a start), with a view to expanding into all sorts of luxury goods, such as high end watches, designer handbags and fine art. Basically high value items whose provenance might otherwise be reliant on paper certificates and receipts that can easily be lost or tampered with will be centrally identified and tracked using block chain.
+
+Telecommunication
+
+The web which is currently controlled by the Internet Corporation for Assigned Names and Numbers (ICANN), could be potentially disrupted by a blockchain based DNS which would be decentralised, private but most of all more democratic. While this may sound dodgy to a few, it may come as a blessing to many who think their freedom of speech and expression is being affected by the centralised nature of the web.
+
+Cloud Computing
+
+Storj is a start up that uses blockchain and peer-to-peer protocols to provide a secure, decentralised and private cloud infrastructure. To best protect data, files are encrypted client-side on users’ computers before they are uploaded. Each file is split up into chunks which are first encrypted and then distributed for storage across the Storj network.
+
+Applications of blockchain are increasingly discovered by the minute. The concept of decentralisation (via Blockchain) has been used in distributed computing Zennet, and in Internet of Things (IoT) by IBM.
+
+Distributed Autonomous Company (DAC)
+
+The most interesting model with blockchain for me has been Distributed Autonomous Company (DAC). A DAC will not take the form of a company, in the formal sense, meaning it will not be subject to regular company laws, but will instead be governed purely through the alignment of incentives.
+
+For example, Play, a blockchain based casino, claims it offers a third-party verifiable mechanism to ensure true randomness and fairness for gamers by placing the games’ logic on a blockchain. This would remove the need for trust in centralized institutions. The chips used to play are called Playshares (PLS), which are also the tokens of the system. PLS are designed first to be the shares of the PLAY System, and thus the unit in which dividends are paid to PLS holders and delegates of PLAY are paid for their contributions to the system. As the individual players own the system through PLS and play using PLS, if the house wins, individuals win.
+
+A sharing economy firm called La’Zooz are the blockchained version of Uber. It is a Decentralized Transportation Platform owned by the community and utilising vehicles` unused space to create a variety of smart transportation solutions. With this idea, the users are rewarded for sharing information about their usage, and in the process help build the network. In this way, early adopters of La’Zooz network are gaining value and thus being incentivised to take part in the establishment of the network before its technological benefit takes effect and the transport service is available.
+
+Isn’t that a new economic model? Build a network of customers by getting information from them, and getting them to partake in an event and incentivise them for that. Early adopters will get higher incentives, and as the network of users/nodes increase, incentives are harder, but the business is robust and established. The key differentiator is that it is decentralised, data intensive and capital light.
+
+This decentralised model could potentially disrupt the energy, technology infrastructure, food and agriculture and micro finance sectors. While ideas in most of these industries are still being experimented, it feels like a new economic and social phenomenon is brewing, and it most definitely is a step further away from capitalism!!
+
+(image credit: GollyG, CC2.0)
+
+Summary: Then the focus was on blockchain as an innovative data store, but the idea of decentralisation is even more powerful.
+Telecommunication, cloud computing, sharing economy, gambling, internet of things are some of the other industries that could potentially be disrupted by blockchain.
+Distributed Autonomous Company (DAC)The most interesting model with blockchain for me has been Distributed Autonomous Company (DAC).
+For example, Play, a blockchain based casino, claims it offers a third-party verifiable mechanism to ensure true randomness and fairness for gamers by placing the games’ logic on a blockchain.
+As the individual players own the system through PLS and play using PLS, if the house wins, individuals win.
+
+Other Blogs by Arunkumar Krishnakumar: https://dataconomy.com/author/arunkumar-krishnakumar/

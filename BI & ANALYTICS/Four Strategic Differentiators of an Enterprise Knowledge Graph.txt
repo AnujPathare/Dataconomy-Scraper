@@ -1,0 +1,58 @@
+Title: Four Strategic Differentiators of an Enterprise Knowledge Graph
+
+Article Link: https://dataconomy.com/2017/09/15/differentiators-enterprise-knowledge-graph/
+
+Author: Ben Szekely
+
+Publish Date: 2017-09-15
+
+Article:
+With its unlimited size, an Enterprise Knowledge Graph contains all of an organization’s data — structured, unstructured, internal or external — presented as trillions of interlinked facts made available in any combination, on-demand to approved users. The Enterprise Knowledge Graph enables organizations to take advantage of in-memory computing at cloud-scale to bring immediate access and analysis to everyone. These tools support intuitive, interactive, coherent and transparent query generation for all users—from laymen business users to IT veterans.
+
+Fortified by advanced query and analytics mechanisms which traverse organization-wide data for real-time responses, Enterprise Knowledge Graphs hasten time-to-value to equip the business with a newfound command of its data. Simply by using the graph to achieve business objectives, IT leadership inevitably transforms its organizations with these strategic benefits reinforcing a data-driven culture:
+
+Data becomes understandable in business terms. Too often, the meaning of data is obscured by data storage definitions and terms meaningful to only a handful of technical and back office personnel.
+
+Citizen data scientists abound. Empowered by an understanding of data’s meaning due to its business terminology and the Enterprise Knowledge Graph’s interactive querying horsepower, business users become “citizen” data scientists accessing and deploying data at will.
+
+Future technologies and applications are guaranteed. Due to the machine-readable nature of data in an Enterprise Knowledge Graph, it’s amenable to whichever forms of artificial intelligence and machine learning become the most valuable tomorrow.
+
+Digital transformation is accelerated. An Enterprise Knowledge Graph provides a high-resolution, “digital twin” of all data that pushes digital transformation to the forefront of organizations.
+
+The transcendent nature of these effects produces a profound impact upon organizations. The ensuing sense of empowerment increases trust in data and its processing so that data begins to feel like a true differentiator. In turn, its users—those who rely on data to do their jobs—take a greater sense of ownership as organizations become data-intensive.
+
+The top four strategic differentiators of an Enterprise Knowledge Graph are:
+
+Understanding the Data
+
+An Enterprise Knowledge Graph is business-user accessible because it renders data’s meaning within the language of the business. The graph captures every value, data point, fact and relationship, which is markedly different than non-scaling graph approaches. The technologies attending these graphs automatically create human readable models of the data and their metadata, which aids in the understanding of how data relates to business terminology. Those technologies effectively construct a ‘mind map’ of the way data applies to organizational objectives. Data relationships are clearly defined and modeled with constructs identical to how they affect business processes, without the arcane coding of dated repositories or data sources. This approach allows the data to ‘speak’ the language of the business without the unnecessary technological intermediaries required to define relationships with other commonly used technologies reliant on tables, joins, and machine languages.
+
+Army of Citizen Data Scientists
+
+The Enterprise Knowledge Graph’s advanced querying capabilities exploit the improved understanding of data’s meaning to drastically reshape the business. By enabling simple conversations in which users ask and immediately answer questions of their data, it fulfills a task traditionally assigned to data scientists—getting the business data-driven insight. Thus, the Enterprise Knowledge Graph obliterate the business’s dependence on IT, placing data at the fingertips of those who actually use it, and simultaneously increasing user knowledge and workplace effectiveness. The automatically-generated query process turns business users into citizen data scientists responsible for procuring the data and analytics results themselves. These intuitive methods improve the enterprise’s workforce by making laymen users data-savvy. The result is an increased ability to meet business objectives coupled with an enhanced trust in data’s impact on the enterprise.
+
+Future Preparation
+
+Perhaps the most enduring effect of an Enterprise Knowledge Graph is its penchant for future-proofing the enterprise. In a tenuous world in which advancements in AI and machine learning occur daily, Enterprise Knowledge Graph users are assured of the capacity for deploying whichever technique becomes most viable due to the fundamental properties of these repositories. The technologies underpinning the Enterprise Knowledge Graph are machine readable and readily adapt to all forms of machine learning, Natural Language Processing, and other AI manifestations. Users are not required to decide on a technological option today which might become obsolete in the future. Investments in an Enterprise Knowledge Graph yield recurring returns by preparing the enterprise for whichever form of AI becomes most useful. These platforms are ideal sources for feeding emerging machine learning algorithms or, even better, for leveraging machine learning’s output to enhance data and their relationships within the Enterprise Knowledge Graph itself.
+
+Accelerating Digital Transformation
+
+The Enterprise Knowledge Graph spurs digital transformation, a vital necessity for contemporary IT processes. The foundational component of these repositories is a high-resolution, digital facsimile of all data found throughout an organization. This digital ‘twin’ encompasses all data points and connects these data with open standards focused on clarifying the data points and relationships between data elements. By fundamentally understanding the way all data relates throughout the enterprise, the Enterprise Knowledge Graph offers an added dimension of contextualization which informs everything from initial data discovery attempts to analytics. Whereas other methods of connecting data rely on hybrid replication approaches involving basic metadata and relationship information, the Enterprise Knowledge Graph’s digital twin includes comprehensive relationship understanding, metadata, and data assets. The encompassing nature of this platform is attributed to its scale, which suitably accommodates these facets of data with governance and security measures for lasting value.
+
+The adoption rates of Enterprise Knowledge Graphs are directly related to their means of solving an expanding assortment of data-centered problems. Simply by using them, organizations attain gains which increase their capacity to monetize data. Deploying these platforms correlates to greater business understanding of what data means, how they interrelate, and their relationship to various business problems. Autonomous query tools enable casual, conversational interactions with data, which are fortified by an improved propensity for digital transformation. These platforms also future-proof the enterprise for impending data management developments.
+
+By increasing business involvement with the fundamentals required for using data, the Enterprise Knowledge Graph effectively propagates the sort of culture required to consistently profit from data.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Image Credit: Lukas Masuch
+
+Summary: The Enterprise Knowledge Graph enables organizations to take advantage of in-memory computing at cloud-scale to bring immediate access and analysis to everyone.
+The top four strategic differentiators of an Enterprise Knowledge Graph are:Understanding the DataAn Enterprise Knowledge Graph is business-user accessible because it renders data’s meaning within the language of the business.
+Future PreparationPerhaps the most enduring effect of an Enterprise Knowledge Graph is its penchant for future-proofing the enterprise.
+Investments in an Enterprise Knowledge Graph yield recurring returns by preparing the enterprise for whichever form of AI becomes most useful.
+Accelerating Digital TransformationThe Enterprise Knowledge Graph spurs digital transformation, a vital necessity for contemporary IT processes.
+
+Other Blogs by Ben Szekely: https://dataconomy.com/author/ben-szekely/

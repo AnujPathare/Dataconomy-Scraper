@@ -1,0 +1,40 @@
+Title: “Knowledge of the business really influences how one approaches analyzing issues”-Interview with MineThatData’s Kevin Hillstrom
+
+Article Link: https://dataconomy.com/2015/12/30/knowledge-of-the-business-really-influences-how-one-approaches-analyzing-issues-interview-with-minethatdatas-kevin-hillstrom/
+
+Author: Peadar Coyle
+
+Publish Date: 2015-12-30
+
+Article:
+Kevin is President of MineThatData, a consultancy that helps CEOs understand the complex relationship between Customers, Advertising, Products, Brands, and Channels. Kevin supports a diverse set of clients, including internet startups, thirty million dollar catalog merchants, international brands, and billion dollar multichannel retailers. Kevin is frequently quoted in the mainstream media, including the New York Times, Boston Globe, and Forbes Magazine. Prior to founding MineThatData, Kevin held various roles at leading multichannel brands, including Vice President of Database Marketing at Nordstrom, Director of Circulation at Eddie Bauer, and Manager of Analytical Services at Lands’ End.
+
+What is the biggest misunderstanding in “big data” and “data science”?
+
+To me, it is the “we’re going to save the world with data” mentality. I like the optimism, that’s good! I do not like the hype.
+
+Describe the three most underrated skills of a good analyst and how does an analyst learn them?
+
+The first underrated skill is selling. An analyst must learn how to sell ideas. My boss sent me to Dale Carnegie training, a course for sales people. The skills I learned in that class are invaluable. The second underrated skill is accuracy. I work with too many analysts who do all of the “big data” stuff, but then run incorrect queries and, as a result, lose credibility with those they are analyzing data for. The third underrated skill is business knowledge. So many analysts put their heart and soul into analyzing stuff. They could put some of their heart and soul into understanding how their business behaves. Knowledge of the business really influences how one approaches analyzing issues.
+
+How do you clearly explain the context of a data problem to a skeptical stakeholder?
+
+To me, this is where knowledge of the business is really important. So many of my mistakes happened when I cared about the data and the analysis, and did not care enough about the business. I once worked for a retail business that only had twenty-four months of data. That was a big problem, given that the company had been in business for fifty years. Nobody, and I mean nobody, cared. I explained repeatedly how I was unable to perform the work I wanted to perform. Nobody cared. When I shifted my message to what I was able to do for a competing retailer who had ten years of data, then people cared. They cared because their business was not competitive with a business they all knew. Then folks wanted to compete, and we were able to build a new database with many years of data.
+
+What is the best question you’ve ever been asked in your professional career?
+
+A high level Vice President once listened to a presentation, and then said to me, “Who cares?” The executive went on to say that I was only sharing trivia. He told me that unless I had facts and information that he could act upon, he didn’t want me to share anything. This is a good lesson. Too often, we share information because we were able to unearth an interesting nugget in the database. But if the information is “nice to know”, it doesn’t help anybody. It is better to share a simple fact that causes people to change than to share interesting facts that nobody can use to improve the business.
+
+What is the best thing – in terms of career acceleration – you’ve ever been told in your professional career?
+
+Ask to be promoted to your next job. I had a boss who, in the 9th year of my career, asked me what I wanted to do next? So I told my boss – the job was outside of my area of experience, to be honest, and the job was a major promotion. I described why I wanted the job, I described how I would do the job differently, and I described my vision for how I would make the company more profitable. Within twelve months, I was promoted into the job. My goodness, were people upset! But it was a major lesson. When somebody asks you what you want to do next in your career, be ready to offer a credible answer. Maybe more important, be ready to share your answer even if nobody asks you the question! Tell people what your next job looks like, tell people your vision for that job, tell people how the company benefits, and then do work that proves you are ready for an audacious promotion!
+
+Like this article? Subscribe to our weekly Newsletter.
+
+Summary: Kevin is President of MineThatData, a consultancy that helps CEOs understand the complex relationship between Customers, Advertising, Products, Brands, and Channels.
+Kevin is frequently quoted in the mainstream media, including the New York Times, Boston Globe, and Forbes Magazine.
+What is the biggest misunderstanding in “big data” and “data science”?
+Knowledge of the business really influences how one approaches analyzing issues.
+They cared because their business was not competitive with a business they all knew.
+
+Other Blogs by Peadar Coyle: https://dataconomy.com/author/pcoyle/

@@ -1,0 +1,76 @@
+Title: The 5 Best Reasons to Choose MySQL – and its 5 Biggest Challenges
+
+Article Link: https://dataconomy.com/2017/04/14/5-reasons-challenges-mysql/
+
+Author: Tony Branson
+
+Publish Date: 2017-04-14
+
+Article:
+The latest version of MySQL is one of the world’s most popular databases. It is open source, reliable, compatible with all major hosting providers, cost-effective, and easy to manage. Many organizations are leveraging the data security and strong transactional support offered by MySQL to secure online transactions and enhance customer interactions. However, enterprises using MySQL are presented with several challenges when their apps experience exponential growth and they need additional scale.
+
+Along with understanding why MySQL is the go-to solution for high-growth environments, it is equally important to understand the challenges that can cripple your business operations. Here are 5 major reasons to use MySQL along with its most common challenges:
+
+5 Reasons to Choose MySQL
+
+Secure Money Transactions
+
+MySQL transactions work as a single unit, which means unless and until every individual operational stage is successfully completed, the transaction is not cleared. So, if an operation fails at any stage, the entire transaction happening within that group fails. MySQL ensures that financial transactions have data integrity, so customers can make worry-free transactions online. The money is not debited until the entire process is completed and in case of failure, every process is reverted to the previous stage.
+
+On-Demand Scalability
+
+MySQL comes with the advantage of unmatched flexibility that facilitates efficient management of deeply embedded applications, even in gigantic data centers that stack tremendous amounts of mission-critical information. It enables complete customization to cater to the unique requirements of eCommerce businesses with a much smaller footprint. MySQL provides ultimate platform flexibility to enterprises who need additional features and functionalities for their database servers.
+
+High Availability
+
+Consistent availability is the stalwart feature of MySQL – enterprises that deploy it can enjoy round-the-clock uptime. MySQL comes with a wide variety of cluster servers and master-slave replication configurations that enable instant failover for uninterrupted access. Whether you run an eCommerce website or a high-speed processing system, MySQL is designed to process millions of queries and thousands of transactions while ensuring unique memory caches, full-text indexes and optimum speed.
+
+Rock-Solid Reliability
+
+Protecting sensitive business information is the primary concern of every enterprise. MySQL ensures data security with exceptional data protection features. Powerful data encryption prevents unauthorized viewing of data and SSH and SSL supports ensure safer connections. It also features a powerful mechanism that restricts server access to authorized users and has the ability to block users even at the man-machine level. Finally, the data backup feature facilitates point-in-time recovery.
+
+Quick-Start Capability
+
+You can go from software download to complete installation in just 15 minutes. MySQL is exceptionally quick, regardless of the underlying platform. It features self-management capabilities like auto restart, space expansion and automatic configuration changes for ease of management. It also comes with a comprehensive set of migration tools and a fully loaded graphical management suite. MySQL enables real-time performance monitoring for timely troubleshooting of operational issues from a single workstation.
+
+For all of these reasons, organizations are using MySQL to instantly develop and launch apps. From retail and finance, to healthcare and manufacturing, many industries are capitalizing on the cost-effectiveness, efficiency and reliability of MySQL to deliver seamless services and boost their revenue. But when it comes to optimizing MySQL deployments for performance and availability, enterprises face the following challenges, because scaling MySQL needs much more than just a database:
+
+5 Challenges of Scaling MySQL
+
+Long Development Time
+
+Scaling frameworks that cannot be optimized with master/slave setups requires extensive development time. Replication lag further complicates app logic because it disrupts the data consistency between the slave and the master. Finally, MySQL server modifications need constant coordination between database teams and apps.
+
+Replication
+
+MySQL servers often run into replication conflicts during a manual failover when multi-master setups are involved.
+
+Database Logging Costs
+
+Database logging is expensive and so it remains disabled most of the time. As a result, organizations lack real-time visibility into slow logs, which delays troubleshooting.
+
+Query Caches
+
+MySQL server query cache is of little help when handling a high volume of workload, because cache invalidation cannot be controlled.
+
+High Connection Churn
+
+If your apps rely on a LAMP stack, they tend to have a high volume of user sessions running concurrently and, consequently, they experience a high connection churn. So most of your valuable server resources are exhausted on connection management.
+
+Some companies consider sharding as a scaling option, but sharding adds significant complexity, cost and its own set of additional challenges. The easiest way to leverage the powerful features of MySQL without making any modifications at the app level or writing a single line of code is to utilize database load balancing software.
+
+The Solution? Database Load Balancing Software for MySQL
+
+Database load balancing software solves the challenges that crop up when scaling your MySQL database. It enables automatic read/write split so you can leverage readable replicas with no code changes, augments failover to make it invisible at the user or app tier, provides unparalleled visibility into analytics, and facilitates one-click transparent caching. This intuitive, agentless approach increases response times up to 60X, prevents downtime during database failovers, doubles website performance and ensures better business outcomes. With database load balancing software, enterprises can upgrade their apps in an instant and ensure that they remain up and running round the year.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: However, enterprises using MySQL are presented with several challenges when their apps experience exponential growth and they need additional scale.
+MySQL ensures that financial transactions have data integrity, so customers can make worry-free transactions online.
+High AvailabilityConsistent availability is the stalwart feature of MySQL – enterprises that deploy it can enjoy round-the-clock uptime.
+Finally, MySQL server modifications need constant coordination between database teams and apps.
+Database Load Balancing Software for MySQLDatabase load balancing software solves the challenges that crop up when scaling your MySQL database.
+
+Other Blogs by Tony Branson: https://dataconomy.com/author/tony-branson/

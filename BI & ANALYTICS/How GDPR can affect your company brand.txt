@@ -1,0 +1,48 @@
+Title: How GDPR can affect your company brand
+
+Article Link: https://dataconomy.com/2018/06/14/how-gdpr-can-affect-your-company-brand/
+
+Author: Jonathan Lacoste
+
+Publish Date: 2018-06-14
+
+Article:
+Companies have been well aware of the General Data Protection Regulation (GDPR) for more than two years, and though the May 25 deadline has passed, the GDPR is not put to sleep. The deadline has only drawn more attention to the GDPR, as noncompliant companies are starting to be hit with hefty fines – up to four per cent of annual global turnover or 20 million Euros (whichever is greater).
+
+Not complying with the GDPR poses a serious threat to an organization’s credibility. According to the RSA Data Privacy & Security Report, 72 per cent of U.S. respondents said they would shun a company that appeared to disregard data protection, and fifty per cent of respondents said they would be more likely to do business with a brand that takes protecting their data seriously.
+
+Whether brands have been preparing for GDPR regulations for months or are taking a chance on a potential fine, there is no doubt that the GDPR is forcing brands to think differently about how they collect and use customer data, and one thing that remains constant is that third-party data is no longer adequate.
+
+While many view the GDPR as a costly burden, it presents a critical opportunity. Brands now need to think differently and more wisely about how they collect and activate data. This will lead to some established practices being negated and new best practices surfacing so that data aggregation and application are more transparent and effective.
+
+Old data practices don’t cut it in this GDPR world
+
+Marketers are clearly willing to put the dollars behind better understanding their customers through their data. U.S. companies spent $10.05 billion on third-party audience data in 2017 and another $10.13 billion on third-party solutions to support that data, according to a study from the Interactive Advertising Bureau and the Data & Marketing Association compiled by Winterberry Group. While third-party data has enabled marketers to capture plentiful information on customers or prospects, buying large quantities of third-party data is blemished in many ways.
+
+Most consumers are more concerned with how a brand got information on them rather than what that information is. In customers’ minds, that’s the real differentiator between when a brand is overstepping and when it is being helpful. For instance, if a consumer is searching for vacation packages for an upcoming trip and a brand they encounter asks whether they’re looking for a beach or city destination and if they’re seeking a luxury or budget-conscious experience, the brand can provide alerts for the packages that best suit that individual’s desires. And when that recommendation comes in, the customer does not feel like the brand is being intrusive; they recognize that they provided that information and are reaping the benefits from providing it.
+
+“Creep” factor aside, third-party data is often outdated, inaccurate and irrelevant to what the company needs to create a better customer experience. Third-party data is also available to competitors, so the information a brand is collecting isn’t unique. This is leading many marketers into a cycle of insignificant one-sided conversations with their customers in which they bombard them with what they think they want, not what they really want or need.
+
+Until now, most marketers were doing their best with the third-party data available to them. But recent data privacy scandals like that around Facebook and Cambridge Analytica have consumers questioning how their data is being used. Forty-nine per cent of consumers have data privacy concerns, yet 75 per cent of consumers still expect digital personalization, so a privacy-personalization paradox exists. Couple consumers’ mounting expectations with having to be GDPR compliant and brands are being confronted with the urgency of getting their data best practices in order.
+
+Declared data: the new best practice
+
+
+
+First party data is information that a company owns about consumers and is created and collected through a direct relationship with that consumer, while third-party data is information collected by an entity that does not have a direct relationship with the consumer. First-party data is known to be relevant but unable to scale, while third-party data can scale but is often inefficient and irrelevant for the company. Declared data is the approach brands are already using to transparently gather relevant information directly from customers and prospects to understand their motivations, intentions, interests and preferences by interacting with them directly. This transparency is critical to maintaining a healthy brand-customer relationship. Declared data combines the best of first and third-party data — eliminating the flaws and marrying the benefits of both means of data collection.
+
+Rather than “renting” the often-irrelevant data from third-party providers, a declared data strategy enables brands to ask customers and prospects specific questions to create a bank of proprietary customer information. And because customers are willingly sharing this information with a brand, there is a two-way conversation that helps them understand why brands need this information and that it will be used to create a better experience. Aside from fostering a more transparent customer relationship because the information has been explicitly given by the customer, declared data allows brands to be GDPR compliant and reduce the risk that people will request the right to be forgotten.
+
+The GDPR is a true wakeup call for brands when it comes to how they collect and use data. Those companies that are not taking data privacy seriously will not only be at risk of penalties but also of dissatisfying their customers, hurting the brand’s reputation and losing customer loyalty.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: While third-party data has enabled marketers to capture plentiful information on customers or prospects, buying large quantities of third-party data is blemished in many ways.
+Most consumers are more concerned with how a brand got information on them rather than what that information is.
+“Creep” factor aside, third-party data is often outdated, inaccurate and irrelevant to what the company needs to create a better customer experience.
+Third-party data is also available to competitors, so the information a brand is collecting isn’t unique.
+First-party data is known to be relevant but unable to scale, while third-party data can scale but is often inefficient and irrelevant for the company.
+
+Other Blogs by Jonathan Lacoste: https://dataconomy.com/author/jonathan-lacoste/

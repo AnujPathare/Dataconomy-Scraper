@@ -1,0 +1,56 @@
+Title: How Data Exhaust Can Be Leveraged To Benefit Your Company
+
+Article Link: https://dataconomy.com/2018/03/28/how-data-exhaust-can-be-leveraged-to-benefit-your-company/
+
+Author: Ryan Ayers
+
+Publish Date: 2018-03-28
+
+Article:
+Big data has become nearly ubiquitous among companies in every company – if they’re not using it, they’re thinking about it. In one 2017 survey, 53% of companies were using big data in their business strategy. Most big data programs are focused on certain types of data. These essential data types are considered most relevant to the organization’s overall goals. But what about all the data left over? Data exhaust can offer businesses significant value – if it’s leveraged properly.
+
+What is data exhaust?
+
+No, it doesn’t have to do with being exhausted by the amount of data your business collects (although that’s a common sentiment among executives). Instead, it has to do with the amount of “leftover” data produced by an organization. When you set out to collect specific types of data, other information is collected at the same time. For example, you might be trying to figure out which demographic buys your product more than any other – but during the course of collecting that data, you might find out what times of day your website gets the most activity.
+
+Data exhaust can yield some important insights for businesses. However, many organizations are just sitting on this goldmine without a plan for using it. Having a plan for using it right away isn’t necessary, but data exhaust can be helpful in several key areas of business development.
+
+Improve your market research
+
+One way to use data exhaust is for market research. Knowing your ideal audience and customer is absolutely essential to effective marketing and product development. While some portions of market research must be done manually (such as surveys and focus groups), others just involve getting into the analytics.
+
+You can gain important insights you may not have considered by looking at your data exhaust. Everything your customers do in interacting with your website gives you information about them. Sometimes this data is even more useful than a survey, since people browsing the internet aren’t responding to questions – they’re seeking out information they want.
+
+Help shore up cybersecurity
+
+A growing threat worldwide, cybercrime has the potential to cost businesses millions. Healthcare organizations, which are regularly attacked by cybercriminals, lose about $2.2 million dollars per breach. With this cost, plus the less tangible costs to reputation, no business can afford to ignore cybersecurity.
+
+How can data exhaust help? Companies can use old, unnecessary data to test different cyber security platforms against attacks. Data exhaust can also be used to assess risk in different databases to create a cybersecurity plan.
+
+Inform marketing and product development strategies
+
+Typically, businesses have a wide range of projects they’d love to work on. Of course, that doesn’t mean there’s time to do everything at once, and data exhaust can help hone in on what’s important. For example, if your leftover data tells you that the vast majority of people visit your site via a mobile device, it might be worth considering developing an app to serve those customers.
+
+Not all data is valuable
+
+Even though data exhaust can be useful, not all the exhaust you collect will be. Sometimes, you need to free up some space and get rid of the data that doesn’t deserve being kept for a rainy day. Having a procedure for deciding what types of data need to go will make those tough decisions easier.
+
+Ask questions of those who work closely with the data, to see what is potentially relevant, and what types of data should be destroyed. Having the capacity for keeping data exhaust is important, but there are limits to what a company can keep.
+
+Responsible (and legal) use of data exhaust
+
+It’s clear that having data exhaust at your disposal can be great for business. However, it’s very important to be cautious and to use data exhaust responsibly. There are possible legal implications, so be sure to consult with a professional on the appropriate ways to use the data your organization has accumulated.
+
+Unfortunately, it’s also possible to alienate your customers using data exhaust. One good example is an insurance company using GPS tracking driving habits and charging more to people who park in high crime areas. This, in turn, can become discriminatory.
+
+Businesses have to be careful about the implications of how they use data in order to avoid negative outcomes. Used correctly and responsibly, however, big data can streamline operations and result in a more effective business strategy.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Summary: Data exhaust can offer businesses significant value – if it’s leveraged properly.
+Not all data is valuableEven though data exhaust can be useful, not all the exhaust you collect will be.
+Having the capacity for keeping data exhaust is important, but there are limits to what a company can keep.
+Responsible (and legal) use of data exhaustIt’s clear that having data exhaust at your disposal can be great for business.
+Unfortunately, it’s also possible to alienate your customers using data exhaust.
+
+Other Blogs by Ryan Ayers: https://dataconomy.com/author/ryan-ayers/

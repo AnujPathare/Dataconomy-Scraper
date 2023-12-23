@@ -1,0 +1,30 @@
+Title: Western Union Fights Wire Transfer Fraud With Big Data
+
+Article Link: https://dataconomy.com/2014/05/22/western-union-fights-wire-transfer-fraud-big-data/
+
+Author: Artur Lapinsch
+
+Publish Date: 2014-05-22
+
+Article:
+Big data is allowing Western Union to be proactive in fight against fraudulent wire transfers. They are using massive databases of customer information to analyse the risk that particular transactions may be fraudulent. If they believe any given transaction is the result of a scam, they have the power to block it- but of course, there’s always the risk of losing money (and even customers) if they block non-fraudulent transactions.
+
+“The fraud prevention challenge is staying ahead of the bad guys,” stated David Thompson, Western Union’s chief information officer and executive vice president of global operations and technology. “There are a lot of bad people in this world. In financial services, we have financial scams, lover scams, and elderly scams. They prey on consumers, and we are put in a position of trying to protect the consumer from these schemes.”
+
+The amount of transactions processed through Western Union is immense- they currently have access to 200TBs of data, an amount which is set to grow by 100TBs year on year. To manage and process all of this data, Western Union are using the Hadoop open source framework on top of commodity hardware; a solution they’ve found to be much faster and more cost-effective than their previous data warehouses. They then use visualisation programmes Tableau and Tibco to build images of cashflows, and identify scam hotspots.
+
+If your money is going overseas, Western Union can check if you’ve ever sent money to this country before. If you haven’t, it can check if the email address of the recipient has just been set up, or if you are linked to them via social media networks. These are all powerful tools that offer customers greater peace of mind that their money is going into safe hands.
+
+One possible use of the technology is set up automatic reminders. If you transfer money to a particular account on a monthly basis, but then forget one month, the technology is capable of noticing this and sending you a text alert. Of course, some would consider this a breach of privacy if you didn’t opt-in, whereas others might welcome the helpful reminder. “You have to know your customer,” Thompson said. “I ultimately want to know your personal preferences, and how I can serve you better.”
+
+Read more here.
+
+(Photo credit: Tax Credits)
+
+Summary: Big data is allowing Western Union to be proactive in fight against fraudulent wire transfers.
+“The fraud prevention challenge is staying ahead of the bad guys,” stated David Thompson, Western Union’s chief information officer and executive vice president of global operations and technology.
+In financial services, we have financial scams, lover scams, and elderly scams.
+To manage and process all of this data, Western Union are using the Hadoop open source framework on top of commodity hardware; a solution they’ve found to be much faster and more cost-effective than their previous data warehouses.
+If your money is going overseas, Western Union can check if you’ve ever sent money to this country before.
+
+Other Blogs by Artur Lapinsch: https://dataconomy.com/author/artur-lapinsch/

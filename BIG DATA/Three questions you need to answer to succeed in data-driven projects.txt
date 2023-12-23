@@ -1,0 +1,56 @@
+Title: Three questions you need to answer to succeed in data-driven projects
+
+Article Link: https://dataconomy.com/2018/10/23/three-questions-you-need-to-answer-to-succeed-in-data-driven-projects/
+
+Author: Igor Drobiazko
+
+Publish Date: 2018-10-23
+
+Article:
+The success of data-driven projects has quite a few challenges and barriers. Here is a look at how you could overcome them by simply asking yourself three questions.
+
+Data has become probably the most valuable asset that companies could have nowadays. It can give you insights into your customers’ behaviour and your business operations, drive sales and optimize delivery chains, predict product and service needs. The most exciting and promising technologies such as AI, the Internet of Things or blockchain are possible exactly thanks to the abundance of data. But does this mean that the availability of data is a guarantee for the success of a data-driven project?
+
+Unfortunately, some of the recent studies suggest that even with all that data floating around, the majority of projects still fail. In 2017, Gartner said that 60% of big data projects fail, but in his recent tweet, the Gartner-Analyst Nick Heudecker corrected this number, saying that back then Gartner was “too conservative” about it and the closing rate is around 85%. Another study from McKinsey revealed that companies have captured only about 10% – 40% of the value that is available in their data. Why is that?
+
+There are many barriers and challenges to successful data-driven projects. There is a need for a change in the organisation’s culture, unrealistic goals and expectations, lack of skilled professionals. But since we are talking about data, let us focus on the issues that surround particularly this matter. There are three critical questions that data scientists and data experts need to answer immediately after a viable proof of concept for a project has been identified.
+
+“Do I have the right data?”
+
+It is easy to assume that your company has enough data to embark on the project right away. After all, companies have been sitting on data for years, and now it is time to finally make sense of it. The problem that is often overlooked, though, is that this data might give you specific insights into past operations, failures and successes. However, if you train your algorithms with this historical data, they will merely find patterns that could have been applied to the scenarios in the past but are only sub-optimal or even completely irrelevant for the future.
+
+You need fresh data, preferably, real-time or near real-time. Or maybe you have identified an entirely new problem that you want to address with your project, for which there is no consistent dataset available yet. So, before you actually start a project, you need to identify the datasets you will need and how you can get them. Which brings us to the next question.
+
+“Do I know where this data is?”
+
+There is not a company that doesn’t have database/s. Many companies have additionally built data warehouses or maybe even started using data lakes. Surely, with these rich data pools, the data that you need is just there, at an arm’s length. Or is it really?
+
+As the recent Gartner paper “How to Avoid Data Lake Failures”, data lakes, for one, “are rarely started with a definite goal in mind, but rather with nebulous aspirations to ‚create a single version of the truth’ or to ‚democratize our data‘.” This can hardly be called a strategic goal. As Databricks’ CEO Ali Ghodsi eloquently put it in one interview: “Many of these companies have built these data lakes and stored a lot of data in them. But if you ask the companies how successful are you doing predictions on the data lake, you’re going to find lots and lots of struggle they’re having.”
+
+Besides, according to the same Gartner paper, the assumption that data lakes will be “the one destination for all the data in their enterprise” can be misleading because there are simply too many data sources.
+
+Data warehouses and databases are no better in this sense. Most of the times, they are created to address quite a concrete issue, so the data they store may or, most likely, may not be applicable to this specific AI or IoT project you are about to start.
+
+It might be, therefore, necessary to think more broadly and look for data residing outside the data warehouse or consider combining several databases. Maybe you even need to get data from third-party sources or from the company’s partner network. For example, in order to build a profile of a taxpayer’s total income to find irregularities and establish illegal activities, HMRC’s software system connect links data from multiple government and corporate sources.
+
+And that leads us to the next question.
+
+“How can I get all this data together?”
+
+No matter which research or study on why data-related projects fail you refer to, almost each of them is citing siloed data as one of the culprits. This is not surprising because big data comes in many shapes and from various sources – enterprise software applications, users’ mobile phones, IoT sensors, partners’ systems, social media streams…, the list is practically endless. Aggregating all these data sources in order to start reconciling the data and getting meaningful insights from it can be incredibly difficult.
+
+The problem necessarily does not lie in the lack of technology. There are numerous tools and software systems available on the market that can simplify and speed up data integration between the cloud and on-premise, in batches and in real-time, between data warehouses, software applications and IoT platforms – you name it. It is often the lack of understanding the critical role of data integration that poses the biggest challenge. After all, it is much easier to ensure funding for an AI pilot project – because AI is fancy and cool –, than securing budget to properly address the question of how to integrate data and application more efficiently.
+
+This is changing, albeit slowly. The recent report by Corinium Digital “The State of Data & Analytics in Europe” states that, while AI / machine learning and predictive analytics continue to secure the largest investments, they are closely followed by data integration with 78% of respondents saying that they are planning to invest £1-2 Million or more into it within the next months.
+
+And yet, however promising this sounds, these results rely on interviews with only 130 data and analytics practitioners in Europe. Many more organisations still fail to realize that, in order to get the full potential out of data and analytics, they need to ensure a solid foundation, which means making sure that they work with the right data, from every relevant source.
+
+Igor Drobiazko will be speaking at Data Natives 2018– the data-driven conference of the future, hosted in Dataconomy’s hometown of Berlin. On the 22nd & 23rd November, 110 speakers and 1,600 attendees will come together to explore the tech of tomorrow. As well as two days of inspiring talks, Data Natives will also bring informative workshops, satellite events, art installations and food to our data-driven community, promising an immersive experience in the tech of tomorrow.
+
+Summary: The success of data-driven projects has quite a few challenges and barriers.
+But does this mean that the availability of data is a guarantee for the success of a data-driven project?
+There are many barriers and challenges to successful data-driven projects.
+There are three critical questions that data scientists and data experts need to answer immediately after a viable proof of concept for a project has been identified.
+So, before you actually start a project, you need to identify the datasets you will need and how you can get them.
+
+Other Blogs by Igor Drobiazko: https://dataconomy.com/author/igor-drobiazko/

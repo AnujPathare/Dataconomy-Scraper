@@ -1,0 +1,60 @@
+Title: Five Careers to Consider for Data Enthusiasts
+
+Article Link: https://dataconomy.com/2018/06/20/five-careers-to-consider-for-data-enthusiasts/
+
+Author: Ryan Ayers
+
+Publish Date: 2018-06-20
+
+Article:
+Do you get excited every time you have to crunch numbers? Do you love knowing how many times people use their smartphones every day? Are you fascinated by how businesses use data to make decisions? If you do, then you might be ideally suited for a career where you could fully leverage this curiosity and aptitude for numbers.
+
+While being a Data Scientist might seem the most sought after profession in the world of data, It is not the only option. Here are five best career choices for data geeks:
+
+Data Scientist
+
+There are some compelling reasons to become a data scientist. First, it’s a field that is growing at an astonishing rate – IBM predicts that by 2020, the demand for data scientists will grow by 28%. That’s good news for job-seekers, especially since that kind of demand can bump up salaries—which are already into six figures. What do data scientists use? They harness large amounts of data to help businesses make strategic decisions.
+
+Data scientists work by starting with trying to solve a problem. This problem could be in different areas of the company. Some companies want to focus on streamlining their operations to save cash. Others want to find out what their customers want. Another common problem that data scientists can solve is stabilizing or updating future marketing projections.
+
+It’s the data scientist’s job to collect the relevant data (if it hasn’t been already), then clean up and structure that data so it can be used. After that, data scientists use tools like statistical models, algorithms, and deep learning to extract answers out of the data. At that point, it’s just a matter of communicating those results to the team. Data scientists have to be excellent analysts, programmers, and communicators, which is why the job typically requires a master’s degree or even higher qualification in some cases.
+
+Computer Scientist
+
+Computers run on data, so any job that involves rolling up your sleeves and working with machines behind the scenes is perfect for people who love data. Computer science is a large field that encompasses many different roles you can choose from. If you’re a true crime buff, you might like to consider a career as a computer forensics expert. Or, if you love games, possibly a video game developer. Software developers and security experts are in high demand, and most jobs in technology have median salaries over $100,000 annually. No matter what your interests are, there’s likely to be something for you in the field of computer science.
+
+Statistician
+
+For people who don’t love data, being a statistician probably sounds like the most boring job in the world. But for people who enjoy wrangling data, there’s nothing better. Statisticians can help solve the world’s biggest problems by working with scientists and agencies to collect and analyze data to find trends and provide answers to important questions. The range of topics could be quite diverse. Some examples of the projects statisticians would work on include determining the effectiveness of prescription drugs, estimating unemployment rates, or figuring out how many animals of an endangered species live in a given area. They design methods for data collection, then analyze that data for trends that can be used to solve problems.
+
+Database Administrator
+
+As data is now one of the world’s most precious resources, it’s important that we keep it safe and organized wherever it’s stored. Database administrators are an important line of defense for this task. They not only set up databases so they work consistently and efficiently, they are also responsible for maintenance, problem-solving and setting up security measures. It’s a challenging position which requires you to be available for long hours, but it can be very rewarding—that’s why it’s currently ranked #7 in Best Technology Jobs by US News.
+
+Accountant
+
+You may not have dreamt of being an accountant as a child, but if you’re good with numbers, it can be a satisfying and lucrative career. Accountants keep the books, track the financial health of a business or individual and maximize savings during tax season. Although accountants can work for businesses and individuals, this career path can lead to other jobs as well. Some accountants become Chief Financial Officers at companies, earning a median salary of $129,110. An accountant’s role is key to the financial viability of any company, ensuring that they allocate their money properly and keep everything above-board. Data lovers often enjoy accounting, as they realize that numbers too have the power to tell the story of a company or an individual.
+
+Conclusion
+
+From computer science to database administration to accounting, there will be a number of industries looking to hire data lovers. In fact, identifying and analyzing data has become so needed that skilled data scientists should be able to enter any industry that fits their interest, such as athletics or social media. So if you love data, now is the perfect time to take the next step and turn your hobby into a career.
+
+References:
+
+Bureau of Labor Statistics
+
+Forbes
+
+Maryville University Online
+
+Ohio University Online Master of Accountancy
+
+U.S. News & World Report
+
+Summary: Here are five best career choices for data geeks:Data ScientistThere are some compelling reasons to become a data scientist.
+First, it’s a field that is growing at an astonishing rate – IBM predicts that by 2020, the demand for data scientists will grow by 28%.
+It’s the data scientist’s job to collect the relevant data (if it hasn’t been already), then clean up and structure that data so it can be used.
+After that, data scientists use tools like statistical models, algorithms, and deep learning to extract answers out of the data.
+In fact, identifying and analyzing data has become so needed that skilled data scientists should be able to enter any industry that fits their interest, such as athletics or social media.
+
+Other Blogs by Ryan Ayers: https://dataconomy.com/author/ryan-ayers/

@@ -1,0 +1,54 @@
+Title: Protecting $50 billion in funds, DeFi security outfit Immunefi is a metaphor for all startups
+
+Article Link: https://dataconomy.com/2021/09/20/protecting-50-billion-immunefi-startups/
+
+Author: Stewart Rogers
+
+Publish Date: 2021-09-20
+
+Article:
+Decentralized finance – DeFi – has exploded over the last couple of years. And with any fast-moving new tech sector, some people will attempt to take advantage of the industry, which means DeFi security is a booming sector as we protect against an ever-increasing amount of hacks, breaches, and exploits.
+
+One startup – Immunefi – has gone from zero to protecting $50 billion in user funds within less than a year. A bug bounty platform, which offers significant rewards to anyone that can find a way to exploit blockchain and cryptocurrency projects, it has paid out over $5m in bounties so far. It is currently offering another $40m on behalf of its clients.
+
+That’s impressive, but the path to success hasn’t been easy.
+
+“I did not understand what I was getting into when I signed up for this.” Mitchell Amador, CEO at Immunefi, told me.
+
+Like many startups, Amador had a mission, a lot of passion, and a plan.
+
+“I knew that we were going to be able to help a lot of people with our work and that it was going to have a direct impact on the space,” Amador said. “I knew that it was going to be a major step for institutional players and for creating a more credible reflection for outsiders to appreciate the rise of cyber security specific to DeFi and crypto.”
+
+But also – like many startups – Amador had no idea of the sheer scale of what lay ahead or the complexity of the issue.
+
+“I did not foresee that we would get pulled into war rooms,” Amador said. “I’ve been in a few of them throughout the last few years, being an executive for other startups and blockchain projects. But now we’re getting called into them on the regular, and if you know anything about what running a cybersecurity war room is like, it is a long, drawn-out, high-pressure environment.”
+
+When someone, or a whole company, is thrown into these high-pressure environments, there are only two options; sink or swim.
+
+“Our way of dealing with the challenge was to say ‘well, we have to steal the money ourselves,'” Amador said. “We have to preemptively exploit our own contracts and then return the capital to the users in order to protect them because there is no other way to make sure that hackers will not rob users in the future without revealing the existence of the exploit. And then you need to be able to have the stamina to deal with that situation for up to 24 to 72 hours.”
+
+That’s a lot to deal with, but Amador kept a clear head, and his experience with other startups – which include helping to make Sophia the robot a worldwide sensation as CMO of SingularityNET and as the VP of Marketing at Steemit – came into play.
+
+“The first time you have to deal with such a situation – well, you don’t really deal with it,” Amador said. “You just kind of you know how to do what you’ve already experienced, tread water, and look for leadership; someone who has done all of this before, and who knows how to navigate a crisis.”
+
+As with all things in life, practice makes perfect.
+
+“You know, after you do that a few times and start to get used to it, you realize we’re just cyber-firefighters,” Amador said.
+
+These days, the Immunefi platform provides a scalable way for blockchain and DeFi projects to stay safe by offering bounties to those that can find vulnerabilities. Of course, those seeing these gaps in security are precisely the same people who would previously attempt to breach projects for personal gain. Still, with a high risk attached to that reward, “white hat” hacking is often a better, more lucrative, and safer path.
+
+And unlike corporations, malicious hackers don’t need to wait for a lengthy purchasing process, implementation timeframe, and key stakeholders to buy and use the latest technology. That creates an imbalance computing arms race, so having hackers on your side is a significant advantage.
+
+“In the white hat hacking community, as well as the startup community, you have smart people that are doing smart things,” Amador said. “The people best placed to help corporations are startups like us because we act as the middle people between the hackers and their systems.”
+
+Immunefi is an excellent example of approaching a complex issue cleverly and having a big enough incentive to mobilize the most competent people in the field. Cybersecurity will continue to be a hot topic for some time, especially in DeFi as it continues to skyrocket, and the blockchain community will need approaches like this to protect the billions in play.
+
+This article originally appeared on Grit Daily and is republished with permission.
+
+Summary: One startup – Immunefi – has gone from zero to protecting $50 billion in user funds within less than a year.
+Like many startups, Amador had a mission, a lot of passion, and a plan.
+“I’ve been in a few of them throughout the last few years, being an executive for other startups and blockchain projects.
+“The first time you have to deal with such a situation – well, you don’t really deal with it,” Amador said.
+These days, the Immunefi platform provides a scalable way for blockchain and DeFi projects to stay safe by offering bounties to those that can find vulnerabilities.
+
+Other Blogs by Stewart Rogers: https://dataconomy.com/author/stewart-rogers/

@@ -1,0 +1,50 @@
+Title: Aadhar data leak is one of the biggest breaches in the history of India
+
+Article Link: https://dataconomy.com/2023/10/31/aadhar-data-leak-biggest-history-india/
+
+Author: Onur Demirkol
+
+Publish Date: 2023-10-31
+
+Article:
+Multiple sources have confirmed that the Aadhar data leak is one of the biggest breaches in the history of India, as information of 815 million people was stolen from the Indian Council of Medical Research database.
+
+Personal information belonging to more than 815 million citizens has allegedly been leaked from the Indian Council of Medical Research (ICMR) in what experts term one of the most major data breaches in Indian history. This shocking finding, initially reported by Resecurity, an American cybersecurity and intelligence outfit, has sent shockwaves across the country’s digital environment.
+
+The purported breach, which has appeared in the internet’s underbelly, implicates a possible weakness that has generated widespread worries about data security and privacy.
+
+Aadhar data leak is a “cyber crisis”
+
+The breach came to light due to a discovery made by Resecurity. An anonymous ‘threat actor,’ designated as ‘pwn001,’ posted on the renowned Breach Forums—a forum known as a key hub for discussing data breaches and leaks, according to the cybersecurity firm. This article supposedly allowed access to a wealth of documents about an astounding 815 million Indians, throwing doubt on the scope of the disclosed data.
+
+NASCO data breach exposes 800k users
+
+While formal statements from ICMR or the government are yet to be released, reports suggest that the Central Bureau of Investigation (CBI) is poised to launch an inquiry after receiving a formal complaint from ICMR. To manage the fallout, high-ranking officials from various agencies and ministries have been mobilized. Additionally, a stringent Standard Operating Procedure (SOP) has been activated to mitigate the impact of this colossal breach.
+
+In a massive Aadhaar data breach, personal identifiable information of 81.5 crore Indians has been leaked on the dark web. This is not the first data breach. In June, personal details of ALL vaccinated Indians had been leaked. Why, PM @narendramodi, are citizens left exposed and… — All India Trinamool Congress (@AITCofficial) October 31, 2023
+
+Expert insights
+
+Sanjay Kaushik, the Managing Director of Netrika Consulting, stressed the urgency for businesses to bolster their security measures, Business Standard reported. He highlighted the severity of the recent incident, where the personal data of a massive 815 million Indians was compromised, emphasizing the immediate necessity for companies to enhance their protective measures.
+
+Resecurity’s findings disclosed a distressing event on October 9, where an individual using the alias “pwn0001” advertised on a darknet crime forum, offering access to 815 million records containing information on “Indian Citizen Aadhaar and Passport.” Shockingly, the entire Aadhaar and Indian passport dataset was available for $80,000 when Resecurity engaged with the seller.
+
+Previous breaches and systemic weakness
+
+The Aadhar data leak is not an isolated incident. Earlier this year, a threat actor known as “Lucius” advertised a sale of a 1.8 terabyte data leak related to an unnamed “Indian internal law enforcement organization.” In April 2022, an investigation by the Comptroller and Auditor General revealed that the Unique Identification Authority of India (UIDAI) had not effectively overseen its client vendors, leaving their data vaults vulnerable, as highlighted in a Brookings report.
+
+Gamesprite data breach revealed after 4 years
+
+According to Brookings Institution research, UIDAI has issued around 1.4 billion Aadhaar cards since its inception in 2009, making it one of the world’s largest biometric identification efforts. To protect data, Sanjay Kaushik underlined the critical importance of encryption, better access restrictions, and frequent security upgrades. He emphasized their critical role in developing a strong cybersecurity strategy to successfully tackle rising threats.
+
+The accessibility of personal information on the dark web, including Aadhaar and other crucial details of Indian individuals, creates a serious danger of digital identity theft. This sort of stolen data is frequently used by malicious actors for online banking fraud, tax refund frauds, and other cyber-financial crimes.
+
+Featured image credit: Arget/Unsplash
+
+Summary: Multiple sources have confirmed that the Aadhar data leak is one of the biggest breaches in the history of India, as information of 815 million people was stolen from the Indian Council of Medical Research database.
+Aadhar data leak is a “cyber crisis”The breach came to light due to a discovery made by Resecurity.
+This article supposedly allowed access to a wealth of documents about an astounding 815 million Indians, throwing doubt on the scope of the disclosed data.
+In a massive Aadhaar data breach, personal identifiable information of 81.5 crore Indians has been leaked on the dark web.
+Previous breaches and systemic weaknessThe Aadhar data leak is not an isolated incident.
+
+Other Blogs by Onur Demirkol: https://dataconomy.com/author/onurdemirkol/

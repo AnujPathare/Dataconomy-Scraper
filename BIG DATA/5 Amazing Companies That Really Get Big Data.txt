@@ -1,0 +1,72 @@
+Title: 5 Amazing Companies That Really Get Big Data
+
+Article Link: https://dataconomy.com/2015/03/20/5-amazing-companies-that-really-get-big-data/
+
+Author: Bernard Marr
+
+Publish Date: 2015-03-20
+
+Article:
+Here’s the second part of my roundup of companies that will be making waves in the big data world this year.
+
+Whereas in part one I focused on the giants of the industry, which have been around since the start, in this post I look at the newer names which have emerged on the scene more recently.
+
+Some are quickly growing into household names, and some are still only known to big data specialists – but the profiles of all of these companies are likely to rise this year.
+
+Palantir Technologies
+
+Palantir, named after magical stones in The Lord of The Rings used for spying, have made a name for themselves using big data to solve security problems ranging from fraud to terrorism. Their systems were developed with funding from the CIA and are widely used by the US Government and their security agencies. Palantir’s analytics technology is used for everything from detecting roadside bombs in Afghanistan to disrupting the international narcotics trade.
+
+Their revenue last year was around 418 million dollars, and they are forecasted to grow even larger this year – it is tipped to go public with an IPO and was recently valued at $15 billion.
+
+Uber
+
+Uber has turned the private hire world on its head – it is as hated by the cab drivers who feel it is stealing their revenue, as it is loved by tech-savvy urbanites needing to get around in a hurry.
+
+But they have plans to go even further this year – with founder Oliver Smith recently claiming that his technology could cut the number of cars on the roads of London by a third.
+
+The newly launched UberPool features cater to users who are interested in lowering their carbon footprint and fuel costs, as well as the convenience factor which has made it such a success.
+
+Uber’s business is built on data, with user data on both drivers and passengers fed into algorithms to find suitable and cost-effective matches, and set fare rates.
+
+Metamind
+
+Metamind creates natural language processing, image recognition and artificial intelligence software. Founder Richard Socher merged mathematics with language to create “deep learning” systems with potentially groundbreaking applications in industry and for consumers.
+
+Launched just last year after raising $8 million in funding, the technology is designed to make machines think and act more like people. For example, teach it what a flower looks like by showing it an image, and it should be able to recognise flowers when it sees another picture of them – allowing it to categorize the data accordingly.
+
+Internet giants like Google and Facebook are known to be putting a huge amount of effort into making interacting with computers more like interacting with humans, and tech like Metamind’s could be a big step forward.
+
+Flatiron Health
+
+Flatiron is putting Big Data to work in one of the most important battles facing doctors and scientists today – the fight against cancer.
+
+By automatically analyzing terabytes of data collected during the diagnosis and treatment of cancer patients, the company hopes its OncologyCloud will harvest insights from the 96% of available patient data which is not yet collected or processed.
+
+Last year it received $130 million in funding with the majority coming from Google and they recently acquired cloud-based medical records provider Altos Solutions. The plan is to use their technology to make their own data and insights available to as many healthcare professionals as possible.
+
+Affectiva
+
+Affectiva is another name you might not have heard of, but you might find yourself using (or creepily, and more likely, being used by…) its software in the near future!
+
+They create “emotional measurement technology” – generally based on facial-recognition – that allow photos and videos to be analyzed to determine the mood and feeling of the people featured.
+
+The technology can be used for judging the reaction of audiences to adverts, measuring the mood of people pictured interacting with a company’s brand or service, or judging the mood of the audience of a political debate. Coca Cola and Unilever have both used the Affdex software to carry out analysis, and the technology is likely to become more widely used in marketing and many other applications.
+
+As always, I am interested in your views on the topic. Are there other companies you would add? Please share your thoughts in the comments below. Also, here are my more general predictions of what 2015 will bring for Big Data.
+
+This post originally appeared on LinkedIn.
+
+Bernard Marr – the ‘Big Data Guru’ – is one of the world’s most highly respected voices anywhere when it comes to data in business. He is a highly acclaimed keynote speaker and advises companies and government organizations on how to use big data, analytics and metrics to improve strategic decision-making and boost company performance. His new book is: Big Data: Using Smart Big Data, Analytics and Metrics To Make Better Decisions and Improve Performance.
+
+
+
+Photo credit: COM SALUD / Foter / CC BY
+
+Summary: Here’s the second part of my roundup of companies that will be making waves in the big data world this year.
+Flatiron HealthFlatiron is putting Big Data to work in one of the most important battles facing doctors and scientists today – the fight against cancer.
+Also, here are my more general predictions of what 2015 will bring for Big Data.
+Bernard Marr – the ‘Big Data Guru’ – is one of the world’s most highly respected voices anywhere when it comes to data in business.
+His new book is: Big Data: Using Smart Big Data, Analytics and Metrics To Make Better Decisions and Improve Performance.
+
+Other Blogs by Bernard Marr: https://dataconomy.com/author/bernard-marr/

@@ -1,0 +1,66 @@
+Title: What is really driving public opinion? – The next level in data analytics
+
+Article Link: https://dataconomy.com/2017/07/12/public-opinion-data-analytics/
+
+Author: JP Kloppers
+
+Publish Date: 2017-07-12
+
+Article:
+Agility and reactivity. These are two words more likely now than ever to feature in a corporate strategy session. Today’s business landscape is, after all, highly dynamic: increasing competition, margin pressures and the threat of disruptive innovation all conspire to erode the market shares of the complacent.
+
+The public sector is changing as well, with electorates demanding ever-greater accountability and once-marginal, alternative viewpoints gaining global traction.
+
+This brave new world has left little room for the hulking, slow-to-change organisations of yesteryear. In their place are arising nimbler, leaner entities better able to understand a landscape of public opinion that is always in flux.
+
+Public opinion data deep dive
+
+Many organisations are starting to realise that developing insight into public opinion – understanding what consumers or the electorate really think – can hold the key to successful operational or strategic reboots. And it’s here that opinion mining can help.
+
+In broad terms, opinion mining is the science of using text analysis to understand public sentiment and the drivers behind it.
+
+Whereas pure sentiment analysis – a predecessor to the field of opinion mining – explores how people feel about a given subject (anything from a new product to piece of public policy), opinion mining takes this to the next level, examining the drivers behind why people feel as they do.
+
+All text is inherently minable. As such, while social media may be an obvious source of current opinion, web pages, online forums, reviews, survey responses and call centre transcripts can all prove useful when trying to understand public sentiment.
+
+A deeper level of data insight
+
+Within a business context, opinion data can be used to expose critical areas of strength and weakness, allowing executives to make the targeted, strategic overhauls needed to reinvigorate profitability or reclaim slipping market share. What do customers single out for praise? What do they complain about? Opinion data has the potential to reveal this at a fine-grained, topic-based level.
+
+Within the public sector, opinion data can be used to build strategies and campaigns that resonate with the electorate and are reactive to voters’ changing needs. By isolating the specific topics driving positive and negative sentiment, opinion mining allows for the development of an incredibly deep level of social insight – a window into how people really think and feel. This can apply to candidates, whole parties or pieces of proposed legislation – anything that gets people talking.
+
+Discovering detail, unlocking insight
+
+Detail is everything. For example, an organisation doesn’t only need to know that a new product has been singled out for criticism – it needs to understand the individual data points impacting the decision.
+
+Similarly, by analysing conversations taking place across social media and the web, and understanding what drives the opinion data that surrounds them, a retail bank might discover that of customers’ criticisms, queue length and waiting times feature most prominently.
+
+Or a fast food chain might be interested to know that relative to their closest competitor, many consider their portion size too small, though their friendly customer service is a plus.
+
+Yet it’s possible to delve deeper still. Keeping with the fast food chain example, the topic of customer service could be further broken down into the sub-categories of turnaround time, order correctness and delivery time. The business may have great in-store turnaround, but fail when it comes to deliveries. Knowing which issue to target – and why – is key.
+
+Granular information about users’ opinions can also shed light on their likely behaviour; this can be further parlayed into predictive models.
+
+Are algorithms enough?
+
+Pure machine processing is the typical approach to sentiment analysis. Myriad issues with data accuracy can arise, however, as people tend to express ideas and emotions in ways computers often struggle to understand.
+
+Among the issues that can confound machines is the variation in what a word can mean in different contexts and locations. Additional issues include sarcasm, the use of acronyms, figurative speech, misspellings, incorrect grammar, colloquialisms and slang. Humans also frequently use inference towork out the subject of a conversation. These complexities confound algorithms’ ability to make sense of digital chatter and correctly assign topics.
+
+Hi-tech? Try human
+
+There is a way to overcome algorithms’ shortcomings, however – integrating human insight into the analysis. Having recognised that machines alone are often unable to deliver reliable data, we can integrate human insights from local dialects, slang and modes of expression. Using this approach, one can radically improve the accuracy of opinion data.
+
+The result is not only granularity, but clarity and dependability – a reliable guide to public opinion and end-user experience. This detailed set of signposts can help organisations – be they commercial organisations, governments or research houses – reconfigure and reboot their operations, ensuring they’re able to react, respond and deliver based on what people really want.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: In their place are arising nimbler, leaner entities better able to understand a landscape of public opinion that is always in flux.
+Public opinion data deep diveMany organisations are starting to realise that developing insight into public opinion – understanding what consumers or the electorate really think – can hold the key to successful operational or strategic reboots.
+In broad terms, opinion mining is the science of using text analysis to understand public sentiment and the drivers behind it.
+Opinion data has the potential to reveal this at a fine-grained, topic-based level.
+The result is not only granularity, but clarity and dependability – a reliable guide to public opinion and end-user experience.
+
+Other Blogs by JP Kloppers: https://dataconomy.com/author/jp-kloppers/

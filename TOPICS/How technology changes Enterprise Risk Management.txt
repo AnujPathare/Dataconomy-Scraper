@@ -1,0 +1,88 @@
+Title: How technology changes Enterprise Risk Management?
+
+Article Link: https://dataconomy.com/2022/03/11/how-tech-changes-enterprise-risk-management/
+
+Author: Hasan Selman
+
+Publish Date: 2022-03-11
+
+Article:
+Enterprise Risk Management (ERM) refers to businesses’ techniques and procedures to manage hazards and seize opportunities to achieve their goals.
+
+ERM is an architecture for risk management that comprises five main elements: Continuity of operations, prevention and detection, response, mitigation, and recovery. It follows a structure based on identifying key events or circumstances connected to the organization’s goals (threats and opportunities), assessing their probability and consequence, determining a reaction strategy, and monitoring the process. Business organizations safeguard and create value for their stakeholders, including owners, employees, consumers, authorities, and society as a whole, by detecting and addressing risks and opportunities.
+
+What is Enterprise Risk Management (ERM)?
+
+Enterprise Risk Management (ERM) is a company-wide plan to identify and prepare for risks, especially those involving the company’s finances, operations, and goals. Managers can use ERM to define the overall risk posture of the firm by requiring certain business segments to engage or disengage with specific activities.
+
+Types of enterprise risks
+
+There are many different categories that companies must consider when managing their risk. The major enterprise risks are as follows:
+
+Financial risks
+
+All enterprise risks may have various costs or lost income, depending on the type. On the other hand, financial risk concerns money flowing in and out of your company and the chance for financial loss. For example, suppose a company grows overseas. In that case, fluctuating currency rates might expose it to a financial risk that should be considered, as they will influence the amount of money it receives. Businesses can’t achieve their goals without sound financial management. It is critical to anticipate economic risks, evaluate the consequences of those risks, and be prepared to react or prevent harmful scenarios.
+
+Strategic risks
+
+While day-to-day operations are crucial, managing long-term objectives is just as important. External risks, often known as strategic risks, are events or circumstances that, if they occurred, would be significant enough to alter the strategic course of a company, its future success, or failure. Every company is vulnerable to both positive and negative strategic developments.
+
+Compliance risks
+
+Industry laws, rules, policies, and best practices are in place by various government agencies to guarantee ethical business operations. Compliance with these standards is critical to ensure that organizations are not held liable for any damages or injuries caused by their products. Failure to do so can have significant financial and legal consequences, posing security threats to achieving business goals and running as a whole. While the legal systems in different nations might differ somewhat, they must generally balance one another and their conflicting interests. Today’s globally connected and fast-paced world, on the other hand, may generate new rules and regulations at any time.
+
+Operational risks
+
+Incidents or unexpected events may happen at any time, regardless of how well routine tasks are tested. Operational risk is defined as the potential for loss due to faulty internal processes, people, systems, and external events. Examples are catastrophic events such as global crises, IT systems failure, data breaches, fraud, personnel loss, and litigation. From a business perspective, determining what needs to be done on any day is complicated enough. When conflicts emerge, organizations must know the daily functions, processes, and systems vital to their operations to resolve them and maintain company stability.
+
+Reputational risks
+
+With their stakeholders, including investors, employees, and customers, every business has a reputation to preserve. Organizations’ decisions and instances where they are accountable might result in negative media coverage and negatively impact brand reputation. Reputational risk has grown increasingly severe in recent years, in part due to the growth of social media, which allows for almost instantaneous worldwide communications that make it more difficult for firms to manage how they are perceived. It is critical to understand the risks to reputation and deal with them.
+
+Health and safety risk
+
+Regardless of the sort of workplace, health and safety concerns may be presented in various ways. The first step is to identify hazards, such as physical, ergonomic, chemical, and biological dangers. Assessing the risks and putting appropriate protection measures in place to ensure that employees are safe and cared for physically and mentally are critical. The workplace’s health and safety policies are the most effective means of protection and dependability.
+
+Difference between Traditional and Enterprise Risk Management
+
+Traditional and Enterprise Risk Management are two methods for dealing with the risks. While they are based on similar approaches, there are several important yet subtle differences between them.
+
+The distinction between insurable and non-insurable risks is one of the most important differences between Traditional Risk Management (TRM) and Enterprise Risk Management (ERM). TRM focuses only on insured risks. ERM focuses on non-insurable risks such as war or data breaches. These are problems with the potential to be very costly, and no amount of money can compensate for them. ERM frameworks are designed to identify these possible hazards and select the best response strategy to prevent these types of scenarios from recurring.
+
+TRM is generally done after an event has occurred and is intended to prevent it from happening again. Enterprise Risk Management, on the other hand, focuses on the future and attempts to forecast potential events and circumstances that may or will happen. After this, a strategic approach is produced to reduce the risk of that occurrence in the first place, as well as how to deal with it if it does happen.
+
+Enterprise Risk Management frameworks
+
+There are many critical Enterprise Risk Management frameworks, each of which offers guidance on how to identify, assess, respond to, and monitor risks and opportunities both inside and outside the company’s internal and external environments. Risk responses for specific hazards determined and evaluated by risk management may include:
+
+Avoidance: Ceasing risk creating business activities
+
+Ceasing risk creating business activities Reduction: Taking steps to reduce the chance or impact of a risk
+
+Taking steps to reduce the chance or impact of a risk Alternative Actions: Considering alternative measures to reduce risks
+
+Considering alternative measures to reduce risks Share or Insure: Sharing or transferring a portion of the risk in order to finance it
+
+Sharing or transferring a portion of the risk in order to finance it Acceptance: No action against the risk because of a cost/benefit analysis
+
+There are many different Enterprise Risk Management frameworks and standards employing approaches in use today. The most popular of these are Casualty Actual Society (CAS), COSO ERM, ISO 31000, and RIMS Risk Maturity Model (RMM).
+
+How technology changes Enterprise Risk Management?
+
+The influence of information technology on various areas of our life, such as learning, marketing, business, entertainment, and politics, has been tremendous. Risk management is one of the domains that has been greatly impacted by this transformation since it is largely based on data. The IT allows companies to automate all of the steps from risk identification to monitoring. The new technologies that are being utilized, such as Big Data, analytics, mobile apps, cloud computing, enterprise resource planning (ERP), and governance risk management systems, are quite essential for risk management. These technical advancements provide opportunities for companies to further reduce their risks.
+
+The foundation of less sophisticated and less costly applications like office automation tools such as Microsoft Excel, PowerPoint, and SharePoint, which are used extensively in large, medium, and small companies for risk tracking and reporting reasons, is the first fundamental change brought about by information technology. There are several fundamental threat modeling techniques developed by well-known service providers such as Microsoft and additional programs like CORAS threat modeling.
+
+Many organizations actively scan social media postings for timely insights on customer service, product quality, and service delivery. Social media content that is widely and immediately accessible gives important insights into customers’ opinions on the firm’s goods and services, allowing organizations to avoid reputation harm by providing management solutions that may be used to address service and product quality concerns quickly before they can do significant reputational damage.
+
+Many organizations already have massive databases, and many IT departments are actively engaged in connecting these with existing applications to gain even more value from their IT investments. Many databases include risk data points that can be mined, or absorbed by more powerful computing platforms to offer even greater organizational value over time. To help execute such efforts, CIOs now employ electronic data warehouses (EDWs), Big Data, business intelligence (BI) applications, and information analytical technologies.
+
+Organizations may also benefit from data mining techniques to forecast component or equipment failure, identify fraud, and even estimate company profits through the use of data analytics. Prediction is the process of analyzing trends, classifying objects, pattern matching, and relating events. You may make a prediction about an event by looking at past occurrences or situations.
+
+Summary: The major enterprise risks are as follows:Financial risksAll enterprise risks may have various costs or lost income, depending on the type.
+Difference between Traditional and Enterprise Risk ManagementTraditional and Enterprise Risk Management are two methods for dealing with the risks.
+The distinction between insurable and non-insurable risks is one of the most important differences between Traditional Risk Management (TRM) and Enterprise Risk Management (ERM).
+Enterprise Risk Management frameworksThere are many critical Enterprise Risk Management frameworks, each of which offers guidance on how to identify, assess, respond to, and monitor risks and opportunities both inside and outside the company’s internal and external environments.
+How technology changes Enterprise Risk Management?
+
+Other Blogs by Hasan Selman: https://dataconomy.com/author/hasan-selman/

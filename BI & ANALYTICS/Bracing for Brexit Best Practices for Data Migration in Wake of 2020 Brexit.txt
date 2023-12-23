@@ -1,0 +1,52 @@
+Title: Bracing for Brexit: Best Practices for Data Migration in Wake of 2020 Brexit
+
+Article Link: https://dataconomy.com/2020/02/04/bracing-for-brexit-best-practices-for-data-migration-in-wake-of-2020-brexit/
+
+Author: James Clifford
+
+Publish Date: 2020-02-04
+
+Article:
+Will there be any data-transfer or migration complications post-Brexit? If yes, here is how you could avoid them.
+
+Since 2016, the United Kingdom and the European Union have braced for the looming Brexit, or the British exit from the EU. Departure deadlines have been set and extensions have been made to grant more time to sort out the many important details. The final major decision on the Brexit deal was overwhelmingly approved by the European Parliament on Jan. 29, and the United Kingdom officially left the EU – after 47 years of membership – on Jan. 31. This end of an era was met with mixed emotions – both joy and sorrow, and a sense of finality. Still, much uncertainty remains about how the U.K. and EU will function in a post-Brexit world.
+
+The approved deal stipulates that the U.K. will remain within the EU’s economic arrangement for a transitional period, ending Dec. 31, 2020, though it won’t have a say in policy during the transition, as it will no longer be a member of the EU. Much remains to be negotiated about how to cooperate in the future, once the transition period expires. Britain is seeking to work out a comprehensive trade deal before the end of the year, but many in the EU view this as too ambitious of a timeline and fears remain that there will still be a chaotic exit, from an economic standpoint, if a trade agreement isn’t met in time.
+
+While there is the possibility of another extension, if the transitional period expires without a trade deal in place, the U.K. will still be looking at the complications of a no-deal Brexit. It could lead to a host of disruptions with the cross-border transfer of goods and services, including data that is critical to the operation of many businesses. Currently, the U.K. falls under the EU’s General Data Protection Regulation (GDPR). If a no-deal Brexit transpires, the U.K. will become a “third country” and this regulation will no longer apply. The U.K. government is working to put safeguards in place and plans to incorporate GDPR into its data protection law to mitigate disruption once Brexit occurs. But this process will take time and requires that the EU recognize the new U.K. data laws as sufficient. And so, the possibility remains for data-transfer complications to arise post-Brexit.
+
+When facing such uncertainty, it’s critical for organisations impacted by Brexit to evaluate where they house their data. For organisations looking to relocate their data centres altogether, there are several steps they can take to ensure the data migration process is as smooth as possible.
+
+Decide What Data to Move
+
+First, it’s imperative to establish consensus among your organisation’s key stakeholders about what data needs to be moved and to which destination. Migrating data could present an ideal opportunity to evaluate the amount of archived data your company is storing and determine what to keep and what to discard.
+
+Solicit input from your IT department or IT service provider. Their feedback can prove invaluable for effectively planning the move and prioritizing data files. They may be able to help provide visibility into how your data is accessed and used, and help your company eliminate excess files to free up valuable infrastructure space.
+
+Analyze Your Environment and Requirements
+
+Next, it’s important that your company is acutely aware of the current Source environment and space requirements to appropriately house its data. This will inform which destination environment will best serve your company, and whether you should select cloud-based or on-premises services. Conduct a thorough head count of all users and their accounts to determine the number of licenses your migration will require. Also, determine the security requirements of your organisation and what measures must be taken to maintain regulatory compliance throughout the process.
+
+Prepare for the Move
+
+Smooth migrations require effective planning. Identify which data files will be moved and when. Communicate the timeline to those who will be impacted by the migration or involved in the migration process. This will help appropriately set expectations for how long the process will take to complete, as well as prepare employees for the inevitable associated downtime. The size of your company and the number of seats that need to be migrated will impact the duration of the migration, as well as any downtime experienced.
+
+Test and Configure
+
+As any IT professional knows, a successful migration requires testing be conducted early and often. Prior to the actual migration, start small and test a single instance to identify any errors early in the process. This will allow you to proactively eliminate these errors and adjust your approach, mitigating unnecessary disruption.
+
+No matter how smoothly things go or how confident you are in your preparation, budget time for post-migration testing and configuration, as reconfiguration will likely be required. This will allow you to make sure everything is accounted for in the destination, all user accounts are appropriately configured, and any errors related to system integration are addressed.
+
+Establish Documentation
+
+Reliable documentation is integral to any migration project. When all else fails, documentation can serve as your saving grace. It can provide a pathway back to the source of any complications to help troubleshoot issues, while also ensuring your business is adhering to compliance standards. For every step of your migration, make sure documentation is produced to guide your way toward a successful deployment. Should you run into any issues, make sure that communication channels are open with the helpdesk and other support professionals who will be on the front line with frustrated users.
+
+Dealing with the uncertainty of Brexit isn’t easy, but steps can be taken to ensure your organisation will emerge as unaffected as possible. Careful planning and due diligence will go a long way toward safeguarding your organisation from disruption due to restricted data flow. By being proactive, you’ll be doing your part to protect the health of your business and set your company up for success.
+
+Summary: Will there be any data-transfer or migration complications post-Brexit?
+But this process will take time and requires that the EU recognize the new U.K. data laws as sufficient.
+When facing such uncertainty, it’s critical for organisations impacted by Brexit to evaluate where they house their data.
+For organisations looking to relocate their data centres altogether, there are several steps they can take to ensure the data migration process is as smooth as possible.
+Communicate the timeline to those who will be impacted by the migration or involved in the migration process.
+
+Other Blogs by James Clifford: https://dataconomy.com/author/james-clifford/

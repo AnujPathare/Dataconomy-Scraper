@@ -1,0 +1,40 @@
+Title: To Avoid Cyberattacks, You Must Clean Your Data. Here’s Why.
+
+Article Link: https://dataconomy.com/2018/05/29/to-avoid-cyberattacks-you-must-clean-your-data-heres-why/
+
+Author: Matthew Davis
+
+Publish Date: 2018-05-29
+
+Article:
+How clean is your data? If you don’t already know the answer to that question, you might be in some trouble – especially if you become the target of a cyberattack.
+
+While 2018 hasn’t seen any cyberattacks on the level of WannaCry just yet, the year is still young. I don’t doubt that before we reach 2019, we’ll be hit by something that tops everything else. It’s as inevitable as the tides.
+
+See, the problem is that as we bring more of our infrastructure online and our businesses rely more on digital technology, we grow infinitely more vulnerable to the machinations of criminals. As the payoff for a successful hack becomes bigger and bigger, hackers and their tools become more advanced. That’s the bad news.
+
+The good news is that all but the most sophisticated attacks and breaches can be prevented through the simple application of digital hygiene. Here’s how:
+
+Know your data. Where is your most sensitive, most critical data located? Who has access to it, and how is that access regulated and controlled? How and where do the people with access to that data use and share it? What measures do you have in place to prevent unauthorized access to that data (ie. a file repository that allows you to rescind access to a file after it’s downloaded)?
+
+Patch frequently. Many of the highest-profile ransomware epidemics and hacks have one thing in common: they exploited known vulnerabilities – security holes which, in some cases, have existed for years. While “zero day” exploits are certainly still a threat, it’s known vulnerabilities that are your biggest concern. Keep every application, platform and tool you use completely up to date. Stay abreast of the latest patches, and apply them as soon as you possibly can.
+
+Harden user applications. Containerize corporate applications so that they aren’t put at risk by data leakage from consumer apps. Monitor how employees use the applications they’re provided, and take measures to mitigate risky behavior like installing unsafe apps or accessing unsecured links.
+
+Promote good passwords. Most people don’t really practice anything resembling password discipline. They use the same passwords for multiple accounts, they fail to consider password length or what characters they use in their passwords. You need to mandate password practices that toe the line between security and usability .
+
+Manage your authentication. Alternatively, instead of passwords you might want to shift away from passwords altogether, and rely on something a bit more ironclad like device-based, behavioral or biometric authentication.
+
+Review your risks. Last but certainly not least, you should regularly take a step back to examine your business’s risk profile. What data and systems are at the highest risk of being hit, and what are you doing to protect them?
+
+It’s always surprising to me how frequently cybercriminals rely on simple, easily-patched vulnerabilities to target their victims. By practicing good digital hygiene – especially with your data – you can protect yourself from the lion’s share of digital threats. And for all the rest, you’ll be well-equipped to respond.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Summary: While 2018 hasn’t seen any cyberattacks on the level of WannaCry just yet, the year is still young.
+Containerize corporate applications so that they aren’t put at risk by data leakage from consumer apps.
+Promote good passwords.
+What data and systems are at the highest risk of being hit, and what are you doing to protect them?
+By practicing good digital hygiene – especially with your data – you can protect yourself from the lion’s share of digital threats.
+
+Other Blogs by Matthew Davis: https://dataconomy.com/author/matthew-davis/

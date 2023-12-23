@@ -1,0 +1,56 @@
+Title: Steering Big Data Projects in the Modern Enterprise
+
+Article Link: https://dataconomy.com/2017/08/14/big-data-modern-enterprise/
+
+Author: Valentyn Kropov
+
+Publish Date: 2017-08-14
+
+Article:
+Just a few years ago, enterprise organizations had to be convinced that Big Data was a real-world opportunity worth investing in. By 2016, 63% of those enterprise leaders were saying they considered Big Data and advanced analytics initiatives a necessity in order to remain competitive. This year started with even bigger spike in number of new Big Data projects announced by top players like Hortonworks and MapR as well as a set of new technologies coming out to market, including Cloudera Kudu – a new tool designed to offer enterprise-level reliability while keeping NoSQL-like performance.
+
+Big Data has come a long way in a short amount of time, and it shows no signs of slowing down, so it’s up to today’s business leaders to determine how they can leverage Big Data trends in an enterprise environment. Though this is not an easy undertaking, the start of every new project can be broken into three parts: an initial assessment, choosing a plan of attack, and determining specific and achievable goals.
+
+Assessing Your Big Data Standing
+
+When you start going to the gym, a personal trainer can estimate your fitness level in order to suggest the right program for your needs. The same holds true in the world of Big Data; it makes sense to evaluate, on a high-level, the current data and decision-making maturity level of your organization before investing more resources into new initiatives.
+
+The Big Data Maturity Model presented by my colleagues Serge Haziyev and Iurii Milovanov explores five levels of data, starting with a company that is already paperless but still suffering from a huge amount of manual data processing, including ad-hoc ETL jobs and Excel reports, to a “wisdom level” where decisions are being made automatically with limited supervision. It’s essential to understand where you are to determine where you’re going.
+
+Once you figured out Big Data maturity level of your organization, it is now the right time to look further into the details and figure out the best plan for your organization for moving forward. Whether you are still in the process of integrating Big Data practices into your organization or have taken a fragmented approach to making Big Data and analytics a part of your business intelligence program, there are two different courses to consider when deciding what would work best to achieve your objectives: a top-down or bottom-up approach.
+
+Top-Down Approach
+
+The true benefit to Big Data programs is what you are able to do with this vast amount of data. Organizations who do not have the resources or the proper skill sets can find themselves unable to fully utilize the immense value held within their data, even if it is properly stored. In this case, you can take a top-down approach within your organization by starting with an “ideation and discovery” framework.
+
+Ideation brings together all of the stakeholders and allows them to generate any ideas that introduce new scenarios into the organization’s data or business data workflow. Anything contributed during this session should alleviate a data user’s pain point and make it easier for them to manipulate data and add meaningful value to the business.
+
+Once you’ve gathered the most innovative and beneficial concepts that could support your organization, then you should move on to the discovery phase. The discovery phase is meant to help you explore what business value lies behind each idea and truly assess the feasibility of implementing it in your environment. Assessing this feasibility also includes examining if you have any gaps in your current infrastructure, identifying key data sources, or and uncovering other key components required for taking your concepts from the ideation phase into action. When all stakeholders have agreed on a plan of action that derives the most business value, then you can proceed with validating, implementing, and deploying it, securing additional resources as necessary to maximize your skill sets.
+
+Bottom-Up Approach
+
+After looking at your organization, you may decide that your Big Data systems are more in need of a refresh instead of an entire overhaul. This is when starting with the foundation, or a bottom-up approach, is most favorable. A bottom-up approach is especially useful for enterprise companies that have an extensive stack of existing technologies, vendor relationships, and ongoing projects. It is crucial to make sure any new Big Data program is in agreement with existing projects and initiatives.
+
+Big Data stakeholders taking a bottom-up approach should start by making an assessment of their legacy solutions and the practices that they’d like to improve and optimize. Elements of the top-down approach can be incorporated here, but the core focus is on the systems already in place, as opposed to creating new systems to solve the challenge of deriving value from Big Data. The key difference between the bottom-up and top-down approaches is that with this foundational approach the focus is on systems and functions while the top-down approach focuses on users and their respective skill sets.
+
+Regardless of the approach you take when looking at your Big Data systems, it is imperative to have a program in place to ensure that you are retaining the maximum value from the incredible amount of data that you secure to keep pace with the production of today’s emerging technologies. With machine learning, Artificial Intelligence, and data science all making tremendous progress in terms of market adoption, your organization must have a plan in place to process the data you have today and prepare you for tomorrow. If you do not currently have the proper skill set employed to implement the systems you need, I’d strongly consider bringing in a third party that can both assist with the ideation and discovery phase and also help implement the solutions needed.
+
+Setting Big Data Project Goals
+
+Once you’ve analyzed the maturity level of your organization and initiated a bottom-up or top-down approach to understand your current Big Data needs and possible solutions, it is now time to get your Big Data project started. At SoftServe, we’ve determined most projects fail because of improperly defined expectations, so setting the right Big Data goals is an essential step early on in the process.
+
+Big Data projects typically utilize modern technologies that require innovative approaches, and this also extends to the organization of Big Data projects themselves. The most common mistake in setting Big Data project goals is trying to pursue only one of the benefits of Big Data systems by sacrificing the rest, e.g. performance is sometimes considered to be the most important requirement while things like security or data backups are significantly out of scope. This could potentially lead to the failure of the whole project.
+
+Regardless of the level of maturity your company is at now, both top-down and bottom-up Big Data approaches could provide a comprehensive view of your data processing needs and offer great support during the creation of a Big Data project roadmap. And given the fact that more and more enterprises are leveraging Big Data and advanced analytics in their daily operations, investing in projects that will push an organization to the next level of Big Data maturity could be one of the smartest decisions today’s business leaders make and potentially result in a massive competitive advantage in the marketplace.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Just a few years ago, enterprise organizations had to be convinced that Big Data was a real-world opportunity worth investing in.
+By 2016, 63% of those enterprise leaders were saying they considered Big Data and advanced analytics initiatives a necessity in order to remain competitive.
+Big Data has come a long way in a short amount of time, and it shows no signs of slowing down, so it’s up to today’s business leaders to determine how they can leverage Big Data trends in an enterprise environment.
+Big Data projects typically utilize modern technologies that require innovative approaches, and this also extends to the organization of Big Data projects themselves.
+The most common mistake in setting Big Data project goals is trying to pursue only one of the benefits of Big Data systems by sacrificing the rest, e.g.
+
+Other Blogs by Valentyn Kropov: https://dataconomy.com/author/valentyn-kropov/

@@ -1,0 +1,36 @@
+Title: GE, Cisco Orchestrate Plans to Provide Big Data Services to the Enterprise
+
+Article Link: https://dataconomy.com/2014/12/16/ge-cisco-orchestrate-plans-to-provide-big-data-services-to-the-enterprise/
+
+Author: Eileen McNulty
+
+Publish Date: 2014-12-16
+
+Article:
+Last week we saw Cisco reveal the Cisco Connected Analytics for the Internet of Everything portfolio – a comprehensive data and analytics strategy and solutions portfolio.
+
+Retailers and event organizers, two target customers of CISCO’s analytic services, will be able to glean valuable data from the rapidly expanding ecosystem of connected people, processes, data and things that together forms the Internet of Everything (IoE).
+
+“It’s the one piece we were missing,” Chambers told the Wall Street Journal.
+
+However, even before CISCO, GE has been running its Industrial Internet program since the last four years ago, generating $1 billion in incremental revenue ‘annually from the predictive maintenance and equipment optimization services made possible by its Big Data analytics technology,’ Fortune reports.
+
+Previously, GE’s program was overlooking sectors like aviation, power generation, health care, railroads, and oil and gas exploration, but now it intends to bring together ‘a network of business partners that can bring the same capabilities to other sectors.’
+
+While talking to The New York Times GE executive William Ruh said “We have a generic capability for insight and optimization here. [The potential market is] any business with a piece of equipment you are trying to optimize.”
+
+Read more here.
+
+Follow @DataconomyMedia
+
+
+
+(Image credit: Cisco)
+
+Summary: Last week we saw Cisco reveal the Cisco Connected Analytics for the Internet of Everything portfolio – a comprehensive data and analytics strategy and solutions portfolio.
+Retailers and event organizers, two target customers of CISCO’s analytic services, will be able to glean valuable data from the rapidly expanding ecosystem of connected people, processes, data and things that together forms the Internet of Everything (IoE).
+“It’s the one piece we were missing,” Chambers told the Wall Street Journal.
+However, even before CISCO, GE has been running its Industrial Internet program since the last four years ago, generating $1 billion in incremental revenue ‘annually from the predictive maintenance and equipment optimization services made possible by its Big Data analytics technology,’ Fortune reports.
+[The potential market is] any business with a piece of equipment you are trying to optimize.”Read more here.
+
+Other Blogs by Eileen McNulty: https://dataconomy.com/author/eileen-mcnulty/

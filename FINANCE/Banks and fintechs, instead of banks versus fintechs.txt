@@ -1,0 +1,60 @@
+Title: Banks and fintechs, instead of banks versus fintechs
+
+Article Link: https://dataconomy.com/2017/04/21/banks-fintechs-collab-creamfinance/
+
+Author: Juan Salazar
+
+Publish Date: 2017-04-21
+
+Article:
+In 2016, global market uncertainty seemed to make investors somewhat more cautious, thanks to the results of the votes in the UK and the USA. However, fintech’s stellar run did not come to a halt. According to the February report by KPMG, venture capital investment in the space rose 7%, totalling $13.6 billion. Overall investment in fintechs hit $24.7B, thanks to evolving technologies, and the success of companies focusing strongly on providing outstanding user experiences.
+
+The only one among all regions, Europe saw its fintech venture investment grow in volume. It grew from 230 financings in 2015 to 242 in 2016. While 2016 almost amounted to a “golden age” for attracting venture capital investment, 2017 is expected to be even more impressive. This time, however, the focus lies in cooperation. Traditional banks, financial institutions and insurance companies seem to recognize the importance of being efficient and customer focused. However, more often than not, these institutions lack the knack for UX and innovative design that fintech thrives on. Many of these ‘traditional’ institutions have realized they cannot make this transition alone. Instead, they have started partnering with fintechs in order to advance their own capabilities.
+
+The desire to innovate versus the ability to do so
+
+Banks are highly regulated and usually unable to offer fast, customer-oriented service. But banks have been the backbone of modern economies and count with large sales and customer service forces. Fintechs, on the other hand, are flexible and generally successful at focusing on specific segments with unmet needs. Most banks see AI & machine learning as a way to to reduce costs. They are targeting promising fintech companies as a means to expand globally.
+
+Case in point: Santander doubled investment in its fintech fund. Goldman Sachs invested in startups ranging from financial product comparison platforms to commercial real-estate investment startups. Creamfinance, a European alternative lender, has recently managed to snap an impressive €21M investment from the third biggest South African bank. Once ranked as the fastest growing fintech in Europe, the company capitalizes on machine learning and advanced smart data algorithms to evaluate and score personal loan applications in an individualized manner.
+
+The early bird gets the worm
+
+Matiss Ansviesulis, co-founder & CEO of the Poland-based Latvian company, announced that the recently concluded €21 million deal was part of a series B financing with Capitec Bank Holdings Limited. This sizeable investment in just one company serves as a sort of confirmation of KPMG’s prediction that slower funding in the online lending space could be a sign of market consolidation. A select group of companies is already emerging as winners.
+
+“Given their expansion and focus on operational excellence, Creamfinance has emerged as a leading personal finance provider in Europe.” said Gerrie Fourie, CEO of Capitec. “We are impressed by Creamfinance’s focus on Smart Data scoring. Their business model was developed in such a way that new countries can be entered swiftly and efficiently. This requires limited investment in local infrastructure”.
+
+Using the power of fintechs to go global
+
+The motivation behind the bank’s investment becomes a little more evident. Creamfinance’s business model is a very attractive one. Besides, the long-term interests of both companies converge in a very simple point: Capitec wants to integrate cutting-edge financial technology in its worldwide operations. The biggest incentive for banks to join forces with their more agile counterparts is getting to test different solutions quickly and cost-effectively. This, in turn, accelerates market entry throughout the whole process – from idea to execution.
+
+“We believe that Creamfinance will provide Capitec’s management the opportunity to gain experience in entering and operating in foreign countries. Specifically, in advancing credit in the international and online environment and to work with a foreign partner to manage an international business,” Capitec said.
+
+Creamfinance anticipates that the investment will allow the company to expand faster. This will facilitate their global mission to make finance more accessible.
+
+“We are excited about this investment from a leading bank that emphasizes technology and operational efficiency, and that acknowledges our ability to scale fast”, said Matiss Ansviesulis. “This investment also marks a potential new beginning in fintech and banks cooperation, especially since so many hold opposing views“
+
+Banks and fintechs, instead of Banks versus fintechs
+
+Ansviesulis’ point is but a clear sign of the current climate in fintech. The most important implication of the Capitec investment in Creamfinance for financial service providers and consumers is that it attests to the growing momentum that bank-fintech cooperation is gaining, after years of perceived rivalry.
+
+Working with startups positions banks as more innovative. Such partnerships create value for banks as the solution is often designed around model innovation and operational excellence. For startups, the union brings stability and financial backing. It’s rather a win-win partnership where both sides add value. Collaboration in Europe has seen many different iterations. We’ve read constant news about new fintech accelerators, the acquisitions of promising companies, and direct investments in startups through corporate funds. “There’s a lot of potential for even more significant changes”, Ansviesulis says. “Building effective partnerships between banks and fintechs will create a new, re-invented digital future”.
+
+We can expect this digital future to reach us sooner rather than later. The ongoing trend of banks and fintechs instead of banks versus fintechs has already started yielding results for adopters. As Business Insider reports, 54% of incumbents in the UK reported increasing revenues and decreasing costs. They also reported an overall boost to their brand after forming partnerships with fintechs. Research by Finextra shows similar sentiment rising in the Nordics. There, 74% of banks have set their sights on collaborating with fintechs in 2017. The possibilities for innovation seem endless. The majority of interviewees for the 2017 Fintech Disruptors report agree that this phase of increased collaboration is creating a “virtuous circle of technology adoption.” This will increase profits and help define new technology standards.
+
+The outcome will be a win-win-win
+
+In the end, the biggest winner is the consumer. Further collaboration will bring forth better, faster, simpler, user-centric service. This will offer consumers new possibilities to improve the way they approach personal finance.
+
+Fintechs seeking investment could learn a thing or two from Creamfinance and other bank-friendly startups. For banks and fintechs, cooperating instead of disrupting each other’s business seemed unfathomable a few years ago. Now, it increasingly looks like a match made in heaven.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Traditional banks, financial institutions and insurance companies seem to recognize the importance of being efficient and customer focused.
+Goldman Sachs invested in startups ranging from financial product comparison platforms to commercial real-estate investment startups.
+Using the power of fintechs to go globalThe motivation behind the bank’s investment becomes a little more evident.
+The ongoing trend of banks and fintechs instead of banks versus fintechs has already started yielding results for adopters.
+For banks and fintechs, cooperating instead of disrupting each other’s business seemed unfathomable a few years ago.
+
+Other Blogs by Juan Salazar: https://dataconomy.com/author/juan-salazar/

@@ -1,0 +1,40 @@
+Title: UK Political Parties Tap into Big Data Analytics in the Elections Race
+
+Article Link: https://dataconomy.com/2015/01/20/uk-political-parties-tap-into-big-data-analytics-in-the-elections-race/
+
+Author: Eileen McNulty
+
+Publish Date: 2015-01-20
+
+Article:
+Big Data and Information Analytics have permeated innumerable fields and providing valuable insight to data miners as required. The UK’s electoral system isn’t lagging behind.
+
+Proclaimed to be UK’s “first truly data-driven election,” the upcoming decider will see various political parties gathering election relevant data on key voters across the country; “from house type to shopping habits and credit quality,” according to a report by Sky News yesterday.
+
+The MP for Wirral South, British Labour Party member, Alison McGovern vouches for the trend and her own victory back in 2010 : “We had a small dedicated bunch of volunteers who went out and talked to people about what they were really interested in.”
+
+“And we used data to make sure that we were able to win, even though the local Tories certainly thought that we couldn’t – and it was a victory against the odds,” she added.
+
+Listing out the arsenal:
+
+Supporters have created Contact Creator and Voter ID, two tools used by the Labour Party Merlin is the Conservatives’ database provided by EMC Consulting, and contained 200 million records – even at the last election The Liberal Democrats use a system called Connect
+
+A lot has not been revealed about the tools and strategies that ensue owing to their methods of utilization, but it is evident that it does affect the unfolding of modern politics.
+
+Indian Prime Minister Narendra Modi harnessed the power of big data analytics last year to secure his victory. He’s also been using similarly advanced analytics to mine the opinions and ideas of his electorate on the yougov.in platform, using analytics to not just secure his seat in power, but to make the most of his democratic autonomy.
+
+Read Sky News’ full report on big data on the UK campaign trail here.
+
+Follow @DataconomyMedia
+
+
+
+(Image credit: Yes Scotland, via Flickr)
+
+Summary: Big Data and Information Analytics have permeated innumerable fields and providing valuable insight to data miners as required.
+The UK’s electoral system isn’t lagging behind.
+Indian Prime Minister Narendra Modi harnessed the power of big data analytics last year to secure his victory.
+He’s also been using similarly advanced analytics to mine the opinions and ideas of his electorate on the yougov.in platform, using analytics to not just secure his seat in power, but to make the most of his democratic autonomy.
+Read Sky News’ full report on big data on the UK campaign trail here.
+
+Other Blogs by Eileen McNulty: https://dataconomy.com/author/eileen-mcnulty/

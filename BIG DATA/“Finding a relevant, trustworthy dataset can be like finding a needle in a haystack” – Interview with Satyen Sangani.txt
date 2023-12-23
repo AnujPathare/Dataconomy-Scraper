@@ -1,0 +1,50 @@
+Title: “Finding a relevant, trustworthy dataset can be like finding a needle in a haystack” – Interview with Satyen Sangani
+
+Article Link: https://dataconomy.com/2016/09/19/satyen-sangani-alation/
+
+Author: Juan Salazar
+
+Publish Date: 2016-09-19
+
+Article:
+Satyen is the CEO of Alation. Before Alation, Satyen spent nearly a decade at Oracle, ultimately running the Financial Services Warehousing and Performance Management business where he helped customers get insights out of their systems. Prior to Oracle, Satyen was an Associate with the Texas Pacific Group and an Analyst with Morgan Stanley & Co. Satyen holds a Masters from the University of Oxford and a Bachelors from Columbia College, both in Economics.
+
+Dataconomy: What is a data catalog?
+
+Satyen: Much like Amazon helps users buy the right product, a data catalog helps people get the right data. A good data catalog provides rich information on all data within an organization, so members can find a relevant data set, understand what it means and where it came from, trust that it’s accurate and up-to-date, and then put it to use. A modern data catalog will leverage powerful technologies—like crawling and indexing, query log parsing, artificial intelligence, machine learning, and natural language processing—appropriately combined with crowd-sourcing and expert-input, to achieve both broad coverage and high quality of data knowledge. In addition to describing the data, it will also show how it’s been used in the past and ought to be used in the future.
+
+Dataconomy: Who uses a data catalog?
+
+Satyen: Data catalogs are used by data consumers (i.e. people who use data to make reports, models, analyses, products, or decisions) including data analysts, data scientists, statisticians, marketers, product managers, salespeople, customer support personnel, finance and operations workers, and even executives. By making data more searchable and consumable, a data catalog can broaden the data audience and make an organization more data-driven across the board.
+
+Data curators and creators also play a role in populating and enriching the data catalog. A modern data catalog will automatically fill in lots of information, freeing humans to add differentiated value.
+
+Dataconomy: Why do today’s data consumers need a data catalog? What’s its value?
+
+Satyen: Today, organizations have more data than ever, so finding a relevant, trustworthy dataset can be like finding a needle in a haystack. And often, many different datasets look similar, so it’s very challenging to determine which is accurate and up-to-date. Data catalogs save data consumers time and help them deliver accurate analyses. This increases organizational trust in data and yields smarter decisions.
+
+Dataconomy: What made you get into this market and why now?
+
+Satyen: In the 90s, the internet was growing faster than Yahoo! could taxonomize it; then Google came along and indexed the web intelligently (leveraging implicit human signals with PageRank) so everyone could actually find useful information.
+
+We saw a similar trend within organizations, that the scale and complexity of data environments was increasing faster than the human workforces tasked with leveraging them. One of our customers has literally tens of millions of data fields and saw that number more than double in just two years, during a time where they had only hired a handful of new analysts. Storing data has been getting easier and easier, but finding it and putting it to use was actually getting harder.
+
+It was clear that someone needed to solve the human problem with data, and to do so in an automated, scalable way that learns from people without requiring human labor. So we did.
+
+Dataconomy: Where do you see the data catalog market going in five years from now?
+
+Satyen: We see data getting further democratized. In five years, anyone who can look at a spreadsheet or a line chart will be using self-service tools to get data, without depending on “techies.” They’ll use natural language in conversational, English-In/Answers-Out interfaces to find insights and make better decisions, much like they use Google today. A data catalog is like Google’s index of the web, a platform on which incredibly empowering apps can be built for end-users.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Image: Gene Han
+
+Summary: Satyen: Much like Amazon helps users buy the right product, a data catalog helps people get the right data.
+Satyen: Data catalogs are used by data consumers (i.e.
+By making data more searchable and consumable, a data catalog can broaden the data audience and make an organization more data-driven across the board.
+Dataconomy: Why do today’s data consumers need a data catalog?
+Satyen: Today, organizations have more data than ever, so finding a relevant, trustworthy dataset can be like finding a needle in a haystack.
+
+Other Blogs by Juan Salazar: https://dataconomy.com/author/juan-salazar/

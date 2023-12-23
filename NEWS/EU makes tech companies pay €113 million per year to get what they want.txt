@@ -1,0 +1,50 @@
+Title: EU makes tech companies pay €113 million per year to get what they want
+
+Article Link: https://dataconomy.com/2023/09/11/eu-makes-tech-companies-pay-e113-million-per-year-to-get-what-they-want/
+
+Author: Eray Eliaçık
+
+Publish Date: 2023-09-11
+
+Article:
+The influence of tech giants extends far beyond our gadgets and apps. A recent study by the Corporate Europe Organisation (CEO) pulled back the curtain, revealing how much these tech behemoths are investing in lobbying efforts to shape EU policies. According to CEO’s findings, tech companies are shelling out a whopping €113 million per year on lobbying, showing a robust 16.5% surge since 2021, when their lobbying budget stood at €97 million.
+
+The numbers tell the tale: Who’s spending what
+
+Not surprisingly, the big players are leading the charge in lobbying spending. Meta, the parent company of Facebook, takes the top spot, ramping up its budget from €5.75 million in 2021 to a whopping €8 million in 2023. Apple isn’t far behind, doubling its lobbying investment from €3.5 million to €7 million. Google secures the fourth position with €5.5 million, while Microsoft sits in the sixth spot with €5 million. It’s worth noting that Bayer and Shell occupy the third and fifth places, respectively, showing that lobbying isn’t exclusive to tech giants.
+
+What’s even more fascinating is the number of lobbyists these companies are deploying. Meta is also leading the charge here, with 17.05 full-time equivalents (FTEs). Google, Amazon, and Apple have added an average of three more FTEs to their teams since 2021, illustrating their determination to influence EU policies that directly impact their operations.
+
+Despite a slight uptick in the number of companies joining the lobbying game, the top 10 corporations, including Amazon and Qualcomm, together account for over a third of the sector’s total spending, reaching a staggering €40 million. Conversely, the majority of companies are playing with considerably smaller budgets, with 75% spending less than €200,000 and 25% allotting less than €5,000.
+
+When it comes to the geographical distribution of lobbying efforts, U.S.-based companies are leading the pack, contributing to roughly 20% of these endeavors. European countries, including the UK, France, and Germany, are next in line, each making an average of 10% of the contributions. In stark contrast, Chinese giants like TikTok and Alibaba have a minimal presence, contributing less than 1% of lobbying efforts.
+
+Can EU turn tech giants to gatekeepers?
+
+The good: Tech powerhouses flex their muscles
+
+This surge in lobbying power comes at an interesting time. The EU has introduced a set of game-changing regulations designed to keep a closer eye on the tech industry’s far-reaching impact. The Digital Services Act (DSA) and the Digital Markets Act (DMA) have been designed specifically to address some of the critical aspects of big tech’s business models, such as content moderation, targeted advertising, and anti-competitive practices.
+
+As these regulations gain momentum, tech companies are stepping up their lobbying efforts to ensure their voices are heard in shaping these policies. This means they are actively participating in the democratic process, pushing for rules that they believe will help maintain a competitive edge and protect their interests.
+
+The bad: The fine line between influence and overreach
+
+However, the increasing influence of tech giants also raises concerns. Critics worry that the deep pockets of these companies could tilt the balance of power in their favor, potentially shaping policies that benefit their interests to the detriment of consumers and smaller competitors.
+
+The future challenge: Battling the AI Act
+
+As the EU gears up to enforce the AI Act, tech companies are preparing for yet another regulatory challenge. This act is set to introduce strict rules for developing and deploying artificial intelligence systems, especially concerning highly profitable general-purpose AI.
+
+While the DSA and DMA may have signaled setbacks for big tech, they still have an opportunity to wield their significant financial resources in lobbying efforts before the AI Act takes effect.
+
+Big tech’s growing lobbying prowess stands as a testament to the industry’s resolve to protect its interests and influence the direction of EU policies. As we watch this high-stakes game play out, the outcomes will undoubtedly have profound implications, shaping not only the future of these tech giants but also the digital landscape that they dominate. Balancing their power while safeguarding the interests of consumers and smaller players remains a crucial challenge for policymakers and industry leaders alike.
+
+Featured image credit: Pixabay/Pexels
+
+Summary: According to CEO’s findings, tech companies are shelling out a whopping €113 million per year on lobbying, showing a robust 16.5% surge since 2021, when their lobbying budget stood at €97 million.
+The numbers tell the tale: Who’s spending whatNot surprisingly, the big players are leading the charge in lobbying spending.
+Google, Amazon, and Apple have added an average of three more FTEs to their teams since 2021, illustrating their determination to influence EU policies that directly impact their operations.
+The bad: The fine line between influence and overreachHowever, the increasing influence of tech giants also raises concerns.
+The future challenge: Battling the AI ActAs the EU gears up to enforce the AI Act, tech companies are preparing for yet another regulatory challenge.
+
+Other Blogs by Eray Eliaçık: https://dataconomy.com/author/eray-eliacik/

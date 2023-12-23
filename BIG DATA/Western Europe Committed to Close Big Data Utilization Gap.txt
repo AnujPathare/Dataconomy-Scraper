@@ -1,0 +1,42 @@
+Title: Western Europe Committed to Close Big Data Utilization Gap
+
+Article Link: https://dataconomy.com/2014/09/24/western-europe-committed-to-close-big-data-utilization-gap/
+
+Author: admin
+
+Publish Date: 2014-09-24
+
+Article:
+The International Data Corporation (IDC) has revealed in its 2014 Western Europe Enterprise Mobility Survey that Western Europe is relentlessly increasing its utilization of big data, despite the scarcity of an accomplished workforce and growing data security concerns.
+
+“Western European organisations are catching up rapidly with their north American peers in terms of analytical maturity despite later adoption,” the study points out.
+
+The late adoption of technology, smaller European datasets, and recent EU regulations, such as the right to be forgotten, have all contributed to Western Europe’s lag.
+
+According to the study, enterprises are alarmed with the controversial new law, that “goes to the very heart of a company’s ability to mine even anonymised data”, and would also “negatively impact the value of collecting certain data if a company is not allowed to use it via big-data tools for business purposes,” reports Silicon Angle.
+
+However, predictions for western Europe’s Big Data technology and services market are that it will expand from $2.3 billion in 2013 to $2.9 billion by the end of this year, managing $6.8 billion in 2018, exhibiting a ‘compound annual growth rate of 24.6 percent between now and 2018.’
+
+The study divvies up Europe’s Big Data market into four parts, namely, networking software, servers, storage and services. Storage holds a major fraction of the market at $536m in 2013, followed by servers on $314m.
+
+Individual western European countries show compound annual growth rates between 22.3 percent and 32.2 percent, where the existing extent of analytics use, macroeconomics, and the presence of larger organisations guide the rate of adoption.
+
+“The UK, Benelux and Nordics tend to show higher initial adoption, though Germany and France are catching up rapidly, while southern Europe still lags behind,” the study says.
+
+IDC also points out a shift of focus on buying services by Hadoop-inclined investments. Smaller, independent vendors will be pushing the use of big data to newer horizons with a lot of demand stemming from the public sector with primary usage in cutting costs and efficient processes.
+
+Read more here
+
+Follow @DataconomyMedia
+
+
+
+(Image Credit: Eric Fischer)
+
+Summary: The International Data Corporation (IDC) has revealed in its 2014 Western Europe Enterprise Mobility Survey that Western Europe is relentlessly increasing its utilization of big data, despite the scarcity of an accomplished workforce and growing data security concerns.
+“Western European organisations are catching up rapidly with their north American peers in terms of analytical maturity despite later adoption,” the study points out.
+The late adoption of technology, smaller European datasets, and recent EU regulations, such as the right to be forgotten, have all contributed to Western Europe’s lag.
+Individual western European countries show compound annual growth rates between 22.3 percent and 32.2 percent, where the existing extent of analytics use, macroeconomics, and the presence of larger organisations guide the rate of adoption.
+Smaller, independent vendors will be pushing the use of big data to newer horizons with a lot of demand stemming from the public sector with primary usage in cutting costs and efficient processes.
+
+Other Blogs by admin: https://dataconomy.com/author/admin/

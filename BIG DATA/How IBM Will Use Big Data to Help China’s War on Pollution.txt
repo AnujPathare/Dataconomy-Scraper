@@ -1,0 +1,40 @@
+Title: How IBM Will Use Big Data to Help China’s War on Pollution
+
+Article Link: https://dataconomy.com/2014/07/07/how-ibm-will-use-big-data-to-help-chinas-war-on-pollution/
+
+Author: admin
+
+Publish Date: 2014-07-07
+
+Article:
+Last week, IBM made the headlines on a number of occasions: firstly for teaming with Bon Appetite to build a cooking app, then for being awarded top place in Gartner’s security solutions ranking, and finally for developing a “first-of-a-kind” system that can predict the sources of contaminated foods.
+
+This week, however, the company has announced that it has signed an agreement with the city of Beijing to help tackle the Chinese capital’s pollution problem. It has been reported that the company will announce later today a 10-year initiative with the Beijing Municipal Government to improve China’s national energy systems and protect the health of its citizens. The partnership will see the tech giant use big data, the “internet of things”, weather modelling and supercomputing to help with air quality management, renewable energy management and energy optimization among Chinese industries.
+
+“It is about how we can help cities improve management based on ‘Big Data’, and better predict (pollution) with accuracy so the government can take proactive action,” said Xiaowei Shen, China director of IBM Research.
+
+The pollution problem in Beijing is one of the worst in the country and is the cause of thousands of premature deaths. According to a one report, in 2011 coal-fired plants killed 9,900 people in Beijing, Tianjin and Hebei; nearly 200 infants – 40 in Beijing – died from coal pollution; and over 9,000 children developed asthma. A Greenpeace report also estimated that 75% of premature deaths were caused by the emissions of Hebei’s 152 plants. However, Hebei is the sixth largest provincial contributor to China’s GDP and, as Quartz.com explains, more than half of this comes from industrial productions.
+
+In order to reduce the level of pollution in the capital, Beijing’s municipal government will spend $160 billion to reach their goals. However, the public have been skeptical of the governments efforts says Wang Tao, a climate and energy expert at the Carnegie-Tsinghua Center for Global Policy.
+
+“Even in Beijing, the general public doesn’t feel that confident about what the government tells it to do,” he says. Since “IBM is a renowned [for] advanced technologies [the government] will be able to improve the accuracy and the authority of the analysis. People will have to realize they are part of the problem to be part of the solution.” (Source)
+
+Read more here
+
+Follow @DataconomyMedia
+
+
+
+Interested in more content like this? Sign up to our newsletter, and you wont miss a thing!
+
+[mc4wp_form]
+
+(Image Credit: Uday Phalgun)
+
+Summary: This week, however, the company has announced that it has signed an agreement with the city of Beijing to help tackle the Chinese capital’s pollution problem.
+The partnership will see the tech giant use big data, the “internet of things”, weather modelling and supercomputing to help with air quality management, renewable energy management and energy optimization among Chinese industries.
+“It is about how we can help cities improve management based on ‘Big Data’, and better predict (pollution) with accuracy so the government can take proactive action,” said Xiaowei Shen, China director of IBM Research.
+The pollution problem in Beijing is one of the worst in the country and is the cause of thousands of premature deaths.
+In order to reduce the level of pollution in the capital, Beijing’s municipal government will spend $160 billion to reach their goals.
+
+Other Blogs by admin: https://dataconomy.com/author/admin/

@@ -1,0 +1,78 @@
+Title: HackCorona: 300 participants, 41 nationalities, 23 solutions to fight COVID-19 outbreak
+
+Article Link: https://dataconomy.com/2020/03/23/hackcorona-300-participants-41-nationalities-23-solutions-to-fight-covid-19-outbreak/
+
+Author: Evgeniya Panova
+
+Publish Date: 2020-03-23
+
+Article:
+In just one day, the HackCorona initiative gathered over 1700 people and 300 selected hackers came up with 23 digital solutions to help the world fight the COVID-19 outbreak during the 48-hour long virtual hackathon by Data Natives and Hacking Health. Here are the results.
+
+HackCorona was created on March 17th in order to find digital solutions for the most pressing problems of the COVID-19 outbreak within a short period of time. In just one day, the initiative gathered over 1700 people. 300 selected data scientists, developers, project managers, designers, healthcare experts and psychologists of 41 nationalities formed 30 teams to collaborate intensively throughout the weekend to come up with the working prototypes for selected challenges:
+
+“ Protecting the Elderly ” challenge focused on finding digital solutions for a voluntary care network for the elderly population, supported by young and healthy people.
+
+” challenge focused on finding digital solutions for a voluntary care network for the elderly population, supported by young and healthy people. “ Open-Source Childcare ” challenge aimed at creating digital solutions for open source childcare networks.
+
+” challenge aimed at creating digital solutions for open source childcare networks. “ Self-Diagnosis ” challenge targeted the development of an online self-diagnosis COVID-19 solutions that would allow to input symptoms and suggest the next steps to take.
+
+” challenge targeted the development of an online self-diagnosis COVID-19 solutions that would allow to input symptoms and suggest the next steps to take. “ Open Source Hardware Solutions ” challenge intended to build fast and easy medical devices that can be produced to solve problems defined by hospitals and other healthcare providers.
+
+” challenge intended to build fast and easy medical devices that can be produced to solve problems defined by hospitals and other healthcare providers. “The open challenge” allowed participants to suggest and wok the challenge of their own choice
+
+HackCorona hackers were joined by renowned jurors and mentors such as Max Wegner, Head of Regulatory Affairs for Bayer Pharmaceuticals, Thorsten Goltsche, Senior Strategic Consultant at Bayer Business Services, Sabine Seymour, Founder SUPA + MOONDIAL, Dr. Alexander Stage, Vice President Data at FlixBus, Tayla Sheldrake, Operational Project Leader at MotionLab.Berlin, Dandan Wang, Data Scientist at T-Systems International GmbH, Mike Richardson, Deep Technology Entrepreneur & Guest Researcher at Fraunhofer, and more.
+
+I encountered some very committed people, who presented amazing analyses. I really hope that they can actually use their solutions to fight the virus. Max Wegner, Regulatory Affairs at Bayer Pharmaceuticals.
+
+Hacking teams were focusing on creating easily-marketable solutions to connect volunteers to the high-risk population, encouraging people to volunteer, low-cost wearables tracking body values, assisting parents to deal with anxiety, helping authorities to better manage the lockdown and many more.
+
+Some of the participants of the HackCorona Online Hackathon
+
+From a community currency to incentivize volunteering to drug screening using quantum calculations
+
+8 winners were selected to receive prizes provided by the HackCorona partners Hacking Health, Bayer, Vision Health Pioneers, Motion Lab and Fraunhofer.
+
+Distrik5 team from the CODE University of Applied Sciences in Berlin developed a community currency to incentivize people to volunteer and help the elderly with their needs by rewarding their time via digital currency. The team won a fast track to join the current batch of incubation at Vision Health Pioneers.
+
+Team Homenauts created a directory of resources to help people stay at home and take care of their mental health. Homenauts introduced a participatory platform with ideas on how to better cope with isolation where users can submit useful resources. The team won a prize of connections from the Data Natives team, who will support the development of the platform by connecting Homenauts with marketing and development experts.
+
+DIY Ventilator Scout team created a chatbot (currently available on Telegram) to help engineers to build a DIY ventilator by giving instructions and data regarding the availability of components need to build a ventilator. The team received a prize from Fraunhofer to use the DIY Ventilator Scout system to guide Fraunhofer’s engineers who are currently working on the hardware.
+
+What a fantastic event with incredible outcomes! … We at MotionLab.Berlin absolutely loved the motivation and enthusiasm. Your energy was felt and we could not be prouder to have been part of such a positive and community building initiative. Thank you DataNatives and all those involved for making this happen. Tayla Sheldrake, Operational Project Leader at MotionLab.Berlin
+
+Covid Encounters team by Polypoly.eu developed a mobile app for tracking the exposure and alerting citizens without compromising their privacy. The app allows notifying any encounters with the possibility of the infection through public alert service that sends a notification to all connected devices. The team won a prize of connections from the Data Natives team, who will support the development of the app by introducing the team to relevant stakeholders.
+
+HacKIT_19 team developed an easy-to-use app to help individuals, families, and decision-makers to make better decisions based on self-reported symptoms and real-time data. The team won a prize of connections from the Data Natives team.
+
+Best way to spend a Sunday afternoon! I am just listening to the pitches of the #HackCorona teams. Some of them like the team from Anne Bruinsma just came together 48h ago to fight coronavirus. Hands up for the 140 entrepreneurs that spent their precious time to come up with new ideas! Maren Lesche, Founder at Startup Colors, Head of Incubation at Vision Health Pioneers
+
+Quantum Drug Screening team developed an algorithm for drug screening using quantum calculations to describe the drug molecules that have been already approved and can be adopted in therapy faster. Drug discovery for virus infections usually takes a lot of time and manpower and consumes over 15% of pharmaceutical company revenue. The faster way is using computer simulations to target viruses with an array of available drug molecules and look at hundreds of thousands of possible drug solutions in a short time. The team won a prize of connections from the Data Natives team and further support of the project from Bayer.
+
+BioReactors team developed a small data AI-powered tool for the optimization of bioreactor settings and nutrition mixtures based on their existing xT smart_DoE solution to scale the vaccine production much faster than usual. The team received a prize from MotionLab Berlin and got access to their facility infrastructure of 4000 square meters to help with the project development.
+
+“Our Team” focused on creating prediction models for of Covid-19 outbreak based on a machine learning algorithm with an option to change the parameters and view results. The team won a prize of connections from the Data Natives team and will be introduced to the relevant network stakeholders to push the project further.
+
+CEO of Data Natives, Elena Poughia, said:
+
+We are happy to have created a new community of inspired, talented and creative people from so many different backgrounds and countries eager to change the course of this critical situation – this is exactly the reason why we, at Data Natives, are building and nurturing data and tech communities.
+
+HackCorona initiative was just the beginning. While the winning teams are continuing to work on their solutions, Data Natives is looking to build on the success and bring more bottom-up community-driven hacks to solve current and future problems collectively.
+
+Sponsors & supporters:
+
+Sponsors: Hacking Health, Bayer, Vision Health Pioneers, Motion Lab
+
+Supporters: Fraunhofer, Enpact, gig, INAM, Photonic Insights, SIBB, Unicorns in Tech, StartUp Asia Berlin, Start-A-Factory
+
+Pitching session recording is available via this link.
+
+Winning ceremony recording is available here.
+
+Summary: HackCorona was created on March 17th in order to find digital solutions for the most pressing problems of the COVID-19 outbreak within a short period of time.
+” challenge focused on finding digital solutions for a voluntary care network for the elderly population, supported by young and healthy people.
+The team won a prize of connections from the Data Natives team.
+The team won a prize of connections from the Data Natives team and further support of the project from Bayer.
+The team won a prize of connections from the Data Natives team and will be introduced to the relevant network stakeholders to push the project further.
+
+Other Blogs by Evgeniya Panova: https://dataconomy.com/author/evgeniya-panova/

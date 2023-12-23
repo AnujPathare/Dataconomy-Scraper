@@ -1,0 +1,62 @@
+Title: Can Big Data Help Provide Affordable Healthcare?
+
+Article Link: https://dataconomy.com/2019/02/06/can-big-data-help-provide-affordable-healthcare/
+
+Author: Ryan Ayers
+
+Publish Date: 2019-02-06
+
+Article:
+Big Data and AI can help with the growing care provider shortage. Here is how and why.
+
+One percent of the global population possesses 40-percent of all the world’s wealth, a persistent issue for which economists and politicians have debated about for some time. Economic inequality is a problem that’s plaguing nations around the world.
+
+
+
+As part of the solution, economists and politicians would like to see financial prospects improve for lower-and middle-class households. However, there are researchers who don’t necessarily subscribe to this fix, as some nations have found other ways to reduce income disparities.
+
+Meanwhile, many low-and middle-income families are struggling to maintain their health. Such is the case in the United States, where analysts estimate that the healthcare system wastes $765 billion per year.
+
+For thousands of years, there’s been a substantial income gap between the rich and the poor. In 1975, for instance, the wealth of developed nations was 10 times that of developing ones. However, this statistic has improved somewhat over the last four decades. Yet, while income inequality in developing countries is decreasing, economic disparities in developed nations is on the rise, and around the world, 71-percent of adults have less than $10,000 in total wealth. In the interim, healthcare costs are rising beyond the means of many lower- and middle-class households.
+
+Can Big Data Technology Provide Meaningful Solutions?
+
+When presented the right way and to the right people, big data analyses can lead to impactful changes. After all, data is simply information. Case in point, the healthcare field could improve tremendously with the assistance of big data systems. Electronic health records (EHRs), for instance, give healthcare providers a way to collect patient data and monitor their health over time.
+
+One example of an advanced EHR system is the Aadhaar card issued to all Indian citizens, which stores their health information. In Uganda, the government issues national ID cards in a similar program. This convenient technology would be a great way to streamline the healthcare system of low- and middle-income countries and make medical services available to a larger segment of consumers.
+
+Today’s healthcare providers are admittedly wrestling with cybersecurity issues. Still, big data technology — although in its beginning stages — is a permanent fixture in the healthcare field. For now, the world’s healthcare providers are doing their best to make meaningful use of a large amount of complex information.
+
+
+
+Where Does Big Data Come From?
+
+In the current information age, the amount of data that’s generated every day is astonishing. Now, most of the world’s wealth is memorialized in bits and bytes. Technology giants, such as Amazon, Google and Microsoft, support a large portion of the framework that the world uses to acquire, store and share information. Additionally, every bank statement and major asset owned by individuals’ is recorded somewhere in a database.
+
+Historically, mankind has always collected and stored information about assets and individuals. Today, care providers can use big data systems to make powerful and positive changes that can improve overall health outcomes for lower- and middle-income households.
+
+How Can Big Data Technology Help?
+
+A growing number of the world’s population needs healthcare services as well as opportunities to prosper. In America, for instance, the quickly expanding senior population is taxing the healthcare system, while politicians’ debate over the best ways to manage the nation’s healthcare network.
+
+Simultaneously, the care provider talent pool is shrinking. As a solution, healthcare leaders are examining artificial intelligence (AI) as a way to streamline service delivery. Eventually, big data technology that’s supercharged by artificial intelligence could widen the reach and effectiveness of care providers, helping to make up for a global shortage of medical professionals.
+
+Despite current issues in the field, big data technology is still helping care providers make considerable improvements in the delivery of healthcare services. For instance, today’s physicians must use invasive procedures to collect tissue samples. Medical technology experts, however, forecast that AI could one day eliminate the need for this. Big data systems, in unison with artificial intelligence technology, could one day enhance the ability of doctors to analyze tumors and make accurate diagnoses. If successful, the technology could provide the same accuracy and detailed information as real tissue samples. This would have astounding implications. For example, physicians could use AI technology to understand how cancer affects a patient’s entire body, rather than making treatment decisions based on a minuscule tissue sample.
+
+In the distant future, medical researchers want to use a technology called brain-computer interfaces to better communicate with patients, and the healthcare community is excited about the potential of the technology as a resource for quickly restoring functionality for injured and sick patients.
+
+Another important potential benefit of big data technology is that it can decrease the cost of caregiving. Accenture management consulting firm forecasts that care providers could use artificial intelligence to slash operational costs by $150 billion per year by 2026. Using the technology, healthcare organizations will be able to find many opportunities for improvement by analyzing the data collected from patients’ Internet-connected medical devices as well as healthcare provider information networks. This would allow organizations to cut costs, improve community wellness and lower the cost of providing care.
+
+As care providers get better at extracting meaningful insights from patient data, they’ll also learn better ways to deliver treatment. The technology can potentially improve the quality of services across the care provider continuum. As the big data technology field comes of age, many organizations will benefit from operational improvements and lowered expenses, as well as improved community health outcomes.
+
+There are many ways that big data and AI can help with the growing care provider shortage. To make the biggest impact, healthcare providers will have to leverage big data technology in every way possible. For instance, the technologies could fuel the frameworks for medical technologies that range from robotic surgical assistants to highly advanced diagnostic systems.
+
+To date, the one-percent continue to possess nearly half of all global wealth. However, if the world’s governments were to mandate that employers pay all workers a reasonable living wage, many low-and middle-income families would have a better quality of life and increased access to healthcare. In the meantime, the world’s healthcare providers will do their best to bring care within the reach of underserved populations by using big data technology to make treatment more accessible.
+
+Summary: Can Big Data Technology Provide Meaningful Solutions?
+Still, big data technology — although in its beginning stages — is a permanent fixture in the healthcare field.
+How Can Big Data Technology Help?
+Another important potential benefit of big data technology is that it can decrease the cost of caregiving.
+To make the biggest impact, healthcare providers will have to leverage big data technology in every way possible.
+
+Other Blogs by Ryan Ayers: https://dataconomy.com/author/ryan-ayers/

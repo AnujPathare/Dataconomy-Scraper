@@ -1,0 +1,52 @@
+Title: Beware, Flipper Zero might spam you with Bluetooth alerts
+
+Article Link: https://dataconomy.com/2023/10/26/flipper-zero-spam-bluetooth-alerts/
+
+Author: Onur Demirkol
+
+Publish Date: 2023-10-26
+
+Article:
+The Flipper Zero community is excited as the ‘Xtreme’ custom firmware introduces a new capability: Bluetooth spam attacks on Android and Windows devices. Inspired by a security researcher’s similar feat on Apple iOS devices, this development sheds light on the untapped potential of Flipper Zero. These spam attacks utilize Flipper Zero’s wireless capabilities to send out fake advertising packets to devices within range, overwhelming them with pairing and connection requests.
+
+Flipper Zero firmware: Xtreme
+
+The Flipper Xtreme community recently announced a major addition to their firmware: “spam attacks.” They even demonstrated via their Discord channel that these attacks can create chaos by rendering a Samsung Galaxy device unusable. Although the latest firmware is still in development, the “spam attack” is now accessible through an application called ‘BLE Spam,’ available on GitHub.
+
+According to Bleeping Computer, prominent YouTuber ‘Talking Sasquach’ took the development firmware for a spin on his Flipper Zero and confirmed that the attack works seamlessly on both Windows and Android platforms. The BLE Spam app offers users eight distinct flood attack options, enabling various applications.
+
+These options include overwhelming devices with notifications like ‘Every method combined,’ ‘iOS 17 Lockup Crash,’ ‘Apple Action Modal,’ ‘Apple Device popup,’ ‘Android device pair,’ and ‘Windows Device Found.’ Once initiated, Flipper Zero continuously sends out Bluetooth packets, resulting in constant connectivity prompts and notifications on nearby devices.
+
+If you are curious about the device and want to know more about it, check out our guide on Flipper Zero and take a look at all of its details, including interesting details!
+
+How to defend against spam attacks
+
+While these spam attacks are more of an annoyance than a serious threat, it’s essential to be aware of their potential to evolve into more sophisticated and misleading forms, possibly aiding in social engineering or other malicious activities. Notably, Android 14 and Windows 11 devices, by default, display notifications when receiving Bluetooth connection requests, making them susceptible to Flipper Zero attacks. Thankfully, there’s a straightforward way to block these notifications on both systems.
+
+For Android Users:
+
+Open the ‘Settings’ menu. Go to ‘Google.’ Select ‘Nearby Share.’ Toggle the ‘Show notification’ option to the “Off” position.
+
+Alternatively, you can access the same menu through ‘Settings’ → ‘Connected Devices’ → ‘Connection preferences’ → ‘Nearby Share.’
+
+For Windows Users:
+
+Access ‘Settings.’ Select ‘Bluetooth & devices’ from the menu on the left. Click on ‘Devices.’ Scroll down to ‘Device settings.’ Toggle the ‘Show notifications to connect using Swift Pair’ option to the “Off” position.
+
+Dolphin hack: What can you do with a Flipper Zero
+
+By following these simple steps, Android and Windows users can effectively shield themselves against Flipper Zero’s Bluetooth spam attacks. While this feature has garnered attention for its disruptive potential, responsible usage and awareness of how to counter it can help users maintain control of their device experience. As technology continues to advance, staying informed and vigilant in the face of evolving security challenges remains paramount.
+
+Disclaimer:
+
+The information presented in this article is focused solely on the capabilities and features of Flipper Zero, an innovative device designed for exploring cybersecurity and uncovering vulnerabilities in various systems. While some uses of the device could push legal boundaries, it is crucial to emphasize that the article does not endorse or recommend any illegal actions or activities. Ownership and utilization of Flipper Zero must always be conducted within the framework of the law. Misuse of the device, such as tampering with systems or devices without proper authorization, is the sole responsibility of the user and is not advocated by this article.
+
+Featured image credit: Flipper Zero
+
+Summary: The Flipper Zero community is excited as the ‘Xtreme’ custom firmware introduces a new capability: Bluetooth spam attacks on Android and Windows devices.
+Inspired by a security researcher’s similar feat on Apple iOS devices, this development sheds light on the untapped potential of Flipper Zero.
+Flipper Zero firmware: XtremeThe Flipper Xtreme community recently announced a major addition to their firmware: “spam attacks.” They even demonstrated via their Discord channel that these attacks can create chaos by rendering a Samsung Galaxy device unusable.
+Notably, Android 14 and Windows 11 devices, by default, display notifications when receiving Bluetooth connection requests, making them susceptible to Flipper Zero attacks.
+Ownership and utilization of Flipper Zero must always be conducted within the framework of the law.
+
+Other Blogs by Onur Demirkol: https://dataconomy.com/author/onurdemirkol/

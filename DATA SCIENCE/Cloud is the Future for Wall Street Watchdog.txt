@@ -1,0 +1,42 @@
+Title: Cloud is the Future for Wall Street Watchdog
+
+Article Link: https://dataconomy.com/2014/06/23/cloud-future-wall-street-watchdog/
+
+Author: Artur Lapinsch
+
+Publish Date: 2014-06-23
+
+Article:
+Follow @DataconomyMedia
+
+
+
+The Financial Industry Regulatory Authority, a Wall Street authority responsible for overseeing brokerage firms, have announced they’re in the process of moving all their data to the cloud. It is hoped that the move will save the agency $10 million to $20 million a year, as well as increasing speed and capabilities.
+
+The transfer was sparked by somewhat of a data crisis for the company. FINRA were processing 6 billion shares and 25 billion of market events a day, and their old system was struggling to handle this immense volume of data. “We could have redesigned our system to scale across a lot of big machines, but economically that’s not really on the table for us,” stated Steven Randich, FINRA’s chief information officer. “By moving to the cloud we get dramatic processing and storage scale at commodity prices.”
+
+The “pay-for-what-you-use” nature of cloud computing has lead to dramatic savings. Another advantage FINRA have discovered is improved speeds; some of the more complex analysis undertaken by FINRA could have taken several hours on the old system. On the new system, these queries can be completed in a matter of minutes.
+
+“It’s measurably, measurably faster,” said Thomas Gira, who is in charge of market regulation at FINRA. “It might take us to another level in the sense of timeliness.”
+
+The move commenced at the start of the year, and is expected to be fully deployed within 30 months. Hundreds of surveillance patterns will be written onto the system, then cross-checked against the old system to ensure the same results. But once this is done, the improvements in speed and scalability could prove extremely beneficial when surveying the ever-changing landscape of Wall Street.
+
+Read more here.
+
+Follow @DataconomyMedia
+
+
+
+Interested in more content like this? Sign up to our newsletter, and you wont miss a thing!
+
+[mc4wp_form]
+
+(Image credit: Flickr)
+
+Summary: Follow @DataconomyMediaThe Financial Industry Regulatory Authority, a Wall Street authority responsible for overseeing brokerage firms, have announced they’re in the process of moving all their data to the cloud.
+“By moving to the cloud we get dramatic processing and storage scale at commodity prices.”The “pay-for-what-you-use” nature of cloud computing has lead to dramatic savings.
+Another advantage FINRA have discovered is improved speeds; some of the more complex analysis undertaken by FINRA could have taken several hours on the old system.
+Hundreds of surveillance patterns will be written onto the system, then cross-checked against the old system to ensure the same results.
+But once this is done, the improvements in speed and scalability could prove extremely beneficial when surveying the ever-changing landscape of Wall Street.
+
+Other Blogs by Artur Lapinsch: https://dataconomy.com/author/artur-lapinsch/

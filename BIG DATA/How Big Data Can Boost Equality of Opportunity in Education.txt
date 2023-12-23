@@ -1,0 +1,54 @@
+Title: How Big Data Can Boost Equality of Opportunity in Education
+
+Article Link: https://dataconomy.com/2014/10/01/education-next-great-opportunity-big-data/
+
+Author: Jennifer Chan
+
+Publish Date: 2014-10-01
+
+Article:
+I recently helped out at an access initiative for Oxford University, and the experience got me thinking about how we could bridge the state-private divide in Oxbridge and the Russell Group schools.
+
+According to Professor Les Ebdon, director of the Office for Fair Access (OFFA), the biggest challenge facing fair admissions right now is that “many teenagers from poorer backgrounds do not see Russell Group institutions as suitable for them”. Many access programs try to combat this psychology of inhibition, but often to little avail.
+
+For example, the scheme that I was involved in offers high-achieving students from non-selective state schools a chance to hear for themselves what Oxford admissions really is about, but a problem lies in this approach: since its demographic pool targets teacher-nominated students who have already achieved satisfactory grades, the benefits it offers are of an informative, rather than a developmental, nature. A better alternative, suggests a study by the Institute of Education, would be to “intervene earlier to ensure that those from poorer backgrounds achieve their potential during their school years”.
+
+This is where ‘Big Data’, with its principle of inferring probabilities from vast amounts of information, could ‘intervene’ as a solution. In their New York Times bestseller Big Data: A Revolution That Will Transform How We Live, Work and Think, Mayer-Schonberger and Cukier point out a fundamental shift in mindset that ‘Big Data’ has brought forth: “We no longer focus on causality, but instead we discover patterns and correlations in the data that offer us novel and invaluable insights.”
+
+If we apply this recalibrated focus to access in higher education, then the question that matters should change from “Why do certain students not apply to Russell Group universities?” to “What are the possibilities and indicators of all students succeeding in these universities?” While there is nothing wrong with using the former to jumpstart an access scheme, the latter will help discover more prospective applicants by looking at data en masse and making new connections from it.
+
+So how can we mobilise the potential of Big Data to unearth the potential of ‘diamond in the rough’ students? The answer could lie in something close at hand and accessible to all – phone and social networking apps.
+
+An Egalitarian Model: Big Data as the Talent Scout
+
+In Learning with Big Data: The Future of Education, the authors cite the example of Luis von Ahn, the creator of Duolingo, as someone who manages to glean meaningful insight from ‘data exhaust’, which refers to “data that is shed as a by-product of people’s actions and movements in the [cyber] world”. A computer science professor, von Ahn was by no means an expert in pedagogy, and yet he was able to find out how and what people learned which languages best, all from observing the digital trail ‘left behind’ by users, which included the time lapse between responses to questions, grammatical errors, repeated mistakes etc.
+
+Duolingo’s success is instructive: Incorporate this method within a secondary school curriculum, and there is no reason why similar merits will not play out. Imagine if schools were to use an app like Goodreads in their English lessons: students from as early as 12 could participate in a form of educational ‘life logging’ by tallying and sharing with their peers books that they have read weekly, in effect creating a virtual ‘Book Club’ for the classroom through the datafication of effort. Whoever gains access to this information may then derive insights about a student’s academic potential: an avid reader of Shakespeare is likely to be a strong contender for studying English at top-ranking universities, while someone else who has poked around with Friedman or even primers on Aristotelian philosophy may attest to a capability for the PPE degree. If the agency with this information passes it on to the university access branch, then the next step could be a form of targeted access which circumvents the common problem of self-filtering. Equipped with this knowledge, access officers could send relevant information pamphlets to these students, thus giving the reluctant souls a much-needed nudge of encouragement.
+
+Moreover, ‘letting the data speak for itself’ also increases impartiality in the selection process – there is no favouritism at stake, and a Dickens-loving recusant won’t be any less disadvantaged than a Chaucer-skimming sycophant when time comes for the access people to spot academic potential. In the realm of business, predictive analytics means mapping patterns from the transactional data of customers to identify risks and opportunities; in the world of education, this logic similarly applies by discerning potential from the behavioural data of students to widen the possible pool of top university applicants.
+
+This is especially significant for students who are talented in the humanities, as while capability in the hard sciences or math is more measurable by test scores, quantitative evaluation often does not do justice to a student’s potential in the arts. After all, just because one fared poorly in a history essay does not mean that he or she does not have the potential to succeed at degree level, especially when much of university study is grounded in critical thinking rather than rote learning. Thus, within the higher education framework, Big Data is able to infer the probability of academic success and gauge academic interest, therefore truly taking up the role as a background-blind mediator with its power for predictive arbitration.
+
+A Matter of Trust: Personal Privacy vs. Social Equity
+
+Yet what follows is a burning question: who exactly is to ‘algorithmise’ all this data? There are two options: either a third-party data analytics company steps in, or the company which owns the educational app could employ algorithmists to do the job. More crucially, who is to absorb the cost of this additional service? Will the government, the Sutton Trust, OFFA etc. collaborate to support what is still a fledging initiative? Or will this push adaptive learning firms with existing data collection infrastructures like Knewton and Amplify to venture into a risky but possibly lucrative terrain?
+
+This uncertainty is reinforced by the failure of InBloom, a non-profit US organisation which, despite having had the financial backing of the Gates Foundation and Carnegie Corporation, closed down after a mere two years due to widespread backlash over student privacy concerns. With data-related fiascos such as WikiLeaks and the News of the World wiretapping scandal still raw in the minds of many, it is little wonder that there remains a general anxiety, if not outright paranoia, about data collection and its relationship with privacy protection.
+
+What differentiates my proposed access initiative from the InBloom precedent, however, lies in the nature of the data source. It is important to remember that InBloom handled sensitive data such as a student’s health records and a family’s tax returns – information that, if fallen into the ill-intentioned hands of hackers or marketers, could well endanger the interests of not just an individual, but an entire family. Arguably, analysing the digital footprint of student-users on an interactive learning app carries implications that are a lot less grave. Indeed, some may use the slippery slope argument, expressing the concern that this seemingly innocuous ‘first step’ may legitimise more sinister forms of tacit data-tracking down the line.
+
+Such worries are not unfounded, yet if we consider the tremendous benefits that could come out of taking this leap of faith, then perhaps we’ll concede that sacrificing a bit of our personal privacy is but only a small price to pay for the great advantage of increasing social equality in education.
+
+Follow @DataconomyMedia
+
+Jennifer Chan is currently an English Literature finalist at the University of Oxford. She has taken up many editorial roles, having been the online editor of The Oxford Student, one of the two major newspapers on campus; the economics editor of The Oxonian Globalist, an academically-oriented journal on international affairs; and the editorial assistant of the 2014-5 Oxford University Careers Guide. Jennifer is passionate about exploring the relevance of Big Data to the ‘every man’, gauging the function that data analytics may play in the equalisation of education, and familiarising the public with this concept through examples drawn from daily life.
+
+(Image Credit: Md saad andalib)
+
+Summary: This is where ‘Big Data’, with its principle of inferring probabilities from vast amounts of information, could ‘intervene’ as a solution.
+So how can we mobilise the potential of Big Data to unearth the potential of ‘diamond in the rough’ students?
+An Egalitarian Model: Big Data as the Talent ScoutIn Learning with Big Data: The Future of Education, the authors cite the example of Luis von Ahn, the creator of Duolingo, as someone who manages to glean meaningful insight from ‘data exhaust’, which refers to “data that is shed as a by-product of people’s actions and movements in the [cyber] world”.
+Thus, within the higher education framework, Big Data is able to infer the probability of academic success and gauge academic interest, therefore truly taking up the role as a background-blind mediator with its power for predictive arbitration.
+Jennifer is passionate about exploring the relevance of Big Data to the ‘every man’, gauging the function that data analytics may play in the equalisation of education, and familiarising the public with this concept through examples drawn from daily life.
+
+Other Blogs by Jennifer Chan: https://dataconomy.com/author/jennifer-chan/

@@ -1,0 +1,34 @@
+Title: STFC Partners with IBM to Create Infosphere BigInsights, the Tech Giant’s New Big Data Innovation Hub
+
+Article Link: https://dataconomy.com/2014/11/07/stfc-partners-with-ibm-to-create-infosphere-biginsights-the-tech-giants-new-big-data-innovation-hub/
+
+Author: admin
+
+Publish Date: 2014-11-07
+
+Article:
+IBM and the Science & Technology Facilities Council’s (STFC) Hartree Centre have come together in an alliance to set up a new Big Data Innovation Hub using IBM Big Data and Analytics technology to enable “commercial organisations solve complex business problems and achieve competitive advantage.”
+
+“As we see the ‘Internet of Things’ evolving with many more connected devices, we believe Big Data Analytics technology can be applied to developing new products and services for other areas. The work we have done with STFC is a great example of this,” concurred Dixit Shah, Big Data and Analytics Leader, IBM UK and Ireland.
+
+STFC’s Hartree Centre is based at its Daresbury Laboratory in North West England, located at the Sci-Tech Daresbury national science and innovation campus. IBM’s Infosphere BigInsights, located within STFC’s IBM Big Data and Analytics environment, offers “enterprise grade Hadoop for data processing, warehousing and analytics, enabling organizations to turn large, complex data volumes into meaningful insights,” reports a news release, complementing which are Infosphere Streams for real-time analytics with micro-second latency, IBM Watson Explorer for Big Data exploration and search, IBM Business Analytics for predictive analytics and Big Data reporting and visualisation.
+
+Lee Hannis, Business Development Manager at the Hartree Centre said: “STFC’s Hartree Centre has a great track record of delivering high performance computing services to industry and developing algorithms and complex models that are used to create new products faster and cheaper. This new collaboration in data analytics provides an obvious and exciting extension to open up our skills to a wider business audience. This unique toolset will allow any company to both accelerate their understanding of data and its value within their business.”
+
+STFC has experience in several industries in assisting them with Big Data technology solutions, including Democrata, healthcare giant GSK and KnowHow information among others.
+
+Read more here
+
+Follow @DataconomyMedia
+
+
+
+(Image Credit: Dennis van Zuijlekom)
+
+Summary: The work we have done with STFC is a great example of this,” concurred Dixit Shah, Big Data and Analytics Leader, IBM UK and Ireland.
+STFC’s Hartree Centre is based at its Daresbury Laboratory in North West England, located at the Sci-Tech Daresbury national science and innovation campus.
+IBM’s Infosphere BigInsights, located within STFC’s IBM Big Data and Analytics environment, offers “enterprise grade Hadoop for data processing, warehousing and analytics, enabling organizations to turn large, complex data volumes into meaningful insights,” reports a news release, complementing which are Infosphere Streams for real-time analytics with micro-second latency, IBM Watson Explorer for Big Data exploration and search, IBM Business Analytics for predictive analytics and Big Data reporting and visualisation.
+This new collaboration in data analytics provides an obvious and exciting extension to open up our skills to a wider business audience.
+This unique toolset will allow any company to both accelerate their understanding of data and its value within their business.”STFC has experience in several industries in assisting them with Big Data technology solutions, including Democrata, healthcare giant GSK and KnowHow information among others.
+
+Other Blogs by admin: https://dataconomy.com/author/admin/

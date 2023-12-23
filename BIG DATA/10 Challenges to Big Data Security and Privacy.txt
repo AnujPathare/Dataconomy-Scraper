@@ -1,0 +1,72 @@
+Title: 10 Challenges to Big Data Security and Privacy
+
+Article Link: https://dataconomy.com/2017/07/28/10-challenges-big-data-security-privacy/
+
+Author: Peter Buttler
+
+Publish Date: 2017-07-28
+
+Article:
+Big Data could not be described just in terms of its size. However, to generate a basic understanding, Big Data are datasets which can’t be processed in conventional database ways to their size. This kind of data accumulation helps improve customer care service in many ways. However, such huge amounts of data can also bring forth many privacy issues, making Big Data Security a prime concern for any organization. Working in the field of data security and privacy, many organizations are acknowledging these threats and taking measures to prevent them.
+
+On November 25th-26th 2019, we are bringing together a global community of data-driven pioneers to talk about the latest trends in tech & data at Data Natives Conference 2019. Get your ticket now at a discounted Early Bird price!
+
+Why Big Data Security Issues are Surfacing
+
+Big data is nothing new to large organizations, however, it’s also becoming popular among smaller and medium sized firms due to cost reduction and provided ease to manage data.
+
+Cloud-based storage has facilitated data mining and collection. However, this big data and cloud storage integration has caused a challenge to privacy and security threats.
+
+The reason for such breaches may also be that security applications that are designed to store certain amounts of data cannot the big volumes of data that the aforementioned datasets have. Also, these security technologies are inefficient to manage dynamic data and can control static data only. Therefore, just a regular security check can not detect security patches for continuous streaming data. For this purpose, you need full-time privacy while data streaming and big data analysis.
+
+Protecting Transaction Logs and Data
+
+Data stored in a storage medium, such as transaction logs and other sensitive information, may have varying levels, but that’s not enough. For instance, the transfer of data between these levels gives the IT manager insight over the data which is being moved. Data size being continuously increased, the scalability and availability makes auto-tiering necessary for big data storage management. Yet, new challenges are being posed to big data storage as the auto-tiering method doesn’t keep track of data storage location.
+
+Validation and Filtration of End-Point Inputs
+
+End-point devices are the main factors for maintaining big data. Storage, processing and other necessary tasks are performed with the help of input data, which is provided by end-points. Therefore, an organization should make sure to use an authentic and legitimate end-point devices.
+
+Securing Distributed Framework Calculations and Other Processes
+
+Computational security and other digital assets in a distributed framework like MapReduce function of Hadoop, mostly lack security protections. The two main preventions for it are securing the mappers and protecting the data in the presence of an unauthorized mapper.
+
+Securing and Protecting Data in Real Time
+
+Due to large amounts of data generation, most organizations are unable to maintain regular checks. However, it is most beneficial to perform security checks and observation in real time or almost in real time.
+
+Protecting Access Control Method Communication and Encryption
+
+A secured data storage device is an intelligent step in order to protect the data. Yet, because most often data storage devices are vulnerable, it is necessary to encrypt the access control methods as well.
+
+Data Provenance
+
+To classify data, it is necessary to be aware of its origin In order to determine the data origin accurately, authentication, validation and access control could be gained.
+
+Granular Auditing
+
+Analyzing different kinds of logs could be advantageous and this information could be helpful in recognizing any kind of cyber attack or malicious activity. Therefore, regular auditing can be beneficial.
+
+Granular access control
+
+Granular access control of big data stores by NoSQL databases or the Hadoop Distributed File System requires a strong authentication process and mandatory access control.
+
+Privacy Protection for Non-Rational Data Stores
+
+Data stores such as NoSQL have many security vulnerabilities, which cause privacy threats. A prominent security flaw is that it is unable to encrypt data during the tagging or logging of data or while distributing it into different groups, when it is streamed or collected.
+
+Conclusion
+
+Organizations must ensure that all big data bases are immune to security threats and vulnerabilities. During data collection, all the necessary security protections such as real-time management should be fulfilled. Keeping in mind the huge size of big data, organizations should remember the fact that managing such data could be difficult and requires extraordinary efforts. However, taking all these steps would help maintain consumer privacy.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: However, such huge amounts of data can also bring forth many privacy issues, making Big Data Security a prime concern for any organization.
+Why Big Data Security Issues are SurfacingBig data is nothing new to large organizations, however, it’s also becoming popular among smaller and medium sized firms due to cost reduction and provided ease to manage data.
+For this purpose, you need full-time privacy while data streaming and big data analysis.
+Data size being continuously increased, the scalability and availability makes auto-tiering necessary for big data storage management.
+Yet, new challenges are being posed to big data storage as the auto-tiering method doesn’t keep track of data storage location.
+
+Other Blogs by Peter Buttler: https://dataconomy.com/author/peter-buttler/

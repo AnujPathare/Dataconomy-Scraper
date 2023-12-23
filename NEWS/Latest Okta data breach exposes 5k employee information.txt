@@ -1,0 +1,50 @@
+Title: Latest Okta data breach exposes 5k employee information
+
+Article Link: https://dataconomy.com/2023/11/03/okta-data-breach-exposes-employee/
+
+Author: Onur Demirkol
+
+Publish Date: 2023-11-03
+
+Article:
+The latest Okta data breach recently came to light and it was reported that five thousand employees’ information was exposed by the threat actors.
+
+Nearly 5,000 present and past Okta employees, along with their dependents, found themselves at risk due to a recent data breach. This breach occurred because a third-party healthcare service provider, Rightway Healthcare, suffered a cyberattack. Rightway Healthcare, utilized by Okta to help employees access healthcare services, uncovered the breach on September 23, 2023, leading to a concerning revelation.
+
+An eligibility census file including sensitive information such as names, Social Security numbers, and health insurance information was hacked. This security compromise impacted 4,961 workers. Okta immediately initiated an investigation to determine the extent of the harm to both current and past employee data as well as their dependents.
+
+Okta data breach revealed in October
+
+The breach came to Okta’s attention on October 12, 2023, when Rightway disclosed the attack. Subsequently, Okta launched a comprehensive investigation to determine the extent of the compromise and mitigate potential risks arising from this security incident.
+
+This breach affected 4,961 workers, according to Okta’s notification to the Office of the Maine Attorney General. The leaked information, particularly the exposing of SSNs, complete names, and health-related data, offers significant threats to individuals and can be used maliciously by hackers.
+
+Aside from the danger provided by the broadcast of workers’ entire identities, the revelation of employees’ full names might enable hackers in obtaining corporate email addresses. This information might be abused using specific brute-forcing methods, increasing the danger of stealing important enterprise accounts.
+
+NASCO data breach exposes 800k users
+
+Response to the Okta data breach
+
+Despite no current evidence indicating misuse of the exposed information, Okta is taking proactive measures to safeguard affected individuals. The company is providing instructions for enrolling in two-year credit monitoring, identity theft protection, and fraud protection services through Experian. This additional security layer aims to mitigate potential harm or misuse of the compromised personal data.
+
+In a statement following the disclosure, Okta clarified that the exposed employee data dates back from April 2019 through 2020. This incident is part of a series of breaches the company has faced over the past few years, escalating concerns about the security of sensitive information within the organization.
+
+According to Bleeping Computer, “An Okta vendor, Rightway Health, had a security incident in September 2023 in which files from April 2019 through 2020 were exfiltrated from its IT environment/ These contained personal information about employees and their dependents from 2019/2020. This incident does not relate to the use of Okta services and Okta services remain secure. No Okta customer data is impacted by this incident,” a spokesperson from Okta said.
+
+This is not the first time
+
+Okta’s recent security lapses have been a cause for concern within the tech community. The company previously faced breaches due to social engineering attacks or credential theft, showcasing vulnerabilities within its security infrastructure. For instance, in October 2023, attackers accessed files containing cookies and session tokens uploaded by customers to Okta’s support management system. That Okta data breach impacted several customers, including BeyondTrust, Cloudflare, and 1Password. You can read more about that here.
+
+The year 2022 witnessed another breach where hackers gained access to confidential information and source code stored within Okta’s private GitHub repositories. Additionally, a prior hack in March 2022, attributed to the Lapsus$ threat group, affected customer data, heightening worries about data security.
+
+In conclusion, Okta’s efforts to mitigate the repercussions of this breach reflect a commitment to ensuring data security and protecting affected individuals. However, the company’s recurrent security incidents underline the evolving nature of cyber threats and the continuous need for robust security measures within organizations.
+
+Featured image credit: Fili Santillán/Unsplash
+
+Summary: The latest Okta data breach recently came to light and it was reported that five thousand employees’ information was exposed by the threat actors.
+Nearly 5,000 present and past Okta employees, along with their dependents, found themselves at risk due to a recent data breach.
+Okta data breach revealed in OctoberThe breach came to Okta’s attention on October 12, 2023, when Rightway disclosed the attack.
+NASCO data breach exposes 800k usersResponse to the Okta data breachDespite no current evidence indicating misuse of the exposed information, Okta is taking proactive measures to safeguard affected individuals.
+This incident does not relate to the use of Okta services and Okta services remain secure.
+
+Other Blogs by Onur Demirkol: https://dataconomy.com/author/onurdemirkol/

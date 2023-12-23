@@ -1,0 +1,38 @@
+Title: Winning with Data Science, Golden State Warriors Style
+
+Article Link: https://dataconomy.com/2017/07/04/golden-state-warriors-data-science/
+
+Author: Bove Beardsley
+
+Publish Date: 2017-07-04
+
+Article:
+The Golden State Warriors are on top of the NBA after winning their second championship in three years. They have been in the finals for three consecutive years, set the regular season wins record at 72 wins in the 2015-16 season, and came one game away from going undefeated through the whole playoffs in the last season. The Golden State Warriors have emerged from the darkness of a 40 year title drought to become one of the most promising dynasties in NBA history. Their front office has assembled an incredible roster through smart planning, excellent talent evaluation, an organizational willingness to weigh all possible information available, and of course a bit of luck. Golden State Warriors owner Joe Lacob has previously sparked controversy by boasting about the team being “light years ahead“ of the rest of the NBA in terms of structure, planning, and organizational operations. While Lacob’s comments were certainly hyperbolic, they were not entirely baseless as Golden State has been one of the NBA’s earliest adopters of sports analytics and data science.
+
+Analytics, from Santa Cruz with love
+
+The Golden State Warriors’ first foray into attempting to use analytics and other such data science came from a test of their G-League affiliate, the Santa Cruz Warriors. Joe Lacob’s son Kirk Lacob, fresh out of Stanford, was made assistant GM and was put in charge of the G-League team, where he employed a statistics-heavy approach to front office management. The plan here was for Santa Cruz to be a test bed for the team’s more forward-thinking plans, where they dealt with much lower-stakes scenarios. The successes from Santa Cruz would then be evaluated and then employed by the main organization in Oakland.
+
+The Santa Cruz Warriors became a model developmental team under the younger Lacob. In his first two seasons in Santa Cruz, the team made the development league finals each year. In addition to the consistent winning, Santa Cruz consistently pumped out solid NBA contributors such as Kent Bazemore and Dewayne Dedmon. It became clear that the experiment in Santa Cruz was a success, and the younger Lacob was brought up to join the head front office of the Golden State Warriors
+
+The Golden State Warriors front office became one of the early adopters in the field of basketball analytics, partially due to the success of the Santa Cruz affiliate. They began to look into many new types of technologies in order to gain any news bits of information about their games. The more data they could get access to, the more they would be able to learn about their team’s strengths and weaknesses.
+
+For the Golden State Warriors, EPV is the real MVP
+
+The team looks at all sorts of analytics as part of their planning and research process. One of the most often utilized advanced metrics is EPV, or Estimated Possession Value. This metric is generated in a statistical model that absorbs information from an army of cameras trained on every inch of the court. The model tracks the exact location of every player on the court, and gives an Estimated Possession Value number for each moment of play on the court. This means that if a great three point shooter like Klay Thompson were to receive a pass right behind the three point line after coming open off a screen, then his team would have a relatively high EPV in that moment. Alternatively, if a poor shooter like Aaron Gordon were to receive a pass at the top of the key whilst being closely guarded by a great defender like Draymond Green, then his team would have a relatively low EPV in that moment.
+
+Ultimately, this is a tracking model that attempts to evaluate the spatial positioning of every player on the floor through a series of cameras and quantify that information into a metric that states how likely that positioning is to result in points scored. The technology behind EPV came primarily through the release of SportsVU cameras back in 2009. These cameras are able to get 25 frames per second. There are six cameras in the rafters of an NBA arena, strategically positioned to cover the entire floor. The cameras are so advanced and able to quickly track objects that the original technology behind these cameras actually came from a missile tracking system in the Israeli military. Because of these hyper-advanced cameras, teams now have access to a myriad of new data points and metrics, and EPV has been one of the main ones to emerge. Golden State was one of the first 6 teams(Dallas, Houston, San Antonio, Boston, and Oklahoma city being the other 5) to have these advanced cameras installed at their home arena. This is the sort of advanced analytics that the Golden State Warriors embraced early on, and that all NBA teams are utilizing today.
+
+Overall, Golden State has shown an enthusiastic willingness to embrace all new forms of technology and data and utilize it to their benefit. They have been rewarded for the pioneering work they have done in this field, as they are now at the top of the mountain in the NBA, and the methods that they embraced over 6 years ago have now become common-place all around the league.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: The Golden State Warriors are on top of the NBA after winning their second championship in three years.
+The Golden State Warriors have emerged from the darkness of a 40 year title drought to become one of the most promising dynasties in NBA history.
+Analytics, from Santa Cruz with loveThe Golden State Warriors’ first foray into attempting to use analytics and other such data science came from a test of their G-League affiliate, the Santa Cruz Warriors.
+For the Golden State Warriors, EPV is the real MVPThe team looks at all sorts of analytics as part of their planning and research process.
+This is the sort of advanced analytics that the Golden State Warriors embraced early on, and that all NBA teams are utilizing today.
+
+Other Blogs by Bove Beardsley: https://dataconomy.com/author/bove-beardsley/

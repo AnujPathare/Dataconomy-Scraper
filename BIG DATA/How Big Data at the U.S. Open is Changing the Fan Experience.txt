@@ -1,0 +1,34 @@
+Title: How Big Data at the U.S. Open is Changing the Fan Experience
+
+Article Link: https://dataconomy.com/2014/09/19/how-big-data-at-the-u-s-open-is-changing-the-fan-experience/
+
+Author: Rick Delgado
+
+Publish Date: 2014-09-19
+
+Article:
+Tennis fever is in the air. The U.S. Open tennis tournament recently concluded in New York City’s Flushing Meadows, and fans experienced an electric atmosphere as the biggest stars in tennis faced off. Watching an exciting tennis match provides plenty of entertainment by itself, but the overall experience is getting a major upgrade with the inclusion of big data. Plenty of organizations and businesses have become quite familiar with big data, using it to increase retail sales or sniff out fraud, but big data may seem like a strange fit for sports, particularly tennis. The relationship might feel out of place, but big data analytics is proving an effective catalyst for transforming the fan experience at the U.S. Open.
+
+Most tennis fans love to study the game by comparing players and statistics at each of the major tournaments held around the world. Big data is playing a huge role in helping these fans analyze the game through unprecedented access to information. With big data analytics provided by IBM, statistics from the past eight years of Grand Slam tournaments are scrutinized in painstaking detail to identify patterns from individual players. The amount of big data being looked at is massive, with more than 41 million data points analyzed. These stats can go from basic information, like the speed of serves or the number of double faults in a match, to much more advanced data, like win percentage of four- to eight-shot rallies or winners on the forehand side of the court. What results from this analysis is an in-depth look that helps to define strengths and weaknesses in a player’s game, while also providing a predictive look at what may happen during a match.
+
+The incredible analysis offered by this big data platform initiative has a remarkable effect on the fan experience. The patterns and insights derived from big data can be put into the hands of the average fan through data visualization. On the U.S. Open app and website, fans can access this information, getting detailed looks at matches that have recently concluded. But the benefits go far beyond after-the-fact statistics. With data collected from sensors placed all over the court, fans can even get real-time stats in the middle of a match, with new information being updated instantly and the latest predictions being transmitted. In other words, fans can watch a match on television or in person while also referring to the app on their smartphones or tablets to find out what the latest predictive analysis says about who will come out the winner.
+
+All this data analysis is also transforming the fan experience in ways outside of the main competition. A new feature that was first introduced at this year’s U.S. Open takes all the collected tennis data and assigns sounds to each data point with the use of a special algorithm. For example, an ace will be assigned a specific sound while double faults will get a different sound. The point of this is to turn the data into music. With matches turned into data turned into music, fans can get a sense of the momentum and ebbs and flows of a match through audio. For now, the music feature is only available at the event itself, though it’s not out of the realm of possibility to think it may be made available on the app or website in the near future.
+
+With so much processing power needed and higher demands on wireless features, managing digital traffic has become an essential component of functionality at the U.S. Open. Fans are using digital resources at a growing rate with more than 117,000,000 mobile page views for the tournament. All of that traffic requires the latest in cloud computing technology to make the entire infrastructure run smoothly. It also requires advances in network security to make sure fans are protected from cyber attacks and their personal data is kept safe from malicious malware. As the availability of mobile platforms is made continuous, fans can get the most out of the new features being offered thanks to big data.
+
+While most fans may be unaware of how influential big data is in the tennis world, they are likely taking part in many of the results that come from big data analytics. Big data can turn even the casual fan into an expert, helping them understand and even predict the outcomes of matches. In other words, the entire experience can be turned into an even more enjoyable one. The end result may likely be a growing fanbase and rejuvenated interest in tennis.
+
+Rick Delgado- I’ve been blessed to have a successful career and have recently taken a step back to pursue my passion of freelance writing. I love to write about new technologies and keeping ourselves secure in a changing digital landscape. I occasionally write articles for several companies, including Dell.
+
+
+
+(Image credit: Steve Pisano)
+
+Summary: Plenty of organizations and businesses have become quite familiar with big data, using it to increase retail sales or sniff out fraud, but big data may seem like a strange fit for sports, particularly tennis.
+The relationship might feel out of place, but big data analytics is proving an effective catalyst for transforming the fan experience at the U.S. Open.
+The amount of big data being looked at is massive, with more than 41 million data points analyzed.
+The incredible analysis offered by this big data platform initiative has a remarkable effect on the fan experience.
+The patterns and insights derived from big data can be put into the hands of the average fan through data visualization.
+
+Other Blogs by Rick Delgado: https://dataconomy.com/author/rick-delgado/

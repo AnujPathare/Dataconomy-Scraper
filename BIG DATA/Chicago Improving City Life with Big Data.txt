@@ -1,0 +1,40 @@
+Title: Chicago: Improving City Life with Big Data
+
+Article Link: https://dataconomy.com/2014/06/23/chicago-improving-city-life-big-data/
+
+Author: admin
+
+Publish Date: 2014-06-23
+
+Article:
+Follow @DataconomyMedia
+
+A report from The Chicago Council on Global Affairs was released this month aiming to tackle the question of how big data can be used in municipal and government decision-making. Using specific examples from the City of Chicago, the report suggests that as cities become more populated, officials will have to implement big data analytics to improve the delivery of goods, depth of services, and the quality of life.
+
+The report looks at four sectors that could benefit from big data and where early action will have significant benefits. Below is a summary of each sector:
+
+1) Energy – The report calls upon the amount of energy that is wasted due to ineffective management and distribution of power. “Smart grids”, a network of power lines and substations that uses digital communications technology to detect and react to local changes in usage, is one way data will help cities increase efficiency and decrease costs. As the report says, “eventually, as more data becomes available and smart grids develop, we expect to see significant changes in both suppy and demand that will increase reliability and reduce costs and environmental impact.” One example of this is the “smart-grid bill” (formally known as the Energy Infrastructure and Modernization Act), which will see ComEd, a major electricity company, invest $2.6 billion in smart grid implementation in Chicago and install smart meters in 1.3 million homes by 2018.
+
+2) Transportation – The use of analytics in transportation is vital to the way a city “moves.” The report highlights that, “providing efficient movement of people and goods locally, nationally, and internationally is critical to a vibrant and thriving city.” To ensure transportation runs smoothly, open and available data should be accessible by the public. As such, the report shows two case studies where open data helps improve transportation: 1) Chicago Traffic Tracker, a website that provides real-time traffic conditions on arterial streets, average daily traffic volumes, traffic signal locations, pedestrian counts, and automated red light enforcement programme intersections through the city. 2) Train and Bus Tracker, a programme that estimates arrival times, produces customer alerts, allows users to track a bus in real-time, and many more functions. The Chicago Transport Authority sees around 1.6 million trips taken on the transit system daily and collects a massive amount of data – On travel routes, the way people get on and off each bus/train stop and where these trains and busses are in real-time. All of this information, the report claims, can be leveraged to improve reliability and quality of public transport.
+
+3) Education – With one of the worst graduation results and test scores, the Chicago Public School System (CPS) has implemented data analytics to understand the causes of this and make timely and meaningful adjustments to address “critical gaps in school and student performance, student safety, and job preparedness.” In 2003 the graduation rate was 44 percent, and now it is 65.4 percent – which big data played a part in, according to the study. The study goes on to say, “by collecting and analysing linked data sets, researchers can develop a clearer understanding of what drives student performance and test whether new initiatives are successful at addressing gaps in the education system”
+
+4) Public Safety – To combat the recent surge in crime, Chicago is employing big data analytics to better coordinate responses, anticipate crimes, provide social services, “understand the criminal landscape, and quantify outcomes.” Big data, the study claims, has helped law enforcement create “social networks” that, for example, “indentify individuals who are more likely to be crime victims and thus allow for better targeting of prevention stratgeies.”
+
+Read the report here
+
+Follow @DataconomyMedia
+
+Interested in more content like this? Sign up to our newsletter, and you wont miss a thing!
+
+[mc4wp_form]
+
+(Image Credit: Flikr)
+
+Summary: Follow @DataconomyMediaA report from The Chicago Council on Global Affairs was released this month aiming to tackle the question of how big data can be used in municipal and government decision-making.
+Using specific examples from the City of Chicago, the report suggests that as cities become more populated, officials will have to implement big data analytics to improve the delivery of goods, depth of services, and the quality of life.
+The report looks at four sectors that could benefit from big data and where early action will have significant benefits.
+As such, the report shows two case studies where open data helps improve transportation: 1) Chicago Traffic Tracker, a website that provides real-time traffic conditions on arterial streets, average daily traffic volumes, traffic signal locations, pedestrian counts, and automated red light enforcement programme intersections through the city.
+All of this information, the report claims, can be leveraged to improve reliability and quality of public transport.
+
+Other Blogs by admin: https://dataconomy.com/author/admin/

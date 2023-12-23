@@ -1,0 +1,54 @@
+Title: First Speakers Announced for Data Natives 2018, The Tech Conference of the Future
+
+Article Link: https://dataconomy.com/2018/08/09/data-natives-first-speakers-announced/
+
+Author: Eileen McNulty
+
+Publish Date: 2018-08-09
+
+Article:
+Preparations are well underway for the 2018 edition of Data Natives– the data driven conference of the future, hosted in Dataconomy’s hometown of Berlin. Data Natives brings together a global community of data-driven pioneers to explore the technologies that are shaping our world- from big data to blockchain, from AI to the Internet of Things.
+
+On the 22nd & 23rd November, 160 speakers and 1,600 attendees will come together to explore the tech of tomorrow. As well as two days of inspiring talks, Data Natives will also bring informative workshops, satellite events, art installations and food to our data-driven community, promising an immersive experience in the tech of tomorrow.
+
+The theme of this year’s conference is quickening. Technology is developing at an unprecedented rate, and the pace of life is advancing with it- we all know that famous statistic that more data was produced in 2017 than in the previous 5,000 years of human existence combined. But what does this accelerated pace mean for businesses, for scientists, and for each and every human? How can enterprises catch up to tech landscape that’s accelerating at an unprecedented speed? How can we best use the influx of data to fuel the breakthroughs that will shape our scientific landscape? How can we adapt to life at an accelerated pace- and is there any way to switch off and slow down?
+
+Today, we’re pleased to announce the first seven speakers who will join us in Berlin to explore these questions, and provide insights that will allow us to catch up to an accelerated world.
+
+BART DE WITTE- Director of Digital Health DACH, IBM & Chair Faculty of Digital Health, futur/io Institut
+
+Bart De Witte has over 20 years’ experience at the intersection of health, technology and business, working for companies including SAP, and is currently overseeing IBM’s Digital Health Unit. As IBM’s Director of Digital Health DACH, Bart is working on transforming health solutions in the DACH region, using IBM’s Watson Health to aid in this mission. When he’s not working with one of the world’s most sophisticated data platforms, he chairs the Faculty of Digital Health for futur/io, a new education and research institute focused on developing health systems which are inclusive and accessible to all.
+
+ANNINA NEUMANN- VP Data Technology, ProSiebenSat.1 Media SE
+
+ProSiebenSat.1 is the leading German entertainment company, reaching 45 million households, via web, mobile, smart TV, apps and social media. Unsurprisingly, such a vast company produces a vast and challenging array of data- and Annina Neumann is the person responsible for using this data to provide insights and build data-driven software components. For Data Natives 2018, Annina will be sharing her unique insights into AI in business applications.
+
+NOA TAMIR- Data Science Team Lead, Babbel
+
+A master of all trades, Noa Tamir has a diverse background in physics, economics, design and management. She has used her unique and multi-disciplinary approach to data science and King.com, and is currently the Data Science Team Lead at Babbel. When she’s not building Babbel’s Decision Making Data Science team, she also organises the R-Ladies Berlin Meetup.
+
+DANIEL MOLNAR- Data Engineer, Shopify
+
+Daniel Molnar has 19 years’ experience startups, 9 years’ experience in data, and has worked for leading companies including Microsoft and Zalando. This year, Daniel became the Director of Engineering for Shopify, an e-commerce giant who empower virtually anyone to open up their own online store. With clients including Red Bull, Nestle and Kylie Cosmetics, Shopify have proven themselves to be titans of ecommerce- with the hordes of data to prove it. We look forward to Daniel’s insights in wrangling such massive data sets.
+
+STEWART ROGERS- Director of Marketing Technology, VentureBeat
+
+VentureBeat is a publication known by almost everyone in the tech community- and their Director of Marketing Technology, Stewart Rogers, is similarly well-known in tech publishing and beyond. A self-described “journalist, analyst, founder, speaker, and digital nomad”, Stewart is currently the Director of Marketing Technology for VentureBeat and VentureBeat Insight, BV’s analysis and reports resource. With over 25 years’ experience in the IT and software industries, Stewart has used his unique insights into the developments in software and IT past, present and future to contribute to numerous publications and events.
+
+JOHANNES STARLINGER- Health Data Researcher, Charité – Universitätsmedizin Berlin
+
+Johannes Starlinger is a computer science postdoc and MD doing research in biomedical informatics at Charité and the research group for Knowledge Management in Bioinformatics at the Department of Computer Science at Humboldt-Universität zu Berlin. Combining his previous research and studies in Medicine and Computer Science, Johannes is currently focusing on service-oriented architectures in the healthtech sector, using knowledge mining and representation, similarity search, and predictive analytics.
+
+ELENA PETROVA- Data Scientist, Auto1 Group
+
+Elena Petrova is a Data Scientist for Auto1, Europe’s leading car trading platform. As part of her work for Auto1, Elena develops supervised machine learning models and Python packages for data processing and feature engineering. As part of Data Natives, Elena will be sharing her insights into unit testing for data science applications.
+
+Data Natives will take place on the 22nd & 23rd November at Kühlhaus Berlin- for tickets and more information, please visit the Data Natives website.
+
+Summary: Preparations are well underway for the 2018 edition of Data Natives– the data driven conference of the future, hosted in Dataconomy’s hometown of Berlin.
+Data Natives brings together a global community of data-driven pioneers to explore the technologies that are shaping our world- from big data to blockchain, from AI to the Internet of Things.
+She has used her unique and multi-disciplinary approach to data science and King.com, and is currently the Data Science Team Lead at Babbel.
+As part of Data Natives, Elena will be sharing her insights into unit testing for data science applications.
+Data Natives will take place on the 22nd & 23rd November at Kühlhaus Berlin- for tickets and more information, please visit the Data Natives website.
+
+Other Blogs by Eileen McNulty: https://dataconomy.com/author/eileen-mcnulty/

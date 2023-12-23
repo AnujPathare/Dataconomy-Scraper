@@ -1,0 +1,42 @@
+Title: Gartner Study Shows that Global Investment in Big Data Is Set to Increase Again
+
+Article Link: https://dataconomy.com/2014/09/19/gartner-study-shows-that-global-investment-in-big-data-is-set-to-increase-again/
+
+Author: admin
+
+Publish Date: 2014-09-19
+
+Article:
+The investment in Big Data technologies is set to continue according to a recent survey by Gartner.
+
+The key findings of the survey point out that 73 percent of respondents have either already invested or plan to invest in big data within the next 24 months, compared to last year’s 64 percent. The study also indicates that organizations are mobilizing their big data investment, as the number that had no plans for big data investment dropped to 24 percent this year compared to last year’s 31 percent.
+
+Lisa Kart, research director at Gartner, commented on the news, “Big data can help address a wide range of business problems across many industries and for the third year in our study, both enhancing the customer experience and improving process efficiency are the top areas to address.”
+
+“The most dramatic changes are in enhancing customer experience, especially in transportation, healthcare, insurance, media and communications, retail, and banking. Another area where we see an increase is using big data to develop information products, where organizations are looking to monetize their data,” she added.
+
+The survey was conducted in June 2014 with 302 respondents from the Gartner Research Circle members worldwide. It was carried out to understand “organizations’ technology investment plans relating to big data, stages of big data adoption, business problems solved, data, technology and challenges” and then juxtapose results with previous years’, reports Gartner.
+
+North America leads in Big Data investments with 47 percent of enterprises reporting investment as compared to last year’s 37.8 percent. ‘Strong and ‘Planned’ investments are imminent, across all vertical industries with communications and media leading as 53 percent of organizations surveyed have already invested and another 33 percent planning investments in big data technology.
+
+“Last year, we said 2013 was big data’s year of experimentation and early deployment,” said Nick Heudecker, research director at Gartner. “So is 2014. In 2013, only eight percent of organizations reported having big data projects deployed to production. This has increased to 13 percent in 2014, and while still relatively small, represents a sizeable increase.
+
+“However, the six percent drop in organizations still gathering knowledge about big data and the seven percent increase in pilots and experiments indicate that organizations are evolving in their understanding and willingness to explore big data opportunities,” he noted.
+
+More information can be found in the report “Survey Analysis: Big Data Investment Grows but Deployments Remain Scarce in 2014.”
+
+Read more here
+
+Follow @DataconomyMedia
+
+
+
+(Image Credit: Thomas Claveirole)
+
+Summary: The investment in Big Data technologies is set to continue according to a recent survey by Gartner.
+The study also indicates that organizations are mobilizing their big data investment, as the number that had no plans for big data investment dropped to 24 percent this year compared to last year’s 31 percent.
+It was carried out to understand “organizations’ technology investment plans relating to big data, stages of big data adoption, business problems solved, data, technology and challenges” and then juxtapose results with previous years’, reports Gartner.
+“However, the six percent drop in organizations still gathering knowledge about big data and the seven percent increase in pilots and experiments indicate that organizations are evolving in their understanding and willingness to explore big data opportunities,” he noted.
+More information can be found in the report “Survey Analysis: Big Data Investment Grows but Deployments Remain Scarce in 2014.”Read more hereFollow @DataconomyMedia(Image Credit: Thomas Claveirole)
+
+Other Blogs by admin: https://dataconomy.com/author/admin/

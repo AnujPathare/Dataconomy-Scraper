@@ -1,0 +1,98 @@
+Title: Bitcoin and Big Data: Can We Predict the Future Value of Virtual Currency?
+
+Article Link: https://dataconomy.com/2014/07/22/bitcoin-big-data-can-predict-future-value-virtual-currency/
+
+Author: Eileen McNulty
+
+Publish Date: 2014-07-22
+
+Article:
+We often discuss the inherent value of data; perhaps the most obviously valuable data is virtual currency. Bitcoin in particular has garnered vast media recognition and speculation in recent years; Jason Kolb named Bitcoin’s distributed proof of ownership model as a world-changing technology.
+
+Another area with incredibly high valuable potential is data science. But is there a way to combine the value streams of Bitcoin and big data? Can we use data science to alleviate the risk and harness the potential of virtual currency? Can we, in essence, use big data to predict the future value of Bitcoin?
+
+What is Bitcoin?
+
+Bitcoin is a decentralised digital currency, which works peer-to-peer without a centralised repository, and is currently accepted as a form of payment by 30,000 vendors. This video is pretty good introduction to Bitcoin for the unitiated:
+
+The “public ledger” mentioned in the video is known as the block chain. A conventional ledger records bills and notes which exist outside of it, whereas bitcoins are simply entries in the block chain.
+
+Bitcoin has several advantages; there are no transaction fees, no chargebacks, payment is typically fast and it isn’t ruled over by a government, meaning the money is yours and not subject to centralised control. You can also essentially create your own money if you purchase bitcoin mining equipment; although the overheads for the hardware, computing power and electricity have to be accounted for.
+
+But there is one major stigma surrounding Bitcoin; it’s volatile. Although Bitcoin continues to rise on the whole, several events in recent years have caused value to plummet. Last March, value took a serious hit when a technical glitch caused a fork in the blockchain, meaning two separate blockchains existed for six hours. Stock took a dive again at the end of 2013 when the founder of the Silk Road was arrested (Bitcoin was a preferred method of currency on the Silk Road due to its relative anonymity). It plummeted again (losing half of its value overnight) when BTC China said it would no longer be accepting new yuan deposits. Then again in February when Mt. Gox, once the largest Bitcoin exchange, went offline.
+
+But what if we could curb risk by forecasting Bitcoin’s future value? What if we could predict the value of Bitcoin with big data?
+
+Bitcoin and Big Data: Predicting Value
+
+There are companies out there who are using different metrics to predict the rise and fall of digital currencies; and with good reason.
+
+Social data prediction in particular has garnered alot of attention as a way to forecast Bitcoin value. Rick Burgess explains why:
+
+The value of Bitcoins is determined almost solely on market demand, because the number of coins on the market is predictable and are not tied to any physical goods
+
+Bitcoin traders tend to be in the same demographic as social media users, and so their attitudes, opinions and sentiment towards Bitcoin are well documented
+
+Bitcoin is predominately traded by individuals rather than large institutions
+
+Events that affect Bitcoin value are disseminated first and foremost on social media Bitcoin however has several characteristics which make it an ideal market for social data prediction:
+
+The userbases of Bitcoin and social media are aligned well, and there may be alot of potential in using them both in conjunction.
+
+One such company attempting to use social media in Bitcoin analytics is Coinalytics. They’re aggregating heterogenous data from social media, news outlets, forums and market data to fuel data-driven decision making in the Bitcoin ecosystem. Coinalytics is still very much in its infancy; it was founded last year by Fabio Federici straight out of university, along with iOS developer Petter Samuelsen. If they manage to build and release a successful platform, the panoramic view of the Bitcoin ecosystem they offer could certainly be useful. It’s currently not released, but you can sign up for early access here.
+
+Analytics is certainly a valuable tool, but what about actually predicting where the market is headed? BTCPredictions.com have taken up this formidable gauntlet. They’re using neural networks to predict future Bitcoin price movements on an hourly basis. The website shows a 24-hour, 5-day and 20-day forecast. The website explains how its predictions are made:
+
+Many economists like to speculate about the prices of stocks or other commodities (like bitcoin) but human predictions are not always reliable. The predictions on this website are created by software that analyzes millions of bitcoin transactions that have taken place over the past several years. The software uses a computational model called an artificial neural network to search through this immense data and find patterns in the rise and fall of prices.
+
+The model claims an average error rate of 7.326% across 20 days, 2.424% across 5 days and 1.165%. The comparsion chart of predictions vs. actual value looks pretty accurate:
+
+
+
+But the 20-day forecast shows some wild fluctuation, the accuracy of which is questionable:
+
+
+
+Also, the website comes with an important disclaimer:
+
+Unfortunately, predictions can become less accurate when real-life events significantly affect the value of bitcoins. This is important to keep in mind if you are making decisions based on the data on this website.
+
+In short, we can roughly forecast trends and examine in-depth analytics, but we can’t account for dramatic fluctuation caused by real-world events.
+
+NYC’s Bitcoin Regulations: The Next Bitcoin Price Plummet?
+
+Only this week, news came in which could shake the value of Bitcoin. New York State has released the first draft of its plans to regulate Bitcoin, and it’s surprisingly rigorous and archaic.
+
+If passed, the plans would mean Bitcoin businesses have to keep track of the physical addresses of their customers, as well the adresses of everyone who sends money to their customers via the Bitcoin network, entirely undermining the principles of the virtual currency. New York’s Bitcoin businesses would also be subject to rigorous observation by the New York State Department of Financial Services. They would have to submit frequent reports to the DFS, outlining changes in ownership, and even financial forecasts and strategic business plans. This would mean Bitcoin businesses would have to do more reporting than other businesses licensed by the DFS.
+
+Patrick Muck, general counsel for the Bitcoin Foundation, told Wired he found the proposals “ridiculous”. He adds, “Really the scope of this thing ropes in the whole industry. This proposal would set New York up as a quasi-federal regulator for the entire bitcoin industry.”
+
+Roger Ver, a libertarian and serial bitcoin business investor, similarly remarked “These men calling themselves government are not asking anybody to do anything. They are making demands, and will put us behind bars if we don’t obey. Bitcoin was specifically designed to strip away power from men who would be so presumptuous to believe that they have the right to rule over others.”
+
+At best, the new regulations will make life extremely difficult for Bitcoin businesses, already tackling a relatively new and volatile market. At worst, having the DFS acting as a “quasi-federal regulator” will cause confidence- and value- in Bitcoin to plummet. Most likely is a middle road, where new Bitcoin business is driven out of New York.
+
+Bitcoin has had its fair share of bumps in the road so far, and draconian regulation means instability may be set to continue. Do we have tools to predict future instabilities? In short, no. But we do have increasingly sophisticated analytics and rough forecasts through big data, which continue to grow everyday. And in an emerging, not-yet-stable market, these tools could prove to be incredibly valuable.
+
+(Featured Image credit: Jason Benjamin)
+
+Follow @DataconomyMedia
+
+
+
+Eileen McNulty-Holmes – Editor
+
+Eileen has five years’ experience in journalism and editing for a range of online publications. She has a degree in English Literature from the University of Exeter, and is particularly interested in big data’s application in humanities. She is a native of Shropshire, United Kingdom.
+
+Email: [email protected]
+
+Interested in more content like this? Sign up to our newsletter, and you wont miss a thing!
+
+[mc4wp_form]
+
+Summary: We often discuss the inherent value of data; perhaps the most obviously valuable data is virtual currency.
+But is there a way to combine the value streams of Bitcoin and big data?
+Can we, in essence, use big data to predict the future value of Bitcoin?
+What if we could predict the value of Bitcoin with big data?
+Social data prediction in particular has garnered alot of attention as a way to forecast Bitcoin value.
+
+Other Blogs by Eileen McNulty: https://dataconomy.com/author/eileen-mcnulty/

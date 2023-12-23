@@ -1,0 +1,38 @@
+Title: How Big Data Can Help in the Fight to Save India’s Tigers
+
+Article Link: https://dataconomy.com/2015/01/26/how-big-data-can-help-in-the-fight-to-save-indias-tigers/
+
+Author: Eileen McNulty
+
+Publish Date: 2015-01-26
+
+Article:
+Tigers remain one of the most powerful and awe-inspiring creatures on our planet. Yet despite being widely revered for their strength, ferocity and beauty, the tiger is in danger. According to WWF, as few as 3,200 exist in the wild today; we have lost a staggering 97% of wild tigers in just over a century. A team of scientists harnessed the power of big data in a groundbreaking study last year, which might hold the key to saving of our most beloved endangered species.
+
+The team focused on one major contributing factor in the endangerment of tigers- poaching. Tiger poaching is a profound problem in India, as the demand for tiger parts in traditional Chinese medicines remains high. The bones are most commonly used, finding use as an anti-inflammatory drug to treat rheumatism and arthritis, general weakness, headaches, stiffness or paralysis in lower back and legs and dysentery. Other parts have a wide range of uses; the whiskers are used to treat toothaches, the eyeballs can be found in epilepsy medicines, the brain is believe to combat pimples. There is a huge and diverse market for tiger remains, which poachers are keen to exploit.
+
+The crux of the problem is, these poachers aren’t amateur crooks; they’re expert huntsmen with an intimate knowledge of the land they poach. They know the tiger’s routes and pathways, and know exactly where to set traps to cause maximum damage. The misused prowess of the poachers is something Belinda Wright, executive director of the Wildlife Protection Society of India, readily acknowledges: ““They have unbelievable knowledge and jungle craft,” she told Ensia. “They will use every trick in the book.”
+
+Their solution was to devise a formula which would allow them to predict and anticipate the probability of poaching across India’s districts. Over several years, senior regional ecologist with Snow Leopard Trust and scientist with Nature Conservation Foundation Koustubh Sharma and his team harvested and analysed 25,000 data points relating to poaching reports from as far back as 1972, across 605 different districts. The data set included reported poaching crimes, as well as the locations where tiger parts had been seized. Working with such a large dataset was beneficial, but also challenging- “It’s such a huge dataset that whenever I would run the analysis cycle, it would take 20 to 25 minutes for each model,” Sharma notes.
+
+In spite of the struggle, Sharma notes the research was vital. ““At the end of the day we have to try to be a step ahead of the criminals,” he stated. “That’s what insurance companies and banks do. They do models and create projections, and invest. We have something similar. We have these models and projections, and we have to invest accordingly.”
+
+The struggle was worth it. The results of the study, published in Biological Conservation last year, identified 73 “hotspots” in poaching activity. Some of these hotspots came as a surprise to both the researchers and conservationists. The Nepal-India border region, for instance, was an area with little enforcement; yet the study identified it as one of the main areas for poaching and trafficking activity. The study saw poaching activity had risen considerably over time, due to a growing tiger population and direct transport links into China. In fact, trade and transport hubs made up a major portion of the identified hotspots; 17 districts with major rail routes, including Delhi and Indore, were named as hotspots despite being far from forests with dense tiger populations.
+
+However, the study is now at a turning point; great research is one thing, the right application is quite another. We have previously reported on several applications of data science for social good, including conflict prevention and policing, where excellent research which could genuinely have a profound positive impact has been conducted. However, such studies have reached a nadir point, where putting this data into the right hands, and getting the right people to listen to the findings has proved to be a monumental challenge.
+
+Wright remains optimistic that this will not be the fate of their study; already, the paper has been brought to the attention of the National Tiger Conservation Authority, where it will hopefully impact how they allocate resources to combat poachers. “What we need is good technology and good enforcement on the ground,” Wright remarks. “Nothing can replace a human with two legs, two hands and a brain.”
+
+Follow @DataconomyMedia
+
+
+
+(Image credit: USFWS, via Flickr)
+
+Summary: A team of scientists harnessed the power of big data in a groundbreaking study last year, which might hold the key to saving of our most beloved endangered species.
+The team focused on one major contributing factor in the endangerment of tigers- poaching.
+Tiger poaching is a profound problem in India, as the demand for tiger parts in traditional Chinese medicines remains high.
+They know the tiger’s routes and pathways, and know exactly where to set traps to cause maximum damage.
+The data set included reported poaching crimes, as well as the locations where tiger parts had been seized.
+
+Other Blogs by Eileen McNulty: https://dataconomy.com/author/eileen-mcnulty/

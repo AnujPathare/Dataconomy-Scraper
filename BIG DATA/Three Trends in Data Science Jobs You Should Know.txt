@@ -1,0 +1,90 @@
+Title: Three Trends in Data Science Jobs You Should Know
+
+Article Link: https://dataconomy.com/2020/09/10/three-trends-in-data-science-you-should-know/
+
+Author: Arwa Sutarwala
+
+Publish Date: 2020-09-10
+
+Article:
+If you are a Data Scientist wondering what companies could have the most career opportunities or an employer looking to hire the best data science talent but aren’t sure what titles to use in your job listings — a recent report using Diffbot’s Knowledge Graph could hold some answers for you.
+
+
+
+According to Glassdoor, a Data Scientist is a person who “utilizes their analytical, statistical, and programming skills to collect, analyze, and interpret large data sets. They then use this information to develop data-driven solutions to difficult business challenges. Data Scientists commonly have a bachelor’s degree in statistics, math, computer science, or economics. Data Scientists have a wide range of technical competencies including: statistics and machine learning, coding languages, databases, machine learning, and reporting technologies.”
+
+DATA SCIENCE COMPANIES: IBM tops the list of employers
+
+
+
+
+
+Of all the top tech companies, it is no surprise that IBM has the largest Data Science workforce. Amazon and Microsoft have similar amounts of Data Science employees. Despite their popularity, Google and Apple are in the bottom two. Why is this the case? It could have something to do with their attitude to how to attract and retain a data scientist. The report does not clearly mention the reasons for these rankings.
+
+
+
+However, Data Scientists want to work for companies that provide them with the right challenges, the right tools, the right level of empowerment, and the right training and development. When these four come together harmoniously, it provides the right space for Data Scientists to thrive and excel at their jobs in their companies.
+
+
+
+TOP FIVE COUNTRIES WITH DATA SCIENCE PROFESSIONALS: USA, India, UK, France, Canada
+
+
+
+The United States contains more people with data science job titles than any other country. Glassdoor actually names “Data Scientist as the best job in the United States for 2019.” After the United States are the following countries in this order:
+
+
+
+India
+
+United Kingdom
+
+France
+
+Canada
+
+Australia
+
+Germany
+
+Netherlands
+
+Italy
+
+Spain
+
+China
+
+China has the least amount of data science job titles at 1,829 compared to the United States’ number of 152, 608. But what is the scenario for Data Scientists in Europe? What is the demand and supply?
+
+
+
+Key findings indicate that demand for Data Scientists far outweighs supply in Europe. The existence of a combination of established corporations and up-and-coming startups have given Data Scientists many great options to choose where they want to work.
+
+
+
+MOST SOUGHT AFTER DATA SCIENCE JOB ROLES: Data Scientist, Data Engineer and Database Administrator.
+
+
+
+Among all companies, the most common job roles are Data Scientist, Data Engineer and Database Administrator. Data Scientist is the most common job role among all companies, with Database Administrator coming in at second place. If you remove Database Administrator, you find that Microsoft leads the way in terms of data science employees. This means that the reason for IBM’s lead in its data science workforce could largely be due to its sheer amount of Database Administrators. Unsurprisingly, across every job title in data science, males outnumber females 3:1 or more. It is also interesting to note that this ratio only exists within the Database Administrator category. At the Data Scientist category, the ratio reads 6:1.
+
+
+
+It also comes to no surprise that Data Scientist ranks number 1 in LinkedIn’s Top 10. It has a job score of 4.7, job satisfaction rating of 4.3 with 6,510 open positions paying a median base salary of $108,000 in the U.S. However, it is important to note that these positions do not work in isolation. A move towards Data Science collaboration is increasing the need for Data Scientists who can work alone and in a team as well. By utilizing the strengths of all the different job roles mentioned above, data science projects in companies remain manageable and their goals become more attainable. The main takeaway is that despite the vast amount of job titles, each role brings its own unique expertise to the table.
+
+
+
+DATA COLLECTION AND ANALYSIS
+
+Diffbot is an AI startup whose Knowledge Graph automatically and instantly extracts structured data from any website. After rendering every web page and browser, it interprets them based on formatting, content, and web page type. With its record linking technology, Diffbot found the people currently employed in the data science industry at a point in time to provide an accurate representation of the statistics mentioned in this article.
+
+
+
+Summary: According to Glassdoor, a Data Scientist is a person who “utilizes their analytical, statistical, and programming skills to collect, analyze, and interpret large data sets.
+Amazon and Microsoft have similar amounts of Data Science employees.
+TOP FIVE COUNTRIES WITH DATA SCIENCE PROFESSIONALS: USA, India, UK, France, CanadaThe United States contains more people with data science job titles than any other country.
+MOST SOUGHT AFTER DATA SCIENCE JOB ROLES: Data Scientist, Data Engineer and Database Administrator.
+A move towards Data Science collaboration is increasing the need for Data Scientists who can work alone and in a team as well.
+
+Other Blogs by Arwa Sutarwala: https://dataconomy.com/author/arwasutarwala/

@@ -1,0 +1,98 @@
+Title: Why 96% of Enterprises Face AI Training Data Issues
+
+Article Link: https://dataconomy.com/2019/07/30/why-96-of-enterprises-face-ai-training-data-issues/
+
+Author: Don Roedner
+
+Publish Date: 2019-07-30
+
+Article:
+A recent survey of over 225 enterprise Data Scientists, AI technologists and business stakeholders involved in active AI and machine learning (ML) projects, suggests that for most organizations, it’s still early days for AI technology.
+
+The AI market is projected to become a $190 billion industry by 2025 ( according to Markets and Markets), and global spending on cognitive and AI systems is expected to reach $35.8 billion in 2029, an increase of 44.0% over the amount spent in 2018 (according to IDC). This research suggests AI is advanced and on the move, already being undertaken by large enterprises and ready to make an impact on how we live and work.
+
+But it is still early days for AI when it comes to the implementation of AI in organisations and there are reasons for that. An AI system requires meticulous training before it can perform its intended function. When that function involves something as complex as making human-like judgments about images or videos – “seeing,” in other words – the system must be exposed to enormous volumes of accurately labeled and annotated training data. With AI becoming a growing enterprise priority, data science teams are under tremendous pressure to deliver projects, but frequently are challenged to produce training data at the required scale and quality.
+
+Why do organizations face challenges in structuring data suitable for the AI strategy
+
+The urgency of this challenge was one of the findings that emerged from the survey conducted by Dimensional Research and AIegion, the results of which are compiled in the report Artificial Intelligence and Machine Learning Projects Obstructed by Data Issues. The survey respondents confirmed that enterprise machine learning is nascent, data science teams are still small, growing data science expertise is not yet matched with equally mature ML project expertise, and training data challenges pose broad challenges to project success. Graphic demonstration of this last observation is reflected in the 96% of respondents who reported that their lack of training data technology and skills has impeded their ability to train their ML algorithms and attain the confidence their model must provide.
+
+Today, large enterprises with more than 100,000 employees are most likely to have an AI strategy – but only 50% of them currently have one, according to MIT Sloan Management Review. The survey reinforces this finding that AI is still nascent in the enterprise:
+
+70% report that their first AI/ML investment was within last 24 months
+
+Over half of enterprises report they have undertaken fewer than four AI and ML projects
+
+Only half of enterprises have released AI/ML projects into production
+
+A little less than two-thirds of survey respondents indicated that their ML project has progressed to the point that it is being trained on labeled data, which is a relatively early phase in the ML project life cycle. And more revealing of the immaturity of ML in the enterprise, were reports of where teams struggle and why half of projects never get deployed.
+
+
+
+Survey respondents expressed:
+
+
+
+78% of their AI/ML projects stall at some stage before deployment
+
+81% admit the process of training AI with data is more difficult than they expected
+
+76% combat this challenge by attempting to label and annotate training data on their own
+
+63% go so far as to try to build their own labeling and annotation automation technology
+
+Nearly 40% of failed projects reportedly stalled during training data-intensive phases e.g., training data preparation, algorithm training, model validation and scoring, and post-deployment enhancement.
+
+
+
+When asked the reason for the failure, respondents cited:
+
+Lack of expertise (55%)
+
+Unexpected complication (55%)
+
+Data problems (36%)
+
+Lack of model confidence (29%)
+
+Budget (26%), and
+
+Not enough people (23%)
+
+As already indicated, nearly two-thirds report that their ML project has progressed beyond proof of concept (POC) and algorithm development to the training data phase. For most, this phase is not going well; 80% report that training their algorithm has proved more challenging that they expected.
+
+The reasons why training algorithm data is challenging are numerous:
+
+Bias or errors in the data
+
+Not enough data
+
+Data not in a usable form
+
+Don’t have the people to label data
+
+Don’t have the tools to label the data
+
+Less than 4% have reported that training data has presented no problems. These data-related problems could stem from how data is being produced and labeled internally. Nearly three-quarters of the survey group indicated that they’re attempting to label and annotate training data on their own. A little over 40% suggested that they’re relying in whole or in part on off-the-shelf, pre-labeled data.
+
+These problems led to 7 out of 10 companies utilizing external services for their AI or ML projects with many of them focusing on data collection, labeling and expertise. With AI/ML talent rare and expensive, this research suggests that enterprises should consider using external solution providers for critical activities like data labeling and model scoring. The data provides evidence that such outsourcing leads to improved outcomes.
+
+Conclusion
+
+Enterprises assign strategic value to their machine learning initiatives and expect AI and ML to improve all aspects of their businesses, and potentially to be disruptive in their industry sectors.
+
+However, AI/ML projects are still early in their development within enterprises. Data science teams are relatively small and inexperienced, which impacts the efficacy and outcome of these projects. Securing and labeling the amount of data needed to support algorithm development and confidence levels continues to be a pain point for these organizations.
+
+Note: Participants were from all 5 continents representing 15 industries (technology, healthcare, financial services, education, manufacturing, government, retail, services, telecommunications, food and beverage, media and advertising, energy and utilities, transportation, pharmaceutical and nonprofit). Sixty-three percent of respondents represented companies with more than 5,000 employees, and 37% of respondents represented organizations with 1,000 – 5,000 employees.
+
+
+
+To download the full survey report, clink the link here.
+
+Summary: A recent survey of over 225 enterprise Data Scientists, AI technologists and business stakeholders involved in active AI and machine learning (ML) projects, suggests that for most organizations, it’s still early days for AI technology.
+When that function involves something as complex as making human-like judgments about images or videos – “seeing,” in other words – the system must be exposed to enormous volumes of accurately labeled and annotated training data.
+With AI becoming a growing enterprise priority, data science teams are under tremendous pressure to deliver projects, but frequently are challenged to produce training data at the required scale and quality.
+The survey respondents confirmed that enterprise machine learning is nascent, data science teams are still small, growing data science expertise is not yet matched with equally mature ML project expertise, and training data challenges pose broad challenges to project success.
+Nearly three-quarters of the survey group indicated that they’re attempting to label and annotate training data on their own.
+
+Other Blogs by Don Roedner: https://dataconomy.com/author/dr/

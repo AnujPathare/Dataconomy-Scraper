@@ -1,0 +1,52 @@
+Title: Lessons from the Basketball Court for Data Management
+
+Article Link: https://dataconomy.com/2020/01/01/lessons-from-the-basketball-court-for-data-management/
+
+Author: Amnon Drori
+
+Publish Date: 2020-01-01
+
+Article:
+A data management plan in a company is not something that can be implemented in isolation by one department or a team in your organisation, it is rather a collective effort – similar to how different players perform in a basketball court.
+
+From the smallest schoolyard to the biggest pro venue, from the simplest pickup game to the NBA finals — players, coaches, and even fans will tell you that having a game plan and sticking to it is crucial to winning. It makes sense; while all players bring their own talents to the contest, those talents have to be coordinated and utilized for the greater good. When players have real teamwork, they can accomplish things far beyond what they could achieve individually, even if they are nominally part of the squad. When team players aren’t displaying teamwork, they’re easy targets for competitors who know how to read their weaknesses and take advantage of them.
+
+Basketball has been used as an analogy for many aspects of business – from coordination to strategy – but among the most appropriate business activities that basketball most resembles is, believe it or not, data management. Perhaps more than anything, companies need to stick to their game plan when it comes to handling data – storing it, labeling it, and classifying it.
+
+A Good Data Management Plan Could Mean a Winning Season
+
+Without a plan followed by everyone in the organization, companies will soon find that their extensive collections of data are useless – just like the top talent a team manages to amass is useless without everyone on a team knowing what their role is. Failure to develop a data management plan could cost a company – in time, and even money. If data is not classified or labeled properly, search queries are likely to miss a great deal of it, skewing reports, profit and loss statements, and much more.
+
+Even more worrying for companies is the need for an ability to produce data when regulators come calling. With the implementation of the European Union’s General Data Protection Regulation (GDPR), companies no longer have an option not to have a tight game plan for data management. According to GDPR rules, all EU citizens have “the right to be forgotten” – which requires companies to know what data they have about an individual, and demonstrate an ability to delete it to EU inspectors on demand. Those rules apply not just to companies in Europe – but to companies that do business with EU residents as well. GDPR violators could be fined as much as €20 million, or 4% annual global turnover – whichever is greater.
+
+Even companies that have no EU clients or customers need to improve their data management game – because GDPR-style rules are moving stateside as well. California recently passed its own digital privacy law (set to go into effect in January), which gives state residents the right to be forgotten; other states are considering similar laws. And with heads of large tech firms, like Satya Nadella and Tim Cook, calling for privacy legislation in the U.S., it’s likely that federal legislation on the matter will be passed sooner than later.
+
+Data Management Teamwork, When and Where it Counts
+
+In basketball, players need to be molded to work together as a unit. A rogue player who decides that they want to be a “shooting star” instead of following the playbook and passing when appropriate may make a name for themselves, but the team they are playing for is unlikely to benefit much from that kind of approach. Only when all the players work together, with each move complementing the other as prescribed by the game plan, can a team succeed.
+
+In data management, teams generate information that the organization can use to further its business goals. Data on sales, marketing, engagement with customers, praises and complaints, how long it takes team members to carry out and complete tasks, and a million other metrics all go into the databases and data storage systems of organizations for eventual analysis.
+
+With that data, companies can accomplish a great deal: Improve sales, make operations more efficient, open new markets, research new products and improve existing ones, and much more. That, of course, can only happen if all departments are able to access the data collected by everyone.
+
+Metadata Management – a Star ‘Player’
+
+Especially important is the data about data – the metadata, used to refer to data structures, labels, and types. When different departments, and even individual employees, are responsible for entering data into a repository, they need to follow the metadata “game plan” – the one where all data is being labeled according to a single standard, using common dictionaries, glossaries, and catalogs. Without that plan, data could easily get “lost,” and putting together search queries could be very difficult.
+
+Another problem is the fact that different departments will use different systems and products to process their data. Each data system comes with its own rules, and of course each set of rules is different. That there is no single system for labeling between the different products just contributes to the confusion, making resolution of metadata issues all the more difficult.
+
+Unfortunately, not everyone is always a team player when it comes to metadata. Due to pressure of time or other issues, different departments tend to use different terminology for data. For example, a department that works with Europe may label its dates in the form of year/month/day, while one that deals with American companies will use the month/day/year label. In a search form, the fields for “years” and “days” will not match across all data repositories – thus creating confusion. The department “wins,” but what about everyone else? And even in situations where the same terminology is used, the fact that different data systems are in use could impact metadata.
+
+Different departments have different objectives and goals, but team members cannot forget the overall objective – helping the “team,” the whole company, win. The data they contribute is needed for those victories, those advancements. Without it, important opportunities could be lost. When data management isn’t done properly, teams may accomplish their own objectives – but the overall advancement of the company will suffer.
+
+
+
+“Superstars,” whose objective is to aggrandize themselves, have no place on a basketball team; they should be playing one-on-one hoops with others of their type. Teams in companies should learn the lesson – if you want to succeed in basketball, or in data management, you need to work together with others, following the data plan that will ensure success for everyone.
+
+Summary: Basketball has been used as an analogy for many aspects of business – from coordination to strategy – but among the most appropriate business activities that basketball most resembles is, believe it or not, data management.
+Failure to develop a data management plan could cost a company – in time, and even money.
+Data Management Teamwork, When and Where it CountsIn basketball, players need to be molded to work together as a unit.
+Metadata Management – a Star ‘Player’Especially important is the data about data – the metadata, used to refer to data structures, labels, and types.
+When data management isn’t done properly, teams may accomplish their own objectives – but the overall advancement of the company will suffer.
+
+Other Blogs by Amnon Drori: https://dataconomy.com/author/amnon-drori/

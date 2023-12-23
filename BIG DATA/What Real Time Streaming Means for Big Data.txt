@@ -1,0 +1,34 @@
+Title: What Real Time Streaming Means for Big Data
+
+Article Link: https://dataconomy.com/2016/07/21/what-real-time-streaming-means-for-big-data/
+
+Author: Rick Delgado
+
+Publish Date: 2016-07-21
+
+Article:
+As can likely be expected, big data analytics is in the midst of an evolution. It’s a typical sight for nearly any new technology as experts and organizations get more used to all of its capabilities. Big data is certainly no exception to these changes, especially as businesses understand its potential and eagerly look for the benefits big data provides. Another thing that can be expected is the desire to gain those benefits more quickly than ever before. For that and many other reasons, the next evolution of the big data phenomenon has turned out to be real time streaming of data. The traditional method used for big data analytics, while useful, is simply not enough for many organizations now. That method involved what was mainly a two-step process, that of collecting the necessary data, then performing the analytics. With real time data streaming, the two can be done simultaneously, meaning big changes for big data as a whole.
+
+Think of the benefits that come from real time streaming as similar to the traditional benefits of big data, only taken to the next level. Businesses have wanted the unique insights brought by big data analytics, and with real time data streaming, those insights can be found much more quickly. Streaming analytics allows organizations to be more active in their strategies instead of only reacting to events after the fact. In this, they can gain a significant competitive advantage over other rivals. Being able to act on data the moment they receive it also helps businesses respond to customer demands more effectively. This in turn leads to greater customer loyalty and high satisfaction.
+
+Real time streaming in many ways makes big data more effective at what it does, and the benefits go beyond more efficient business operations. If anything, real time streaming opens up more possibilities and capabilities for big data. Take for example the use of big data in fraud detection and security. Fraud detection remains a significant use case for companies in the financial sector, and those organizations need to use real time streaming and machine learning algorithms to determine immediately if a pattern is suspicious. The old method of collecting data and analyzing it afterward simply wouldn’t work since the damage could be done by the time a problem was identified. Detecting these suspicious patterns in the moment helps companies determine if something is amiss and helps them do something about it quickly. The same holds true when security breaches are detected.
+
+There are many other useful applications for big data when real time streaming is involved. Improved e-commerce, faster analysis of mobile apps data, and system monitoring for efficiency are just a few. Real time streaming also helps businesses keep track of the actions of their customers, particularly when they are visiting a website. Organizations may also use real time streaming to pay close attention to what people are saying about them on social media networks. Social media listening tools make accurately picturing brand awareness and attitudes possible, helping companies know how others actually feel about them and their products. These use cases open up big data opportunities in multiple areas, showing how important real time streaming is.
+
+The need for real time streaming will only increase as the Internet of Things (IoT) becomes more popular. With the number of items connected to the IoT expected to grow to the tens of billions before the end of the decade, the IoT would be paralyzed without real time data streaming. It’s really the only way to meet customer expectations and provide the insights needed in real time. Having to wait for analyses before acting would render the IoT a lot less helpful. As can be seen in the advances made in sensor technology, real time data streaming is a must for all these elements to work together well.
+
+Big data is only going to get bigger as real time streaming enters the mainstream. Organizations have an increased need to gather and analyze their data at the same time, making real time data streaming a must if big data is going to keep up with demand. Whether it’s analyzing data from the IoT or detecting security lapses in business systems, real time streaming will provide companies with a further edge in making the best use of all their big data.
+
+image credit: Leonard Patrick
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Big data is certainly no exception to these changes, especially as businesses understand its potential and eagerly look for the benefits big data provides.
+For that and many other reasons, the next evolution of the big data phenomenon has turned out to be real time streaming of data.
+With real time data streaming, the two can be done simultaneously, meaning big changes for big data as a whole.
+Businesses have wanted the unique insights brought by big data analytics, and with real time data streaming, those insights can be found much more quickly.
+Organizations have an increased need to gather and analyze their data at the same time, making real time data streaming a must if big data is going to keep up with demand.
+
+Other Blogs by Rick Delgado: https://dataconomy.com/author/rick-delgado/

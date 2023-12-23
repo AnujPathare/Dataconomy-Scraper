@@ -1,0 +1,40 @@
+Title: The Growing use of Big Data at Intelligence Agencies
+
+Article Link: https://dataconomy.com/2016/05/31/growing-use-big-data-intelligence-agencies/
+
+Author: Rick Delgado
+
+Publish Date: 2016-05-31
+
+Article:
+The typical Hollywood portrayal of spywork makes the field appear a lot more glamorous than it really is. For better or worse, intelligence agencies really feature a lot of sorting through files, documents, numbers, and other data, most of it done in office buildings with employees hunched over computers. While the work may seem mundane on the surface, that in no way takes away from its importance. Intelligence agencies face a tremendous challenge as they attempt to identify criminals and possible terrorists before something catastrophic happens. Finding these persons of interest take a great deal of effort, but many intelligence agencies may see a boost as they slowly adopt the latest big data analytics technologies. It’s this gradual adoption of big data that can lead to them becoming more effective in detecting threats and finding culprits.
+
+Paper to Digital
+
+By their very nature, intelligence agencies have had to deal with data. For most of their existence, this data came in the form of good old fashioned paper. Files were scrutinized, sorted, and deciphered at a meticulous level, and simply getting hold of this information could require plenty of time and resources. However, a revolutionary transformation has occurred in the past two decades as data around the world has migrated to the digital realm. Big data is known by the sheer size of data sets, not to mention the frequency with which it is collected and the various sources that data comes from. It’s easier now more than ever to gather this data, and while that part of the job has been alleviated, intelligence agencies now have a lot more information to sift through.
+
+Privacy Concerns
+
+Of course this isn’t without its own brand of controversy. Government surveillance of its citizens strikes at the very heart of every debate surrounding privacy and national security. Many privacy advocates wonder if it’s worth it for intelligence agencies to monitor millions of innocent citizens just to catch a few who may be guilty or who may commit crimes in the future. Obviously, this debate will remain a heated contest for many years to come. However one may feel about how intelligence agencies get their data, what can’t be denied is the important role big data is now playing as these agencies attempt to reach their goals.
+
+Data Volume
+
+The sheer amount of data that agencies have access to is almost incomprehensible. Recently released documents from the UK, for example, reveal that intelligence agencies can gather data such as medical records, travel records, commercial information, and financial records, in addition to data about internet activity and phone information. Given the volume of data now being collected, big data analytics has become an absolute must. That also means many intelligence agencies are turning to data scientists to use the latest big data tools like Hadoop in the cloud to find hidden insights from all the data gathered. It’s this use of the latest technology that will make big data a lot more manageable. Speed and agility are needed as part of a high performance analytics strategy. Intelligence agencies can use these tools in order to discard information deemed irrelevant while concentrating on the data sets that truly matter.
+
+Predicting Crime
+
+In much the same way businesses use big data as part of a predictive analytics strategy, intelligence agencies try to predict future events, only in this case they’re dealing with future crimes. As just one example, the CIA recently launched a new department called the Directorate in Digital Innovation (DDI). This Directorate aims to use big data for “anticipatory intelligence”, taking the data the CIA collects and using it to discover insights pointing to future events that may need CIA involvement. With the right talent and technology, the CIA will likely be able to achieve that goal to at least some extent.
+
+Obstacles and arguments will likely still be an issue as intelligence agencies become more ensconced in data. Even so, these agencies have realized that in order to function and actually respond to the current threats facing the world, big data adoption is an absolute must. It may not involve the same kind of excitement you’ll see in the next James Bond movie, but the work done at intelligence agencies with big data can end up being just as effective.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Finding these persons of interest take a great deal of effort, but many intelligence agencies may see a boost as they slowly adopt the latest big data analytics technologies.
+Big data is known by the sheer size of data sets, not to mention the frequency with which it is collected and the various sources that data comes from.
+However one may feel about how intelligence agencies get their data, what can’t be denied is the important role big data is now playing as these agencies attempt to reach their goals.
+Given the volume of data now being collected, big data analytics has become an absolute must.
+That also means many intelligence agencies are turning to data scientists to use the latest big data tools like Hadoop in the cloud to find hidden insights from all the data gathered.
+
+Other Blogs by Rick Delgado: https://dataconomy.com/author/rick-delgado/

@@ -1,0 +1,52 @@
+Title: Windows 11 23H2 is out, so is Microsoft Copilot
+
+Article Link: https://dataconomy.com/2023/11/01/windows-11-23h2-out-microsoft-copilot/
+
+Author: Onur Demirkol
+
+Publish Date: 2023-11-01
+
+Article:
+The latest update from Microsoft, Windows 11 23H2, introduces a range of new features. To get an early taste of these updates, a toggle in the Settings app allowed users to access them via an optional update while technically staying on version 22H2. Now, the official release of Windows 11 version 23H2 showcases the complete set of features.
+
+The update was announced a while ago, but only certain individuals had access to it, at least they preferred to have access, while the rest of the world continued using the older version of Windows 11. We knew what was on the way a month ago, thanks to Microsoft’s announcements. Now, it is officially available to anyone in the world!
+
+What’s new in Windows 11 23H2?
+
+The latest update from Microsoft introduces a range of new features. To get an early taste of these updates, a toggle in the Settings app allowed users to access them via an optional update while technically staying on version 22H2. Now, the official release of Windows 11 23H2 showcases the complete set of features.
+
+One significant change is replacing the Chat button for Microsoft Teams with a dedicated Microsoft Teams (Free) app pinned to the taskbar. It now features a flexible Mini mode, offering better maneuverability and accessibility than the previous Chat panel.
+
+Another noticeable improvement is the explicit identification of system component programs in the Start menu, as well as a dedicated area in the Settings app. The (Xbox) Game Bar, Microsoft Store, and Phone Link now uniquely appear under the System Components area of Settings. However, removing some of these programs may have a major impact on critical system functions.
+
+Dynamic Lighting provides native control over lighting devices that adhere to the open HID LampArray standard to consumers and developers. This move toward an open standard intends to improve the RGB device and software ecosystem by increasing device and application interoperability. The new feature includes APIs for Windows programs to control devices from both foreground and background settings, as well as a customizable settings page for users.
+
+The enhanced Windows Ink functionality empowers users to enable inking on editing fields directly, notably enhancing recognition technology and the scratch-out gesture for making necessary edits.
+
+The goal is to enable users to handwrite in any location where they can type on their Windows device.
+
+Here is a list of all the important features that came with Windows 11 23H2:
+
+Microsoft Copilot New file explorer Dynamic lightning Windows Ink enhancements Enhanced Volume Mixer Enhanced Windows Spotlight Enhanced passkey features Narrator Natural Voices Enhanced local file sharing
+
+Meet Microsoft Copilot
+
+The headline feature in Windows 11 23H2 is Microsoft Copilot, powered by Bing Chat, available in select markets. This innovative addition transforms the user’s desktop into a hub for various online tasks, with quick access to modify system settings and initiate focus sessions.
+
+The update includes a revamped File Explorer design, integrated RGB lighting controls, and a dedicated settings page for USB4 and Thunderbolt devices. Additionally, native apps such as Paint, Photos, and Snipping Tool have undergone substantial upgrades, offering enhanced features like layers in Paint and text recognition in screenshots with Snipping Tool.
+
+How to get the Windows 11 23H2 update
+
+Surprisingly, the official Windows 11 version 23H2 upgrade was originally made available as an optional update. To access the most recent features, users must enable the update option. Microsoft intends to start the automated update process “in the coming months,” to make the transition as smooth as possible.
+
+This upgrade uses the same code base as version 22H2. Thus, there will be no difficulties with new features. Microsoft underlines that both versions will continue to get the same upgrades, prolonging the support term for your PC.
+
+Featured image credit: Windows/Unsplash
+
+Summary: The latest update from Microsoft, Windows 11 23H2, introduces a range of new features.
+Now, the official release of Windows 11 version 23H2 showcases the complete set of features.
+What’s new in Windows 11 23H2?
+Here is a list of all the important features that came with Windows 11 23H2:Microsoft Copilot New file explorer Dynamic lightning Windows Ink enhancements Enhanced Volume Mixer Enhanced Windows Spotlight Enhanced passkey features Narrator Natural Voices Enhanced local file sharingMeet Microsoft CopilotThe headline feature in Windows 11 23H2 is Microsoft Copilot, powered by Bing Chat, available in select markets.
+How to get the Windows 11 23H2 updateSurprisingly, the official Windows 11 version 23H2 upgrade was originally made available as an optional update.
+
+Other Blogs by Onur Demirkol: https://dataconomy.com/author/onurdemirkol/

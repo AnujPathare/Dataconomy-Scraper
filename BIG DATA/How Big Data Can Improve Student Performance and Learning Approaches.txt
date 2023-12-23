@@ -1,0 +1,70 @@
+Title: How Big Data Can Improve Student Performance and Learning Approaches
+
+Article Link: https://dataconomy.com/2016/10/07/big-data-can-improve-student-performance-learning-approaches/
+
+Author: Joe Peters
+
+Publish Date: 2016-10-07
+
+Article:
+Due to the advances of modern technology, there has been a great change in the academic landscape. This substantial change has already had a great impact on the overall performance of students due to the more sophisticated approach to learning in general.
+
+Historically speaking, traditional teaching methods had a great deal of disconnect with the way that students learn, which is why so many of them fell behind. Given that the current generation is very digitally oriented, the educational sector has to switch its methods in order to be able to relate to these students who have grown up in the digital age. In this article, we bring you the story of big data and its impact on student performance and learning approaches.
+
+A Change in Perspective
+
+Given the age we live in, it comes as no surprise that various forms of online learning are becoming prevalent in comparison to traditional offline methods. For example, many of the traditional learning mediums are moving entirely online – it is enough to think about physical books and e-books, paper notebooks and tablets, standard classrooms and online courses. In fact, according to a recent study by the Babson Survey Research Group in 2015, it is likely that every student will be enrolled in at least one distance learning course during their academic careers in the coming years.
+
+For example, in 2015, the percentage of students enrolled in at least one distance course increased 3.9% from the prior year. Due to this transition, there has been a plethora of data generated with the purpose of understanding how students learn. Since the data has been gathered, technological experts have been working in conjunction with educational institutions in order to transform this data into ways to increase the potential for students to be able to learn more in the classroom.
+
+Insights into Students’ Preferred Learning Modes
+
+Today, educational facilities increasingly utilize tech-based educational solutions, including various online learning platforms. Many of those platforms have a feature that allows them to track information about the learning process of each student. When that information is combined with the general knowledge about students’ behavioral patterns, it is possible to gain valuable insights into ways that students learn.
+
+For example, there is a tool called Eduvant which can record information on the ways that students learn. This platform generates data ranging from student performance to warnings about certain student´s slow progress. With its daily information and actionable insights, this is one of the many great tools out there that provides useful findings about students.
+
+By analyzing those findings, educational institutions can decide on which learning approach is the best for each of their students. This will also allow the institution to pick up on different learning styles that tend to vary in correspondence with the subject that is being taught. A viable example of this can be seen when a specific student excels in a self-paced learning technique in a history class, but needs an instructor-led course when studying chemistry.
+
+Personalized Learning Experiences
+
+In the past, educators had to monitor dozens (even hundreds) of students in order to ascertain which of them had difficulties. However, it was often really hard to identify those students that needed additional attention. For example, a low score on an examination was the only way that a teacher could assess the student’s lack of understanding. Today, there´s the data-based approach to help both students and teachers.
+
+The data-based approach periodically tracks an individual student’s performance by using indicators such as: prior knowledge, level of academic ability, and individual interests. What this approach achieves is that it allows for personalized learning where the students can actively learn at their own pace. Furthermore, educators can provide their support, tools, and assistance to those students who need their attention in the classroom.
+
+One of the highly regarded platforms that features personalized courses and exercises is Khan Academy. Aside from the fact that it can be used by students and parents, this platform also allows teachers to provide individualized video tutorials and practices in many different subjects, predominately math. Specifically, teachers can modify tutorials and playlists and recommend certain videos and exercises to students. Additionally, students have the ability to set their own goals, and teachers have access to all the data.
+
+Khan Academy is only one of the many similar platforms that are used nowadays – each teacher can find what fits them best.
+
+Immediate Feedback
+
+Another advantage of big data is that it enables immediate feedback and real-time updates that make the teaching/learning approach substantially enhanced. For example, as the instructors receive information about the students, they are able to provide immediate responses through mediums such us online forums or chats. Many of the online learning platforms used by educational institutions utilize continuous feedback, which allows students to be more engaged in the learning process.
+
+Consider, for instance, a simple tool such as Canvas. By structure, it is a learning platform that enables teachers to use audio and video mediums to provide students with instructions and feedback about their work. There is also Google Classroom app, for example. It is designed predominantly for teachers and tutors who can use it to make lesson plans and assignments, and communicate with students.
+
+The timely communication of such tools allows instructors to correct the errors of their students faster than ever before. On the other hand, students can also contribute with they own feedback. For example, they can ask for a clarification of certain content or troubleshoot technical difficulties. Big data makes everything run faster and more smoothly.
+
+Improvements to Learning Materials
+
+The data-based approach allows for constant monitoring of how students interact not only with their colleagues and educators but also with the learning materials. By analyzing the learner data for a large number of students and courses, educators are able to see which educational strategies and exercises are effective and which are not.
+
+An example of this can be seen when learners skip some learning materials (e.g. videos) and still have good results. Such patterns provide guidelines for teachers on what to do next – in this specific scenario, they can omit videos and focus on other teaching methods. Lastly, big data also enables educators to see which strategies work for a specific target group of students. Oftentimes, there will be no universal solution.
+
+Final Thoughts
+
+Big data has the potential to make a great impact on the classroom. Not only does it provide valuable information about student’s preferred learning modes, but it also enables personalized learning experiences. This might be most helpful for those students that are struggling with certain learning issues.
+
+Moreover, big data enables educators and students to interact quickly and efficiently, and it also comes in handy when there´s a need to improve learning materials. It will be incredible to see how big data progresses in the coming years and how it improves the success of students around the globe.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Image: Alan Cleaver
+
+Summary: In this article, we bring you the story of big data and its impact on student performance and learning approaches.
+A Change in PerspectiveGiven the age we live in, it comes as no surprise that various forms of online learning are becoming prevalent in comparison to traditional offline methods.
+Insights into Students’ Preferred Learning ModesToday, educational facilities increasingly utilize tech-based educational solutions, including various online learning platforms.
+Many of the online learning platforms used by educational institutions utilize continuous feedback, which allows students to be more engaged in the learning process.
+Not only does it provide valuable information about student’s preferred learning modes, but it also enables personalized learning experiences.
+
+Other Blogs by Joe Peters: https://dataconomy.com/author/joepeters/

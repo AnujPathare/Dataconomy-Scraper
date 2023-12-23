@@ -1,0 +1,60 @@
+Title: Big Data’s Next Big Impact? Oil & Gas
+
+Article Link: https://dataconomy.com/2016/04/18/big-datas-next-big-impact-oil-gas/
+
+Author: Nav Dhunay
+
+Publish Date: 2016-04-18
+
+Article:
+‘Disruption’ is a pretty well-worn term these days, mentioned at least three times in the first five sentences of any tech blog and thrown around liberally at any good Silicon Valley hackathon. Up until relatively recently, the efforts of data-led disruption were directed squarely at consumers and changing the way they work, rest and play.
+
+Big Players in Big Data
+
+Wearable technology has undoubtedly become very big business. From smartwatches to fitness trackers, smart clothing and intelligent safety wear, innovation in the space has been rampant.
+
+An estimated 4.9 billion sensors are connected to the internet and that number is expected to rocket from 38 to 50 billion in just five years.The Google-owned Nest thermostat is a great example of the technology already making into our homes. It will learn when you like your environment warm or cold and autonomously adjust the heating to match your specific lifestyle while also maintaining peak efficiency.
+
+Old Industries, New Integration
+
+Beyond the consumer focused smart watches, remotely controllable kettles and connected garden appliances, Big Data has also set its sights on a number of new fields of opportunity such as healthcare and agriculture where there is real potential to have a significant impact and tackle some of the biggest global issues.
+
+Innovators have turned their hand to Big Data solutions within the healthcare space – predicted to be worth $117 billion by 2020 – improving medical research, drug management and enabling remote monitoring of patient recovery. Goldman Sachs estimates a future potential to save billions of dollars in asthma care alone.
+
+Within agriculture Big Data is also having a significant impact on the way food producers are planting, growing and harvesting the world’s food supply. Machinery, climatology and agronomy data are all being successfully combined and leveraged to increase productivity and reduce labour costs.
+
+Big Data’s Next Big Industry. Oil.
+
+Up until recently, data-driven solutions developed for oil and gas had been negligible. However, recent volatility in global energy markets has lead to plummeting oil prices,subsequently creating a stronger demand than ever for new solutions able to deliver increased levels of operational efficiency and automation. Numerous Big Data-led innovations are sitting at the heart of this disruption.
+
+Producing More with Less
+
+Technology-based optimization of oil well performance is not something entirely new and solutions which utilized some level of data analysis have existed for several years, developed and implemented primarily within North America. However, with significant installation costs, these products were aimed squarely at the top tier, high-performing wells and were simply uneconomical to apply to the aging, less prolific wells which make up around 80% of the overall market.
+
+Today, through the use of lightweight, pump-mounted sensors and secure wireless networks, rich data from ‘chatty’ onsite machinery, is able to be collected at a fraction of the cost it once did. Complex algorithms turn this big data into insightful data. Leveraging knowledge of fundamental physical properties, model equipment operations, production trends and reservoir dynamics, data analysis can deliver recommendations such as speed changes to a pump, optimal chemical injection rates as well as initiate autonomous micro-adjustments to individual pump strokes in order to maintain optimal production and efficiency.
+
+On top of this, captured data can be used to track wear on machinery, helping to predict asset failure and alerting operators of pending disruption thereby minimizing machine downtime and increasing site safety. As the software ingests more data, via machine learning capabilities, it becomes increasingly more intelligent and valuable to oil and gas producers.
+
+Data-driven intelligence can also be used to ensure wells are able to adapt to their environment, operating at peak intensity during times of lower energy cost and adjusting operations based on the known below-ground dynamics associated with specific drilling locations.
+
+End-to-end Efficiency
+
+For the largest organizations in the business such as Shell, those involved in every aspect of the lifecycle of energy resources, from drilling, through to refining and finally, retailing to consumers as fuel for their car or home, big data is being leveraged in varying ways throughout the process to provide increased insight and operational efficiencies.
+
+In the initial phases of surveying sites for resource deposits, sensors are used to monitor natural seismic waves below ground to gauge if they’ve passed through oil deposits. Choosing to drill one location over another once would have relied on the data from a few thousand readings. However, with the advancement of both data collection techniques and data analysis tools, operators are now able to crunch data from more than a million readings giving a far more detailed view of what’s below ground and making for better informed decisions.
+
+Once extracted, with limited capacity within refineries, fuel needs to be produced as close as possible to its point of end use to minimize transportation costs. Complex algorithms are enlisted to overlay production cost data with relevant economic indicators and weather patterns to determine likely demand, allocate relevant resources and even set prices at pumps.
+
+With cost barriers to entry being lowered as a result of continuing technological innovation and data intelligence within the oil field increasing rapidly, big data solutions have the potential to become ubiquitous across the oil industry and change its business model altogether. Through not only enabling operators to produce more with less, but having this optimization be carried out autonomously and with continuously growing intelligence due to ever-expanding data sets, connected devices are beginning to pave the way for a next generation energy industry able to maintain sustainability and profitability in even the toughest markets.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Big Players in Big DataWearable technology has undoubtedly become very big business.
+Innovators have turned their hand to Big Data solutions within the healthcare space – predicted to be worth $117 billion by 2020 – improving medical research, drug management and enabling remote monitoring of patient recovery.
+Within agriculture Big Data is also having a significant impact on the way food producers are planting, growing and harvesting the world’s food supply.
+Big Data’s Next Big Industry.
+Complex algorithms turn this big data into insightful data.
+
+Other Blogs by Nav Dhunay: https://dataconomy.com/author/nav/

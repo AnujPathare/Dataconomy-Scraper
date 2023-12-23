@@ -1,0 +1,28 @@
+Title: IBM Launches New Software-Defined Storage Technology
+
+Article Link: https://dataconomy.com/2014/05/13/ibm-launches-new-software-defined-storage-technology/
+
+Author: Eileen McNulty
+
+Publish Date: 2014-05-13
+
+Article:
+IBM has announced a new portfolio of software-defined storage technology, which intelligently decreases the cost of IT infrastructure and offers unparalleled processing speeds. The technology was developed for the Watson Artificial Intelligence Project, which can comb through 200 million pages of structured and unstructured data in minutes. Watson famously ‘outsmarted’ two human champions on the quiz show Jeopardy in 2011.
+
+“Digital information is growing at such a rapid rate and in such dramatic volumes that traditional storage systems used to house and manage it will eventually run out of runway,” said Tom Rosamilia, Senior Vice President, IBM Systems and Technology Group. “Our technology offers the advances in speed, scalability and cost savings that clients require to operate in a world where data is the basis of competitive advantage.”
+
+IBM claims that one technology in the portfolio, Elastic Storage, can successfully scan 10 billion files on a single cluster in just 43 minutes. Elastic Storage is also capable of automatically and intelligently moving data to the most economical storage system available, making savings of up to 90% achievable. Plus, since Elastic Storage does not rely on centralised management to determine file location, software and hardware failure won’t inhibit continuous access to data.
+
+Elastic Storage will also support OpenStack cloud management software, and application programming interfaces such as Hadoop and POSIX. Elastic Storage’s speed, cost-effectiveness and compatability with third-party storage make it particularly useful for big data analytics.
+
+Read more here.
+
+(Photo credit: Atomic Taco)
+
+Summary: IBM has announced a new portfolio of software-defined storage technology, which intelligently decreases the cost of IT infrastructure and offers unparalleled processing speeds.
+“Digital information is growing at such a rapid rate and in such dramatic volumes that traditional storage systems used to house and manage it will eventually run out of runway,” said Tom Rosamilia, Senior Vice President, IBM Systems and Technology Group.
+Elastic Storage is also capable of automatically and intelligently moving data to the most economical storage system available, making savings of up to 90% achievable.
+Plus, since Elastic Storage does not rely on centralised management to determine file location, software and hardware failure won’t inhibit continuous access to data.
+Elastic Storage will also support OpenStack cloud management software, and application programming interfaces such as Hadoop and POSIX.
+
+Other Blogs by Eileen McNulty: https://dataconomy.com/author/eileen-mcnulty/

@@ -1,0 +1,44 @@
+Title: 4 Insights on the future of data centers
+
+Article Link: https://dataconomy.com/2017/10/02/4-insights-future-data-centers/
+
+Author: Ryan Ayers
+
+Publish Date: 2017-10-02
+
+Article:
+Our ever-increasing dependence on the Internet to do business, entertain ourselves, communicate with others and shop for supplies has increased our amount of data exponentially. The vast amount of data needed to complete all of our activities requires a growing number of centers to safely store this information.
+
+Today, there are approximately 20 million smartphones, computers, tablets and other devices connected to the Internet and by 2020 that number will grow to more than 30 million. All those devices will generate data with an expected 44 trillion gigabytes by 2020. All of this information has to be stored somewhere, making data centers a very important topic for all individuals to know and understand. To help, here are 4 essential insights on the future of data centers.
+
+Why we need data centers
+
+Any business that generates or uses data has a need for data centers including financial institutions, government agencies, telecommunication companies and social networking organizations. Without data centers, these organizations would lack a reliable way to access information causing an inability to provide vital services. Approximately 88% of Americans use the Internet and data centers by viewing videos and information from the Internet. Millennials are leading this surge of data through social media because they value this medium as much as in-person communication. For example, Facebook serves approximately 1.23 billion active users every day and Gmail sees roughly a billion users every month.
+
+Data projections
+
+Currently, there are three million centers in the U.S. which is about one data center for every 100 people. California has the largest concentration of data centers in the U.S. with more than 300 locations. Given the projected surge in demand, these data centers will need to be improved in performance and efficiency.
+
+Cloud computing
+
+These days more media from individuals and businesses are being moved into the cloud, meaning instead of storing and running them from our home computers we access them through the host servers of cloud providers. This doesn’t mean the software isn’t stored on computer hardware. Instead, someone else maintains the software at remote locations where clients can access them through the Internet. Cloud computing has been a technological advantage for data centers and will help them continue to evolve. There are many benefits cloud data centers benefit from including on-
+
+demand self service, resource pooling, broad network access and rapid elasticity or expansion. Most data centers are currently located in small or medium businesses with larger data centers owned by cloud providers accounting for less than 10 percent of the market. But rapid adoption of cloud storage is expected to double the size of the data center industry by 2021.
+
+Energy efficient
+
+Data centers use a substantial amount of power because cooling the servers is a critical step in keeping the data flowing. U.S. data centers consumed approximately 100 billion kWh in 2013, which is more than two percent of all electricity used. These data centers consumed the same amount of electricity as 34 large (500 mega-watt) coal-fired power plants. This is enough to power all New York City households twice over for a year. If data centers were just 20 percent more efficient, the U.S. could save 20 billion kWh which translates to approximately two billion dollars. Luckily, there are several ways data centers can become more energy efficient such as managing the airflow, hot and cold aisle isolation, data center microgrids and raising temperatures within the recommended range.
+
+A more energy efficient data center could have additional cooling methods beyond air conditioning. One system sucks out the hot air and redistributes the heat in colder months to other parts of the building. The other system pulls in air from outside which circulates underground at a constant 54 degrees. This cool air is circulated back to the servers where fans distribute around the room. This same building could also have more efficient servers which to a standby mode when not in use. This low power mode uses a fraction of the electricity as servers that are constantly running. With the exponential growth of data from individuals and businesses alike, data centers will continue to be an important place to store this information. As data centers become bigger, companies will work to improve their productivity and efficiency in order to cut costs and provide the fastest service for users.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: To help, here are 4 essential insights on the future of data centers.
+Why we need data centersAny business that generates or uses data has a need for data centers including financial institutions, government agencies, telecommunication companies and social networking organizations.
+Given the projected surge in demand, these data centers will need to be improved in performance and efficiency.
+There are many benefits cloud data centers benefit from including on-demand self service, resource pooling, broad network access and rapid elasticity or expansion.
+Most data centers are currently located in small or medium businesses with larger data centers owned by cloud providers accounting for less than 10 percent of the market.
+
+Other Blogs by Ryan Ayers: https://dataconomy.com/author/ryan-ayers/

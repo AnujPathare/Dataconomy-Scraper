@@ -1,0 +1,94 @@
+Title: EU probes TikTok’s data practices with multiple investigations
+
+Article Link: https://dataconomy.com/2022/11/23/tiktok-data-practices-under-investigation/
+
+Author: Eray Eliaçık
+
+Publish Date: 2022-11-23
+
+Article:
+TikTok data practices on EU citizens and ads catering to kids are under investigation by the European Union. Allegations include that the social media giant sent European users’ data to China. Following the US, the EU started investigating TikTok’s data practices and its compliance with General Data Protection Regulation (GDPR) requirements.
+
+US politicians have strong data privacy concerns about TikTok, and just recently, $92 million TikTok data privacy settlement payments started. However, it appears that not only the US authorities are alarmed, and TikTok may face additional fines in the future. Is it as bad as it sounds? Let’s take a closer look at everything you need to know about the TikTok data practices investigations…
+
+TikTok data practices under investigation by EU: What is happening to Europeans’ data?
+
+There are numerous ongoing investigations against TikTok data practices, according to the head of the European Commission’s executive body of the European Union. The investigations focus on whether EU citizens’ data sent to China and children are getting targeted ads on the platform. TikTok is being investigated to see if its data practices comply with the General Data Protection Regulation (GDPR).
+
+NEW: The President of the European Commission, Ursula von der Leyen, confirms that #TikTok’s data transfers are under investigation & object of several ongoing proceedings.
+
+
+
+This comes after concerns raised by Members of the European Parliament about data access from inside China https://t.co/aWlVl6hnXJ pic.twitter.com/dhOCojKKOW — Brendan Carr (@BrendanCarrFCC) November 22, 2022
+
+The President of the European Commission, Ursula von der Leyen, reacted to the concerns expressed by members of the European Parliament on the possibility of Chinese public agencies having access to TikTok’s data of EU citizens. Investigations concentrate on EU citizens’ data, its alleged transfer to China, and the targeted ads for kids.
+
+The General Data Protection Regulation (GDPR), which strongly emphasizes data protection, has been the subject of ongoing investigations by the European Union into several digital businesses. Many businesses have already faced penalties imposed by EU courts. TikTok, one of the targets of these investigations, is a short-form video hosting service owned by the Chinese company ByteDance. The platform quickly gained immense popularity, becoming one of the most-used social networks worldwide in just a few years.
+
+The EU has been investigating the app’s data practices for some time. In response to a lawsuit alleging that TikTok had violated EU consumer laws earlier this year, the parent company ByteDance agreed to apply specific restrictions around advertisements and branded content. But it seems like the cautions taken by the internet giant were not enough to convince the European regulators.
+
+TikTok data practices evolved day by day but did not fulfill the authorities’ needs yet
+
+The European Commission stated in a letter that TikTok appears to have provided false or misleading information, including claiming TikTok does not trace its users’ locations in the United States. U.S. authorities also acted on these claims by the European Commission. TikTok had previously appeared before a bipartisan committee in the US and made statements about allegations. Members of the U.S. Congress are now demanding further explanations and evidence from TikTok.
+
+Do you know the TikTok vulnerability that Microsoft discovered
+
+TikTok is in trouble on both sides of the Atlantic
+
+It should be highlighted that concerns over security and privacy on social networks have been widespread, including on both sides of the Atlantic. Many questions have been raised, particularly about the belief that the Chinese government employs a program created by TikTok’s parent company ByteDance to obtain user information, and it effectively controls the social network’s algorithm. Last month, TikTok refuted claims that its parent company from China uses TikTok to track the whereabouts of U.S. citizens worldwide.
+
+TikTok data practices are under investigation both in the US and the EU
+
+TikTok’s all traffic in the United States is currently routed through Oracle Cloud Infrastructure. The social media giant stores its European users’ data in a third-party data center in Dublin, Ireland.
+
+Concerns didn’t stop advertisers
+
+TikTok has been subjected to heated debates since it gained explosive popularity during the pandemic. Politicians and authorities recently demanded a “ban” on the social network, referring to it as “possible malware.” U.S. FBI director said TikTok poses national security concerns.
+
+Marketers continue to pour money into the platform despite the raised privacy and national security concerns. TikTok is anticipated to generate close to $10 billion in advertising income, with a 155% increase over 2021.
+
+Check out the Snapchat lawsuit details
+
+What type of data does TikTok collect and share with advertisers?
+
+Even if you haven’t created a TikTok account, the app is designed in a way to collect data about you. When you click a funny TikTok video sent from a friend, TikTok generates an anonymous data ID that links that specific video to information like:
+
+Your device,
+
+Your location,
+
+Your IP address,
+
+Your search history,
+
+New content you viewed after the initial one,
+
+The app you used right before you viewed TikTok content.
+
+Therefore, this anonymous shadow ID creates a profile of the things you’ve liked, even if you don’t have a TikTok profile. Your past watch history generates fresh recommendations when the TikTok algorithm finds you again.
+
+TikTok can extrapolate other information from the video you watch. This includes your age range, gender, interests determined by the content you have watched, and biometric data like your voice and facial details.
+
+AI art spices up TikTok: Reverse AI Art filter TikTok trend
+
+TikTok data practices are one of the most argued topics recently
+
+How to stop TikTok data collection?
+
+Considering how technically focused TikTok is on data collection and the authorities’ claims, it seems difficult for a user to prevent it completely. However, the app does offer some tools and methods for privacy. However, there is a trade-off here. When TikTok’s location and data storage features are turned off, the social network’s experience significantly diminishes. Users have the option to enable or disable tailored advertisements with the following steps:
+
+Tap ‘ Me ‘ and then go to ‘Settings.’
+
+‘ and then go to Go to Privacy > Safety > Personalize .
+
+> > . Toggle the ‘Data’ feature to be off.
+
+You can also request the data that TikTok has gathered on you. Here’s how to view your TikTok data profile:
+
+Summary: Following the US, the EU started investigating TikTok’s data practices and its compliance with General Data Protection Regulation (GDPR) requirements.
+US politicians have strong data privacy concerns about TikTok, and just recently, $92 million TikTok data privacy settlement payments started.
+Let’s take a closer look at everything you need to know about the TikTok data practices investigations…TikTok data practices under investigation by EU: What is happening to Europeans’ data?
+There are numerous ongoing investigations against TikTok data practices, according to the head of the European Commission’s executive body of the European Union.
+AI art spices up TikTok: Reverse AI Art filter TikTok trendTikTok data practices are one of the most argued topics recentlyHow to stop TikTok data collection?
+
+Other Blogs by Eray Eliaçık: https://dataconomy.com/author/eray-eliacik/

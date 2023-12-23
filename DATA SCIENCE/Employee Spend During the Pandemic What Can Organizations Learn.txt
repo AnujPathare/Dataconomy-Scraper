@@ -1,0 +1,76 @@
+Title: Employee Spend During the Pandemic: What Can Organizations Learn?
+
+Article Link: https://dataconomy.com/2020/06/02/employee-spend-during-the-pandemic-what-can-organizations-learn/
+
+Author: Terrence McCrossan
+
+Publish Date: 2020-06-02
+
+Article:
+It’s essential for organizations to be aware of shifts in employee spend that invite different risks. The data scientists at Oversight, an enterprise spend management software, reveal the ongoing spend shifts organizations face and how the pandemic has quickly reshaped travel and expense employee spend.
+
+A high-level look at the changes from March into April includes:
+
+Top 5 Employee Spend Categories in March
+
+Hotel – 51% Mail/Phone Orders – 19% Restaurants – 12% Business Services – 10% Miscellaneous Stores – 8%
+
+Top 5 EmployeeSpend Categories in April
+
+Business Services – 27% (+ 17) Restaurants – 22% (+ 10) Hotels – 20% (- 31) Miscellaneous Stores – 17% (+ 9) Mail/Phone Orders – 14% (- 5)
+
+As the pandemic grounded enterprise sales teams and business travelers around the country in March, the impact on T&E, especially on items like hotel rooms and air travel, was swift and linear.
+
+T&E spend
+
+While overall spending in T&E headed predictably downward, other categories of employee spend grew, showcasing the changing dynamics of organizational spending and introducing risk that can impact cash flow.
+
+The Risky Rise of Gift Card Purchases and Food Delivery
+
+Interestingly, as airline and transportation costs plummeted, purchase activity was higher than expected in the typically high-risk categories of mail/phone orders and miscellaneous stores, exemplified by employees making purchases from retail vendors like Amazon, Best Buy and Apple. Many of these spend bursts were to support suddenly home-officed employees who had to quickly adjust to a new work environment. Separate from the need to support remote office setup has been the effort of sales and other client-facing teams to stay top-of-mind with customers during the pandemic. Organizational spend on meal delivery services, such as DoorDash, as well as gift cards are growing in the absence of face-to-face meetings.
+
+Notably, 37% of purchases in the restaurant spend category were attributed to meal delivery services in April. Among gift card purchases, $200 is the average gift card spend, with Starbucks and Uber Eats among most popular.
+
+These types of purchases present a unique challenge for finance teams tasked with ensuring that expenditures comply with policies. Frankly, these “once bad, now good” purchases are precisely the sort of line items that used to require increased scrutiny. With limited visibility into the recipient of gift cards and meal deliveries, it can be difficult to determine whether a purchase is for legitimate business purposes or personal use.
+
+Spending to Extend Work from Home
+
+Most employees in professional settings in America transitioned to remote work sometime in mid-March. They did so quickly, and without long term plans in place should work-from-home arrangements extend indefinitely. So, it comes as no surprise then, that more than two months into the pandemic, a second wave of purchase activity for office supplies and equipment is sweeping across enterprises. In fact, some high-profile companies have recently announced generous employee allowance programs to enable more robust home office set-ups.
+
+Miscellaneous spend is up from 8% of purchases in March to 14% of all spend in April. Among that spend is the mail/phone order purchasing, which captures transactions with online retailers such as Amazon.
+
+What are employees purchasing? Electronics. 46% of mail/phone order spend is attributed to electronics, office supplies and equipment. And, Amazon purchases alone account for 28% of all mail/phone order spend and 11% of all miscellaneous spend across organizations.
+
+The challenge is sorting the good office purchasing from the bad. Merchants included in the miscellaneous/online ordering category tend to sell a wide array of expensive items. Some Oversight customers report uncovering employee attempts to expense big-ticket items like TVs and soundbars, while others have detected extreme home office expenditures to the tune of more than $7,000.
+
+Buying Blind Via Third-party Payments
+
+As detailed above, online shopping is up for organizations during the pandemic – 74% across all of e-commerce year over year, according to the Associated Press. Where things get murkier for organizational spend risk is when those purchases are made through third-party payment platforms like PayPal and Stripe. Those third-party platform purchases are up 43% year over year for April, and 28% for the quarter.
+
+The reality of third-party payment platforms is that they offer varying and often limited visibility into transaction data. The lack of transparency is so noteworthy that many organizations fully restrict certain third-party payment platform transactions altogether.
+
+Air Travel Stats: An Impending Rebound?
+
+Lastly, the Spend Insights report showcased a potential rebound in airline spend in April after hitting a low the week of March 30.
+
+Organizational Airline Spend, week over week in April:
+
+March 30 – April 6: – 50%
+
+April 6 – April 13: + 147%
+
+April 13 – April 20: + 53%
+
+April 20 – April 27: + 2%
+
+Airline spend, of course, predicts future travel. With airline travel dollars flatlining throughout March and into early April, business life as we knew it ground to a halt. As April data shows a cautious return to future air travel, perhaps organizational metrics suggest, for the first time since the onset of the coronavirus that T&E spending, and by extension life as we once knew it, could be on the rebound.
+
+Not knowing what the future holds with certainty, however, it’s essential for organizations to be aware of shifts in spend that invite different risks. Spend management technology provides continuous transaction monitoring to identify and prioritize risk – even when it’s constantly changing. With technology in place, organizations can act quickly to address issues that can compromise their cost control efforts, which are now more vital than ever.
+
+Summary: It’s essential for organizations to be aware of shifts in employee spend that invite different risks.
+The data scientists at Oversight, an enterprise spend management software, reveal the ongoing spend shifts organizations face and how the pandemic has quickly reshaped travel and expense employee spend.
+T&E spendWhile overall spending in T&E headed predictably downward, other categories of employee spend grew, showcasing the changing dynamics of organizational spending and introducing risk that can impact cash flow.
+Among gift card purchases, $200 is the average gift card spend, with Starbucks and Uber Eats among most popular.
+And, Amazon purchases alone account for 28% of all mail/phone order spend and 11% of all miscellaneous spend across organizations.
+
+Other Blogs by Terrence McCrossan: https://dataconomy.com/author/terrence_mccrossan/

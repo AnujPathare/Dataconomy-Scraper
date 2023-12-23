@@ -1,0 +1,44 @@
+Title: X is not showing tweets at the moment, is X down?
+
+Article Link: https://dataconomy.com/2023/10/13/x-is-not-showing-tweets-is-x-down/
+
+Author: Onur Demirkol
+
+Publish Date: 2023-10-13
+
+Article:
+Right now, X is not showing tweets, and people who are affected have taken the matter to other social media channels. The DownDetector page of X showed reports of the application going down, and here is what we know about it!
+
+On a recent Friday afternoon, X users, previously known as Twitter users, encountered a series of issues with the social media platform. These problems left users unable to effectively use the site, preventing them from navigating the platform, posting tweets (especially through the mobile app), and even logging in. Additionally, some users reported strange anomalies with timestamps, with all ‘Tweets’ showing the date of 1st January 1970, said The Telegraph and Argus.
+
+The trouble started just before 3 p.m., as users took to reporting their frustrations when they found themselves unable to load the X app or website. An alarming spike in user complaints occurred at 2:45 p.m., with 2,499 reports flooding in on Down Detector, raising concerns among X users.
+
+X is not showing tweets: Potential solutions
+
+While this unexpected setback may have bewildered some X users, there is no reason to despair. As the platform is always trying to improve its capabilities, the issue might be due to a bug. The good news is that X publishes updates on a regular basis to address any unanticipated issues or bugs. Here are some actions to take to assist in addressing the ‘X is not showing tweets’ issue:
+
+Check for updates
+
+Begin by looking for updates. It’s conceivable that the bug that’s causing the ‘X is not showing tweets’ issue has already been fixed in a recent release. To do so, go to the Google Play or Apple App Store, search for the X app, and check for any available upgrades. If one is available, go ahead and install it. Updates frequently provide critical fixes and upgrades that can restore platform functioning.
+
+Test your internet connection
+
+The problem may not always be with the X app, but with your internet connection. A simple test may be used to discover if this is the case. To test your data speed, browse a webpage or use a speed-testing app. If your internet connection is sluggish or unpredictable, try switching between mobile data and WiFi to see if that helps. A dependable and fast internet connection is required for X to function properly.
+
+Use a VPN
+
+In certain circumstances, adopting a Virtual Private Network (VPN) might aid in the resolution of the ‘X is not showing tweets’ issue. A VPN can tunnel your internet traffic through another server, potentially circumventing any geographic or connection-related difficulties that may be preventing you from accessing X. If you don’t already have a VPN, you may locate a variety of choices on the App Store or Play Store. Install one, configure it, and observe what difference it makes.
+
+To summarize, while problems with X might be irritating, there are simple measures you can take to restore the platform’s usual operation. Keep an eye out for updates, make sure your internet connection is reliable, and, if required, use a VPN. Following these steps should restore your X experience, letting you to stay connected and tweet without interruption.
+
+X is not showing tweets right now, and it is probably a server issue. This means that you can still try the solutions above, but if it is an issue caused by X, then there is nothing you can do about it but wait for the company to fix it.
+
+Featured image credit: Kelly Sikkema/Unsplash
+
+Summary: Right now, X is not showing tweets, and people who are affected have taken the matter to other social media channels.
+X is not showing tweets: Potential solutionsWhile this unexpected setback may have bewildered some X users, there is no reason to despair.
+It’s conceivable that the bug that’s causing the ‘X is not showing tweets’ issue has already been fixed in a recent release.
+Use a VPNIn certain circumstances, adopting a Virtual Private Network (VPN) might aid in the resolution of the ‘X is not showing tweets’ issue.
+X is not showing tweets right now, and it is probably a server issue.
+
+Other Blogs by Onur Demirkol: https://dataconomy.com/author/onurdemirkol/

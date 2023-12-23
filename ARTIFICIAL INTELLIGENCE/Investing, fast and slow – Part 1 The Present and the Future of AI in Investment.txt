@@ -1,0 +1,94 @@
+Title: Investing, fast and slow – Part 1: The Present and the Future of AI in Investment
+
+Article Link: https://dataconomy.com/2017/04/05/investing-fast-slow-ai-investment/
+
+Author: Dr. David Stolin
+
+Publish Date: 2017-04-05
+
+Article:
+Financial markets offer countless ways of making (or losing) money. A key distinction among them is the investment horizon, which can range from fractions of a second to years. Walnut Algorithms and Global Systematic Investors are new investment management firms representing the high-frequency and low-frequency sides, respectively. I sat down to talk with their founders about investing, data, and the challenges of starting up. Below is my talk with Guillaume Vidal, co-founder and CEO of Walnut Algorithms. Stop by next week for Part 2, my interview with Dr. Bernd Hanke, co-founder and co-Chief Investment Officer of Global Systematic Investors.
+
+Why did you call the company “Walnut Algorithms”?
+
+Guillaume Vidal: Because walnuts look like small brains, and from a startup perspective, it was fun, like Apple and Blackberry. It also shows that we were a bit like a walnut tree created out of intelligent algorithms and we felt that it’s important to put “algorithms” on the back of that. So we thought that mixing “walnut” and “algorithms” was fun and it was a good image.
+
+And how would you summarize what you do?
+
+GV: We apply the latest advances in artificial intelligence to systematic investment strategies.
+
+Was that the idea from the beginning, or did you pivot at some point?
+
+GV: I think it came quite naturally. The six co-founders’ backgrounds in artificial intelligence, investment management and finance made us think there’s definitely something to do there. We looked at a lot of AI startups and many of them wonder what they should be doing with AI, as we realized. One of the best AI startups in France is called Snips and even they had a hard time coming up with a product. We focused from the outset on financial services and investment management and that for us was very amenable to AI. We did take a bit of time to find the right business model, which for us now is actually managing capital and advising capital depending on the regulatory definition. But in the beginning it was really a bit naïve saying, “okay, we want to apply AI”. We want to do what DeepMind did with their reinforcement learning or AlphaGo. They are incredibly powerful algorithms and we want to apply that to investment management, and these are algorithms that are four, five years old at most. They are made possible by improvement not only in the AI but also in access to data, coding languages with the right libraries, as well as computing power via Google Cloud or Amazon cloud. It’s a sort of a mix of things that allows this. I would say the most difficult, maybe the luckiest part for us was to be able to have that combination of skills. I think that the biggest barrier to entry is actually that combination of AI, computer science, quantitative finance and business skills.
+
+What financial instruments do you focus on?
+
+GV: We focus on liquid equity index futures in the US and Europe, because we need both liquidity and low trading costs, you can go long or short without extra cost.
+
+How did you look for your business model?
+
+GV: We started by saying that AI for finance works. It will work. There is no doubt about that. The question is, who is going to make it work? And it will be very, very valuable. If it’s just research, if it’s just one big sale kind of product or if it’s research fees from selling into hedge funds, or you partner with a hedge fund, would you be absorbed by a hedge fund, would you provide signals, would you do consulting work, would you create your own hedge fund, all of those were potential business models that we looked at. When we applied to Startup Bootcamp and when we went through the selection stages we were actually telling them that we didn’t really have a business model and they were fine with it. Now we are starting with separate managed accounts. This is quite standard in finance. A lot of CTAs do that. The fund structure might be something at a later stage, as it involves heavier compliance and regulatory issues, and is costlier and time consuming.
+
+So what is innovative about generating trading signals with machine learning?
+
+GV: Traditional systematic strategies are rule-based. A systematic strategy that you would code, for example, on Quantopian, you would say, “oh, if these three moving averages cross and I’ll have my yearly pivot at this level, or if my relative strength index is above a particular threshold, then I buy or sell”. And these are fixed rules. What we’re building, is a machine that does not have fixed rules,they are more flexible. A machine learning algo can continuously evolve and actually look at market configurations, classifying buy or sell signals with confidence levels. It’s a bit like a trading floor where you have a number of traders, and in our case it’s a number of robo-traders which are individual AI algorithms, and we have a portfolio manager which is the cash allocator which uses those underlying signals provided by the different AI algos and optimizes the capital to allocate to those individual signals based on the risk constraints and the exposition constraints, long and short and per instrument, per geography et cetera.
+
+It seems that your clients have to be sophisticated enough to appreciate what you do but not so sophisticated that they can do it themselves.
+
+GV: There’s more than 80,000 funds worldwide. Of course a portion of that is interested in it and the people we talk to are even hedge funds themselves. But sometimes they just have a global macro strategy or a credit strategy or some other form of non-systematic strategies. I would say that internal quant teams sometimes are not necessarily staffed enough to do what we’ve been doing.
+
+We coded everything from A to Z with 12, now reaching 15 people soon, all scientists, and we have to code the entire infrastructure and we have to do research, we have to do all of that. A number of those more traditional funds, sometimes they will hire one PhD and say, “let’s let him work on one problem and let’s let him try to enhance one of our systems with machine learning”. It doesn’t necessarily work because maybe you need a collaborative and creative culture, often found in startups, rather than just having one PhD doing some data science on the side working in collaboration with one of their quants. We really work in a tight group, brainstorming all the time, bringing computer scientists, mathematicians, AI scientists, all these skills together to think what actually works, what should work, how should we code this, how should we design this. It requires an innovation mindset.
+
+Established hedge funds have been running with their own systems for 20 years maybe and they have their strategies, long-term systematic or long-term trend-following or whatever, and coming up with something completely new, hiring new people, bringing in internal research in-house is difficult. Some try it. I would say the most sophisticated succeed and these are hedge funds like Renaissance Technology, Two Sigma, Winton. It’s very opaque, we don’t necessarily know exactly who’s doing what, but probably they have some of that.
+
+And these hedge funds’ algorithms will interact with yours in the markets. Do you have a line of defense against that?
+
+GV: I think there are two main things. One is that for now we’re a lot smaller, and we don’t necessarily focus on the same asset classes. The larger ones have to be in very deep, very liquid markets. These funds have very different investment strategies on multiple timeframes so they can invest from high frequency to yearly trend following, very probably. When you have 60 billion under management, you have no choice but to actually scale to every asset. As we have very minimal assets under management to begin with, we create intraday strategies on specific assets.
+
+The second part is this. When you look at all the systematic trend following CTAs, they typically have an 80 to 90 percent correlation, because they’d be following the same trends on the same weekly and monthly basis. When you start using more complex machine learning strategies, there are many, many ways to actually do machine learning. And we think in modules, so we have our data gathering, data cleaning, feature engineering, entry points, exit policies, we have allocation, and we have market impact – and all these for us are machine learning enhanceable, and machine learning automatable, and there are so many ways to do it, so you end up with a very different system than they have. We come up with some new ways of investing, some signals that we come up with are not the signals that everyone has. It’s not a golden goose. It’s not like you created a machine that just makes money. It has a risk adjusted return, it has drawdowns, it has inherent risk, but from the portfolio management strategy, it does outperform some of the other absolute return strategies, and it is uncorrelated to them. That’s the part that people are interested in.
+
+Do you worry about overfitting your models, so they work for the time periods you used for model development, but not afterward?
+
+GV: Trying to minimize overfitting as much as possible is really at the core of what we do. There are many ways. First of all, there is data dimensionality, so this is why we are intraday, and we try to have as many data points as possible. When we do our classification, we try to minimize feature vectors so that’s really about trying to reduce the input dimension, and using human expert knowledge is important in that regard. We also do a lot of robustness tests, we designed robustness modules. And we paper trade as well, before it goes live. But there’s always overfitting in a sense. Because you use historical data and you fit your models on historical data, overfitting is there. Some is useful as you have to make sure the algos are actually fitted to the current market regime, but they have to generalise.
+
+Do your algorithms recognize when the regime has changed or do you need humans for that?
+
+GV: Yes, we automate that. We try very hard to automate that at multiple levels of the decision making, in the allocation portion, in the entry signal portion. So maybe the underlying algo itself understands that the market has changed and gives us higher or lower confidence on its signal. But on the allocation as well, maybe you say, “that particular algo sent me that particular signal but I’m going to discard it because they are not in the right regime”. So at multiple levels we can actually take into account regime changes. There is no human intervention unless there’s something very critical, a big financial crisis or a big flash-crash, and we might decide, the algo probably won’t work right now and we should shut everything down.
+
+Do you see investment management becoming dominated by AI in the future?
+
+GV: It’s difficult to see the future, but portfolio managers or heads of hedge funds will probably switch from being traders, economists, business guys into data scientists, mathematicians, into people who are capable of using data, understanding data and managing teams of scientists and teams of engineers. Since AI is becoming more accessible, data is becoming more accessible, computing power is becoming more accessible, you’re probably going to have firms like us coming and disrupting the larger hedge funds out there and they will have to, in a sense, defend their position against those players, or buy them out, or find a way to innovate themselves, because currently they are not really doing it.
+
+Do you think that somewhere down the road, AI for investments could become commoditized?
+
+GV: AI is not automatic, AI is not a monolith. It’s not one big “I do AI”. I don’t see it becoming something completely commoditized. It’s not like “I have an AI algo and I’ll plug it into data and then it works.” It’s a lot more complicated than that. You have to do a lot of feature engineering, you have to have trading experience, market experience, there are many different parameters and many different ways of doing it. Maybe you’ll have some form of commoditization, for example Quantopian managed to commoditize in a sense the way of writing a systematic algorithm in a platform and it has attracted a lot of people. But maybe someone who uses a different platform will have an edge over people who are all using the same platform with access to the same features and the same data.
+
+This brings us back to the ideal team composition for AI trading.
+
+GV: You need people with trading experience, data scientists, computer scientists. The infrastructure, code optimization, the execution, for all that you need strong IT people. Data science and AI is more or less the same for us, but there is a difference between an AI practitioner and an AI researcher. So a data scientist knows how to code, how to use machine learning libraries, but a researcher can understand the real underlying principles of a neural network and maybe he will work on getting a better cost function and these kinds of things that are not a data scientist’s job.
+
+And what happens when these people with their different backgrounds disagree on how to move forward?
+
+GV: That’s huge. I think that’s what makes us what we are, having a team of people who are open minded and capable of just debating all day long, and the best idea wins. It’s creativity management. It’s trying to get all these people to disagree in the beginning and agree in the end. And also to agree on what to prioritize, because we always have a pipeline of ideas that could take a thousand people a hundred years to implement, but we have to decide, what’s the low-hanging fruit? What can we do right now to improve the results as much as possible? And then you also have the more technical guys who say, “okay, I can code this”, or “it’s too long to code this”, or “how should we code this?”
+
+How do you feel about non-traditional data sources, big data?
+
+GV: We make a distinction between AI and big data, and people tend not to. AI is a way to let you make sense of big data. But we focus on the improvements that AI made. When, for example, Google came up with AlphaGo or the Atari games, these are really algorithmic improvements. It’s small data sets or fairly limited data sets, but the improvement is really in the AI itself. We focus on strong AI rather than on alternative data sources. One of the reasons is data dimensionality issues that I mentioned. We’re looking for statistically robust strategies.
+
+There is a lot of demand for data scientists in other industries. How do you attract data scientists to work in finance?
+
+GV: First of all we market ourselves as a technology company, and all the successful firms and funds that do that, do the same. If you look at the marketing of Two Sigma, Winton, or Renaissance Tech, they really say “we are a technology company, a research company, that happens to be trading”, and this is very important to attract the right people. If you are just another hedge fund, mainly because of the crisis and because of the reputation of the hedge fund industry, people don’t really want to work there. But the work in-house is actually quite interesting. You’re working on very complex datasets. You’re researching, and there’s a very straightforward application. The results are right there, black and white. When you optimize code, do some data science on new data sets, new strategy, new markets, new instruments and do that work day to day, it’s actually quite interesting, maybe even more interesting than doing that in a media company. On the long-term perspective, let’s say five to ten years’ vision, we would like to expand to other areas. Renaissance Tech, which is a New York-based hedge fund, is considered one of the best theoretical physics labs in the world, and similarly we would like Walnut to be one of the best AI labs in the world.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Image: fhir.phohtograph, CC BY 2.0
+
+Summary: Of course a portion of that is interested in it and the people we talk to are even hedge funds themselves.
+I would say the most sophisticated succeed and these are hedge funds like Renaissance Technology, Two Sigma, Winton.
+And these hedge funds’ algorithms will interact with yours in the markets.
+GV: You need people with trading experience, data scientists, computer scientists.
+There is a lot of demand for data scientists in other industries.
+
+Other Blogs by Dr. David Stolin: https://dataconomy.com/author/dstolin/

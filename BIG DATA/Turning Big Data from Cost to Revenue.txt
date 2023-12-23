@@ -1,0 +1,54 @@
+Title: Turning Big Data from Cost to Revenue
+
+Article Link: https://dataconomy.com/2016/10/14/turning-big-data-cost-revenue/
+
+Author: Nav Dhunay
+
+Publish Date: 2016-10-14
+
+Article:
+Big Data and the Internet of Things are currently being lauded in many industries as the new frontier for business and, with seemingly ground-breaking solutions being rolled out for innumerable different use cases daily, it’s certainly not all hyperbole. At this moment, an estimated 4.9 billion sensors are connected to the internet and that number is expected to rocket to 50 billion in the next five years.
+
+At this point in its evolution, many businesses still ask themselves if Big Data is going to save them money, and if so, when
+
+A key aspiration of Big Data, is to unlock entirely new levels of insight around behaviour, processes or entire industries and then, via analysis, derive intelligent, actionable insights. Once implemented, these insights demonstrate their value through one or more benefits which can come in the form of increased productivity, efficiency, security, health or, in some cases, an ability to predict future outcomes.
+
+Making Dumb Data Smart
+
+Without analysis, data itself is raw, unwieldy and inherently useless. Its real value and ability to demonstrate ROI is dictated by the level of sophistication in the analysis it undergoes and, from there, how quickly and efficiently any gained intelligence can be implemented in order to see benefits.
+
+However, this process of moving from raw information to intelligent insight and through to implemented action is not straightforward. In many current IoT use cases, especially those in Industrial IoT, this staggered process may involve the coordination of several different specialists, each with singular responsibility for integrating machine sensors, collecting and transmitting raw data, analyzing data, supplying intelligence based results and then carrying out physical changes to machines or procedures based on that intelligence.
+
+Not only can this be a cumbersome process, it can also make for an expensive one, reducing, or negating altogether, the benefits sought through implementation.
+
+In the industrial sector, a big data-driven solution must be comprehensive in order to achieve the most significant returns on an investment. Ideally, they should be self-sufficient to not only capture rich raw data, but to analyze that data with a high level of sophistication and then have the capability to autonomously manipulate a process or machine’s performance based on a growing intelligence.
+
+A great example of this is Google-owned Nest thermostats which collect data about specific user behaviour and then are then able to autonomously implement changes based on that intelligence, to heighten efficiency, increase the comfort of their users and also save them money.
+
+Keeping people happy and healthy
+
+In the consumer space, there are a number of data-powered solutions which expertly demonstrate this end-to-end functionality and, as a result, have experienced significant mainstream adoption. Wearable technology is undoubtedly one of the biggest success stories. From smartwatches, to fitness trackers and intelligent clothing, innovation in the space is rampant and finding increasing ways to, not only collect data, but analyze it in a way that delivers pattern-based predictions.
+
+Within healthcare, medical wearables now present colossal opportunities, as pools of smart data are being used to refine and improve treatments and predict clinical endpoints. As an example, a smart wristband developed by US firm Empatica, is able to accurately measure the onset of seizures and ultimately determine if and when an ambulance should be sent to someone’s home.
+
+Selling Industry Data back to Industry
+
+According to Accenture, the Industrial Internet of Things has the potential to add $15 trillion to the global economy by 2030. However, within the industrial space, challenges in creating comprehensive solutions are significantly higher, not only due to the complexities involved in the design, testing and development phases, but also due to the cost and perceived challenges of implementing new technologies into major industrial operations. For these reasons, the majority of data-driven solutions being used within the industrial space commonly have a singular operational focus and therefore, the real and tangible cost benefits remain limited.
+
+IBM is the biggest player in the current big data race with 2015 revenues of $2.104bn. It is, however, anything but alone in the race. Innumerable other players are driving growing revenues through selling a combination of hardware, software and professional services all designed to leverage Big Data and help organizations make better decisions, be more secure and efficient and help them to understand exactly who they’re dealing with and why their customers do what they do.
+
+So, while there there will never be a one-size-fits-all big data solution able to instantly drive profits, the public’s sustained interest in the possibilities that Big Data presents, will drive more and more companies to create increasingly refined and elegant solutions that address specific industry pain points. Whether that be through automating agricultural processes from seed planting to harvest, delivering fully self driving oil wells or leveraging data to rapidly accelerate scientific research, I see the path from implementation to return on investment becoming far shorter, far more quickly than many might think.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Image: Eden, Janine and Jim
+
+Summary: At this point in its evolution, many businesses still ask themselves if Big Data is going to save them money, and if so, whenA key aspiration of Big Data, is to unlock entirely new levels of insight around behaviour, processes or entire industries and then, via analysis, derive intelligent, actionable insights.
+Making Dumb Data SmartWithout analysis, data itself is raw, unwieldy and inherently useless.
+Selling Industry Data back to IndustryAccording to Accenture, the Industrial Internet of Things has the potential to add $15 trillion to the global economy by 2030.
+IBM is the biggest player in the current big data race with 2015 revenues of $2.104bn.
+So, while there there will never be a one-size-fits-all big data solution able to instantly drive profits, the public’s sustained interest in the possibilities that Big Data presents, will drive more and more companies to create increasingly refined and elegant solutions that address specific industry pain points.
+
+Other Blogs by Nav Dhunay: https://dataconomy.com/author/nav/

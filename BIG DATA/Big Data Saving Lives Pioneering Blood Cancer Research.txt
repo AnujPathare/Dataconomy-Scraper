@@ -1,0 +1,28 @@
+Title: Big Data Saving Lives: Pioneering Blood Cancer Research
+
+Article Link: https://dataconomy.com/2014/05/23/big-data-saving-lives-pioneering-blood-cancer-research/
+
+Author: Eileen McNulty
+
+Publish Date: 2014-05-23
+
+Article:
+Researchers at the University of Leeds have pioneered a data mining system for individualising blood cancer treatment, which could revolutionise all cancer care. The blood cancer research was focused around non-Hodgkin lymphoma, which affects 10,000 people in the UK annually, making it the sixth most common cancer. The system, funded by the charity Leukaemia & Lymphoma Research, stores cancer cell samples and anonymous medical records of patients with non-Hodgkin lymphoma in the Yorkshire area. This will allow Doctors to tailor cancer treatment to what worked previously for people whose cancers were similar on a molecular level.
+
+David Westhead, Professor of Bioinformatics at the University of Leeds, said: “It is increasingly clear that cancer in general and lymphoma in particular is a highly variable disease. Individuals previously diagnosed in the same broad categories may have diseases that are quite different when you look at the fundamental biology of their cancers. This database enables us to take a step towards more individualised treatment.”
+
+The variability among non-Hodgkin lymphoma is staggering. The term actually covers 40 different diseases, all of which are treated differently. Even within those 40 categories there is alot of variation, as the success of a treatment is dependent on the individual genetic make-up of a patient’s cells. By having access to previous patients’ treatment history and cell make-up, Doctors can more accurately pinpoint which treatments are likely to be successful.
+
+Dr Matt Kaiser, Head of Research at Leukaemia & Lymphoma Research, explains: “By intelligently linking the patient’s biology with clinical outcome, future patients will benefit from smarter diagnosis, more accurate prognosis and a more tailored treatment course. This is a pioneering approach that may have ramifications for how we view and treat all cancers.” With 331,000 people diagnosed with cancer in the UK each year (equivalent to 910), the importance of this pioneering research project cannot be overstated.
+
+Read more here.
+
+(Image credit: Marrow lymphoma by Ed Uthman)
+
+Summary: Researchers at the University of Leeds have pioneered a data mining system for individualising blood cancer treatment, which could revolutionise all cancer care.
+The blood cancer research was focused around non-Hodgkin lymphoma, which affects 10,000 people in the UK annually, making it the sixth most common cancer.
+The system, funded by the charity Leukaemia & Lymphoma Research, stores cancer cell samples and anonymous medical records of patients with non-Hodgkin lymphoma in the Yorkshire area.
+This will allow Doctors to tailor cancer treatment to what worked previously for people whose cancers were similar on a molecular level.
+This database enables us to take a step towards more individualised treatment.”The variability among non-Hodgkin lymphoma is staggering.
+
+Other Blogs by Eileen McNulty: https://dataconomy.com/author/eileen-mcnulty/

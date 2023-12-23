@@ -1,0 +1,38 @@
+Title: Malaysian ICT Custodian Reveals the Setting in Motion of the Country’s Big Data Framework
+
+Article Link: https://dataconomy.com/2014/12/17/malaysian-ict-custodian-reveals-the-setting-in-motion-of-the-countrys-big-data-framework/
+
+Author: Eileen McNulty
+
+Publish Date: 2014-12-17
+
+Article:
+The Malaysian ICT regulatory body, Multimedia Development Corporation’s (MDeC) Big Data Framework for Malaysia, has received the nod from the Prime Minister with recommendations already underway, reported MDeC earlier this week.
+
+Recently appointed MDeC chief executive officer Yasmin Mahmood has established that Prime Minister Najib Razak had granted his support to the Big Data Framework pledging his support to the recommendations therein, reports the Malay Mail Online.
+
+“The National Big Data Framework has already been presented to the PM and has been endorsed. It’s currently being distributed within government circles,” she told reporters. However she did admit that, “how much of it is going to be made public has yet to be decided.”
+
+There exists a big data steering committee supervising this Big Data initiative on behalf of the Government chaired by the Chief Secretary of the Ministry of Science, Technology and Innovation (MOSTI), while MDec is monitoring the implementation of the framework’s recommendations, through its own task force which includes stakeholders from the private and public sectors Yasmin disclosed.
+
+The Prime Minister’s Endorsement of the framework means two things, she notes:
+
+“Firstly, it [big data] will have priority in the budget planning for the 11th Malaysia Plan (11MP) due to be carried out in 2016,” she said. “We are currently working with Mampu and the EPU (Economic Planning Unit of the Prime Minister’s Department) on this.
+
+“Secondly, it means that the prime minister has endorsed our strategies — for example, around talent development.”
+
+The endorsement has brought about immediate decisions in order to provide scholarships for government officers to take up postgraduate courses in data sciences at reputable universities so that they can be equipped as data scientists in the country, she informed.
+
+The framework also mandates that data science degrees will be made available in universities in Malaysia, Yasmin said.
+
+Read more here.
+
+(Image credit: Hadi Zaher)
+
+Summary: The Malaysian ICT regulatory body, Multimedia Development Corporation’s (MDeC) Big Data Framework for Malaysia, has received the nod from the Prime Minister with recommendations already underway, reported MDeC earlier this week.
+Recently appointed MDeC chief executive officer Yasmin Mahmood has established that Prime Minister Najib Razak had granted his support to the Big Data Framework pledging his support to the recommendations therein, reports the Malay Mail Online.
+“The National Big Data Framework has already been presented to the PM and has been endorsed.
+“We are currently working with Mampu and the EPU (Economic Planning Unit of the Prime Minister’s Department) on this.
+The framework also mandates that data science degrees will be made available in universities in Malaysia, Yasmin said.
+
+Other Blogs by Eileen McNulty: https://dataconomy.com/author/eileen-mcnulty/

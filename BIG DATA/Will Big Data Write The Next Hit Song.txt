@@ -1,0 +1,48 @@
+Title: Will Big Data Write The Next Hit Song?
+
+Article Link: https://dataconomy.com/2016/01/01/will-big-data-write-the-next-hit-song/
+
+Author: Hannah Augur
+
+Publish Date: 2016-01-01
+
+Article:
+Big data is being integrated into nearly every field. It should be no surprise that the multi-billion dollar music industry wants in. There are two major ways big data is already influencing the music industry: music creation and music selection. The second one, however, is making far more waves.
+
+It’s no secret that the music industry often chooses the next hit star, and pushes them to receive more air time. Numerous studies show that people like music that sounds familiar. This means that there is a certain circular quality to pop music. The more you are forced to listen to that inescapable new song, the more you like it. Your liking it means more music of the same type will be produced. Data, however, is making the new era of music one of the most populistic.
+
+Spotify knows what listeners like and want. The ability to listen to music is only the most basic feature of Spotify. They constant compile data and create algorithms to suggest new music to listeners. Their Discover Weekly is like a fresh mix-tape made just for you. Powered entirely by algorithms and computers, the mixes are astonishingly well put together. While a listener may not love every single suggested track, it is lightyears from the old Pandora suggestions of 2005. Songs can be broken down into specific data points that betray not just what listeners like, but why. In fact, Spotify users create some 600 GB of this data daily. But it doesn’t stop there.
+
+Users love apps like Spotify, but companies love Shazam, Next Big Sound, Find, and the appropriately titled HitPredictor. While Shazam is ancient in technology years, it has hit its stride among execs and professionals. Rather than scanning a library of whole songs, each song is put through an algorithm that makes it easy to find. The app has been downloaded over 500 million times and over 30 million songs have been shazamed. Yes, that is a lot of a data—natural, unsolicited data. Data that shows what songs listeners want to connect with.
+
+Following Shazam searches can even show exactly how a song has spread. That’s right. Companies don’t just know that a song is becoming popular but where. When analyzed correctly, these numbers can easily predict the upcoming artists and songs. This is a powerful tool for labels who want real proof of a hit, rather than hunches and hopes.
+
+Last year, HitPredicor accurately predicted 48 of the top 50 hits. Thanks to their algorithms, there is no longer a need for talent scouts to go crawling through bars, or even overly rely on their “gut.” Proposals are handed in attached to a real-world indicator of popularity (like Shazam search numbers).
+
+This could lead to some very unexpected discoveries. Artists who would otherwise never make it out of their state are much more visible to big, global companies. However, this also creates a large degree of concern among musicians. Allowing listeners to pick the next artists actually means creating a lot of the same music. Because listeners are happy to hear sounds and styles they already know, we are happily creating a bubble of louder, less diverse music. It seems data-driven music has created an incredible paradox. Any song from any singer now has the capacity to get discovered, yet we are fueling an unusually homogenous series of artists and albums. Only time will tell what the data-driven radio will bring.
+
+Using data and algorithms to create perfect music
+
+The logical extension of data-driven music is data-created music. Don’t just wait around for the next big star to pop up—engineer them from scratch. For many, this is a horrifying, terrible idea. What if the art of music creation could be entirely removed from the process? A recent study on human- versus robot-made music may restore faith in humanity’s future.
+
+Researchers from both Harvard University and the Max Planck Institute in Göttingen, Germany studied a drummer and his drumming patterns (among other subjects). The goal was to find what made the rhythm more or less appealing to listeners. Of course, a computer program could produce the same rhythm. Moreover, it could produce the rhythm perfectly, with zero flaws. However, the human ear tends to dislike that absolute perfection. It simply sounds off. This is why such programs add a “humanizing” option to change the music enough to make it imperfect. Attempting to add random bouts of imperfection to make the music humanized, however, does not generally succeed.
+
+The team found that human error was not quite random. Changes in tempo revolve around the human clock. There are rhythms in the human brain that don’t exist in a computer. This is what physicists suspect to be the culprit behind the human distaste for purely digitized music. Moreover, the result is that human-made errors don’t occur at random. They have long-range correlations. Holger Hennig, first author of the study, explained this perfectly for the Harvard gazette.
+
+“For example, the drummer plays ahead of the beat for 30 consecutive beats, while half a minute earlier, he tended to play slightly behind the metronome clicks. These trends are pleasant to the ear.”
+
+However, even if data were to be pulled from around the globe to create the infectious rhythm of a sure-fire radio hit, it would not necessarily mean success. Even after pinpointing the exact details of desired rhythmic fluctuations, this did not mean human ears accepted algorithm-based music (or humanization) as preferable. Rather, the magical numbers remain elusive.
+
+There is one example of data-created music. The “Data-Driven DJ” is a project intended to, in the DJ’s own words, “explore new experiences around data consumption beyond the written and visual forms by taking advantage of music’s temporal nature and capacity to alter one’s mood.” By transforming numbers and charts into sound, a new genre of music is created. Thus far, he has made music out of the global refugee movement, Beijing’s smog and air quality data, as well as data on race and attraction. This idea is intriguing, as high art forms often trickle down into pop culture. While this is a highly specialized use of data, the Data-Driven DJ may be driving much more in the long run.
+
+It seems music creation will remain in the hands of musicians for some time to come. Data and analysis has reinvigorated the music industry by measuring responses. It makes it easier than ever to see how populations are responding to new music. Data-driven creation, however, has not changed excessively. Yes, music companies can use data to infer what style will be the most profitable to fund, but data is not creating music from scratch. Yet.
+
+Like this article? Subscribe to our weekly Newsletter.
+
+Summary: Big data is being integrated into nearly every field.
+There are two major ways big data is already influencing the music industry: music creation and music selection.
+Data that shows what songs listeners want to connect with.
+Using data and algorithms to create perfect musicThe logical extension of data-driven music is data-created music.
+Yes, music companies can use data to infer what style will be the most profitable to fund, but data is not creating music from scratch.
+
+Other Blogs by Hannah Augur: https://dataconomy.com/author/hannah-augur/

@@ -1,0 +1,82 @@
+Title: Google Tensor G3 chip elevates Pixel phones with AI boost
+
+Article Link: https://dataconomy.com/2023/10/05/google-tensor-g3-pixel-ai/
+
+Author: Onur Demirkol
+
+Publish Date: 2023-10-05
+
+Article:
+Many were revealed at the Made By Google event, including the brand-new Google Tensor G3 chip. Is it better than Apple’s A16 Bionic, and what AI capabilities it will bring to the new Pixel phones? Below, you will find all the answers you have in your mind!
+
+In a much-anticipated reveal at the recent Made by Google event, the tech giant showcased its latest creations: the Pixel 8 and Pixel 8 Pro. While the new phones offer a host of exciting features, one standout upgrade is the Tensor G3 System-on-a-Chip (SoC). This chip promises to take the Pixel experience to new heights by enhancing its artificial intelligence (AI) capabilities.
+
+Google Tensor G3: The AI powerhouse
+
+Google is known for its cutting-edge technology, and the Tensor G3 is no exception. When compared to its predecessor, the Tensor in the Pixel 6, it offers a huge improvement in on-device AI performance. Simply said, this processor gives your Pixel phone the intelligence to handle complicated activities without relying on cloud computing.
+
+The Tensor G3 is more than simply a speed boost; it’s a game-changer for AI specialists. Google boasts that the Pixel 8 and Pixel 8 Pro can do more than twice as many on-device machine learning tasks as prior generations. This means that your Pixel smartphone can now analyze data more quickly and intelligently, making it more responsive to your demands.
+
+Google Tensor G3 Features
+
+Let’s break down the key features that the Google Tensor G3 brings to the table:
+
+Enhanced Call Screen: Tired of getting spam calls? The Call Screen function is enhanced by the Tensor G3, making it even more effective at screening out unnecessary disruptions. Excellent audio and video quality: Say goodbye to mediocre audio and video. Google claims a big improvement with the Tensor G3, notably in the Pixel’s Clear Calling function. The “Audio Magic Eraser” option is also available, allowing you to erase irritating background sounds from your films in the same way that the Magic Eraser cleans up photo backgrounds. Accessibility: Google is committed to making technology more accessible to all people. A single long press on the power button on the Tensor G3 starts screen reading, making it easy to enjoy the material on the move. You also have control over playback speed and language settings, which improves your entire experience.
+
+While Google hasn’t given a full technical analysis of the Tensor G3, leaked benchmark data provides some context. The processor has a 9-core CPU arrangement with a Cortex-X3 core clocked at 2.91GHz, which is the same core used in the Snapdragon 8 Gen 2. It boasts strong performance when paired with 12GB of RAM and a Mali-G715 GPU. Furthermore, it is constructed on Samsung’s superior 4nm technology, which ensures efficiency advantages over the Tensor G2.
+
+Google Tensor G3 vs. A16 Bionic
+
+As the Google Tenser G3 was announced at the Pixel 8 event, all eyes turned to the comparison between the new chip and Apple’s A16 Bionic. Android and Google fans wanted the new Tensor G3 chip to be superior so badly with its nine cores against A16’s 6 cores, but according to Nano Review, Apple’s chip is better. Here is the comparison:
+
+CPU Performance
+
+Tensor G3: 70
+
+A16 Bionic 96
+
+Gaming Performance
+
+Tensor G3: 91
+
+A16 Bionic 97
+
+Battery Life
+
+Tensor G3: 92
+
+A16 Bionic 98
+
+Overall chip score
+
+Tensor G3: 83
+
+A16 Bionic 97
+
+Pros of Google Tensor G3
+
+Has 3 more cores
+
+Announced 1-year and 1-month later
+
+Pros of Apple A16 Bionic
+
+Shows better (up to 32%) AnTuTu 10 score – 1432K vs 1081K
+
+15% higher CPU clock speed (3460 vs 3020 MHz)
+
+Google’s commitment to AI
+
+Google’s Pixel journey has always been focused on maximizing the power of AI. Night Sight was a game-changing feature that paved the way for future innovation. Google is ready to extend its advantage in AI integration with the Tensor G3 in the Pixel 8 and Pixel 8 Pro.
+
+Finally, the Pixel 8 and Pixel 8 Pro have arrived, and the star of the show is unquestionably the Tensor G3 chipset. With its powerful AI capabilities and outstanding specifications, it is likely to reshape the Pixel experience. Prepare for a future in which your smartphone is not only smart but extremely intelligent, courtesy of Google’s Tensor G3. The artificial intelligence revolution has arrived, and it is right at your fingertips.
+
+Featured image credit: Google
+
+Summary: Many were revealed at the Made By Google event, including the brand-new Google Tensor G3 chip.
+While the new phones offer a host of exciting features, one standout upgrade is the Tensor G3 System-on-a-Chip (SoC).
+Google Tensor G3: The AI powerhouseGoogle is known for its cutting-edge technology, and the Tensor G3 is no exception.
+Google Tensor G3 FeaturesLet’s break down the key features that the Google Tensor G3 brings to the table:Enhanced Call Screen: Tired of getting spam calls?
+Google Tensor G3 vs. A16 BionicAs the Google Tenser G3 was announced at the Pixel 8 event, all eyes turned to the comparison between the new chip and Apple’s A16 Bionic.
+
+Other Blogs by Onur Demirkol: https://dataconomy.com/author/onurdemirkol/

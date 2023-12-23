@@ -1,0 +1,64 @@
+Title: SmartAsset.com: A New Way To Interact With Your Finances
+
+Article Link: https://dataconomy.com/2014/05/27/smartasset-com-a-new-way-to-interact-with-your-finances/
+
+Author: admin
+
+Publish Date: 2014-05-27
+
+Article:
+We met with Michael Carvin, the CEO & Co-founder of SmartAsset.com, at the Finovate conference in San Jose. SmartAsset is a finance platform that empowers users with highly personalized information and recommendations around financial decisions. It’s the Web’s first personal finance platform designed to empower people with highly personalized information and recommendations around major financial decisions.
+
+Who are you?
+
+I’m Michael Carvin, and I am the CEO and Founder of SmartAsset.com. At SmartAsset we’ve built a web application that allows us to provide automated financial advice. So when you come to our website or our mobile product and you have a particular question in mind, we provide the web’s best answer to that financial question. We do that with what we call financial modeling technology, and about 130 different data partners and data sets that we manage.
+
+Can you give me an example?
+
+Let’s say you’re trying to figure out if you should buy a house, and how much you can afford. You come to SmartAsset, you tell us a little bit about yourself such as what your income is, what your savings are and where you’re planning to move to. From there we go and aggregate all of the data that is relevant to that decision: transaction taxes, title insurance and mortgage qualification criteria. There are about 40 different data sets that we draw on, just to figure out what you can afford, in addition to paring you with a mortgage that we know you would qualify for. We’re not picking a number out of thin air, we’re telling you that you would qualify for this financial product, up to this amount, that you have sufficient savings to meet the down payment, and therefore this is the amount that you can really afford.
+
+How many different use cases do you have where you have access to this many data points?
+
+We answer 80 questions algorithmically, so each person that goes to those 80 parts of the site gets a different answer. The main topics are retirement, refinancing, home buying, and life insurance. However, we also do credit card selection, checking account selection, and student loans.
+
+Are you equally strong on all of those verticals?
+
+We’re focused on expanding everything. We use the same back end to power the answers to all of the questions on our site. Whether you’re answering a question on home purchase or whether you need to figure out how much money you need to make after going to Harvard Business School, it’s one modeling engine and it’s one technology back end. This is what we’re focused on rolling out, and this allows us to answer lots of different questions. The US residential real estate market is the world’s largest asset class, so there are lots of people that are focused on attracting homebuyers; there’s more than 20 billion dollars spent on advertising to homebuyers every year. For example, Zillow and Trulia, are really trying to focus on attracting advertising dollars from realtors. There are companies like Bankrate, that focus a lot on attracting advertising dollars from mortgage companies and other financial services companies, and there are companies like us that offer a range of services, so we obviously attract many home buyers to our website as well.
+
+What makes you better than those companies?
+
+We provide a very different service, but we’re the web’s best place to get an answer to a financial question, hands down. Over 100 million times a year people will search for the types of questions that we answer. If you value the quality of the answer we’re, by far, the best.
+
+What was the last thing you used your product for?
+
+Refinance. I’ve got a house, and I recently refinanced, so I used our products for that. I am an over thinker when it comes to financial decisions. The difference between getting 90% right or 95% right can be tens of thousands of dollars a year over 30 years when you have a mortgage. For me, I use it all the time because it’s the best advice I can get in terms of what I should do next when I’m planning my finances.
+
+What’s the biggest challenge you’ve faced so far?
+
+We thought that user acquisition was going to be the biggest business challenge, but people have just really gravitated toward the product. We’re growing really quickly. For the past 14 months we’ve grown at a rate of 40 percent a month, so half a million people will come to SmartAsset.com and get financial advice this month. That’s what we thought was going to be the hardest and it turned out to be easier than expected because people are really responding to the product. We’ve built a really, really high quality product that gets everyone a unique answer. You have all of these long-tail cases where, whatever it is, making sure that everyone gets really good advice, is a challenge.
+
+Was it ever a challenge to tap into data pools needed for your product to operate?
+
+One of the biggest challenges of having 130 different data sources is making sure that all that data is speaking together correctly. You clean data and make sure that data sets are consistent overall; the integration of the data takes a lot of work. Government data, for example, is a complete mess. They have huge holes in it, formatted completely differently, even location names of one data set are different from location names of another data set.
+
+What has been the toughest case you’ve had to solve?
+
+We want to make sure that, no matter what your circumstances are, we’re getting you really good advice. We had a user in our office, he was an actor, and he had a couple of huge acting jobs two years ago, and he had 500 thousand dollars in savings but he had no income. It was a very weird long-tail case but our product could accommodate for this kind of situation and give him the best advice.
+
+What will be the toughest challenges in the next twelve months?
+
+Right now, we’ve got to build an incredible team. We just raised a big round of financing, that was announced a few weeks ago. We raised 5.2 million dollars led by a venture firm called Javelin Venture Partners, and now we’ve got to hire great people, and that’s a great challenge. We’ve got 14 open positions, so hiring 14 people that are really talented quickly, without it being too much of a distraction, is hard.
+
+What are the main positions that you are looking for?
+
+We’re hiring across marketing, products, business development and tech. We’re looking for some really good tech people, for a VP of business development; we’re looking for project managers.
+
+SmartAsset is a finance platform that empowers users with highly personalized information and recommendations around financial decisions. It’s the Web’s first personal finance platform designed to empower people with highly personalized information and recommendations around major financial decisions.
+
+Summary: At SmartAsset we’ve built a web application that allows us to provide automated financial advice.
+We do that with what we call financial modeling technology, and about 130 different data partners and data sets that we manage.
+We answer 80 questions algorithmically, so each person that goes to those 80 parts of the site gets a different answer.
+We’ve built a really, really high quality product that gets everyone a unique answer.
+One of the biggest challenges of having 130 different data sources is making sure that all that data is speaking together correctly.
+
+Other Blogs by admin: https://dataconomy.com/author/admin/

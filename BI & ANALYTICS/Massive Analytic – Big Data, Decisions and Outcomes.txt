@@ -1,0 +1,54 @@
+Title: Massive Analytic – Big Data, Decisions and Outcomes
+
+Article Link: https://dataconomy.com/2014/04/23/massive-analytic/
+
+Author: Dan Gray
+
+Publish Date: 2014-04-23
+
+Article:
+We met up with the team of Massive Analytic at CeBit in Hannover. Massive Analytic was awarded an innovation grant by the U.K. government in March 2013. Massive Analytic were also a part of top 12 tech U.K. companies last year.
+
+Tell us a little about yourself and what you’re doing in CEBIT?
+
+We are Massive Analytic, a big data start up out of London. What we provide is an end-to-end integrated big data analytic sweep within a browser. Right now no other company in the world can provide this. Our virtual data warehouse is able to collect from multiple sources in batch and real time and we’ve been able to productionize open stack architectures to stream data in real time. Not only are we able to stream data in real time, but we are able to connect data on the fly which no one else can do at the warehouse level. Once we join data on the fly we are able to analyze it while we are joining it and simplifying the data by clearly outlining the business rules within the data.
+
+For example, a business user might want to understand the predictors for a particular target variable, and artificial precognition – which is a proprietary technology – uses fuzzy logic to produce fuzzy sensitive data and derives rules, thereby identifying what the drivers are. This is what we like to call coarse tuning, and fine tuning we take this output further and apply it for predictive analytics which is also provided in our suite and all of this is visualized within a browser and the whole thing is built on D3 and no JS.
+
+A lot of the players in the market are doing what you are doing.
+
+There are players doing bits of this; there are players that do data warehouse, there are players that do rapid miner, however no one does all of it and no one does it in a browser. The important thing about this is that even those individual players would not be able to scale the analysis to big data to the volume of data and the variety of data we are able to play with, which includes all kinds of data, both structured and unstructured as well as syndicated data. This is what helps us crunch the data, make it manageable.
+
+One of the challenges with big data is when you’re analyzing gigs of data you need statisticians, and IT people to segment the data in a particular manner and then push it out to sequel servers for further analysis and visualization. Our technology doesn’t require you to do that, so the work of statisticians and IT at that point to do that segmentation is not required. Organisations will be able to use those statisticians and IT people to do something which they deliver more value out of and once you understand that you’ll be able to analyze your data a lot better.
+
+Who’s the brain behind Massive Analytic?
+
+The brains behind this company is our founder and CEO George Frangou. He’s had decades of experience in business analytics and business transformations. This product was born out of him identifying a gap in the market that required an end to end business analytical sweep that was able to scale to big data and analytics within a browser, so he’s been running several business transformation projects for 40 Fortune 500 companies and the experience that he gained out of that is what resulted in this product being born. We have a patent for artificial precognition and it has multifarious applications in controlling semi-automatic or automatic vehicles
+
+What is your business model?
+
+We are a product company so what we ideally would like to see is our product being used by our customers. However, we don’t provide management services in terms of consulting, so we would be looking to partner with consulting companies to drive that portion of the engagement where some business handlers are required.
+
+On a big data transformation, which is adopting this technology, we are also looking at direct engagement with potential buyers. We have been selling to fortune 500 companies; they’ve used our sunset technology, which would be commissioned right now, and we’d go back to them with new technology in which they have already expressed a lot of interest. We will be looking at channel partners as well as looking at being a part of industry consultancy and government consultancy. We are not in a position to reveal names, but we are in advanced talks with some of this consultancies which have more than happily decided to adopt these early stage programs.
+
+Are you seeking any funding or special talent for hire?
+
+Any company is looking for anybody who is a data scientist, mathematicians, people that think they can make a difference in this kind of technology. They are naturally welcome to come, and join, and hopefully contribute to a level that is even more exciting than what we’ve done.
+
+From the perspective of funding, the company has two rounds of successful engine funding. There is an active process happening, but the company is quiet stable and financially sound for at least twelve months going forward without really requiring this, but if we see funding around it would be nice.
+
+Do you have any plans to expand into Germany?
+
+We don’t limit the market at the moment. The company is located in the U.K., but obviously we use our international networking to speak to companies, and nowadays most big companies are multinational anyway.
+
+Where do you see yourself in one year from now?
+
+We see ourselves as one of the leading top three or four big data companies in the world.
+
+Summary: We are Massive Analytic, a big data start up out of London.
+What we provide is an end-to-end integrated big data analytic sweep within a browser.
+One of the challenges with big data is when you’re analyzing gigs of data you need statisticians, and IT people to segment the data in a particular manner and then push it out to sequel servers for further analysis and visualization.
+On a big data transformation, which is adopting this technology, we are also looking at direct engagement with potential buyers.
+We see ourselves as one of the leading top three or four big data companies in the world.
+
+Other Blogs by Dan Gray: https://dataconomy.com/author/dan-gray/

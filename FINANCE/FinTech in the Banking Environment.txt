@@ -1,0 +1,64 @@
+Title: FinTech in the Banking Environment
+
+Article Link: https://dataconomy.com/2017/12/06/fintech-banking-environment/
+
+Author: Pawel Haltof
+
+Publish Date: 2017-12-06
+
+Article:
+Who goes there, friend or foe?
+
+The emergence and development of innovative and flexible financial startups is causing a revolution in financial markets by proving that financial services can be built from the ground up, in response to real user needs. So much so that gaining customers’ trust, along with their investment, is now not the sole concern of banks, but also the aim of these versatile and highly-focused startups.
+
+The prize is tantalizingly clear – customer confidence in both the institution and its products. But the route to this prize is radically different for banks and FinTechs. Whether the players in this game are opponents or partners is a matter still open to question. What is beyond question is that it is the customer who stands to gain.
+
+Contrasting strengths
+
+According to the World Retail Banking Report 2016 from Capgemini and Efma, banks have solid competitive advantages – namely customer trust, a large customer base and experience with regulators. FinTechs’s strengths are identified as agility, innovation and the ability to attract digitally-savvy customers.
+
+In terms of securing customer trust, banks are second to none. Capgemini’s report Why Banks and Insurers Must Make Customer Data Safer and More Secure indicated that 83% of consumers trust banks and insurers with their data. Furthermore, the EY 2016 Global Consumer Banking Survey showed that 48% of customers have complete trust in banks to keep their money safe, and that globally, 60% of customers agree that the expertise of banks has an important role to play in helping people achieve their life goals.
+
+In contrast, the overwhelming competitive advantage of financial startups is the user experience they offer, often honed to perfection. Their solutions can be unerringly intuitive, responding to real customer expectations – and in many cases far exceeding them. Banks are very much playing catch-up in the area of UX, although there are a few big players such as BBVA, Santander, DBS and Emirates NBD who are investing heavily in a UX strategy. Poland, considered to be the home of a great deal of innovation in online banking, has brought players such as mBank and Alior Bank into the spotlight.
+
+mBank has been innovating for many years, gaining in 2013 the title of Most Disruptive Innovation in the Efma Distribution and Marketing Innovation Awards. Their recently-launched mAccelerator is the first fund in Central and Eastern Europe that specializes in developing and commercializing new technologies, aiming to create state-of-the-art technological solutions to help meet the challenges of the FinTech era.
+
+Alior Bank launched its Digital Disruptor strategy for 2017-2020 to become even more innovative and customer-friendly and to strengthen its capital position. Their plan is to implement new digital solutions facilitating online sales of products and services, and invest heavily in IT and innovation, to guide clients through the technological revolution in the banking industry.
+
+Paths to success
+
+Providing customers a high level of User Experience – equal to the levels offered by FinTechs – is now one of the major challenges facing banks. This challenge also touches on other significant areas, such as the improvement of key customer contact points with banks, the redesign of particularly awkward banking processes, and the provision of financial advice to clients in the most accessible and easy-to-understand manner possible.
+
+Emulating financial startups, banks are also striving to spare their clients the stress involved with managing the home budget. This is evident in the example of Credit Data Experience, which has the lofty aim of ensuring positive customer experience throughout even the most stressful credit processes, or at the very least, not discouraging customers from completing them.
+
+FinTechs, for their part, have significantly influenced the management model of financial institutions. Observation of startups has led to the creation of mini-organizations within banks that are responsible for specific areas of business – thus lowering costs and offering much greater development opportunities.
+
+Not every playing field is level
+
+Not all financial markets offer equal chances for startups to compete with traditional banks. This is in part due to differences in customer needs and expectations, often dependent on the maturity of each market. At the MoneyConf 2017 conference in Madrid, data presented by the Spanish headquarters of BBVA showed that on established markets, speed of service delivery is of utmost importance, whereas for developing markets, transparency and clarity of services are key.
+
+An innovation-friendly environment
+
+The legal framework of a market, along with its openness to innovation, has a marked effect on the development of startups. Thankfully, we are seeing an increase in the appetites of governments and regulators to encourage competition and stimulate the development of FinTechs, using the various tools at their disposal. Regulators may, for instance, facilitate the legitimate operation of small financial firms, increase flexibility in their approach to licensing, create sandboxes or establish closer cooperation with even the smallest of FinTech startups.
+
+A prime example of a country that has successfully opened up to financial startups is Brazil. According to data presented at the MoneyConf 2017 conference, new market regulation there has resulted in increased consumer confidence, in turn leading to greater customer investment in FinTech. Furthermore, Brazil is now considering launching a special license for financial businesses operating only in the digital space, in order to further streamline procedures and spur the dynamics of innovation.
+
+In the end, the customer benefits
+
+So what changes are waiting for us in the future and who will gain most from the proliferation of modern and highly innovative FinTechs on the financial market?
+
+FinTechs are dramatically changing the perception and function of banking. Banks find themselves having to transform into trusted brands and get to know their customers anew by getting close to their needs and understanding their working style. They also need to start providing real help in their areas of greatest need. Also, besides merely focusing on meeting the customer’s financial needs, they should additionally offer real-time, on-demand financial troubleshooting.
+
+Banks have started to take over not only the operating templates of financial startups, but often the startups themselves, in order to acquire their know-how. This umbrella approach seems to be leading to the best kind of win-win situation: According to the World Retail Banking Report 2016 from Capgemini and Efma, 65% of banks perceive FinTechs to be partners to them, not competitors. Banks see opportunities for collaboration and have different strategies for it – with 46% declaring existing collaboration, 44% investing and 18% acquiring. In contrast, 43% declare that they are competing with financial startups.
+
+The ultimate winner of this bromance between banks and FinTechs is the customer, who benefits from an innovative solution with honed customer experience, backed up by the sense of security provided by a trusted institution.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Summary: Contrasting strengthsAccording to the World Retail Banking Report 2016 from Capgemini and Efma, banks have solid competitive advantages – namely customer trust, a large customer base and experience with regulators.
+In terms of securing customer trust, banks are second to none.
+Emulating financial startups, banks are also striving to spare their clients the stress involved with managing the home budget.
+A prime example of a country that has successfully opened up to financial startups is Brazil.
+Also, besides merely focusing on meeting the customer’s financial needs, they should additionally offer real-time, on-demand financial troubleshooting.
+
+Other Blogs by Pawel Haltof: https://dataconomy.com/author/pawelh/

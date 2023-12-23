@@ -1,0 +1,60 @@
+Title: 8 Trends In Big Data For 2015
+
+Article Link: https://dataconomy.com/2015/01/14/8-trends-in-big-data-for-2015/
+
+Author: Matt Reaney
+
+Publish Date: 2015-01-14
+
+Article:
+As a Big Data recruiter, the speed of change in the industry never ceases to amaze me. I can’t fail to get up in the morning and wonder what the next year (or day) might bring in this ever changing industry, and although I have made eight suggestions for 2015 trends, there seems to be one general theme: Big Data is going to become more accessible….
+
+Non-Data Scientists
+
+Big data talent with a Ph.D. or even a computer science degree is scarce and given the rapid growth of the industry, professionals from other backgrounds will be joining the teams. Increasingly automated platforms will simplify the collection and analysis of data, and the reliance on coding will be reduced, so the industry will be open to a wider skillset. A “Data Scientist” with a BA degree? Not out of the question.
+
+Real Time Big Data
+
+In-memory analytics capabilities will provide immediate information to the business community. This will gradually replace batch reporting and for a fast moving business such as online retail, this analysis will enable swifter decision-making. In this example, demand planning and supply chain efficiencies will see huge improvements. Most businesses will benefit from this real time reporting.
+
+Self Service Big Data
+
+As the analytics software becomes easier to use, and companies educate their employees on some basic techniques, 2015 will be the year of accessible Big Data. It will no longer be some mysterious activity spitting out conclusions of questionable origin. People will understand where the data has come from, they will understand how to manipulate it and what it means for their particular part of the business. If they have the right tools, anyone will be able to draw their own insights.
+
+Shared Big Data
+
+Data Scientists will be integrated more and more with the wider company, and may even start to sit alongside colleagues in other departments rather than in a stand-alone Big Data team. Big Data should be relevant to the business, and 2015 will be the year that it starts to become a true part of the business.
+
+Big Data and the Internet of Things
+
+With Big Data being at the core of the IoT, 2015 will see connected objects – think home appliances, thermostats, wearable fitness monitors, robots, 3D printers – become more and more prevalent, and useful. On even the coldest of days you will return home to a warm, cosy house.
+
+Richer Data
+
+With improvements in analysis and software, also comes the inevitable consequence that the Data will start to mean more and more to business leaders. It will no longer just be impressive for its quantity, but 2015 is the year that the quality will dramatically increase, and therefore the impact on business. Rich data is more effective than big data.
+
+More Big Data Geeks
+
+Big Data will be embraced by everyone in the business. People will start to understand it better, and management will be able to tap into its power. The speed of Big Data adoption will depend on layman advocates to translate it into tangible business results. Success will then breed success.
+
+Creative Recruitment
+
+Recruitment for Big Data professionals will be as competitive as ever. Companies will need to be clear about their requirements, engaging persuasively with the best talent, who will have their pick of employers. This is also the year of the “open mind” in Big Data recruitment. There is not enough talent to go around, so HR will have to trust recruiters to partner with hiring managers to creatively find the best-fit solutions.
+
+Whatever Big Data brings this year will depend on you. Yes, you. Thanks for reading the article, thanks for showing an interest. Maybe it is worth understanding what Big Data can deliver for your company?
+
+Follow @DataconomyMedia
+
+Matt Reaney is the Founder and Director at Big Cloud. Big Cloud is a talent search firm focussing on all things Big Data and helps innovative organisations across Europe, APAC and the US find the talent they need to grow.
+
+(Image credit: Andy Lamb, via Flickr)
+
+
+
+Summary: Self Service Big DataAs the analytics software becomes easier to use, and companies educate their employees on some basic techniques, 2015 will be the year of accessible Big Data.
+Big Data and the Internet of ThingsWith Big Data being at the core of the IoT, 2015 will see connected objects – think home appliances, thermostats, wearable fitness monitors, robots, 3D printers – become more and more prevalent, and useful.
+Rich data is more effective than big data.
+More Big Data GeeksBig Data will be embraced by everyone in the business.
+Maybe it is worth understanding what Big Data can deliver for your company?
+
+Other Blogs by Matt Reaney: https://dataconomy.com/author/matt-reaney/

@@ -1,0 +1,42 @@
+Title: Search vs. Discovery: How Are They Different?
+
+Article Link: https://dataconomy.com/2019/10/24/the-watchword-today-is-discovery-where-you-dont-just-search-for-information-but-information-finds-you/
+
+Author: David Lavenda
+
+Publish Date: 2019-10-24
+
+Article:
+Google, Microsoft, et al continue to perfect their search engines – but too often search is not enough. The watchword today is “discovery” – where you don’t just search for information, but information finds you.
+
+Why is discovery better than search? One reason is because of the overload of data – both online and in-house. Searching for something, whether via Google or using scripts written by programmers that peruse huge data storage repositories, requires you to invest a great deal of time and effort in order to ferret out the results you really need from a huge amount of non-relevant data – because the context of what you are searching for is not always clear. Discovery – where a system proactively presents to you what you are really looking for based on the context of what you are doing or searching for – is the Next Big Thing in data usage.
+
+When you add context to search, you get discovery – a system where the data you need is delivered based on materials you are examining, where you are, what app you’re using, the type of device you are using (i.e. screen size and input tools), whether you are moving or stationary, etc. Done this way, discovery saves a huge amount of time, effort, and resources over search. Search is fine for quick, specific answers, but awful at discovering and exploring new ideas. Discovery reveals worlds you didn’t know existed.
+
+What Discovery can Discover
+
+Practically speaking, how are search and discovery different? One way of discovering information is via “recommendations,” such as those provided by Netflix and Amazon. Often, these are just “other people who bought what you bought also bought this” types of recommendations – but when machine learning is applied to the process, the potential accuracy of a recommendation engine is enormous, with the engine figuring out that if you bought one product (ie, hot dogs) you would likely be interested in others (hot dog rolls, charcoal, soft drink six packs, beach toys, etc.).
+
+The heart of such a discovery/recommendation engine is the “knowledge graph” which is a data graph that exhibits the relationships between topics. By examining the context, the engine “knows” that if you buy product A, there’s a good chance you will need product B, C, etc. – and it will bring those results to you. Business intelligence tools, like PowerBI, also enable people to discover things from large amounts of data by using visualization to show patterns where just searching for data wouldn’t reveal ‘the big picture’.
+
+A discovery system would also respond to location/usage context. For example, if you are using an AR headset (like Hololens) to repair something like an elevator, the system projects information relevant to the repair on the screen without having to search for it specifically. Other examples and contexts would include conversations on Slack or other connectivity applications: If you are engaged in a marketing discussion on an “upcoming company meeting” with a client, and someone in another department had a conversation on the same topic, the discovery system could suggest checking out that conversation.
+
+The same could apply to any other activity in an organization – sales teams discovering work done by others on the same account in the past, engineers getting insight from other teams working on product design, finance departments being informed of the newest regulations regarding salaries and benefits, etc. Instead of being passive and becoming activated only when called upon – like search – discovery is proactive, delivering desired information when needed. That is the power of discovery – and that is what search should eventually evolve into.
+
+Moving Towards Discovery: Practical Steps
+
+How can that evolution take place? To “discover,” a system needs to be able to understand what we are looking for and how it is going to be applied – supplying relevant information when it is called upon to do so, or even automatically, such as in the airplane repair context mentioned. To do that, a number of strategies could be applied, such as artificial intelligence or natural language processing.
+
+With the latter, for example, an analysis of the use of language in a document, conversation, script, or any other context would enable the NLP system to “understand” what is being discussed based on language, phraseology, sentence patterns etc. At that point, the discovery system just needs to parse through data repositories for the relevant information, based on the criteria the NLP system described as being relevant. An AI system using machine learning would work the same way; analyze what is being discussed or written about and look for similar patterns of content or links used previously in other documents, files, conversations, videos, etc., presenting the relevant results and ignoring the rest.
+
+Figuring out how to navigate data has become a major challenge in organizations today. According to a study by RingCentral, employees lose as many as 32 business days a year just switching between applications, folders, windows, and databases in order to find the information they need. If things continue as they have – with companies stockpiling even more data, spread out over more and bigger data repositories – expect that number to balloon.
+
+Organizations really have no choice: With the amount of data set to grow to 175 zetabytes by 2025 – 61% more than in 2018 – finding data is going to become a greater challenge than ever. To keep organizations functioning, search must enter a new phase of presenting information before users even think to look for it: discovery.
+
+Summary: Google, Microsoft, et al continue to perfect their search engines – but too often search is not enough.
+The watchword today is “discovery” – where you don’t just search for information, but information finds you.
+What Discovery can DiscoverPractically speaking, how are search and discovery different?
+Instead of being passive and becoming activated only when called upon – like search – discovery is proactive, delivering desired information when needed.
+To keep organizations functioning, search must enter a new phase of presenting information before users even think to look for it: discovery.
+
+Other Blogs by David Lavenda: https://dataconomy.com/author/david-lavenda/

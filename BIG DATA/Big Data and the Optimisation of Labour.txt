@@ -1,0 +1,42 @@
+Title: Big Data and the Optimisation of Labour
+
+Article Link: https://dataconomy.com/2016/02/02/big-data-and-the-optimisation-of-labour/
+
+Author: Sean Blanchflower
+
+Publish Date: 2016-02-02
+
+Article:
+For organisations across nearly every industry, data generation and capture has proliferated to such an extent that to mismanage it is to fall behind. Data now fuels the new style of doing business. Technology, solutions and services that allow these organisations to harness and manage large amounts of this fast-moving data mean that, like never before, they are given the opportunity to understand the worlds in which they operate with far more context and insight.
+
+This in turn can help transform an organisation into a truly digital enterprise. By ensuring that diverse data is embedded back into operational processes, companies can drive new levels of automation and augmentation that help them maximise the performance of their large, physical assets. On the flipside, when you turn data into forms which humans understand and can interact with, their own capabilities can increase and their labour becomes more profitable. Overall, Big Data has become the underlying concept which creates an opportunity for organisational growth and increased efficiency.
+
+These efficiencies in technology are a signal for many people that Big Data is steadily leading us towards the greater automation of industry. The natural assumption is that there will be a catastrophic loss of jobs as machines learn how to do them better than humans. Fortunately, predictions that the human race will become obsolete are greatly exaggerated!
+
+In the workplace, ultimate responsibility for a task lies with the human. The impact of Big Data technology on the labour sector therefore should be seen as optimising the workforce rather than replacing it. Optimisation happens when data drives a decision and supplements it with human intuition. This means streamlining the process itself of extracting meaning from swathes of information – in simple terms, predictive analytics on unstructured data enable employees to make better, more informed and more timely decisions and ultimately makes them more productive.
+
+Take the example of transport and logistics. In the past, a lorry driver would have relied primarily on maps, prior experience and intuition to inform decisions about routes to take, traffic flow etc. Yet when this is supported by telematics and route optimisation data, driving efficiency is significantly improved, even if the ultimate decision remains with the human. (Fortunately, though, the much publicised examples of drivers ending up in a river “because their SatNav told them to” are mercifully rare!) This sort of hybrid process lets machines and humans be their best ‘selves’ to maximise efficiency, customer experience and therefore profitability. Big Data analytics have enabled a closed feedback loop that can optimise human-led processes with data-driven decision making.
+
+Another example sits within a multinational defence company we work with. Through our Big Data Solutions, Hewlett Packard Enterprise added an index to the company’s global IT systems which analysed the human input of anyone interacting with it. Essentially, each individual becomes an avatar for their specific expertise, by extracting information around which documents they like reading, areas they work in, past and current projects etc. And in one case, while the system was being populated by employees across the world, a group of engineers in France realised they were working on the exact same project as a group in California. Rather than both teams of specialists continuing to spend millions of pounds on the individual projects, the two groups ended up sharing resources and advice, streamlining the production process and thus maximising efficiency and saving money.
+
+The aim of any data-driven organisation is to automate information which previously would have taken great manual effort to optimise the labour force, yet this does not necessarily mean for profitability. A case in point is a system we’ve helped build called Isabel in the healthcare sector. As a rule, medical professionals like to rely on their own experience and intuition when it comes to diagnosing patients, and tend not to like using rigid computerised databases to choose a diagnosis for them. Like an episode of House, Isabel was an eight year old patient who had a rare, unidentified – and apparently incurable — disease. Her disease was eventually identified only through a stroke of luck, but became the catalyst to create a hybrid system – human-like in its analysis with an ability to learn and match patterns, yet with a breadth of knowledge only achievable through Big Data systems.
+
+So, Big Data solutions clearly have the ability to equip workforces with the information they need in order to make more timely and effective decisions, rather than replacing them. Big Data solutions also enable accelerated systems and maximised performance across sectors. But are companies embracing these technologies and already optimising their workforce?
+
+Here there is no clear answer. At the highest level, some decision-makers are indeed starting to see the benefits that technology is bringing. The ‘hype’ around Big Data has meant that every major company has had to take it seriously, but what has been extraordinarily evident is that a lot of money has been spent unwisely. So far, there has been investment into systems which are not actually beneficial to the business, and do not create value or opportunities.
+
+The recipe for success is knowing what questions to ask, which data to analyse and how to use the insights. There is a very broad brush for how Big Data is described, but every company will require different solutions, and what we can say is that one-solution fits all is not the correct way to go about it – Big Data isn’t just about size, it’s variety, and part of our advantage as engineers is that we have a unique, practical focus on sound, functional design – solving problems and optimising from the inside out.
+
+So while some may believe that technology is going to have a negative impact on the workforce, we state that this is simply not the case. Skynet is coming, not to eliminate us, but to partner us in optimising the productivity, efficiency and profitability of the business.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Overall, Big Data has become the underlying concept which creates an opportunity for organisational growth and increased efficiency.
+These efficiencies in technology are a signal for many people that Big Data is steadily leading us towards the greater automation of industry.
+The impact of Big Data technology on the labour sector therefore should be seen as optimising the workforce rather than replacing it.
+Big Data analytics have enabled a closed feedback loop that can optimise human-led processes with data-driven decision making.
+Big Data solutions also enable accelerated systems and maximised performance across sectors.
+
+Other Blogs by Sean Blanchflower: https://dataconomy.com/author/sean-blanchflower/

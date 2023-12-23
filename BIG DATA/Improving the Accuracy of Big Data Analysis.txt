@@ -1,0 +1,30 @@
+Title: Improving the Accuracy of Big Data Analysis
+
+Article Link: https://dataconomy.com/2015/10/31/improving-the-accuracy-of-big-data-analysis-2/
+
+Author: Rick Delgado
+
+Publish Date: 2015-10-31
+
+Article:
+For many people, it stands to reason that the more data you analyze, the more accurate your results will be. That’s why the idea behind big data analytics is so appealing. After all, a business can spend its time gathering lots of information, analyze it, and come up with some unique insights that can help drive success. But as is often the case, such ideal scenarios don’t happen very often in the real world. Big data may hold a lot of potential, but it can still be held back if the data being analyzed is inaccurate. Due to restrictions on technology and other business considerations, the analyses companies are getting back may not reflect what is really happening. If businesses want to ensure their big data insights get the desired results, they need to improve the accuracy in their analytics efforts.
+
+In a perfect world, organizations would gather a vast amount of data, analyze it, and generate solutions to the problems they’re facing. The truth is, as most know, we do not live in a perfect world. Insights from big data often have to be derived in a short amount of time. The technology a business has on hand might not be advanced enough to process so much information quickly. These restrictions lead many companies to performing big data analytics using sampling. In other words, they don’t look at all of the data, but rather analyze only smaller subsamples of information. While this might be a go-to strategy for many businesses, the results have a greater chance of being inaccurate. Since it is vital for organizations to build accurate big data models, only looking at part of the data could lead to businesses forming the wrong conclusions.
+
+As can be seen from the above example, one key to improving the accuracy of big data analysis is simply analyzing as much data as possible. If a business is only looking at a part of the dataset, they will more likely miss some of the smaller details. Perhaps a dataset contains several outliers and smaller clusters that would normally be missed. While those outliers by their very definition don’t represent the whole, they may give a clue as to future trends and patterns that a company may be able to seize upon. More thorough analysis can also reveal rare events that would otherwise go unnoticed along with missing values that may indicate there is further data out there that needs to be gathered. Sampling basically decreases the accuracy of big data analysis, which limits an organization’s ability to make an informed decision.
+
+More accurate big data analysis can also be gained based on the technology used. There are many big data platforms a company can choose from, and certain ones like Hadoop and Apache Spark can provide unique analysis of large sets of data. More advanced big data technology can also generate more sophisticated big data models that take into account the big picture of the collected data. Some companies may even opt to go with a big data provider, and with the large number of choices available, businesses should be able to find one that suits their needs and produces accurate results.
+
+Businesses also need to go the extra mile in evaluating the data they collect. Analyses can often be thrown off if the source they’re collecting from is unreliable or if they fail to account for the context in which the data is generated. Every step of the analysis process also needs to be carefully observed, from the actual ingestion of the data to its preparation and enrichment. Along the way, the data needs to be protected from outside interference. Without that added layer of protection, the analysis will likely result in being corrupted, leading to greater levels of inaccuracy.
+
+For all the insights big data analytics can provide, it can damage a company’s chances at success if the results are inaccurate. With the right technology in hand, and a willingness to analyze the entire dataset, businesses will be able to get the most out of big data analytics. While time and processing power may still be an issue, with a little patience, organizations can have confidence they’re getting the more accurate analysis. Accurate insights that take a bit longer to acquire are worth far more than quickly done inaccurate solutions.
+
+(image credit: Frankie Leon, CC2.0)
+
+Summary: Big data may hold a lot of potential, but it can still be held back if the data being analyzed is inaccurate.
+As can be seen from the above example, one key to improving the accuracy of big data analysis is simply analyzing as much data as possible.
+Sampling basically decreases the accuracy of big data analysis, which limits an organization’s ability to make an informed decision.
+More accurate big data analysis can also be gained based on the technology used.
+More advanced big data technology can also generate more sophisticated big data models that take into account the big picture of the collected data.
+
+Other Blogs by Rick Delgado: https://dataconomy.com/author/rick-delgado/

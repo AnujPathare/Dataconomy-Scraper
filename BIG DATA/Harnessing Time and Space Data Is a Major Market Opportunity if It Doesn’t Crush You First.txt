@@ -1,0 +1,46 @@
+Title: Harnessing Time and Space Data Is a Major Market Opportunity if It Doesn’t Crush You First
+
+Article Link: https://dataconomy.com/2021/12/17/time-and-space-data-major-market-opportunity/
+
+Author: Amit Vij
+
+Publish Date: 2021-12-17
+
+Article:
+According to IDC, IoT data is forecasted to reach 73 zettabytes by 2025, while a recent study by Deloitte estimates that 40% of IoT devices will be capable of sharing location in 2025, up from 10% in 2020. This means time and space data is the fastest-growing big data category this decade.
+
+The next few years will see the geospatial technology industry experience rapid growth and change. More location-aware devices and services will expose the world to how technology can utilize data across time and space. Early adopters that take advantage of this will have a vast market opportunity within their respective industries, while slower organizations will risk getting left behind. The key to being an early adopter will be to understand the following: the trends behind this market opportunity, the need for new analytics technology, and the crucial role of the cloud in leveling the playing field.
+
+Time and Space Data: The Rise of Geospatial Insights and Analytics
+
+The global geographic information systems (GIS) market will be more than double to $13.6 billion by 2027. Three particular industry trends create this.
+
+The cost of sensors and devices that collect geospatial data is falling rapidly. The expansion of 5G networks will accelerate IoT deployments. The cost of launching satellites is falling on a per-kilogram basis, meaning more satellites will be gathering data with a spatial dimension.
+
+A new breed of analytic geospatial capabilities is becoming widely available in the market, allowing more organizations to begin experimenting with geospatial data and analytics. Opportunities abound across industries such as proximity marketing in retail, smart grid operations management in energy, real-time patient tracking in healthcare, fleet optimization in logistics, and autonomous driving in automotive.
+
+Out With The Old (Traditional Databases) and In With The New (Vectorization)
+
+As more organizations begin experimenting with geospatial data and analytics, they must understand the need for new analytics technology to successfully process and analyze massive amounts of data in a fast and reasonable amount of time. The current generation of massive parallel processing (MPP) databases for big data analytics simply weren’t designed to handle the speed, unique data integration requirements, and advanced spatial and temporal analytics on data across time and space. The result is slow decision-making, a lack of critical context, and sub-optimized insight. On top of that, using prior generation databases for spatial and temporal data analytics is expensive due to inherent compute inefficiencies, forcing organizations to explore new approaches and technologies.
+
+Vectorization, which accelerates analytics exponentially by performing the same operation on different data sets at once for maximum performance and efficiency, is one such approach. This method is particularly adept at functions required to perform advanced calculations on time-series and geospatial data, giving organizations full context and results in seconds where traditional analytics took hours. Early adopters that recognize the ability to analyze and track real-time data through many fused sensors enabled by vectorization will have a vast market opportunity within their respective industries. At the same time, slower organizations will risk getting left behind. The idea of using advanced technology such as vectorization and focusing on data with a spatial component may seem daunting and only relevant for big tech companies. However, like other once-flashy technologies such as containers and blockchain, vectorization could soon be the next “must-have” for every organization in the next few years.
+
+Yet Another Reason to Move to the Cloud
+
+However, organizations should be wary that properly utilizing the onslaught of geospatial data isn’t something that teams can handle in-house. Traditionally, only the most significant organizations (think Fortune 100’s or government agencies) have had the resources to leverage the advanced computing needs (like vectorization) such as high-end computing processors and primitives from NVIDIA and Intel. Furthermore, companies used those initiatives almost exclusively for deep learning and virtual reality simulation projects, using cases that focused on far-sighted research vs. business objectives.
+
+Organizations that invest in new sensor hardware will rightfully be wary of spending even more funds on advanced chips of their own. Instead, they should turn to major cloud service providers like Microsoft Azure. As-a-service databases are readily available and easily capable of leveraging vectorized computing processors for common big data analytics workloads such as time series analysis, location intelligence, visual scenario planning, and other forms of complex mathematics at a scale that incoming geospatial data will fuel.
+
+The Future of Time and Space Data
+
+As data across time and space continues to rise, organizations must also ensure they are set up with a database that is designed to process and analyze massive amounts of data in a fast and reasonable amount of time. These two elements will be vital to unlocking opportunities, innovations, and instrumental in organization-wide transformation.
+
+The power of geospatial data lies in answering “where” questions: Where do organizations have exposure to supply chain or regulatory risk? Where should organizations improve product selections to increase sales? Beyond telling us where things are, analyzing data through the lens of location provides organizations new information to make better-informed decisions and enhance performance. The future for organizations across all industries entails taking advantage of geospatial data capabilities.
+
+Summary: This means time and space data is the fastest-growing big data category this decade.
+The next few years will see the geospatial technology industry experience rapid growth and change.
+Time and Space Data: The Rise of Geospatial Insights and AnalyticsThe global geographic information systems (GIS) market will be more than double to $13.6 billion by 2027.
+The cost of sensors and devices that collect geospatial data is falling rapidly.
+The power of geospatial data lies in answering “where” questions: Where do organizations have exposure to supply chain or regulatory risk?
+
+Other Blogs by Amit Vij: https://dataconomy.com/author/amit-vij/

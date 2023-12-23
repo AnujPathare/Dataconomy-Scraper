@@ -1,0 +1,68 @@
+Title: Everything announced at Meta Connect 2023
+
+Article Link: https://dataconomy.com/2023/09/28/meta-connect-2023-quest-3-meta-ai-emu/
+
+Author: Onur Demirkol
+
+Publish Date: 2023-09-28
+
+Article:
+Meta’s annual hardware event, Meta Connect 2023, has just wrapped up, and it brought some game-changing products and technologies into the spotlight. The company announced its new initiatives and technologies at the event. Let’s break down the major announcements that will impact the tech landscape.
+
+Meta is easily one of the biggest technology companies in the world. Its new devices and technologies have always been important, and that is why the Meta Connect 2023 event drew a big audience. Meta announced its new initiatives in the AI world and more.
+
+What was announced at Meta Connect 2023?
+
+The curtains have fallen on Meta’s highly anticipated annual event, Meta Connect 2023. This year’s keynote had plenty in store, from the unveiling of the Meta Quest 3 headset to the introduction of the latest smart glasses co-engineered with Ray-Ban. To top it all off, Meta’s CEO, Mark Zuckerberg, surprised everyone with some groundbreaking AI updates. Here is everything announced at the event:
+
+Quest 3
+
+Meta AI
+
+Emu
+
+Ray-Ban Smart Glasses
+
+Quest 3
+
+The Meta Quest 3, the upgraded version of the well-liked Quest 2 VR headset, was the main attraction at Meta Connect 2023. With a cutting-edge Snapdragon XR2 Gen 2 CPU from Qualcomm and a sizable 8GB of RAM, this new smartphone has significant power. Users will experience VR more smoothly and completely as a result.
+
+But the Quest 3’s “passthrough” function is what really makes it stand out. This clever feature enhances the sensation of presence and lessens the detached feeling frequently tied to VR by allowing you to see your actual surroundings without taking off the headset. This function is extremely user-friendly because a double tap on the headset activates it.
+
+The Quest 3 excels in terms of graphics as well. The “Infinite Display” it uses has a resolution of 2064 x 2208 per eye across two displays. This results in a 30% improvement in visual clarity over the Quest 2. It is the clearest display in the Quest family, measuring 25 pixels per degree and 1,218 pixels per inch.
+
+The Quest 3’s pricing is also appealing, beginning at $649.99 for the 512GB variant and $499.99 for the 128GB model. On the official Meta Quest website, both are up for pre-order, ushering in a new age of VR entertainment.
+
+Meta AI
+
+Another notable aspect of the event is Meta AI Assistant. With Meta Quest 3, Ray-Ban Meta Smart Glasses, and other Meta platforms, this AI helper works without a hitch. It’s your virtual ally, here to help with chores, respond to inquiries, and improve your online experience.
+
+Meta Trip planning and real-time online results via Microsoft’s Bing are only two examples of the huge possibilities of AI. It will change the way we communicate with technology.
+
+Learn how to use Meta AI in Whatsapp, Instagram, and Messenger easily.
+
+Emu
+
+The game will alter when it comes to producing and engaging with visual material thanks to Emu, Meta’s picture production AI. Realistic visuals and films may be created from text descriptions using this technique. Restyle and Backdrop, two new features powered by Emu, are coming to Instagram.
+
+Using Meta’s Segment Anything Model, “Backdrop” aims to transform how we utilize images on social media. Emu expands the creative options available to both consumers and content producers.
+
+Ray-Ban Smart Glasses
+
+The Ray-Ban Meta Smart Glasses were created as a result of the cooperation between Meta and EssilorLuxottica, and they were announced at Meta Connect 2023. These fashionable glasses will boost your augmented reality encounters’ enhanced audio and camera capabilities. You may personalize these smart glasses with more than 150 frame and lens combinations.
+
+These glasses are made to be lightweight and convenient to wear for extended periods, so comfort is a top consideration. The Ray-Ban Meta Smart Glasses combine design with functionality, whether you’re taking pictures or exploring the metaverse.
+
+In conclusion, Meta Connect 2023 has unveiled a range of groundbreaking products and technologies that promise to reshape the tech landscape. From the immersive Quest 3 VR headset to the stylish Ray-Ban Meta Smart Glasses, and the AI-powered Meta AI and Emu, Meta continues to push the boundaries of what’s possible in the digital world.
+
+As these products make their way into the hands of consumers, we can anticipate a more connected, interactive, and exciting future. Stay tuned for updates as these innovations continue to evolve and shape our digital journey.
+
+Featured image credit: Mariia Shalabaieva/Unsplash
+
+Summary: Its new devices and technologies have always been important, and that is why the Meta Connect 2023 event drew a big audience.
+What was announced at Meta Connect 2023?
+With Meta Quest 3, Ray-Ban Meta Smart Glasses, and other Meta platforms, this AI helper works without a hitch.
+Ray-Ban Smart GlassesThe Ray-Ban Meta Smart Glasses were created as a result of the cooperation between Meta and EssilorLuxottica, and they were announced at Meta Connect 2023.
+In conclusion, Meta Connect 2023 has unveiled a range of groundbreaking products and technologies that promise to reshape the tech landscape.
+
+Other Blogs by Onur Demirkol: https://dataconomy.com/author/onurdemirkol/

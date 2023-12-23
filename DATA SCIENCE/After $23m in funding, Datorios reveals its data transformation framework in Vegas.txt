@@ -1,0 +1,40 @@
+Title: After $23m in funding, Datorios reveals its data transformation framework in Vegas
+
+Article Link: https://dataconomy.com/2022/06/15/23m-funding-datorios-reveals-data-transformation-framework/
+
+Author: Stewart Rogers
+
+Publish Date: 2022-06-15
+
+Article:
+When it comes to data – recognized by The Economist in 2017 as the most valuable commodity in the world – one phrase still rings true: garbage in, garbage out. That’s one of the reasons why data transformation solutions are getting so much attention right now. When it comes to getting real value from your data, ensuring it is clean and optimizing the processes and tools required is critical.
+
+Clean and well-managed business information is also one of the reasons data engineers are in so much demand. More companies are expected to rely on data for strategic decision-making in 2022, and data engineering is the key to success.
+
+Datorios, a data transformation framework, has announced the first version of its solution to this – and other – significant issues. Available now for data engineers looking for agile and scalable data infrastructure systems, Datorios is marking the launch of its inaugural framework with live demonstrations at the Las Vegas Snowflake Summit 2022, which takes place between June 13-16.
+
+So what does Datorios do?
+
+Claiming to be the first infrastructure-as-a-platform (IaaS) of its kind, it is a real-time platform designed to diminish project complexities throughout an organization’s data pipelines. Essentially, it wraps data technologies together, which should shrink development cycles and abolish the need for a variety of tools typically used by data engineering teams. Importantly, it helps eradicate garbage, ensuring clean and inciteful data throughout the business.
+
+At the Las Vegas summit, Datorios has been showcasing the interplay between its framework and the Snowflake data warehouse, demonstrating how companies can use Datorios to pre-process data before loading it into the repository at speed. The company claims the resulting architecture enables companies to slash the time-to-value for data projects, couple data warehouses with complex data types (like streaming data), and dramatically reduce costs.
+
+“An all-around, unified data transformation solution is key to fulfilling the data promise,” Ronen Korman, co-founder and CEO at Datorios, said. “Datorios offers its users just that. Coupled with Snowflake data warehouses, it enables companies to create a cost-effective ecosystem that takes the business relevance of data to a whole new level.”
+
+Formerly named Metrolink.ai, the Tel Aviv startup raised $23 million throughout its pre-seed and seed rounds, the latter led by Grove Ventures and Eclipse Ventures.
+
+The first version of its solution includes a wide range of ready-made data pipeline building blocks of transformers and stateful correlators for data engineers to use, an open SDK for user-made custom components, native streaming data processing for handling events-based data of any scale, autonomous scaling and dynamic optimization tools, and a debugging toolset to help facilitate smooth operations.
+
+A spokesperson for Datorios claimed that the new framework enables companies to move through the entire data-to-value cycle 20 times faster than average and at a lower cost.
+
+“Time is of the essence in our fast-moving world, and this very much applies to the use of data,” Korman said. “Data engineers are the key team to make data flow. Without them, there will be no business intelligence and no data science. With our solution, data-driven businesses can move at the pace of the market, generating lightning-fast insights on issues that matter right here and now.”
+
+This article originally appeared on Grit Daily and is republished with permission.
+
+Summary: That’s one of the reasons why data transformation solutions are getting so much attention right now.
+Clean and well-managed business information is also one of the reasons data engineers are in so much demand.
+Datorios, a data transformation framework, has announced the first version of its solution to this – and other – significant issues.
+“An all-around, unified data transformation solution is key to fulfilling the data promise,” Ronen Korman, co-founder and CEO at Datorios, said.
+“Data engineers are the key team to make data flow.
+
+Other Blogs by Stewart Rogers: https://dataconomy.com/author/stewart-rogers/

@@ -1,0 +1,64 @@
+Title: HOW HEALTH TECH STARTUPS USE BIG DATA AND AI TO TRANSFORM DIABETES CARE IN 2018
+
+Article Link: https://dataconomy.com/2018/07/26/how-health-tech-startups-use-big-data-and-ai-to-transform-diabetes-care-in-2018/
+
+Author: Olga Ezzheva
+
+Publish Date: 2018-07-26
+
+Article:
+Diabetes is a disease that trifles victims on a world-wide scale and as big data and artificial intelligence (AI) become more innovative, so are methods of treating diabetes. Here are just five ways big data and AI are rerouting diabetic treatments.
+
+With nearly half a billion people living with diabetes today, the disease has reached epidemic proportions. According to a CDC report, there are over 30 million people diagnosed with diabetes just in the US where it remains the seventh leading cause of death.
+
+Being a complex disease, diabetes requires rigorous self-management and control. And digital health companies are determined to ease the social burden of the disease and cut its economic cost that in 2017 amounted to $327 billion in the US. They leverage technology advancements to develop innovative healthcare solutions like continuous glucose monitoring devices, non-invasive insulin delivery systems, and digital diabetes management platforms.
+
+These connected devices are rich sources of physiological, behavioral and contextual data that can be collected and analyzed for more data-driven diabetes care. Here are five types of startups that tap into the potential of big data and AI to empower patients with effective management tools.
+
+A BIG DATA-BASED APPROACH TO DIABETES MANAGEMENT
+
+A fast-growing startup, Livongo Health leverages big data to drive better patient outcomes by empowering people with diabetes to manage their conditions more efficiently.
+
+“The way that we use big data is frankly very unique. We have hundreds of thousands of people who use our products — for example blood glucose meters, blood pressure cuffs and scales that are connected to a larger database that we can access.
+
+We take all of that data and we look at the trends. Then we generate insights to deliver back to our members to drive behavior change. We use a reinforcement learning platform where we look at the data, generate multiple different personalized messages to send back to our members and then learn what works best for which member. So our system is continuously getting smarter,” said Dr. Jennifer Schneider, Livongo’s Chief Medical Officer.
+
+AN AI-DRIVEN ARTIFICIAL PANCREAS FOR AUTOMATED INSULIN DELIVERY
+
+A California-based diabetes management company, Bigfoot Biomedical is another competitive player on the emerging healthtech market who has embarked on a mission to develop an automated insulin delivery system. Dubbed an “artificial pancreas”, the system is poised to make life easier for diabetics.
+
+The startup harnesses the power of artificial intelligence to develop a closed-loop system that would learn how a user responds to food, exercise, insulin — and adjust the dose accordingly.
+
+The extensive funding gave the company the needed financial support to move to the clinical trial phase. The solution would transform the way diabetes patients manage their condition and reduce the risk of devastating complications.
+
+A DEVICE-AGNOSTIC PLATFORM FOR UNIVERSAL DIABETES DATA AGGREGATION
+
+A global diabetes data management company, Glooko provides HIPAA-compliant and broadly compatible web and mobile apps. The solution synchronizes with diabetes devices and major fitness and activity trackers to gather data such as blood glucose, insulin, blood pressure, diet, and weight.
+
+Glooko’s diabetes management platform leverages big data analytics and predictive algorithms to empower healthcare providers with the right tools to analyze population trends and provide personalized recommendations.
+
+“Glooko liberates data from over 180 diabetes and exercise devices, correlates it with food, exercise, medication and other data to deliver actionable insights that improve self-management and clinical care,” says Michelle de Haaff, Glooko’s Vice President of Strategy.
+
+ARTIFICIAL INTELLIGENCE TO REVERSE DIABETES
+
+Encouraged by the positive results of reversing the chronic condition in half of its clinical trial patients, Virta Health, a Silicon Valley-based startup, is on a mission to provide an alternative treatment for type two diabetes — with no surgery or medications required. Virta takes a nutrition-centric approach, relying on a ketogenic diet to make the body burn fat instead of carbs for fuel.
+
+An easy-to-use Virta app allows users to enter blood sugar, ketones, and other information. Then, the solution uses artificial intelligence to develop an individualized treatment plan. The app also matches the patient with a specially assigned clinician and a health coach for real-time professional help and consultation.
+
+A DIGITAL DIABETES CLINIC FOR REAL-LIFE CLINICAL SUPPORT
+
+At HIMSS18 in Las Vegas GlucoMe, an Israeli startup, demonstrated its new Digital Diabetes Clinic — a cloud-based solution for remote population management. The solution enables medical professionals to constantly monitor a patient’s blood glucose and insulin and adjust the treatment plan as necessary.
+
+The monitoring and decision support platform uses the data seamlessly transferred to a mobile app from smart glucose monitors and insulin pens. By applying AI and machine learning, the system derives meaningful insights and generates real-time alerts for digital or face-to-face intervention.
+
+SUMMING UP
+
+Effective diabetes care requires new approaches — those that focus on intelligent insulin delivery algorithms and personalized treatment plans. Digital health companies recognize the need and leverage big data capabilities coupled with advanced AI to come up with innovative solutions that revolutionize diabetes care.
+
+Summary: Here are just five ways big data and AI are rerouting diabetic treatments.
+Here are five types of startups that tap into the potential of big data and AI to empower patients with effective management tools.
+A BIG DATA-BASED APPROACH TO DIABETES MANAGEMENTA fast-growing startup, Livongo Health leverages big data to drive better patient outcomes by empowering people with diabetes to manage their conditions more efficiently.
+A DEVICE-AGNOSTIC PLATFORM FOR UNIVERSAL DIABETES DATA AGGREGATIONA global diabetes data management company, Glooko provides HIPAA-compliant and broadly compatible web and mobile apps.
+Digital health companies recognize the need and leverage big data capabilities coupled with advanced AI to come up with innovative solutions that revolutionize diabetes care.
+
+Other Blogs by Olga Ezzheva: https://dataconomy.com/author/olga-ezzheva/

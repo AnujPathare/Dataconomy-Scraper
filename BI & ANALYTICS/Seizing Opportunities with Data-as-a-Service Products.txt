@@ -1,0 +1,82 @@
+Title: Seizing Opportunities with Data-as-a-Service Products
+
+Article Link: https://dataconomy.com/2017/03/23/opportunities-data-as-a-service-products/
+
+Author: Elizabeth Press
+
+Publish Date: 2017-03-23
+
+Article:
+We’ve published a white paper, where we look back at the big data and business intelligence trends over the past years and highlight examples of successful Data-as-a-Service products with deep dives into Social Media Monitoring, Self-Service BI and Visual Data Discovery and Analytics Merging the Physical and Virtual Worlds, complete with lessons you can apply to your own projects.
+
+2017 is poised to be a year of opportunity for data-as-a-service (DaaS) products, as the rubber will hit the road for a large number of hyped technologies. Business intelligence has moved from the back office to the c-suite in many organizations and is now seen as a strategic must-have. Despite the euphoria around big data and business intelligence, many organizations face enormous challenges implementing analytics technologies and processes.
+
+As explained in my blog Turning Big Data Disillusionment into an Opportunity with Data-as-a-Service Products, those entrepreneurs and intrapreneurs who can proactively productize and scale technology on Gartner’s peak of inflated expectations have the potential to earn large profits in 2017 and beyond.
+
+So, what is Data-as-a-Service (DaaS)?
+
+In my blog Creating your Data-as-a-Service Customer, I explained that Data-as-a-Service (DaaS) can be described as productized data-driven insight on demand. DaaS allows multiple business users to access the data and insights they need at the timing they desire, location-independent of where the data has been sourced and managed.
+
+Using Ovum’s nomenclature, productizing data has three steps:
+
+Sourcing: This step is procuring the data itself and creating the infrastructure.
+
+Management: At this point, the data is aggregated, cleansed and undergoes analytical processing.
+
+Provision: This is where the data is packaged in a consumable form. That often means it is evaluated and visualized. This step also includes access and distribution.
+
+Understanding their strength, successful vendors often focus on one of these steps. They then form partnerships with other vendors who complement their strengths to offer the end user a compelling and complete solution.
+
+Why is Data-as-a-Service a necessary innovation?
+
+Data-as-a-Service allows organizations to outsource their analytical needs to specialists.
+
+Moving data up the hierarchy of value creation beyond Information is a major challenge for most organizations. Climbing each level requires investment in staff, training, technology and more. Many, if not most, organizations do not have the resources to build capabilities in-house.
+
+2016 was a disruptive year in business intelligence and big data
+
+Democratization of advanced analytics and the rise of the citizen data scientist made insight more accessible, at least in theory.
+
+Visualization came to the forefront of data-culture because it makes data and insight more relevant to end users.
+
+Cloud data and cloud analytics offerings abounded, although in Germany experts have reported reservations due to privacy and security related-issues.
+
+Social media monitoring got a big boost in credibility with spectacular predictions such as with Brexit and Trump.
+
+Internet of things (IoT) and Industrial Internet of Things (IIoT) became a strategic imperative.
+
+Here are a few predictions:
+
+Shortage of skilled staff will persist and extend from data scientists to architects and experts in data management; big data–related professional services will have a 23% CAGR by 2020, according to IDC.
+
+Through 2020, spending on self-service visual discovery and data preparation market will grow 2.5x faster than traditional IT-controlled tools for similar functionality according to IDC.
+
+Where are opportunities for data-as-a-service products?
+
+Self-Service BI and Visual Data Discovery. The democratization of advanced analytics is currently just a vision for most organizations, however, its popularity is spreading. Innovations in data management and data discovery will gain strategic importance. Gartner predicts that by 2018 search-based and visual-based data discovery will converge in a single form of next-generation data discovery that will include self-service data preparation and natural-language generation.
+
+Social Media Monitoring tools have attained market acceptance for marketing and reputation management especially. Recent high-profile election predictions have increased their credibility, as discussed in Data-as-a-Service Lessons from Company that was Right about Trump. Huge opportunity exists for operationalizing social media monitoring sales and customer communication. General management and operations have also been looking at social media for rethinking management structures and collaboration.
+
+Analytics merging the physical and virtual world: Real-time and geospatial analytics are on the peak of inflated expectation. Manufacturing, transport and retail are examples of sectors that been investing in in IoT and spatial analytics. 2016 had some large wins in location-based marketing with high profile industrial implementations and Pokémon Go. Opportunities here abound in Industry 4.0 implementations, as well as managing the customer experience.
+
+Do you want to build your own data-as-a-service product or analytics initiative? We can help. D3M Labs and Dataconomy are teaming up to help you build your Data-as-a-Service product. D3M Labs can support you throughout the whole cycle from ideation, through partnering and sourcing to implementation.
+
+The Intrapreneur’s Pack – Our coaching and consulting are available in person and virtually. Contact us to book one of our coaching and consulting packages specifically designed for your organization.
+
+Download our white paper
+
+In this white paper, we will look back at the big data and business intelligence trends over the past years and highlight examples of successful Data-as-a-Service products with deep dives into Social Media Monitoring, Self-Service BI and Visual Data Discovery and Analytics Merging the Physical and Virtual Worlds, complete with lessons you can apply to your own projects.
+
+We also have some innovative products from MIT Media Labs and Dataconomy founder Elena Poughia.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: 2017 is poised to be a year of opportunity for data-as-a-service (DaaS) products, as the rubber will hit the road for a large number of hyped technologies.
+In my blog Creating your Data-as-a-Service Customer, I explained that Data-as-a-Service (DaaS) can be described as productized data-driven insight on demand.
+Where are opportunities for data-as-a-service products?
+Innovations in data management and data discovery will gain strategic importance.
+Gartner predicts that by 2018 search-based and visual-based data discovery will converge in a single form of next-generation data discovery that will include self-service data preparation and natural-language generation.
+
+Other Blogs by Elizabeth Press: https://dataconomy.com/author/epress/

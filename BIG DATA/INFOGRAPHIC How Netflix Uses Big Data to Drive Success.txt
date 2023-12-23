@@ -1,0 +1,28 @@
+Title: INFOGRAPHIC: How Netflix Uses Big Data to Drive Success
+
+Article Link: https://dataconomy.com/2018/03/13/infographic-how-netflix-uses-big-data-to-drive-success/
+
+Author: Drew Burstein
+
+Publish Date: 2018-03-13
+
+Article:
+Anyone with a Netflix subscription understands the process of finding a movie or TV show to watch. You go to the website and see the shows that you recently watched, some shows that are recommended and maybe a few show ratings. Each Netflix user has his or her unique set of options with Netflix, putting a lot of effort into ensuring you find something to watch quickly. If you don’t find something immediately, you might leave the website and look on YouTube instead. If this happens often enough you may decide to cancel your Netflix subscription.
+
+That’s why Netflix uses the power of big data to keep its customers engaged and happy.
+
+Netflix estimates that its algorithms save $1 billion a year in value from customer retention – an eye-opening figure for one of the biggest household names in entertainment. The company’s algorithms are constantly evolving, but the aim is always to give Netflix users the best possible experience.
+
+Find out how it works in this infographic:
+
+Infographic courtesy of FrameYourTV.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Summary: Anyone with a Netflix subscription understands the process of finding a movie or TV show to watch.
+You go to the website and see the shows that you recently watched, some shows that are recommended and maybe a few show ratings.
+Each Netflix user has his or her unique set of options with Netflix, putting a lot of effort into ensuring you find something to watch quickly.
+That’s why Netflix uses the power of big data to keep its customers engaged and happy.
+The company’s algorithms are constantly evolving, but the aim is always to give Netflix users the best possible experience.
+
+Other Blogs by Drew Burstein: https://dataconomy.com/author/drew-burstein/

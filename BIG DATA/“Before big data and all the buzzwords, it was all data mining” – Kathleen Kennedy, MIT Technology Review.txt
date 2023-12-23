@@ -1,0 +1,68 @@
+Title: “Before big data and all the buzzwords, it was all data mining” – Kathleen Kennedy, MIT Technology Review
+
+Article Link: https://dataconomy.com/2016/11/25/kathleen-kennedy-mit-technology-review/
+
+Author: Elena Poughia
+
+Publish Date: 2016-11-25
+
+Article:
+Kathleen Kennedy is the president of MIT Technology Review and the MIT Enterprise Forum. MIT technology review is MIT’s media platform and it covers emerging technologies and their impact. Their job is to help the audience understand the world shaped by technology, and obviously data is one of those huge disruptive and ultimately exciting forces that have a big impact on us. In her 16 years at MIT, Kathleen has helped MIT Technology Review to redefine the magazine brand and to achieve success in a rapidly changing market. She has established several new lines of business in the United States as well as in Asia, Europe and Latin America.
+
+Data collection has been around forever, but MIT Technology Review started thinking about it as a real disruptive element in 2001, when it included data mining on its Top 10 technologies. So before big data, before all the buzzwords, it was all data mining. In 2001, they predicted that data and the ability to analyze, generate and harness data for business intelligence and all types of things were going to really change the world. Fast-forward to 2016, and their prediction couldn’t be any more accurate – Try to go anywhere without hearing about big data.
+
+What problems/challenges are you trying to tackle at MIT?
+
+There’s a couple of different levels. Us as a business, as a media organization, we’re trying to grapple with our own data and we’re based at MIT, so we have some advantages and insights of doing it, but still it’s really challenging to organize data, analyze them and act on it in effective ways so as a media organization you probably understand that too, and it’s not free, so there’s so much data but you actually have to think about how you are going do this effectively. Then from a coverage perspective, this is the world that we look at, so we’re looking at the people in our community that are CEOs of large companies and dealing with all the privacy and security issues and then figuring out that balance of being able to utilize the data to its fullest potential while balancing it with privacy and security. I was just in Helsinki, at a European CEO conference and that was a huge topic. In Europe, privacy security is very important more so than the US where they’re a little more open and probably a little bit more relaxed about it but if you go to Asia it’s a different story.
+
+What do you think the future of technology will look like 5 years from now?
+
+I think it’s very difficult to predict what will happen in 2020 or 2030, I mean how do you even predict what’s going to happen in two years from now. I’m here in Germany for part of a road show event that we’ve been doing with Enterprise database which is a company that focuses on open source databases and thinking about how you harness open source as a way to save some money and be able to innovate faster and invest more in other areas around innovation. And then also have flexibility and we’ve been doing panels where we’ve been gathering a bunch of really interesting people to talk about how they are harnessing data, what platforms they are using and and then what they are predicting for the future.
+
+We did a great panel in Boston with the Chief Digital Officer of the city of Boston, the CTO and Head of Technology for a really big healthcare organization and then an individual that was building a startup that is around data and how to help customers. So on one side you have healthcare and the CTO that are almost crippled, ‘crippled’ probably is a little bit too extreme of a word but held back due to regulations tied to privacy and security which are obviously critically important for your personal data to be secured.
+
+These troubles that they are having in terms of how to innovate, move forward and use data was an interesting conversation. Then you have the public sector with the CDO of Boston and she was really interesting because she was new to the job, she always worked in the private industry so she said going to the public sector was fascinating. The public sector never had much money so they’re always trying to do things cheaply. She said their website hasn’t been updated since 2006 and that didn’t work on mobile platforms so she had a real struggle. She’s a data native and she’s finding all these different ways to put together all that data they have collected as the government. If you think about it back in seventeen hundreds the government was in charge of the libraries, and basically the way we organise our paper data. You would have these public libraries for the public to visit and have access of data. So she’s starting a program where they try to take that library model that we’ve always had and do that for digital data. And then you had the kid with the startup, another uber digital data native whose bigger struggle was how do I find the talent to help me build this company. So it was very interesting to have those three different perspectives on data. And I thought it illustrated where we stand today.
+
+Do you think that open source is going to be helpful?
+
+I think open source data and open source platforms are an excellent way to not invest millions on platforms where the licensing fees are really taking up a lot of your budget where you can apply that budget in different ways, hire different types of people that have the skillsets that you need. Secondly, open source was always going to be evolving because everyone’s working on the code so you can really have folks innovate within your organization to make it do what you need it to do.
+
+The other piece that’s really interesting that came out of the talks we’ve been doing is, if you are an open source data shop that has open platforms it’s easier to find talent because programmers work is visible, their work is seen versus if they’re in a closed system they’re sort of drowned in that system. So it’s easier to hire good talent if you’re using open source.
+
+Do you code yourself?
+
+I do not code anymore, I used to, at Technology review when I first started one of my first projects was to start our email newsletter, so I created the whole thing in html and I took a bunch of classes at MIT and I learned how to do it but now I have teams that do stuff like that and I don’t have time to do it myself.
+
+What does it mean to you to be a data native?
+
+I would say that in the mid-2000s I took over our whole commercial business, I took over the sales team and all of that and I actually personally really built out our sales force database system. I love data and I love the ability to slice and dice it and I’m a very data driven person, my husband and I are renovating the house and we’re trying to make all these decisions and I’m like, ‘I don’t have enough data to make this decision’. I am a very logical person and I think all the decisions that I make are very data-driven, with always a little bit of instinct. There’s the art and the science and you have to find a way to balance that. Because you need to follow the data and understand the data but you also need to anticipate where they’re going and if you can’t make decisions based on past data. So it’s thinking about what are your projections for the future.
+
+How do you see Germany fitting in this technological future?
+
+There’s a lot of startups here in Germany. I think that a country like Germany will absolutely be able to scale up in this world and deal with that, it’s a very data-driven. I think Europe in general is really grappling with security and privacy issue and so I think that that needs to get sorted because that will slow innovation down. But I think the startup scene in Berlin is really exciting, next door we have an innovators under 35 competition. So there’s all these young innovators that are absolutely thinking how they can harness data and new technology and really unique and interesting ways to solve big problems.
+
+If you could tackle any problem today (that could be solve with technology) what would that be?
+
+At MIT, we started a new initiative, launched in October 2015, called ‘Solve’. It’s solve.mit.edu, and it’s around how new technologies can solve big problems. And it is about the idea that in the world we solved a lot of the small problems. Those who are left are really complicated and require a new way of thinking about how to solve them.
+
+And we’re looking at four areas. The first is around climate change. If I had to put them in order I’d say saving the planet is probably the most important thing. I mean if that doesn’t get fixed all the other ones wouldn’t exist. The next one is around education and thinking about how education is fundamentally changing and the way we think about education probably in the next 50 years is going to be dramatically different. If you think about it education is probably been the same for decades, centuries almost. And thinking about lifelong learning, thinking about how new technologies can deliver information, do you need actually been sitting in a classroom all the time.
+
+And also how do we get education to everyone. If you think about it a lot of the problems that we have as a world is due to the lack of education. In the US if they’re gonna elect Donald Trump as the president… I’ll leave it at that.
+
+Then the other area is around healthcare and how we are evolving to the point where actually with technology we can do surgery on a cellular level and we can actually sequence someone’s genome, understand where there is a defect problem and edit that out. And that disease can be eradicated. So there is an awesome case to that, but if you look at it from a flipside standpoint, and of course when I was in the European summit, the Europeans said ‘well what if someone gives someone the disease’? So technology can be used for good and bad and we have to think hard about these powers that we have.
+
+And the last one is, how new technologies can be harnessed to help the economic advancement of all people. So what we call that is inclusive innovation and thinking about how things like airbnb allow people to take a resource, their home, that’s not been utilized and monetarily participate in the innovation economy. And really thinking about how we can bring a lot more people into it than just the 1%
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Images: Thomas Hawk, CC by 2.0
+
+Summary: Kathleen Kennedy is the president of MIT Technology Review and the MIT Enterprise Forum.
+MIT technology review is MIT’s media platform and it covers emerging technologies and their impact.
+In her 16 years at MIT, Kathleen has helped MIT Technology Review to redefine the magazine brand and to achieve success in a rapidly changing market.
+Data collection has been around forever, but MIT Technology Review started thinking about it as a real disruptive element in 2001, when it included data mining on its Top 10 technologies.
+And really thinking about how we can bring a lot more people into it than just the 1%Like this article?
+
+Other Blogs by Elena Poughia: https://dataconomy.com/author/epoughia/

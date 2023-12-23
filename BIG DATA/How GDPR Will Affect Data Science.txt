@@ -1,0 +1,60 @@
+Title: How GDPR Will Affect Data Science
+
+Article Link: https://dataconomy.com/2018/04/13/how-gdpr-will-affect-data-science/
+
+Author: Izaak Crook
+
+Publish Date: 2018-04-13
+
+Article:
+By now, any data professional worth his or her salt should know about the General Data Protection Regulation (GDPR). This EU law, set to be enforced in May 2018, has sent shockwaves (and a fair bit of fear) across many industries and professions. But, perhaps the one area set to bear the brunt of the regulation is data science.
+
+It doesn’t take a data scientist to understand that GDPR is going to drastically change how every business stores, processes, transfers and analyses its data. The regulation is one of the strictest, and most far-reaching data laws to date. It governs everything from the storage and portability of data, through accessibility and consent of use. It also puts data control and overall ownership of personal data back into the hands of the individual, thereby doing away with the grey area that previously existed in data ownership.
+
+For data scientists, this brings forth both good news and bad news.
+
+GDPR’s impact on profiling
+
+GDPR impacts data science across several different areas. Firstly, there are limits imposed on the ways businesses profile customers and process personal data. Depending on how you define it, that’s a huge part of a data scientist’s job role. Under GDPR, profiling is determined to be any kind of automated personal data processing that analyzes or predicts certain aspects of an individual’s behavior, socioeconomic situation, movements, preferences, health and so forth.
+
+If profiling occurs, then an organization must notify the person involved, list potential consequences and then provide an opportunity to opt out. That is for events where there is a legitimate business purpose to the profiling (that doesn’t infringe an individual’s rights), such as when a credit card processor might use personal data to determine someone’s credit limit.
+
+When profiling is taking place – and automated decision making is being done off the back of it – then a business must prevent any discriminatory factors like race, politics or religious beliefs from having an effect. Bias can be a huge issue in many machine learning algorithms (as seen in a system called COMPAS used to assist criminal sentencing that’s biased towards minorities). There are many underlying reasons behind this, including a machine learning algorithm being built with small biases not recognized by the teams (or data scientists) behind it. The repercussions of these biases only increase through the algorithm’s positive feedback loop.
+
+Data scientists, therefore, have a huge task in front of them – as any perceived bias within algorithms is likely to breach GDPR. If you didn’t already know, any breach of GDPR can result in a fine of up to €20 million or 4% of global turnover (whichever is greater).
+
+GDPR and consent
+
+When there isn’t a legitimate business interest, then a consumer’s consent must be obtained in order for his or her data to be processed and analyzed. Records of this consent must be kept alongside the associated data. Consent should be obtained for each and every use of personal data. Therefore, if a business wishes to use data for segmentation, then consent should be given for that use. If, later on, the data is used in clustering, that will also need consent and explanation.
+
+Explaining data science under GDPR
+
+That explanation requirement raises an interesting point in itself. Under GDPR, businesses will no longer be able to hide behind technical and flowery language that confuses consumers. Language will have to be jargon-free and simple enough for the general public to understand. If the data belongs to a child, then the language will need to be targeted to their age-level and also to their parents.
+
+This poses a challenge for some data scientists. In some circles, many are used to very technical terminology, so this requirement could lead to many struggling to find simpler terms to explain their work. On the plus side, this should decrease black box AI and the aforementioned biases it could lead to.
+
+Data will decrease for data scientists
+
+Returning to the idea of consent, with consumers having to give consent for each and every data use – plus separate consent specifically for marketing use – the available pool of data for data science is likely to decrease. Firstly, consumers may not be as open to more exploratory data science (or as open to understanding it). Additionally, seeing as consent will need to be refreshed at regular times, some aren’t going to continue to do this through sheer inertia – especially if they gain no perceived benefit from it.
+
+However, there is a faint silver lining for data science research. If the data doesn’t identify an individual, then it can be used without consent and for research purposes. Essentially, this means that any data scientist who doesn’t want his or her data to either decrease dramatically – or who doesn’t want to keep gaining consent for each and every use of it – needs to incorporate robust anonymization.
+
+GDPR is coming for every data scientist
+
+GDPR is going to impact data science in a big way, and the degree to which is affects individual data scientists largely depends on the type of work they are doing – and for what company or department. Those working in marketing are possibly going to have the toughest time, thanks to constraints around consent.
+
+However, GDPR is going to touch nearly every aspect of a business’ operations. There are many different ins and outs to the regulation, so it’s worth checking through an all-encompassing GDPR guide to make sure you’ve got your bases covered.
+
+There is a vast amount of work to be done. With the May deadline fast approaching, businesses that have failed to prepare already are facing a tough timeline. Data scientists have a huge role to play in preparing businesses for GDPR. All data stored will need to be assessed and necessary consent collected, data storage will need auditing, compliance procedures will likely need an overhaul and data processing operations will have to be picked over. Models using personal data will require singling out, and their inner workings explained to consumers in layman’s terms.
+
+GDPR is coming for every data scientist. It will become part and parcel of their job role. Therefore, every data scientist needs to prepare for GDPR by understanding their obligations under the law.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Summary: But, perhaps the one area set to bear the brunt of the regulation is data science.
+It also puts data control and overall ownership of personal data back into the hands of the individual, thereby doing away with the grey area that previously existed in data ownership.
+GDPR’s impact on profilingGDPR impacts data science across several different areas.
+Data will decrease for data scientistsReturning to the idea of consent, with consumers having to give consent for each and every data use – plus separate consent specifically for marketing use – the available pool of data for data science is likely to decrease.
+Firstly, consumers may not be as open to more exploratory data science (or as open to understanding it).
+
+Other Blogs by Izaak Crook: https://dataconomy.com/author/izaak-crook/

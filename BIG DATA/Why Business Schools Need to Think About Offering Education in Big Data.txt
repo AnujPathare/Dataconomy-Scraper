@@ -1,0 +1,62 @@
+Title: Why Business Schools Need to Think About Offering Education in Big Data
+
+Article Link: https://dataconomy.com/2018/08/31/why-business-schools-need-to-think-about-offering-education-in-big-data/
+
+Author: Jennifer L. Gaskin
+
+Publish Date: 2018-08-31
+
+Article:
+What’s stopping business schools from catching up to the business world which relies heavily on Big Data and Data Science? Schools that can incorporate these into all areas of their educational offerings will be the ones that prepare students the best for the challenges they’ll face today — and the ones we haven’t even imagined.
+
+Though the term was coined less than 15 years ago, Big Data is already big business, and it’s only going to get bigger as more people — and more devices — come online. Whether it’s the products made, the customers served or the success metrics measured, virtually all companies deal with Big Data every single day.
+
+According to a report by IDC, Big Data and business analytics market is expected to surge to $210 billion by 2020. In 2017, adoption of Big Data in business surpassed the 50 per cent mark.
+
+Whether it’s analytics, machine learning or even artificial intelligence, investment in these technologies is changing the face of business. Think about it this way: When was the last time you called a customer service line and immediately talked to a person? How many bills do you pay automatically? How many service appointments do you make through an app?
+
+The way consumers interact with businesses and organizations is a vastly different picture than it was 30 years ago. Considering this, why is it that in many business schools, the standard required curriculum bears a striking resemblance to what was being taught three decades ago? What’s stopping business schools from catching up to the business world, and what could a future focused on Big Data and Data Science look like?
+
+Today’s Business Classroom
+
+A Harvard MBA is considered by many the gold standard of business education. It’s a great get if you can get it, but it’s enormously competitive, with an admission rate of only about 12 percent. With an average starting salary in the six figures upon graduation, it’s not tough to understand why Harvard is so well-regarded among other reasons that make it prestigious.
+
+But a look at the required and elective curriculum for MBA students in 2018, while no doubt challenging and engaging, is shockingly light on education aimed directly at harnessing and understanding Big Data and data science in general.
+
+Among required courses for the two-year program, none deal solely with Big Data or Data Science. One required course deals partially with information technology, which itself is only tangentially related to Data Science and Big Data in that it helps facilitate initiatives in those areas.
+
+Harvard’s required courses focus on areas like finance, strategy, organizational behavior, marketing and entrepreneurialism. The elective course catalog offers more 21st-century education with four courses aimed at the digital marketplace, one on how data drives experimentation and just one class solely on data science.
+
+We’re not suggesting business students stop applying to Harvard, and to its credit, the school does offer an online certification in business analytics for working professionals who need to brush up their data science skills. And to be sure, concepts surrounding finance and leadership are crucial, and every entrepreneur must have a solid foundation in laws and government. But it’s clear the nature of the business is changing, and to be effective, business education must change with it. After all, what good is getting a business degree today if you can’t contribute to the success of a modern, forward-thinking business?
+
+Why Big Data & Data Science Matter
+
+More than half the world’s population is online, and digital saturation will only grow in the future. And for industrialized nations, such as the United States and the UK, internet use and smartphone ownership are in the 90-per cent range. Our lives are digital. You are reading this article now on a connected device of some sort.
+
+Companies that don’t embrace Data Science and Big Data are unlikely to survive, as even the most decidedly un-digital products and services already need to be understood and sold on a digital marketplace today and will require a digital presence even more strongly in the future.
+
+Big Data isn’t so much an aspect of the business; rather it is the very foundation upon which businesses understand themselves, the marketplace, their competitors, government and regulators and, most crucially, their customers and potential customers.
+
+Think of it this way: How much would you trust a doctor who finished medical school without understanding how to use a stethoscope? Similarly, a person who finishes business school without understanding how data science impacts, and can benefit, virtually every possible business is unlikely to be an effective employee or inspiring leader.
+
+It isn’t just about today. Yes, a solid understanding of Big Data and its role can probably help you get a job right now. But remember how we said more and more people are coming online every year? Well, that’s increasing by magnitudes the sheer amount of data out there, and that’s not even taking into account ever-advancing technologies like machine learning and artificial intelligence, which are constantly producing datasets of their own.
+
+A business school graduate without an understanding of Big Data and data science is like a buggy-whip maker watching Model-T Fords roll out of the factory and watching their livelihood go with them.
+
+What the Future Could Look Like
+
+Business isn’t a STEM field, and business school shouldn’t look like it is. We’re not suggesting schools replace leadership training with classes on how to build a website. But because technology, Data Science, Big Data and related concepts are so fundamental to how business operates today, schools that can incorporate these into all areas of their educational offerings will be the ones that prepare students the best for the challenges they’ll face today — and the ones we haven’t even imagined.
+
+That could mean that in courses covering finance and profit/loss statements, students also learn how to create data models that help project future earnings. It could mean that marketing education is grounded in understanding the digital marketplace, search engines and mobile shopping behaviours. It could mean developing new curriculum on artificial intelligence and machine learning, deep data analytics, business intelligence and machine-aided recruitment hiring.
+
+The changes could start even before students step foot in the classroom by overhauling recruitment and admissions so that those who are admitted are digital natives with an entrepreneurial mind. It could mean loosening the focus on classroom time and providing more data-driven experiential learning. Or could mean more classes are online-only with daily video chats.
+
+We simply don’t know what challenges the next 15 or 20 years will bring, and an education rooted in a 1990s understanding of business just won’t cut it. Giving business students a fundamental understanding of today’s Big Data and data science principles not only helps prepare them for the world today but serves to future-proof their education, so they don’t end up like the buggy-whip maker watching the world go by.
+
+Summary: What’s stopping business schools from catching up to the business world which relies heavily on Big Data and Data Science?
+What’s stopping business schools from catching up to the business world, and what could a future focused on Big Data and Data Science look like?
+Among required courses for the two-year program, none deal solely with Big Data or Data Science.
+But it’s clear the nature of the business is changing, and to be effective, business education must change with it.
+Why Big Data & Data Science MatterMore than half the world’s population is online, and digital saturation will only grow in the future.
+
+Other Blogs by Jennifer L. Gaskin: https://dataconomy.com/author/jennifer/

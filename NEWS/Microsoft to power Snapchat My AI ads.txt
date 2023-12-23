@@ -1,0 +1,44 @@
+Title: Microsoft to power Snapchat My AI ads
+
+Article Link: https://dataconomy.com/2023/09/26/microsoft-to-power-snapchat-my-ai-ads/
+
+Author: Onur Demirkol
+
+Publish Date: 2023-09-26
+
+Article:
+According to the latest announcement, Microsoft will power the Snapchat My AI ads initiative. The collaboration between the two companies has been revealed in a short announcement.
+
+Microsoft and Snapchat have joined forces to revolutionize the world of advertising. The game-changing partnership centers around Snapchat’s innovative AI chatbot, My AI, and its newfound ability to serve sponsored links using Microsoft’s Chat Ads API. This collaboration promises to usher in a new era of targeted advertising, enhancing user experiences while offering advertisers an unprecedented opportunity to engage with their target audience.
+
+Snapchat My AI ads and Sponsored Links
+
+Snapchat debuted My AI to its large community of over 750 million monthly users earlier this year, positioning itself as a key participant in the consumer chatbot industry. The major breakthrough is My AI’s ability to effortlessly include sponsored links in its conversational engagements. These sponsored links, which are enabled by Microsoft Advertising’s Ads for Chat API, offer customers highly relevant suggestions based on their continuing chats with the AI chatbot.
+
+Imagine asking My AI for dinner recommendations and, in response, receiving a sponsored link to a local restaurant or a food delivery app. My AI can even recommend where to purchase a product from a nearby retailer. This integration not only enhances user experiences but also presents advertisers with a golden opportunity to connect with potential customers precisely when their interest is piqued. Snapchat My AI ads is definitely a useful feature.
+
+“As technology keeps getting cooler, partnerships like the one between Microsoft and Snapchat show us the future of ads. Putting links in chatbot conversations can change how ads work for the better. With My AI’s huge user base and Microsoft’s know-how, this team-up is set to make advertising more exciting. Keep an eye out for more cool stuff as Microsoft and Snapchat keep pushing the limits of tech and ads,” the official announcement read.
+
+Microsoft and Snap share a similar vision of generative AI
+
+Microsoft’s foray into AI chatbot advertising began with the introduction of Bing Chat, which quickly incorporated ads from its extensive roster of partner brands. Google followed suit with ads in its AI chatbot in Search. Snap’s sponsored links in My AI are poised to work similarly, offering users a seamless experience while opening new avenues for advertisers to engage their audience.
+
+Microsoft’s Ads for Chat API, introduced in May, builds on the technology used in Bing but allows third-party partners like Snap to tailor the advertising experience to their audience’s preferences. This flexibility enables partners to select the most effective ad formats that blend seamlessly with their offerings. Furthermore, early adopters of this technology, including Snap, have the unique opportunity to shape the API’s future by providing valuable feedback.
+
+A win-win for Microsoft and Snap
+
+This alliance is a huge success for Microsoft’s advertising unit, which has increasingly powered advertisements for tech businesses looking for alternatives to Google. For example, Netflix selected Microsoft to support its ad-supported tier, acknowledging Microsoft as a non-competitive partner in the streaming market.
+
+For Snapchat My AI ads, this partnership could position Snapchat as a prime destination for younger Gen Z users seeking products and services through AI chatbots instead of traditional search engines like Google.
+
+Snap assures us that the Sponsored Links feature is still in its early experimental phase, emphasizing the importance of creating thoughtful and user-friendly experiences for its community. They are also actively working with various partners to enhance My AI further.
+
+Featured image credit: Thought Catalog/Unsplash
+
+Summary: According to the latest announcement, Microsoft will power the Snapchat My AI ads initiative.
+The game-changing partnership centers around Snapchat’s innovative AI chatbot, My AI, and its newfound ability to serve sponsored links using Microsoft’s Chat Ads API.
+These sponsored links, which are enabled by Microsoft Advertising’s Ads for Chat API, offer customers highly relevant suggestions based on their continuing chats with the AI chatbot.
+Snapchat My AI ads is definitely a useful feature.
+For Snapchat My AI ads, this partnership could position Snapchat as a prime destination for younger Gen Z users seeking products and services through AI chatbots instead of traditional search engines like Google.
+
+Other Blogs by Onur Demirkol: https://dataconomy.com/author/onurdemirkol/

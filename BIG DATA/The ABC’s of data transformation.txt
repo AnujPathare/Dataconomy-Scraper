@@ -1,0 +1,174 @@
+Title: The ABC’s of data transformation
+
+Article Link: https://dataconomy.com/2022/07/14/data-transformation-definition-examples/
+
+Author: Eray Eliaçık
+
+Publish Date: 2022-07-14
+
+Article:
+For the greatest outcomes in data transformation, information analysis needs structured and easily accessible data. Organizations can change the format and structure of raw data through data transformation as needed. Your company has countless opportunities to improve decisions and actions because of the ever-growing amount of data. But how can you make what you already know about your company, clients, and rivals more available to everyone working there? Data transformation is the key.
+
+What is data transformation?
+
+The process of changing data from one format to another, usually from that of a source system into that needed by a destination system, is known as data transformation. Most data integration and management operations, including data wrangling and data warehousing, include some type of data transformation.
+
+Data transformation serves as the middle phase in an ETL (extract, transform, load) process, which is commonly used by businesses with on-premises data warehouses. Today, the majority of businesses employ cloud-based data warehouses that expand compute and storage resources with latency measured in seconds or minutes. Organizations can load raw data into the data warehouse without preload transformations thanks to the cloud platform’s scalability; this is known as the ELT model ( extract, load, transform).
+
+Depending on the required modifications to the data between the source (initial data) and the destination (final data), data transformation can be straightforward or difficult. The process of data transformation often involves both manual and automated procedures. Depending on the format, structure, complexity, and amount of the data being changed, a broad range of tools and technologies may be utilized.
+
+For a number of uses, transformed data is useable, secure, and accessible. Data may be transformed by organizations so that it can be combined with other types of data, moved into the proper database, or made compatible with other critical pieces of knowledge. Data transformation gives organizations insights into crucial operational and informational internal and external operations. In order to keep information moving, businesses might use data transformation to move data from a storage database to the cloud.
+
+What is data transformation?
+
+Data transformation makes business and analytical processes more effective and improves the quality of data-driven decisions made by organizations. The structure of the data will be determined by an analyst throughout the data transformation process. Consequently, data transformation might be:
+
+Constructive: The process of data transformation adds, duplicates, or copies data.
+
+The process of data transformation adds, duplicates, or copies data. Destructive: The system deletes fields or records, which is destructive.
+
+The system deletes fields or records, which is destructive. Aesthetic: The data are standardized through the transformation to adhere to specifications or guidelines.
+
+The data are standardized through the transformation to adhere to specifications or guidelines. Structural: Renaming, relocating, or merging columns allows for structural database reorganization.
+
+Businesses have more resources than ever before for data collection. Businesses have more opportunities to make more informed decisions thanks to the never-ending supply of data.
+
+Data transformation process
+
+Data that is retrieved from a local source is frequently useless and raw. The data must be modified in order to solve this problem.
+
+ETL, which stands for Extract, Load, and Transform, is the general term for the data transformation process. Analysts are able to transform data into the format they need through the ETL process. The steps in the data transformation process are as follows:
+
+Data discovery: In the initial phase, analysts try to comprehend and locate data in its original format. They’ll employ data profiling techniques to accomplish this. This stage aids analysts in determining what needs to be done to transform data into the format they want. Data mapping: To ascertain how certain fields are updated, mapped, filtered, combined, and aggregated, analysts do data mapping during this step. Many data operations depend on data mapping, and one mistake might cause inaccurate analysis that spreads throughout your entire organization. Data extraction: Analysts extract the data from its original source during the data extraction process. These sources could be streaming sources like user log files from web apps or organized sources like databases. Code generation and execution: Data extraction is followed by the creation of a code that analysts must then execute in order to complete the transformation. Frequently, platforms or tools for data transformation assist analysts in producing codes. Review: Once the data has been transformed, analysts must examine it to make sure everything has been properly prepared. Sending: Delivering the information to its intended recipient is the last step. The objective could be a database that manages both structured and unstructured data, such as a data warehouse.
+
+Data transformation process
+
+Along with these essential processes, other tailored operations might be performed. Analysts might, for instance, filter the data by loading only particular columns. Alternately, they might improve the data by including names, places, etc. Additionally, analysts have the ability to combine data from several sources and delete duplicate data.
+
+Data transformation rules
+
+The structure and semantics of data are transformed from source systems to destination systems according to a set of computer instructions called “data transformation rules.” Although there are many other kinds of data transformation rules, taxonomy rules, reshape rules, and semantic rules are the most popular ones.
+
+Taxonomy Rules
+
+The columns and values of the source data are mapped to the target using these rules. As an illustration, a source might provide that each transaction has two columns: a settlement amount and a type, where the type can refer to one of three possibilities.
+
+Reshape Rules
+
+The distribution of the data items on the target side and how to gather them from the source side are both outlined in these guidelines. For instance, a store might offer all transaction data in one file, but the aggregator needs to separate it into three tables: one for transactions, one for merchant data, and one for consumer data.
+
+Semantic Rules
+
+These guidelines define the semantics of data items and explain how the business uses them to define its domain. For instance, what makes a transaction successful? And how should its ultimate settlement sum be determined after refunds are taken into account? Each data source has a unique semantics that makes sense in the context of its activities, but which the data aggregator must reconcile with all other providers’ data definitions.
+
+Data transformation types
+
+Data can be transformed in a variety of ways. These consist of:
+
+Scripting
+
+By employing scripting, data can be extracted and transformed by writing the necessary code in Python or SQL.
+
+You can use scripting languages like Python and SQL to automate particular programmatic processes. You may also use them to extract data from sets. Scripting languages are less labor-intensive because they require less code than conventional programming languages.
+
+ETL tools, as previously mentioned, let you extract, transform, and load data. By automating the process, ETL technologies eliminate the tedious work needed to script the data transformation. Company servers host on-premises ETL tools. Although using these tools can help you save time, doing so frequently necessitates significant infrastructure investment.
+
+Cloud-based ETL tools are hosted in the cloud, as the name suggests. The use of these technologies is frequently made simpler for non-technical people. You can gather data from any cloud source and add it to your data warehouse using these tools.
+
+You may choose how frequently to pull data from your source with cloud-based ETL solutions, and you can keep track of your consumption.
+
+Data transformation techniques
+
+Before analysis or storage in a data warehouse, there are a number of data transformation techniques that can help organize and clean up the data.
+
+Data transformation techniques
+
+Here are a few of the more popular techniques:
+
+Data smoothing : The technique of removing skewed or nonsensical data from a dataset is known as data smoothing. To find particular patterns or trends, it also finds slight changes to the data.
+
+: The technique of removing skewed or nonsensical data from a dataset is known as data smoothing. To find particular patterns or trends, it also finds slight changes to the data. Data aggregation : For reliable analysis and reporting, data aggregation gathers unprocessed data from several sources and saves it in a single format. This method is essential if your company collects a lot of data.
+
+: For reliable analysis and reporting, data aggregation gathers unprocessed data from several sources and saves it in a single format. This method is essential if your company collects a lot of data. Discretization : In order to increase efficiency and facilitate analysis, this data transformation approach creates interval labels in continuous data. Decision tree techniques are used in the process to reduce a large dataset into a small set of categorical data.
+
+: In order to increase efficiency and facilitate analysis, this data transformation approach creates interval labels in continuous data. Decision tree techniques are used in the process to reduce a large dataset into a small set of categorical data. Generalization : Generalization converts low-level data qualities into high-level data attributes using idea hierarchies to produce an understandable data snapshot.
+
+: Generalization converts low-level data qualities into high-level data attributes using idea hierarchies to produce an understandable data snapshot. Attribute construction : By constructing new attributes from an existing set of attributes, this technique enables the organization of a dataset.
+
+: By constructing new attributes from an existing set of attributes, this technique enables the organization of a dataset. Normalization: For more effective extraction and deployment of data mining algorithms, normalization changes the data to ensure that the attributes remain within a given range.
+
+Real-life data transformation examples
+
+You probably do fundamental data transformations on a regular basis as a computer end user. For instance, data is transformed when a Microsoft Word document is converted to a PDF.
+
+But in big data analytics, data transformation plays a more significant and complex function. This is due to the likelihood that you will run into scenarios where a significant amount of data needs to be converted from one format to another while working with big amounts of data, various types of data analytics tools, and various data storage systems.
+
+Thus, that is a general explanation of data transformation. Let’s look at some examples of data transformation to better clarify the solution.
+
+Character encoding and data transformation
+
+Problems with character encoding are frequently the cause of data transformation.
+
+There is a good probability that character encoding inconsistency is the cause if you have ever opened a file and discovered that some of the letters or numbers inside the text are displayed as gibberish or seemingly random symbols.
+
+Most computers today use the UTF-8 encoding system or a more recent scheme that is backwards compatible with it in order to avoid encoding problems. However, it still occurs when an application encrypts data in a manner that other programs or systems do not anticipate. In these situations, it would be necessary to convert the data from one sort of character encoding format to another.
+
+CSV to XML transformation
+
+CSV, which stands for “comma-separated values,” and XML, often known as “extensible markup language,” are two common formats for storing data. However, they operate very differently.
+
+You may automatically convert data from a CSV file into XML format using a data transformation tool so that you can open it with the appropriate software.
+
+Transforming speech to text
+
+The third instance of data transformation is when you need to convert human speech from an audio file into a text file.
+
+Data transformation examples
+
+Because it entails more than just handling discrepancies in data formatting, this example might not be one of the first that data transformation specialists think of. However, it serves as a good illustration of data transformation in general. It’s a situation that you would encounter if, for instance, you record customer phone calls and need a mechanism to make data from the discussions accessible for analysis by systems that can only decipher the text.
+
+3 best data transformation tools
+
+It’s vital to keep in mind that today’s hybrid data processing environments are considerably more sophisticated than those from the past while thinking about alternatives for data transformation. Big data analytics platforms are connected to conventional servers, and more data is stored locally and in the cloud. In order to handle a variety of data assets, there is also an increasing reliance on a growing number of “as-a-service” solutions. The connectors required to move data from these multiple sources are frequently included in ETL systems.
+
+These are some of the best data transformation tools:
+
+SQL Server Integration Services (SSIS) (Microsoft)
+
+On-premises and in the cloud, Microsoft provides its data integration functionality (via Integration Platform as a Service). The SQL Server DBMS platform comes with the company’s standard integration tool, SQL Server Integration Services (SSIS). Azure Logic Apps and Microsoft Flow are two other cloud SaaS products that Microsoft promotes. The whole Azure Logic Apps solution includes Flow, which is integrator-centric and ad hoc.
+
+Related products: Azure Data Factory cloud integration service
+
+Oracle Data Integration Cloud Service
+
+Oracle provides a wide range of data integration technologies for both classic and contemporary use cases, in on-premises and cloud deployments. The product line of the company includes technologies and services that enable businesses to transport and enrich data across its entire lifecycle. With the help of bulk data migration, transformation, bidirectional replication, metadata management, data services, and data quality for the customer and product domains, Oracle data integration enables constant and ubiquitous access to data across heterogeneous systems.
+
+Related products: Oracle GoldenGate, Oracle Data Integrator, Oracle Big Data SQL, Oracle Service Bus, Oracle Integration Cloud Service (iPaaS)
+
+SAS Data Management
+
+One of the top independent vendors in the market for data integration technologies is SAS. Through SAS Data Management, which integrates data integration and quality solutions, the company makes available its fundamental capabilities. It offers push-down database processing, configurable query language support, metadata integration, and a range of performance and optimization features. Federation Server, the company’s data virtualization platform, enables sophisticated data masking and encryption that let customers choose who is authorized to view data.
+
+Related products: SAS Data Integration Studio, SAS Federation Server, SAS/ACCESS, SAS Data Loader for Hadoop, SAS Data Preparation, SAS Event Stream Processing
+
+Conclusion
+
+It is necessary to alter the data set before analysis in order to improve its suitability for further analytical processing. In order to meet the needs of the algorithms used for predictive modeling, such as classification, regression, clustering, or association rule mining, the transformation modifies the values of a few chosen attributes.
+
+You will always lag behind your competition if your business isn’t utilizing data transformation.
+
+For many companies, organizing, transforming, and structuring data can be a daunting process. You need to have a plan in place before you look at your data so that you can see where you want your business to go as a result of your data.
+
+Data transformation
+
+When and how to alter your data are not subject to any strict guidelines. It relies on the data’s origin (and how much you know about it), the conclusions you want to draw from it, the significance of interpretability, and how much the actual distribution of the data differs from your ideal distribution, which is typically a normal distribution. If you want to learn more, you can check the article that explained data lifecycle management.
+
+So, are you ready to join the data-driven revolution?
+
+Summary: Most data integration and management operations, including data wrangling and data warehousing, include some type of data transformation.
+Depending on the required modifications to the data between the source (initial data) and the destination (final data), data transformation can be straightforward or difficult.
+Consequently, data transformation might be:Constructive: The process of data transformation adds, duplicates, or copies data.
+Data transformation techniquesBefore analysis or storage in a data warehouse, there are a number of data transformation techniques that can help organize and clean up the data.
+Data transformation examplesBecause it entails more than just handling discrepancies in data formatting, this example might not be one of the first that data transformation specialists think of.
+
+Other Blogs by Eray Eliaçık: https://dataconomy.com/author/eray-eliacik/

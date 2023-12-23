@@ -1,0 +1,74 @@
+Title: Why Data Scientists Must Be Able to Explain Their Algorithms
+
+Article Link: https://dataconomy.com/2020/03/05/why-data-scientists-must-be-able-to-explain-their-algorithms/
+
+Author: Shelby Blitz
+
+Publish Date: 2020-03-05
+
+Article:
+The models you create have real-world applications that affect how your colleagues do their jobs. That means they need to understand what you’ve created, how it works, and what its limitations are. They can’t do any of these things if it’s all one big mystery they don’t understand.
+
+“I’m afraid I can’t let you do that, Dave… This mission is too important for me to let you jeopardize it”
+
+Ever since the spectacular 2001: A Space Odyssey became the most-watched movie of 1968, humans have both been fascinated and frightened by the idea of giving AI or machine learning algorithms free rein.
+
+In Kubrick’s classic, a logically infallible, sentient supercomputer called HAL is tasked with guiding a mission to Jupiter. When it deems the humans on board to be detrimental to the mission, HAL starts to kill them.
+
+This is an extreme example, but the caution is far from misplaced. As we’ll explore in this article, time and again, we see situations where algorithms “just doing their job” overlook needs or red flags they weren’t programmed to recognize.
+
+This is bad news for people and companies affected by AI and ML gone wrong. But it’s also bad news for the organizations that shun the transformative potential of machine learning algorithms out of fear and distrust.
+
+Getting to grips with the issue is vital for any CEO or department head that wants to succeed in the marketplace. As a data scientist, it’s your job to enlighten them.
+
+Algorithms aren’t just for data scientists
+
+To start with, it’s important to remember, always, what you’re actually using AI and ML-backed models for. Presumably, it’s to help extract insights and establish patterns in order to answer critical questions about the health of your organization. To create better ways of predicting where things are headed and to make your business’ operations, processes, and budget allocations more efficient, no matter the industry.
+
+In other words, you aren’t creating clever algorithms because it’s a fun scientific challenge. You’re creating things with real-world applications that affect how your colleagues do their jobs. That means they need to understand what you’ve created, how this works and what its limitations are. They need to be able to ask you nuanced questions and raise concerns.
+
+They can’t do any of these things if the whole thing is one big mystery they don’t understand.
+
+When machine learning algorithms get it wrong
+
+At other times, algorithms may contain inherent biases that distort predictions and lead to unfair and unhelpful decisions. Just take the case of this racist sentencing scandal in the U.S., where petty criminals were rated more likely to re-offend based on the color of their skin, rather than the severity or frequency of the crime.
+
+In a corporate context, the negative fallout of biases in your AI and ML models may be less dramatic, but they can still be harmful to your business or even your customers. For example, your marketing efforts might exclude certain demographics, to your detriment and theirs. Or that you deny credit plans to customers who deserve them, simply because they share irrelevant characteristics with people who don’t. To stop these kinds of things from happening, your non-technical colleagues need to understand how the algorithm is constructed — in simple terms — enough to challenge your rationale. Otherwise, they may end up with misleading results.
+
+Applying constraints to AI and ML models
+
+One important way forward is for data scientists to collaborate with business teams when deciding what constraints to apply to algorithms.
+
+Take the 2001: A Space Odyssey example. The problem here wasn’t that the ship used a powerful, deep learning AI program to solve logistical problems, predict outcomes, and counter human errors in order to get the ship to Jupiter. The problem was that the machine learning algorithm created with this single mission in mind had no constraints. It was designed to achieve the mission in the most effective way using any means necessary — preserving human life was not wired in as a priority.
+
+Now imagine how a similar approach might pan out in a more mundane business context.
+
+Let’s say you build an algorithm in a data science platform to help you source the most cost-effective supplies of a particular material used in one of your best-loved products. The resulting system scours the web and orders the cheapest available option that meets the description. Suspiciously cheap, in fact, which you would discover if you were to ask someone from the procurement or R&D team. But without these conversations, you don’t know to enter constraints on the lower limit or source of the product. The material turns out to be counterfeit — and an entire production run is ruined.
+
+How data scientists can communicate better on algorithms
+
+Most people who aren’t data scientists find talking about the mechanisms of AI and ML very daunting. After all, it’s a complex discipline — that’s why you’re in such high demand. But just because something is tricky at a granular level, doesn’t mean you can’t talk about it in simple terms.
+
+The key is to engage everyone who will use the model as early as possible in its development. Talk to your colleagues about how they’ll use the model and what they need from it. Discuss other priorities and concerns that affect the construction of the algorithm and the constraints you implement. Explain exactly how the results can be used to inform their decision-making but also where they may want to intervene with human judgment. Make it clear that your door is always open and the project will evolve over time — you can keep tweaking if it’s not perfect.
+
+Bear in mind that people will be far more confident about using the results of your algorithms if they can tweak the outcome and adjust parameters themselves. Try to find solutions that give individual people that kind of autonomy. That way, if their instincts tell them something’s wrong, they can explore this further instead of either disregarding the algorithm or ignoring potentially valid concerns.
+
+Final Thoughts: Shaping the Future of AI
+
+As Professor Hannah Fry, author of Hello World: How to be human in the age of the machine, explained in an interview with the Economist:
+
+“If you design an algorithm to tell you the answer but expect the human to double-check it, question it, and know when to override it, you’re essentially creating a recipe for disaster. It’s just not something we’re going to be very good at.
+
+But if you design your algorithms to wear their uncertainty proudly front and center—to be open and honest with their users about how they came to their decision and all of the messiness and ambiguity it had to cut through to get there—then it’s much easier to know when we should trust our own instincts instead.”
+
+In other words, if data scientists encourage colleagues to trust implicitly in the HAL-like, infallible wisdom of their algorithms, not only will this lead to problems, it will also undermine trust in AI and ML in the future.
+
+Instead, you need to have clear, frank, honest conversations with your colleagues about the potential and limitations of the technology and the responsibilities of those that use it — and you need to do that in a language they understand.
+
+Summary: But it’s also bad news for the organizations that shun the transformative potential of machine learning algorithms out of fear and distrust.
+Algorithms aren’t just for data scientistsTo start with, it’s important to remember, always, what you’re actually using AI and ML-backed models for.
+When machine learning algorithms get it wrongAt other times, algorithms may contain inherent biases that distort predictions and lead to unfair and unhelpful decisions.
+Applying constraints to AI and ML modelsOne important way forward is for data scientists to collaborate with business teams when deciding what constraints to apply to algorithms.
+How data scientists can communicate better on algorithmsMost people who aren’t data scientists find talking about the mechanisms of AI and ML very daunting.
+
+Other Blogs by Shelby Blitz: https://dataconomy.com/author/shelby/

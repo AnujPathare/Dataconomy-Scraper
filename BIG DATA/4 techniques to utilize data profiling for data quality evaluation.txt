@@ -1,0 +1,162 @@
+Title: 4 techniques to utilize data profiling for data quality evaluation
+
+Article Link: https://dataconomy.com/2022/04/08/what-is-data-profiling/
+
+Author: Eray Eliaçık
+
+Publish Date: 2022-04-08
+
+Article:
+Organizations can effectively manage the quality of their information by doing data profiling. Businesses must first profile data metrics to extract valuable and practical insights from data.
+
+Data profiling is becoming increasingly essential as more firms generate huge quantities of data every day. Businesses currently manage an average of 162.9 terabytes of data, while enterprises handle 347.56 terabytes of data on average.
+
+What is data profiling?
+
+Data profiling is the technique of collecting data and analyzing it to determine its structure, components, and relationships. It is the process of examining source data, understanding structure, content, and interaction, and identifying opportunities for data projects.
+
+Best ways to utilize data profiling
+
+Data warehouse and business intelligence (DW/BI) projects
+
+Data profiling can reveal data quality flaws in data sources and what has to be improved in ETL.
+
+Data conversion and migration projects
+
+You can use data profiling to find data quality problems, which you may resolve with scripts and data integration technologies. It can also identify new requirements for the intended system.
+
+Source system data quality projects
+
+Data quality analysis may discover data with severe or numerous defects, as well as the source of the problems (e.g., user inputs, interface errors, data corruption).
+
+Importance of data profiling
+
+Analyzing your data and conducting some sort of analysis is the first step in understanding it. It should be a necessary component of how your organization handles its data.
+
+What is data profiling?
+
+Data profiling is increasingly popular among organizations because it may help improve a variety of procedures across the company by offering several advantages, which we’ll look at in further detail below.
+
+Aiding project management
+
+Data analysis may be used as a preliminary step to see whether there is enough information to proceed with a project. As a result, this minimizes time and money loss while lowering the overall project lifecycle and improving the chances of success.
+
+Improving data quality
+
+Profiling may assist firms in keeping their data clean, accurate, and ready for distribution across the organization. This is especially crucial for extracting information from paper and spreadsheet systems and databases where data was typed in manually.
+
+Project managers can assess data quality to see whether the information will fulfill its intended business purpose. They may also determine whether additional data is required before starting.
+
+Enabling searchability
+
+Employees in the agile organization’s era must be able to find specific sorts of data quickly and simply during projects. It may be tough to discover data within a larger string when data is unsearchable.
+
+To make data more discoverable, corporations label and categorize it so that users may search for specific keywords to access the relevant items and groups.
+
+Inside the source database, it’s also critical to identify and evaluate all metadata. As a result, metadata should be thoroughly reviewed and updated before beginning any large data project to ensure accuracy and optimum discoverability.
+
+Data profiling types
+
+There are three primary types of data profile tools that companies frequently use. These approaches may help individuals better understand their information sources and enhance data quality. The three most important methods to profile data are as follows:
+
+Structure discovery
+
+Data structure discovery aims to validate data to ensure it is adequately formatted and comparable with other data sets. This procedure, also known as structure analysis, may be utilized for various methods.
+
+Identifying patterns in data is pattern matching, which organizations may accomplish using structure discovery. A business may have a database of addresses and conduct pattern matching to discover its subsets.
+
+Organizations may use structure discovery to examine simple data. Using this approach, they can discover minimum and maximum values, averages, modes, and standard deviations in their data.
+
+Content discovery
+
+The process of data quality discovery entails studying every component in a database to ensure that the data is accurate. This approach aids business owners in locating missing or incorrect values, allowing them to correct them right away.
+
+The data must also be organized in a consistent way across the organization. For example, to ensure correct analysis and extraction, a database with customers’ phone numbers must be in the proper format of 1-123-456-7890. If data is not presented suitably, the company will be unable to interact with its consumers appropriately.
+
+Relationship discovery
+
+Relationship discovery aims to determine which data the firm uses and how different sources are connected. Marketers must undertake metadata analysis to discover connections and overlapping data to identify links and overlap between datasets.
+
+Data profiling process
+
+You utilize the data profiling method to assess the quality of your data. The data profiling process includes several analyses that investigate the structure and content of your data and make inferences about it. After an analysis is finished, you may accept or reject the conclusions.
+
+What is data profiling?
+
+The data profiling process is made up of several tests that collaborate to assess your data:
+
+Column analysis
+
+All other analyses, except cross-domain analysis, require a column analysis. The column or field data is evaluated in a table or file, generating a frequency distribution during a column study. A frequency distribution summarizes the findings for each column, including statistics and inferences regarding your data’s features. You look for irregularities in your data by examining the frequency distribution.
+
+The frequency distribution is also the input for further analyses such as primary fundamental analysis and baseline evaluation.
+
+The process for creating a column analysis consists of four analyses:
+
+Domain analysis
+
+Purges invalid and incomplete data values. Irrelevant and deficient information may harm the quality of your data since it makes accessing and utilizing it difficult. When using data cleaning software to remove anomalies, use the findings from domain analysis.
+
+Data classification analysis
+
+For each column in your data, it generates a data class. Data classes are used to distinguish different types of information. It isn’t easy to compare your data with other data domains if it isn’t categorized correctly. When you want to discover information with similar values, you compare data domains.
+
+Format analysis
+
+Format analysis creates a format expression for the values in your data. A format expression is a pattern that includes a character symbol for each distinct character in a column. For example, alphabetic characters might have a character symbol of A, and numeric digits may have a character symbol of 9. Correct formats guarantee that your data conforms to specified criteria.
+
+Data properties analysis
+
+An additional analysis, called data properties analysis, compare the quality of defined properties about your data before analysis to the system-inferred properties produced during analysis. Data properties define data features, such as field length or data type. Data properties analysis helps guarantee that data is utilized effectively.
+
+What is data profiling?
+
+Key and cross-domain analysis
+
+When performing a key and cross-domain analysis, your data is examined for connections between tables. The values in your data are evaluated for potential foreign keys, and they’re classified as such. When the values in a column match the corresponding values of a primary or natural key in another table, it may be inferred that the column is a candidate for a foreign key. If an erroneous foreign key is deleted, its association with a primary or natural key in another table is broken.
+
+After your data has been thoroughly evaluated, you can execute a referential integrity analysis job. Referential integrity checking is a type of analysis that allows you to identify any problems between foreign keys and primary or natural keys. During a referential integrity analysis, foreign key candidates are thoroughly examined to ensure that they correspond with a primary or natural key’s values.
+
+A common domain is defined as a set of columns with identical data. A frequent domain is one in which several columns include overlapping data. Columns with a similar domain might indicate the connection between a foreign key and a primary key, which you can investigate further during a foreign critical analysis job. On the other hand, most types of domains are duplicates between columns. If your data contains redundancies, you might want to utilize a data cleaning program to eliminate them because redundant data consumes memory and slows down processes.
+
+Baseline analysis
+
+You run a baseline analysis job to examine how things have changed between the previous version of analysis results and the current analysis results for the same data source. You can determine if there’s been an improvement in quality if differences are discovered between both versions.
+
+The Data Profiling Process in ETL
+
+Data profiling necessitated using a programming language such as SQL to query data in the past. This was a time-consuming and often-complex procedure that many businesses couldn’t afford. Data profiling in an ETL scenario entails obtaining data from several sources for analysis.
+
+A single repository for data results and metadata is required during the ETL data profiling procedure. Organizations discover data consistency and quality concerns and repair them in real-time, resulting in fewer errors and higher-quality data analysis.
+
+Data profiling techniques
+
+According to a recent study, 31% of businesses are data-driven. This involves using metrics and analytics and data management tools like data profiling. To properly assess their database of information, companies have been employing the following analytical approaches.
+
+What is data profiling?
+
+Column Profiling
+
+The technique of analyzing tables and quantifying the items in each column is known as table profiling. This can assist reveal column frequency distributions and data developments.
+
+Cross-Column Profiling
+
+Cross-column profiling determines a data set’s cross-cumulative relationships, including key and dependency analysis. A primary key is used to assess data values for a fundamental key in organizations. On the other hand, dependency analysis is a sophisticated method of seeing connections and structures in a data set. Business teams may use both of these analysis approaches to examine how one table’s attributes rely on others.
+
+Cross-Table Profiling
+
+This approach focuses on crucial analysis to find stray data and semantic and syntactic inconsistencies. As a result, duplicates and extra information are eliminated, making the data mapping process more efficient. Cross-table profiling may also be used by businesses to assess the link between columns from different tables.
+
+Data Rule Validation
+
+Validation of data rules and measurement standards determines whether datasets are in accordance with established norms and measuring standards. This method is used by businesses to improve the quality and usefulness of their data.
+
+Even the most massive data sets may be analyzed and debugged with data profiling. Examining metadata is a good place to start since it allows you to troubleshoot issues in even the biggest data sets.
+
+Summary: Best ways to utilize data profilingData warehouse and business intelligence (DW/BI) projectsData profiling can reveal data quality flaws in data sources and what has to be improved in ETL.
+Data conversion and migration projectsYou can use data profiling to find data quality problems, which you may resolve with scripts and data integration technologies.
+Source system data quality projectsData quality analysis may discover data with severe or numerous defects, as well as the source of the problems (e.g., user inputs, interface errors, data corruption).
+Data profiling processYou utilize the data profiling method to assess the quality of your data.
+The Data Profiling Process in ETLData profiling necessitated using a programming language such as SQL to query data in the past.
+
+Other Blogs by Eray Eliaçık: https://dataconomy.com/author/eray-eliacik/

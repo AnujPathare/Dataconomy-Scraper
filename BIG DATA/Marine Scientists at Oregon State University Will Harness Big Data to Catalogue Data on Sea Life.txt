@@ -1,0 +1,28 @@
+Title: Marine Scientists at Oregon State University Will Harness Big Data to Catalogue Data on Sea Life
+
+Article Link: https://dataconomy.com/2014/12/18/marine-scientists-at-oregon-state-university-will-harness-big-data-to-catalogue-data-on-sea-life/
+
+Author: Eileen McNulty
+
+Publish Date: 2014-12-18
+
+Article:
+The Oregon State University’s Hatfield Marine Science Center has launched the National Data Science Bowl – a competition that will reward $175,000 to the best “big data” solution to catalogue millions of plankton images.
+
+An OSU release points out that Planktons are “the fundamental biological building blocks of the ocean ecosystem,” and OSU scientists went on an 18-day expedition last summer in the Straits of Florida which helped them gather 32 terabytes of images of sea life.
+
+“Having access to software that can recognize individual plankton species would allow scientists to be more accurate and swift in their work, which focuses on year-over-year fish population fluctuations that might be influenced by plankton,” notes the Oregonian.
+
+Within 90 days participants will have to generate an algorithm to identify and monitor 100,000 images from the expedition which will be made available to them for the purpose of the competition.
+
+Authors of the top three algorithms will share the $175,000 purse and Hatfield will gain ownership of their algorithms.Tech consultant Booz Allen Hamilton, along with the crowdsourcing platform Kaggle, are co-sponsoring the competition with OSU.
+
+(Image credit: Sodaro K)
+
+Summary: The Oregon State University’s Hatfield Marine Science Center has launched the National Data Science Bowl – a competition that will reward $175,000 to the best “big data” solution to catalogue millions of plankton images.
+An OSU release points out that Planktons are “the fundamental biological building blocks of the ocean ecosystem,” and OSU scientists went on an 18-day expedition last summer in the Straits of Florida which helped them gather 32 terabytes of images of sea life.
+“Having access to software that can recognize individual plankton species would allow scientists to be more accurate and swift in their work, which focuses on year-over-year fish population fluctuations that might be influenced by plankton,” notes the Oregonian.
+Within 90 days participants will have to generate an algorithm to identify and monitor 100,000 images from the expedition which will be made available to them for the purpose of the competition.
+Authors of the top three algorithms will share the $175,000 purse and Hatfield will gain ownership of their algorithms.Tech consultant Booz Allen Hamilton, along with the crowdsourcing platform Kaggle, are co-sponsoring the competition with OSU.
+
+Other Blogs by Eileen McNulty: https://dataconomy.com/author/eileen-mcnulty/

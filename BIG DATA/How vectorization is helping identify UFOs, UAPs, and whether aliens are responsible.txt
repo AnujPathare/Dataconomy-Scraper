@@ -1,0 +1,86 @@
+Title: How vectorization is helping identify UFOs, UAPs, and whether aliens are responsible
+
+Article Link: https://dataconomy.com/2021/08/25/vectorization-identify-ufos-uaps-aliens/
+
+Author: Stewart Rogers
+
+Publish Date: 2021-08-25
+
+Article:
+If there’s one topic that has captured the public’s attention consistently over the decades, it is this: have aliens visited Earth, and have we caught them in the act on camera? Unidentified Flying Objects (UFOs) and Unidentified Aerial Phenomena (UAPs) tick all the boxes regarding our love of conspiracy theories, explaining the unexplainable, and after-hours conversation starters.
+
+As with many things in life, data may have the answer. From Peter Sturrock’s survey of professional astronomers that found nearly half of the respondents thought UFOs were worthy of scientific study, to the SETI@Home initiative, which used millions of home computers to process radio signal data in an attempt to find alien communications, UFOs and UAPs continue to fascinate the world.
+
+However, the scientific community seems to have a dim view of studying these phenomena. A search of over 90,000 grants awarded by the National Science Foundation finds none addressing UFOs, UAPs, or related topics.
+
+But the tide may be turning.
+
+A US Intelligence report released in June 2021 (on UAPs specifically – the US military is keen to rebrand UFOs to avoid the “alien” stigma associated with the UFO acronym) has rekindled interest within a broad audience.
+
+Among other findings, the report noted that 80 of the 144 reported sightings were caught by multiple sensors. However, it also stated that of those 144 sightings, the task force was “able to identify one reported UAP with high confidence. In that case, we identified the object as a large, deflating balloon. The others remain unexplained.”
+
+UAP data requires new ways of working. The ability to fuse, analyze, and act on inherently spatial and temporal data in real-time requires new computing architectures beyond the first generation of big data.
+
+Vectorization and the quest to identify UFOs/UAPs
+
+Enter “vectorization.” A next-generation technique, it allows for the analysis of data that tracks objects across space and time. Vectorization can be 100 times faster than prior generation computing frameworks. And it has the attention of significant players, such as Intel and NVIDIA, which are both pointing towards vectorization as the next big thing in accelerating computing.
+
+NORAD and USNORTHCOM’s Pathfinder initiative aims to better track and assess objects through the air, sea, and land through a multitude of fused sensor readings. As part of the program, it will be ‘vectorizing’ targets. One company helping to make sense of this is Kinetica, a vectorization technology startup, which provides real-time analysis and visualization of the massive amounts of data the Pathfinder initiative monitors.
+
+“After a year-long prototyping effort with the Defense Innovation Unit, Kinetica was selected to support the North American Aerospace Defense Command and Northern Command Pathfinder program to deliver a real-time, scalable database to analyze entities across space and time,” Amit Vij, president and cofounder at Kinetica, told me. “The ability to fuse, analyze, and act across many different massive data streams in real-time has helped NORAD and USNORTHCOM enhance situational awareness and model possible outcomes while accessing risks.”
+
+The platform allows data scientists and other stakeholders to reduce the technology footprint and consolidate information to increase operational efficiency.
+
+“Military operators can deepen their data analysis capabilities and increase their situational awareness across North America by combining functions currently performed by multiple isolated systems into a unified cloud database producing intelligence for leadership to act on in real-time,” Vij said. “Kinetica quickly ingests and correlates sensor data from airborne objects, builds feature-rich entities, and deepens the analysis capabilities of military operators. Teams of data scientists can then bring in their machine learning models for entity classification and anomaly detection.”
+
+Parallel (data) universe
+
+Vectorization technology is relatively new in data science and analysis and shows promise for specific applications. Vectorization is different from other data processing methodologies.
+
+“Vectorization, or data-level parallelism, accelerates analytics exponentially by performing the same operation on different sets of data at once, for maximum performance and efficiency,” Nima Negahban, CEO and cofounder at Kinetica, told me. “Previous generation task-level parallelism can’t keep pace with the intense speed requirements to process IoT and machine data because it is limited to performing multiple tasks at one time.”
+
+The way we have dealt with these problems is unsustainable from a cost standpoint and other factors such as energy use.
+
+“Prior generation big data analytics platforms seek to overcome these inefficiencies by throwing more cloud hardware at the problem, which still comes up short on performance and at a much higher cost,” Negahban said. “In an almost industry-agnostic revelation, companies can implement this style anywhere their data requires the same simple operation to be performed on multiple elements in a data set.”
+
+How does that apply to the Pathfinder program and its objectives?
+
+“For the Pathfinder program, vectorization enables better analysis and tracking of objects throughout the air, sea, and land through a multitude of fused sensor readings much faster and with less processor power,” Negahban said. “The technology’s speed and ability to identify the rate of change/direction attributes algorithms that can disguise planes, missiles and potentially help the government better understand what these UAPs or UFOs really are. This means that NORAD can understand what they see in the sky much faster than before, and with much less cost to the taxpayer!”
+
+Vectorization technology is known for its high-speed results, and recent investments in the supporting infrastructure from some of the world’s most significant hardware manufacturers have helped advance the field.
+
+“Every five to 10 years, an engineering breakthrough emerges that disrupts database software for the better,” Negahban said. “The last few years have seen the rise of new technologies like CUDA from Nvidia and advanced vector extensions from Intel that have dramatically shifted our ability to apply vectorization to data operations.”
+
+Negahban likens the process, and the resulting speed vectorization achieves, to a symphony.
+
+“You can think of vector processing like an orchestra,” Negahban said. “The control unit is the conductor, and the instructions are a musical score. The processors are the violins and cellos. Each vector has only one control unit plus dozens of small processors. Each small processor receives the same instruction from the control unit. Each processor operates on a different section of memory. Hence, every processor has its own vector pointer. Vector instructions include mathematics, comparisons, data conversions, and bit functions. In this way, vector processing exploits the relational database model of rows and columns. This also means columnar tables fit well into vector processing.”
+
+Data has the answer
+
+We can’t have an article about UFOs and UAPs without talking about the sizeable grey lifeform in the room. I’ve been fascinated by the subject of flying objects and aliens since I was a child, but if I were an X-Files character, I’d be the ever-cynical Scully. So here’s one of my many hypotheses.
+
+Throughout the 1980s and into the 90s, newspapers regularly featured “martian invaders” and other alien visitors, with front-page blurry photos and tabloid headlines. Caught mainly on 35mm cameras and basic video cameras, the images of cigar and saucer-shaped objects in the sky would always be blurry and debunked a few weeks later.
+
+There are 3.6 billion smartphone users today. The majority of these devices have incredibly high-quality cameras. Not only that, but taking photos, capturing Instagram Stories, and recording TikTok videos is now so ubiquitous, the smartphone has become an extension of our arms.
+
+Yet, we do not see countless videos or photos of UFOs and UAPs anymore. Sightings are rare compared to when there were significantly fewer cameras in use at any given time and when we used them with specific intention instead of part of our daily lives. So just how likely is it that any of these sightings are alien in origin versus human-made objects and natural phenomena? I couldn’t resist posing this to Kinetica.
+
+“What we know from government-issued statements is that no conclusions have been drawn at this time,” Vij said. “The June 25th preliminary assessment of UAPs by Director of National Intelligence calls for an effort to ‘standardize the reporting, consolidate the data, and deepen the analysis that will allow for a more sophisticated analysis of UAP that is likely to deepen our understanding.'”
+
+If we are going to find an answer, it will be data-driven and not opinion-based, that’s for sure.
+
+“What’s interesting is that much of the data from radar, satellites, and military footage has been around for decades, but it was previously an intractable problem to fuse and analyze that volume and type of data until recently,” Vij said. “The answer to this question now feels within reach.”
+
+Vectorization technology certainly offers the performance and flexibility needed to help find the answers we all seek. How can the data science community take advantage?
+
+“What has recently changed is that the vectorized hardware is now available in the cloud, making it more of a commodity,” Negahban said. This has allowed us to offer Kinetica as-a-service, reducing the traditional friction associated with what was traditionally viewed as exotic hardware, requiring specialized and scarce resources to utilize. Our goal is to take vectorization from extreme to mainstream, so we’ll continue to make it easier for developers to take advantage of this new paradigm.”
+
+The truth is out there, and it’s being processed in parallel.
+
+Summary: Unidentified Flying Objects (UFOs) and Unidentified Aerial Phenomena (UAPs) tick all the boxes regarding our love of conspiracy theories, explaining the unexplainable, and after-hours conversation starters.
+A search of over 90,000 grants awarded by the National Science Foundation finds none addressing UFOs, UAPs, or related topics.
+Vectorization and the quest to identify UFOs/UAPsEnter “vectorization.” A next-generation technique, it allows for the analysis of data that tracks objects across space and time.
+One company helping to make sense of this is Kinetica, a vectorization technology startup, which provides real-time analysis and visualization of the massive amounts of data the Pathfinder initiative monitors.
+Yet, we do not see countless videos or photos of UFOs and UAPs anymore.
+
+Other Blogs by Stewart Rogers: https://dataconomy.com/author/stewart-rogers/

@@ -1,0 +1,86 @@
+Title: TransUnion breach compromises user information again
+
+Article Link: https://dataconomy.com/2023/09/18/transunion-breach-user-information/
+
+Author: Onur Demirkol
+
+Publish Date: 2023-09-18
+
+Article:
+In a concerning turn of events, TransUnion, the international credit reporting agency, has again fallen victim to a data breach, exposing thousands’ personal information. The TransUnion breach, attributed to a group known as “USDoD,” highlights the pressing need for enhanced cybersecurity measures in today’s digital landscape.
+
+Notably, “USDoD” has not limited its activities to TransUnion alone. They have also compromised NATO, raising grave concerns about the organization’s digital security. Let’s move on with the details of the TransUnion breach.
+
+What we know about the TransUnion breach
+
+The breach involved a substantial database, weighing in at over 3GB, containing highly sensitive Personally Identifiable Information (PII) of 58,505 individuals. The breach is believed to have occurred on March 2nd, 2022, and its impact is felt across the globe, affecting individuals in the Americas, North and South, and Europe. Vx-underground published all the information on X.
+
+Today a Threat Actor named "USDoD" leaked sensitive data from TransUnion. This won't be the last of "USDoD" today though. He also compromised NATO. We'll discuss that later. But first, TransUnion. The leaked database, over 3GB in size, contains highly sensitive PII on 58,505… pic.twitter.com/RtCvsUVWrT — vx-underground (@vxunderground) September 17, 2023
+
+The compromised data includes essential personal details such as first and last names, internal TransUnion identifiers, sex, passport information, place of birth, date of birth, civil status, age, current employer, employer information, summaries of financial transactions, credit scores, loans in their name, remaining loan balances, loan origins, and the initiation date of TransUnion’s monitoring of their information.
+
+Dymocks data breach confirmed: What to do now?
+
+Here is a full list of the compromised data, according to vx-underground:
+
+First name
+
+Last name
+
+Internal TransUnion identifiers
+
+Sex
+
+Passport information
+
+Place of Birth
+
+Date of Birth
+
+Civil Status (?)
+
+Age
+
+Their current employer
+
+Information on their employer
+
+Summary of financial transactions
+
+Credit Score
+
+Loans in their name
+
+Remaining balances on the loans
+
+Where they got the loan from,
+
+When TransUnion first began monitoring their information
+
+This is the second TransUnion breach
+
+One of the users shared an old article they thought included information about the latest TransUnion breach. However, vx-underground responded, “Interestingly, this is not the same data breach. This data breach derived from South America…” So, what about the first TransUnion breach?
+
+According to information released by TransUnion South Africa, the breach occurred when cybercriminals gained unauthorized access to sensitive data using compromised credentials belonging to one of the company’s clients. The exposed data encompasses personal information, including telephone numbers, email addresses, identity numbers, physical addresses, and some credit scores.
+
+TransUnion South Africa temporarily took some of its infrastructure offline to investigate the incident thoroughly in response to the breach. During this time, a Brazilian hacking group, self-identifying as “N4aughtysecTU,” came forward, claiming responsibility for the breach. Shockingly, the hackers revealed that they had seized a staggering 4TB of data, including the records of a staggering 54 million customers.
+
+Rollbar data breach acknowledged after a month
+
+Embarrassingly, the hackers revealed that the compromised account leading to TransUnion’s server had a password as simple as “password.” This serves as a stark reminder of the critical importance of robust password practices.
+
+In an audacious move, N4aughtysecTU demanded a ransom of R223 million, equivalent to approximately US $15 million, in cryptocurrency in exchange for not disclosing the stolen data. Additionally, they threatened to target TransUnion’s clients with financial extortion demands.
+
+But TransUnion South Africa didn’t give in to their demands. Instead, they called in cybersecurity experts to help deal with the situation.
+
+This breach is a reminder that we all need to be extra careful with our personal info online. Cybersecurity is an ongoing challenge, and we have to keep working to protect our data and digital lives. As we keep an eye on this situation, one thing is clear: staying safe online is a team effort, and we all play a role in it.
+
+Featured image credit: Shahadat Rahman/Unsplash
+
+Summary: In a concerning turn of events, TransUnion, the international credit reporting agency, has again fallen victim to a data breach, exposing thousands’ personal information.
+The TransUnion breach, attributed to a group known as “USDoD,” highlights the pressing need for enhanced cybersecurity measures in today’s digital landscape.
+Let’s move on with the details of the TransUnion breach.
+This data breach derived from South America…” So, what about the first TransUnion breach?
+TransUnion South Africa temporarily took some of its infrastructure offline to investigate the incident thoroughly in response to the breach.
+
+Other Blogs by Onur Demirkol: https://dataconomy.com/author/onurdemirkol/

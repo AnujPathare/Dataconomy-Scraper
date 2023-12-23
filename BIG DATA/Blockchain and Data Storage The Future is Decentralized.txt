@@ -1,0 +1,58 @@
+Title: Blockchain and Data Storage: The Future is Decentralized
+
+Article Link: https://dataconomy.com/2018/01/02/blockchain-data-storage-decentralized-future/
+
+Author: Pavel Bains
+
+Publish Date: 2018-01-02
+
+Article:
+2017 was the year when blockchain technology burst into the public consciousness. Even beyond the truly startling rise of cryptocurrencies, we became aware of how a range of markets could be transformed by applications built on the technology.
+
+But as with any emerging technology that suddenly gains fame and begins to be applied across real-world use cases, issues have emerged around the underlying characteristics of blockchain – many of which should be a primary focus of the coming year. Chief among these concerns is scalability. That being said, the existence of these issues serves as a marker of just how far blockchain has come. Tech leaders now posit that it could underpin the next phase of the internet, creating the decentralized world wide web.
+
+As we look ahead to this new, decentralized internet, it is important to consider one of its most important elements: decentralized storage.
+
+The current problem with data storage
+
+While blockchain is on the rise, it’s hardly the only technology that’s straining existing storage systems. Artificial Intelligence (AI), and particularly the Internet of Things (IoT), are also challenging the current boundaries of storage.
+
+It’s estimated that there will be over 20 billion connected devices by 2020, all of which will generate and then require management, storage, and retrieval of enormous amounts of data. Connected devices, combined with consumer personalization apps and the increasing need to share data across business lines, are all playing their part in increasing demand for storage. Businesses wanting to launch new, data-driven applications face a mountain of time, effort and coordination to provision new databases today.
+
+This drive towards a richer, more data-centric (and data-heavy) way of working is taking place against a global backdrop of major data breaches from centralized data centers. It’s a worrying combination: commercial dependency on data leading to extraordinarily large volumes of it being stored in vulnerable centralized databases, creating risk at a scale seldom seen before.
+
+The advent of decentralized applications built on blockchain technology also creates new challenges, as they will exchange massive volumes of data that need to be stored and managed. Blockchains like Ethereum are not designed for data storage and management, and using them to do so would consume too much space and too much time.
+
+How decentralized storage will work
+
+Decentralized storage will bring together the best features of blockchain technology, with attributes that meet the practical demands of storing high volumes of data. As the name suggests, decentralized storage works by distributing the data across a network of nodes, in a similar way to the distributed ledger technology characteristic of blockchain.
+
+Right now, single system and even cloud-based databases are highly centralized, which makes them a beacon for hackers looking to attack. They also have obvious points of failure should a controlling company’s system be affected – for example, as a result of a power outage. In contrast, decentralized storage doesn’t encounter these problems because it utilizes geographically distributed nodes, either regionally or globally.
+
+Any attack or outage at a single point will not have a devastating effect because other nodes in other locations will continue to function. The distributed nature of these nodes also offers the advantages of making decentralized storage highly scalable, as customers can easily access a marketplace of storage vendors, and high performing, as the power of the network provides better uptime.
+
+While decentralized storage displays some of the key characteristics of the blockchain, it also requires us to rethink about how data is stored “on the blockchain.” As blockchain has become flooded with transactions, it too has had to seek out solutions to the problem of scalability. The concept of storing large amounts of data on the blockchain is simply not plausible.
+
+The solution: Swarming and sharding
+
+Two key complementary technologies are helping to solve these issues. The first of these is sharding, where databases are partitioned along logical lines. In a decentralized storage model, these shards are stored together and accessed by a decentralized application using a unique partition key.
+
+The collective storage of shards is accomplished by the second complementary technology, known as swarming. Just as blockchain utilizes a network of nodes, decentralized storage utilizes large groups of nodes – referred to as “swarms” – to store and manage data.
+
+The swarm effect reduces latency and increases speed by retrieving data in parallel from the nearest and fastest nodes – much like torrents do. Because there are many, geographically dispersed nodes in a swarm, its reliability and scalability increases.
+
+Most significantly for current data storage vendors, the devices in the nodes and swarms aren’t owned by a single company. They are owned and controlled by individuals. Data storage customers will be offered the advantages of buying from a totally new marketplace of vendors, rather than the current oligopoly that confronts them today.
+
+New players will enter the market and the understanding of how data is stored will change. This will inevitably take time in a market that is risk averse and focused on keeping the lights on. However, it will also be driven by overarching business objectives that center on embracing blockchain technologies and the decentralized applications that are built on them.
+
+While it may take time to become the established go-to choice, decentralized data storage offers a more secure, efficient and scalable solution in an increasingly data-hungry and data-heavy world.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Summary: As we look ahead to this new, decentralized internet, it is important to consider one of its most important elements: decentralized storage.
+How decentralized storage will workDecentralized storage will bring together the best features of blockchain technology, with attributes that meet the practical demands of storing high volumes of data.
+In a decentralized storage model, these shards are stored together and accessed by a decentralized application using a unique partition key.
+Just as blockchain utilizes a network of nodes, decentralized storage utilizes large groups of nodes – referred to as “swarms” – to store and manage data.
+While it may take time to become the established go-to choice, decentralized data storage offers a more secure, efficient and scalable solution in an increasingly data-hungry and data-heavy world.
+
+Other Blogs by Pavel Bains: https://dataconomy.com/author/pavel-bains/

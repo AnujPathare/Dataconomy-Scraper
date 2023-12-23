@@ -1,0 +1,42 @@
+Title: DN2017: 4 big trends in 4 major industries where tech disruption is now the norm
+
+Article Link: https://dataconomy.com/2017/09/27/dn2017-4-big-trends-4-major-industries-tech-disruption-now-norm-2/
+
+Author: Jesse Van Mouwerik
+
+Publish Date: 2017-09-27
+
+Article:
+Now that business is moving nearly as fast as data does, the tech world is constantly forging new and exciting professional paths in a range of different industries – that is, if we know where to look for them. Timing is everything and disruption is still stronger in some areas than others. If you’re working in one of the industries below, Data Natives 2017 will be unpacking the major trends – and opportunities to come – in these fields and more.
+
+FinTech: Bitcoin
+
+There is always something new to touch on these days about Bitcoin. Be over great successes or huge scandals, the cryptocurrency has been making waves in the news as much as in the FinTech world. But if you’re seeking solid insights that sift out reality from underneath the sensationalism, we suggest sitting down with our expert Bitcoin panel, featuring Nasir Zubairi and Trent McConaughy. They will be discussing key aspects of Bitcoin’s success, as well as commenting on what the future holds for blockchain’s biggest financial story.
+
+Learn more of the latest on Bitcoin by getting your Data Natives ticket here.
+
+HealthTech: Public Data in Hospitals
+
+Publically Generated Hospital Data (PGHD) was once limited to patients reporting their lifestyle choices, disease and treatment history. Nowadays, advances in data science and a surge in wearable device sales has led the amount and the quality of patient data to skyrocket – reporting information to doctors at the same pace that people live their lives. Also on the rise is AI’s capacity to process that data for the betterment of primary care. To shed light on this and other pressing topics in the field, expect a fascinating talk from Bart Dewitte, director of Digital Health DACH at IBM Germany and Hannes Dahnke Head of Data Analytics at Philips Healthcare DACH based on anonymous public PGHD defining the future of diseases, hospitals and the patient/doctor relationship.
+
+For these and other helpful insights into HealthTech, get your Data Natives ticket here.
+
+Mobility: Data-Driven Businesses
+
+Data is literally driving the future of mobility. Everywhere you look, data science is reshaping car models as much as it’s reshaping business models – and German engineers and automakers have taken notice. With that in mind, Data Natives has set up a robust panel of experts from Porsche, Audi, BMW and Bosch to discuss “How to build a data driven business” for those seeking to satisfy both their inner engineer and their inner entrepreneur. Startups like predict.io and German Autolabs will also have much to discuss – including AI’s relationship with the automobile. Reaching skyward, Fabian Werner and Stanlislaw Schmal from Lufthansa’s adept data analytics team will be exploring what many of those same ideas look like up in the air.
+
+See what else is in motion at Data Natives. Get your ticket here
+
+GovTech: GDPR
+
+General data privacy regulation will have a huge impact on an array of companies in the coming years. Will you be ready when it’s rolled out in May, 2018? As the European parliament’s largest effort yet to protect the privacy of individual citizens, there is a lot to unpack, as well as a lot of opportunity for those who understand how to move forward. Those interested in what’s coming up for GDPR and other fascinating corners of GovTech should check out the Data Natives content from the impressively prolific Alexandra Deschamps Sonsino and Katharine Jarmul.
+
+These are, (of course), only a few of the many game-changing trends out there. To discover more, get your Data Natives ticket here.
+
+Summary: If you’re working in one of the industries below, Data Natives 2017 will be unpacking the major trends – and opportunities to come – in these fields and more.
+Learn more of the latest on Bitcoin by getting your Data Natives ticket here.
+For these and other helpful insights into HealthTech, get your Data Natives ticket here.
+See what else is in motion at Data Natives.
+To discover more, get your Data Natives ticket here.
+
+Other Blogs by Jesse Van Mouwerik: https://dataconomy.com/author/jessevm/

@@ -1,0 +1,64 @@
+Title: How Data & IoT Technology are Changing The Way We Travel
+
+Article Link: https://dataconomy.com/2017/06/21/data-changing-way-travel/
+
+Author: Maria Miller
+
+Publish Date: 2017-06-21
+
+Article:
+Anyone who has ever had their bag go AWOL while travelling knows that sinking feeling that comes with being told that your luggage is lost. Sadly, lost luggage is one of the perils of modern travel, and one that seems to happen on an all-too-often basis. Fortunately, just as technology is influencing the way we reach our destination, it’s also having an impact on our luggage, its transfer, tracking and safe arrival.
+
+As the number of travellers across the globe has increased incrementally over the years, so too have the amount of suitcases and bags that need to move from point A to point B. While self-check in via website, app or kiosk has become something of a staple, checking in baggage and keeping track of it isn’t always as simple, but this looks set to change.
+
+Sophisticated technology is altering the way our bags move when we do, and streamlining everything from the check in process to the collection. Both airlines and luggage companies have been involved in working towards smoother baggage control, and there are several developments and products that are going to make the future of travel so much better.
+
+Electronic Luggage Tags
+
+While carry on luggage lets you skip check-in queues at airports, checking bags in still takes time. Travellers need to print out tags, affix them to their bags and drop them off at the check in counter – all time consuming activities that make the whole process that much more labour intensive.
+
+Lufthansa and German luggage manufacturer Rimowa are hoping to simplify the process and are currently rolling out a range of suitcases that come standard with an embedded E Ink display. This E Ink display is the same size as the standard paper luggage tag and it uses Bluetooth radio to collate data from supported airline apps, or Rimowa’s own app. The app then uses its luggage check in tool to synchronise with the electronic tag and the bag can be dropped at the counter, ready to be loaded onto the relevant flight.
+
+This electronic tag system has been trialled since March 2017, and although Lufthansa is currently the only airline to support the service, and it’s only available at Munich, Hamburg and Frankfurt airports, it’s clear that the product has major potential.
+
+Real Time Baggage Tracking
+
+In the USA, Delta Airlines is deploying Radio Frequency Identification, or RFID technology that’s being used to track baggage in real time. This is a first for U.S carriers and marks a historic shift for Delta, as they handle 120 million bags on an annual basis. Up until now, these bags have been managed by barcode technology that was implemented in the 1990’s.
+
+With RFID technology, scanners utilize radio waves to capture consistent, accurate data that is stored on a chip embedded in a luggage tag. This allows for complete transparency and makes tracking simple and straightforward. Travellers can see where their bags are at all times, ensure they have made it on to the plane and have been unloaded at the other side. The Fly Delta mobile app makes it possible to track baggage at all times and to ensure it reaches its destination safely.
+
+This technology will be in use at 344 stations around the world, and has a 99.9% success rate for correct routing and loading. Travellers are given the ability to keep tabs on their bags at all times, and this has not only reduced some of the stress of travelling, it’s also drastically reduced the number of lost bags, or bags that haven’t made it to their correct final destination, as customers can easily pick up when their baggage has gone off course.
+
+Smart Luggage
+
+The Internet of Things is also having a major effect on travel, and is pairing smartphones with everything from our fridges to our lights. This makes our lives easier and more fluid, and it was only a matter of time before it crossed over into travel. Smart luggage is thus the next obvious step.
+
+If carrying luggage around is too cumbersome, or you’d prefer a hands-free experience, then the Hop or Spacecase are going to make travelling so much easier. Both of these smart bags are designed to follow their owner unaided, and are equipped with Bluetooth technology and a camera sensor. Designed by NUA Robotics, these self- carry suitcases are designed to travel automatically alongside their owner when activated by a smartphone app.
+
+These suitcases feature a proximity detector that allows them to travel at the same pace as their owner, and also have been equipped with an anti tamper security feature that sounds an alarm if separated. These prototypes are sure to spawn many other smart luggage options, and will allow for an easier, lighter travel experience. These bags can be taken on board as hand luggage, or checked in as cargo.
+
+The Hop was designed in 2012, but it’s only now getting the attention it deserves as there is an increasing focus on changing the way we travel and making it simpler.
+
+Microchip Tags
+
+A number of companies have released luggage tags that contain imbedded microchips. These microchips are similar to those used to identify pets, and can be scanned by a barcode reader. The ReboundTAG allows airline staff to scan and see what the bag owner’s itinerary is, and view their contact details in case the bag has been mislaid or not reached its intended destination. If an airport does not have a scanner they can enter the tag number on the ReboundTAG website and find the owner this way.
+
+SuperSmartTag works in much the same way, and also ensures that bags can easily be tracked back to their owners, or sent on to the owner’s next destinations.
+
+Magellan’s Retriever Tags are not as sophisticated, but they are just as clever. The tag contains a capsule with instructions written in 8 different languages that tell baggage handlers to check the itinerary inside your bag and send your luggage on to the next destination, rather than returning it to the initial point of departure, as is the case with so many other lost bags.
+
+These microchip and capsule tags are a cost effective option and start at as little as a few dollars, proving that cutting edge technology doesn’t have to be prohibitively expensive.
+
+All of these tech innovations are set to make travel that much easier, faster and convenient. It seems that by giving travellers greater control over their baggage, as well as greater insight into its movements, lost bags may well become a thing of the past, and transferring baggage from one point to another will be as easy as boarding a plane.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Sadly, lost luggage is one of the perils of modern travel, and one that seems to happen on an all-too-often basis.
+Fortunately, just as technology is influencing the way we reach our destination, it’s also having an impact on our luggage, its transfer, tracking and safe arrival.
+Sophisticated technology is altering the way our bags move when we do, and streamlining everything from the check in process to the collection.
+This E Ink display is the same size as the standard paper luggage tag and it uses Bluetooth radio to collate data from supported airline apps, or Rimowa’s own app.
+With RFID technology, scanners utilize radio waves to capture consistent, accurate data that is stored on a chip embedded in a luggage tag.
+
+Other Blogs by Maria Miller: https://dataconomy.com/author/maria-miller/

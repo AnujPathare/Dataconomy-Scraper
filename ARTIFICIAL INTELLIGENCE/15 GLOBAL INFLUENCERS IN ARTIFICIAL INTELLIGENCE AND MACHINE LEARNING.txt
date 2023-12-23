@@ -1,0 +1,114 @@
+Title: 15 GLOBAL INFLUENCERS IN ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING
+
+Article Link: https://dataconomy.com/2018/09/07/15-global-influencers-in-artificial-intelligence-and-machine-learning/
+
+Author: Diksha Dutta
+
+Publish Date: 2018-09-07
+
+Article:
+It’s easier to get a job if you are an Artificial Intelligence (AI) or Machine Learning (ML) ‘expert’, and investors want to bet on companies which use the words AI or ML in their mission statements. And why should that not be the case? McKinsey estimates AI techniques have the potential to create between $3.5T and $5.8T in value annually across nine business functions in 19 industries. The study equates this value-add to approximately 40% of the overall $9.5T to $15.4T annual impact that could be enabled by all analytical techniques.
+
+In the race for fame, are you coming across too many self-proclaimed influencers in the field of AI and ML lately? Don’t worry, you are not alone in this. The internet is full of noise when it comes to information on AI and ML. I have a hard time choosing what blog posts to read, what twitter feeds to pay attention to and which Artificial Intelligence or Machine Learning white paper to download for my next read. I have lost count on the number of article submissions we at Dataconomy Media get on these hot topics.
+
+The line between the two terms AI and ML is blurring and they are used interchangeably today. It’s hard for one to exist without the other in some cases, though the technical definition of the two is different. Machine Learning is more specific in nature and is a branch or subset of AI. Machine Learning is based on the idea that we can build machines to process data and learn on their own, without our constant supervision. On the other hand, professor John McCarthy defines Artificial Intelligence as the science and engineering of making intelligent machines, especially intelligent computer programs. It is related to the similar task of using computers to understand human intelligence, but AI does not have to confine itself to methods that are biologically observable.
+
+I compiled a list of top influencers in the field of AI and ML which I recommend to keep yourself not just updated or informed about the two fields, but rather also learn about AI or ML. I included academics, researchers, entrepreneurs, investors and authors. There are the few parameters I kept in mind. Firstly, these are the people with a huge social media following and their independent voice is not directly linked to the companies they work in or they founded. There are indeed experts in AI and ML who are not all over social media but that requires a separate list from us. Secondly, I looked at the consistency of the last three years in their social media presence and tried to be geographically well-spread because each part of the world is contributing to the growth of AI and ML. Order of listing does not represent a rank. Here we go:
+
+Andrew NG
+
+Andrew Yan-Tak Ng is a Chinese English computer scientist and entrepreneur. Ng co-founded and led Google Brain and was a former VP & Chief Scientist at Baidu, building the company’s Artificial Intelligence Group into several thousand people. He is an adjunct professor (formerly associate professor and Director of the AI Lab) at Stanford University. Ng is also an early pioneer in online learning – which led to the co-founding of Coursera.
+
+Twitter: @AndrewYNg
+
+Fei Fei Li
+
+Fei-Fei Li, who publishes under the name Li Fei-Fei is an Associate Professor of Computer Science at Stanford University. She is the director of the Stanford Artificial Intelligence Lab (SAIL) and the Stanford Vision Lab. In 2017, she co-founded AI4ALL, a nonprofit working to increase diversity and inclusion in artificial intelligence. She works in the areas of computer vision and cognitive neuroscience.
+
+Twitter: @drfeifei
+
+Martin Ford
+
+Martin Ford is a futurist and author focusing on the impact of Artificial Intelligence and robotics on society and the economy. He has written two books on technology. His most recent book, Rise of the Robots: Technology and the Threat of a Jobless Future (2015), was a New York Times bestseller and won the £30,000 Financial Times and McKinsey Business Book of the Year Award in 2015. The Lights in the Tunnel: Automation, Accelerating Technology and the Economy of the Future (2009) also dealt with the effects of automation and the potential for structural unemployment and increasing inequality.
+
+Twitter: @MFordFuture
+
+Nathan Benaich
+
+Nathan is an investor focussed on intelligent systems and data-driven companies. He runs the Research and Applied AI Summit and London. AI, which accelerate the science and applications of AI. Nathan is also an Advisor at TwentyBN, a video understanding company. He earned a PhD at the intersection of computational and experimental cancer biology from the University of Cambridge.
+
+Twitter: @NathanBenaich
+
+Joanna Bryson
+
+Joanna Bryson is a Reader (tenured Associate Professor) at the University of Bath. She has broad academic interests in the structure and utility of intelligence, both natural and artificial. Venues for her research range from Reddit to Science. She is best known for her work in systems AI and AI ethics, both of which she began during her PhD in the 1990s, but she and her colleagues publish broadly, in biology, anthropology, sociology, philosophy, cognitive science, and politics. At Bath, she founded the Intelligent Systems research group and heads their Artificial Models of Natural Intelligence.
+
+Twitter: @j2bryson
+
+Soumith Chintala
+
+Soumith Chintala is a Researcher at Facebook AI Research, where he works on deep learning, reinforcement learning, generative image models, agents for video games and large-scale high-performance deep learning. Prior to joining Facebook in August 2014, he worked at MuseAmi, where he built deep learning models for music and vision targeted at mobile devices. He holds a Masters in CS from NYU, and spent time in Yann LeCun’s NYU lab building deep learning models for pedestrian detection, natural image OCR, depth-images among others.
+
+Twitter: @soumithchintala
+
+The CyberCode Twins
+
+America and Penelope Lopez are known as the “The CyberCode Twins”. As Latina twin sisters born and raised in East Los Angeles, they have travelled to many cities and received various awards in tech competitions and hackathons such as the NASA International SpaceApps Challenge, AT&T Developer Summit, HackForLA, IBM Global Mobile Innovators Challenge and many more. Now, they are on a mission to make communities safer thru wearable tech and mobile apps.
+
+Twitter: @cybercodetwins
+
+David Kenny
+
+David Kenny is the Senior Vice President of IBM’s Watson & Cloud platform. He was formerly the CEO of The Weather Company, which was acquired by IBM in 2016. Kenny replaced Mike Kelly at the Weather Company in January 2012. He was also the Chairman of the board. He was the president of Akamai Technologies and resigned from this position on October 26, 2011. Before joining Akamai, Kenny worked in digital advertising for Publicis Groupe S.A.’s VivaKi.
+
+Twitter: @davidwkenny
+
+Elon Musk
+
+Elon Reeve Musk is a business magnate, investor and engineer. He is the founder, CEO, and lead designer of SpaceX, CEO, and product architect of Tesla, Inc.; co-founder and CEO of Neuralink; and co-founder of PayPal. In December 2016, he was ranked 21st on the Forbes list of The World’s Most Powerful People. As of August 2018, he has a net worth of $20.2 billion and is listed by Forbes as the 46th-richest person in the world.
+
+Twitter: @elonmusk
+
+Gary Marcus
+
+Gary F. Marcus is a scientist, author, and entrepreneur. His research focuses on natural and artificial intelligence. Marcus is a Professor in the Department of Psychology at New York University and was Founder and CEO of Geometric Intelligence, a machine learning company later acquired by Uber. As an author, his books include Guitar Zero, which appeared on the New York Times Bestseller list and Kluge: The Haphazard Construction of the Human Mind, a New York Times Editors’ Choice.
+
+Twitter: @GaryMarcus
+
+Mike Tamir
+
+Mike serves as Head of Data Science at Uber ATG and lecturer for UC Berkeley iSchool Data Science masters program. Mike has led several teams of Data Scientists in the bay area as Chief Data Scientist for InterTrust and Takt, Director of Data Sciences for MetaScale, and Chief Science Officer for Galvanize he oversaw all data science product development and created the MS in Data Science program in partnership with UNH.
+
+Twitter: @MikeTamir
+
+Chris Messina
+
+Christopher Reaves Messina is an American technology evangelist who is an advocate for open source and open standards. Messina is best known for proposing the use of the hash character (#) on Twitter as a way of grouping messages. Inspired by the use of the hashtag in Internet Relay Chat (IRC). He was formerly Developer Experience Lead at Uber from 2016 to 2017. Messina is also known for his involvement in helping to create the BarCamp, Spread Firefox, and coworking movements. Messina is an active proponent of microformats and OAuth
+
+Twitter: @chrismessina
+
+Kirk Borne
+
+Dr. Kirk Borne is the Principal Data Scientist and an Executive Advisor at global technology and consulting firm Booz Allen Hamilton based in McLean, Virginia USA (since 2015). In those roles, he focuses on applications of data science, data analytics, data mining, machine learning, machine intelligence, and modeling across a wide variety of disciplines. He also provides leadership and mentoring to multi-disciplinary teams of scientists, modelers, and data scientists; and he consults with numerous external organizations, industries, agencies, and partners in the use of large data repositories and machine learning for discovery, decision support, and innovation.
+
+Twitter: @KirkDBorne
+
+Alex Champandard
+
+Alex is an Artificial Intelligence expert who has worked in the field for almost 20 years, from both the design and technical sides. He is currently a co-founder and managing director at creative.ai, a company building better tools for visual designers and artists. He has worked in the simulation and computer entertainment industries for many years, applying classical AI algorithms to interactive domains, making tools for designers to be able to use them, and optimizing them run in real-time on consumer hardware. He has also co-organized the largest conference worldwide dedicated to AI in Creative Industries (nucl.ai) and over the years have interviewed hundreds of experts in the field live as part of a continuous online learning community (pre-MOOCs).
+
+Twitter: @alexjc
+
+Spiros Margaris
+
+Spiros Margaris is venture capitalist and founder of Margaris Ventures. He is the only person who reached influencer rankings by being ranked the global No. 1 FinTech, Artificial Intelligence (AI) & Blockchain influencer by Onlaytica(05/2018) in all three categories. He is a speaker at international FinTech and InsurTech conferences, and he publishes articles on his innovation proposals and thought leadership. He published an AI white paper, “Machine learning in financial services: Changing the rules of the game,” for the enterprise software vendor SAP. He is a senior advisor at wefox Group (wefox & ONE), SparkLabs Group, Arbidex, Lodex, BlockLoan, Datametrex AI, Yield Growth Corp., kapilendo, moneymeets and at F10 Fintech Incubator and Accelerator.
+
+Twitter:@SpirosMargaris
+
+Summary: She is the director of the Stanford Artificial Intelligence Lab (SAIL) and the Stanford Vision Lab.
+Twitter: @drfeifeiMartin FordMartin Ford is a futurist and author focusing on the impact of Artificial Intelligence and robotics on society and the economy.
+Twitter: @GaryMarcusMike TamirMike serves as Head of Data Science at Uber ATG and lecturer for UC Berkeley iSchool Data Science masters program.
+In those roles, he focuses on applications of data science, data analytics, data mining, machine learning, machine intelligence, and modeling across a wide variety of disciplines.
+1 FinTech, Artificial Intelligence (AI) & Blockchain influencer by Onlaytica(05/2018) in all three categories.
+
+Other Blogs by Diksha Dutta: https://dataconomy.com/author/diksha-dutta/

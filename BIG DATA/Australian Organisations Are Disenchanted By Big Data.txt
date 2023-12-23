@@ -1,0 +1,34 @@
+Title: Australian Organisations Are Disenchanted By Big Data
+
+Article Link: https://dataconomy.com/2014/10/22/australian-organisations-are-disenchanted-by-big-data/
+
+Author: Eileen McNulty
+
+Publish Date: 2014-10-22
+
+Article:
+A new study from Accenture and Forrester has revealed that Australians are not jumping on the big data bandwagon with the same zeal as their international peers. 54% of Australian executives cite “budget” as the greatest obstacle they face when it comes to adopting data-driven approaches in their enterprise. But the reason for the lack of big data adoption in Australia runs deeper than this- only 58% of Australian executives feel that big data would be valuable to their company, compared to a global average of 82%.
+
+The lack of confidence in big data projects amongst Australian executives is something which Michael Pain, Accenture Analytics lead for Australia, has duly noted. “There is a clear disconnect between the confidence Australian leaders have in big data solutions, and the value these solutions can deliver, particularly as organisations look to become more digital.”
+
+“There is a direct correlation between leadership support and big data success,” he added. “So for Australian organisations to drive real business outcomes, there needs to be alignment and investment in big data solutions at both a strategic and operational level.”
+
+This is not to say, of course, that there aren’t Australian enterprises flying the flag for data-driven practices. We recently reported on how the city of Adelaide are turning to data science and the Internet of Things to augment infrastructure. Within the Accenture study, it was found that Australian executives who had championed data-driven cultures within their companies had found new revenue streams, developed better products and improved customer retention rates.
+
+Yet in spite of this, only a dismal 34% of respondents thought of big data as a way to remain competitive- a full 24% less than their global counterparts. The pathway to embedding data science into company culture is far from clear for most enterprises at this point, particularly for SMEs. Yet as with all technologies and scientific advancements, the benefits are seen at the top first and filter down. With almost every global household name having already found the money and resources to make data science a key priority within their business practices, Australia’s disenchantment with big data may ultimately prove detrimental.
+
+Read more here.
+
+Follow @DataconomyMedia
+
+
+
+(Image credit: Flickr)
+
+Summary: But the reason for the lack of big data adoption in Australia runs deeper than this- only 58% of Australian executives feel that big data would be valuable to their company, compared to a global average of 82%.
+The lack of confidence in big data projects amongst Australian executives is something which Michael Pain, Accenture Analytics lead for Australia, has duly noted.
+“There is a clear disconnect between the confidence Australian leaders have in big data solutions, and the value these solutions can deliver, particularly as organisations look to become more digital.”“There is a direct correlation between leadership support and big data success,” he added.
+We recently reported on how the city of Adelaide are turning to data science and the Internet of Things to augment infrastructure.
+The pathway to embedding data science into company culture is far from clear for most enterprises at this point, particularly for SMEs.
+
+Other Blogs by Eileen McNulty: https://dataconomy.com/author/eileen-mcnulty/

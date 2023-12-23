@@ -1,0 +1,28 @@
+Title: Removing the Human Element from Big Data Analytics
+
+Article Link: https://dataconomy.com/2016/01/08/removing-the-human-element-from-big-data-analytics/
+
+Author: Rick Delgado
+
+Publish Date: 2016-01-08
+
+Article:
+As companies of all types and sizes from around the world come to realize the many benefits they stand to gain from big data analytics, the more they’re willing to adopt the tools necessary to make it all happen. They’re also learning for themselves what the best practices are for effectively utilizing big data science. Most experts agree that while big data uses some of the most advanced technology available to businesses, doing so without someone to guide it — the human element, so to speak — would be a mistake. Human thought processes have become a vital ingredient to achieving success with big data analytics since data science has its own limitations. That conventional way of thinking, however, may soon be thrown out the window. In much the same way that crunching large sets of data has been given over to big data algorithms, other parts of data analytics may soon get rid of the human element.
+
+This new development may get traction thanks to some impressive work from MIT researchers. The data scientists have constructed what they refer to as the Data Science Machine, and it removes the need for human intuition in one aspect of the analytics process. For years when it comes to big data analytics, data experts were needed specifically to identify features with data sets that could reveal the patterns used for predictive analysis. In other words, while big data algorithms were good at finding patterns within the data that could often be missed, data experts were needed to narrow the list of patterns to look for. This was an important job in part because algorithms still needed direction by way of a specified feature set that was established by a human hand.
+
+That whole dynamic has been turned on its head with the arrival of the Data Science Machine. MIT researchers have developed the machine to mimic human intuition, searching for patterns while also designing the feature set that will help in its search. In essence, it works as a guide for a big data engine that can predict or reveal what data scientists need given any particular situation. The researchers behind the Data Science Machine have already tried it out in several big data competitions, and the results have been promising. For one contest, the Data Science Machine outperformed 615 human teams in a field of more than 900. Other competitions showed similar results, with accuracy rates at 96, 94, and 87 percent. In one of those contests,the machine was even working at a disadvantage, having only 12 hours to study the data while human teams had months. These results show that while the Data Science Machine is still in the development phase, it could be ready for a broader release soon.
+
+While this news may come with some excitement for businesses, that doesn’t mean data scientists should be worried about their jobs. It’s important to remember that the research behind the Data Science Machine only takes care of part of the human element involved in big data analytics. Many parts of analytics are already automated and rely on complicated algorithms, and yet the demand for data scientists continues to grow seemingly by the day. Human data scientists will still be needed to determine the specific features and data sets that will be used for proper data visualization. They’re also needed to turn all of that data into actionable insights, something that automation hasn’t yet been able to do. If anything, the recent developments from MIT serve to enhance the job of the big data scientist, presenting a new layer of automation that helps data experts focus on parts of the process that truly need their attention. Data scientists are still needed to input the coding that creates the algorithms used for the predictive analyses they’re aiming for. The Data Science Machine should be looked at only as yet another tool in a data scientist’s arsenal for finding certain answers.
+
+Big data is all about finding detailed insights from large amounts of information. MIT researchers have found a way to make this process even easier for data scientists. As more businesses and big data vendors adopt the technology, they’ll find that taking part of the human element out of analytics provides a significant boost to big data success, one they’ll be glad to have.
+
+Like this article? Subscribe to our weekly Newsletter.
+
+Summary: Human thought processes have become a vital ingredient to achieving success with big data analytics since data science has its own limitations.
+In much the same way that crunching large sets of data has been given over to big data algorithms, other parts of data analytics may soon get rid of the human element.
+For years when it comes to big data analytics, data experts were needed specifically to identify features with data sets that could reveal the patterns used for predictive analysis.
+It’s important to remember that the research behind the Data Science Machine only takes care of part of the human element involved in big data analytics.
+As more businesses and big data vendors adopt the technology, they’ll find that taking part of the human element out of analytics provides a significant boost to big data success, one they’ll be glad to have.
+
+Other Blogs by Rick Delgado: https://dataconomy.com/author/rick-delgado/

@@ -1,0 +1,80 @@
+Title: C-Suite Whispers: Considering an event-centric data strategy? Here’s what you need to know
+
+Article Link: https://dataconomy.com/2020/01/14/c-suite-whispers-considering-an-event-centric-data-strategy-heres-what-you-need-to-know/
+
+Author: Fabian Hueske
+
+Publish Date: 2020-01-14
+
+Article:
+Digital transformation dominates most CIO priority lists pertaining to questions such as: How will digital transformation affect IT infrastructure? Will technology live on-premise or in the cloud? Depending on where that data lives, an organization requires different skill sets. If you’re building these resources in-house, then you need an infrastructure as well as people to build it, manage it, and run it.
+
+
+
+As you consider implementing a digital transformation strategy, it is helpful to understand and adopt an event-driven data approach as a part of the cultural and technical foundation of an organisation. One definition of event-driven data architecture describes it as one that supports an organisation’s ability to quickly respond to events and capitalise on business moments. The shift to digital business is also a shift from hierarchical, enterprise-centric transaction processing to more agile, elastic, and open ecosystem event processing.
+
+
+
+Nearly all business-relevant data is produced as continuous streams of events. These events include mobile application interactions, website clicks, database or application modifications, machine logs and stock trades for example. Many organisations have adopted an event-centric data strategy to capitalise on data at the moment it’s generated. Some examples include King, the creators of the mobile game Candy Crush Saga that uses stream processing and Apache Flink to run matchmaking in multi-player experiences for some of the world’s largest mobile games. Also, Netflix runs its real-time recommendations by streaming ETL using Apache Flink and event stream processing. And when advertising technology company, Criteo needed real-time data to be able to detect and solve critical incidents faster, they adopted stream processing and introduced an Apache Flink pipeline in their production environment.
+
+
+
+So should we all adopt a stream-first mindset? Maybe, but it’s not as simple as that.
+
+
+
+There are a number of considerations to take into account when transitioning to real-time data processing – anything from the purely technical to organisational requirements. Developers need to be prepared to support and build upon a faster, more distributed architecture designed to deliver continuous value to its users. In addition, a solid data strategy, clear vision and adequate training are required.
+
+
+
+So what differences can we highlight between a traditional and an event-centric data strategy? What should CIOs and IT leaders keep in mind while going through such a transition? Let’s take a closer look…
+
+
+
+There are new responsibilities for the IT department
+
+When you change to event stream processing, this affects how your business perceives IT and data systems. Your IT department will take on additional responsibilities. Your infrastructure will enable multiple tiers of the organisation to access and interpret both real time and historical data independent of heavy, centralised processes. Making the most of this approach requires stricter control over how data is processed and applied to avoid people getting stranded with piles of meaningless information.
+
+
+
+Your SSOT (single source of truth) is recalibrated
+
+Your data strategy will ultimately impact the outlook of data authority as well as the level of chaos within your organization stemming from increased data creation. From the single-point data store in a monolithic data architecture, your focus will change to a stream processor, making data and event-driven decisions as you react to events in real time or using sensor data to find the cause of a system failure that might impact the operation of your business.
+
+
+
+Data is constantly on the move
+
+In monolithic architectures, data is at rest. But in event stream processing, data is “in flight” as it moves continuously through your infrastructure, producing valuable outcomes when data is most valuable: as soon as it is generated. You need to reimagine your systems and infrastructure to handle large volumes of continuous streams of data and make appropriate data transformations in real time.
+
+
+
+Your focus is reacting to data
+
+Your data infrastructure opens a different perspective, moving from a “preserving-my-data” to a “reacting-to-my-data” state of mind. Stream processing enables your digital business to act upon events immediately as data is generated, providing an intuitive means of deriving real-time business intelligence insights, analytics, and product or service customisations that will help differentiate your company from its competition. Therefore, your system needs to focus on endorsing this continuous flow while minimising the tradeoffs required to process it.
+
+
+
+Figure 1: data at rest – focus on preserving the data
+
+Figure 2: data “in-flight”- focus on reacting to my data in real time
+
+
+
+A change in culture is needed
+
+Adopting an event-driven architecture requires careful planning and groundwork in order to drive a successful transition. For a successful transition, both cultural and technical considerations should be taken into account. It expands way beyond the data infrastructure teams and requires the early involvement of multiple departments within the organisation. A ‘new’ data approach requires CIOs to align with their IT and data leaders on a shared vision. This is very important whilst the enterprise evolves from a passive request/response way of gathering data insights to an active, real-time data-driven way of operating.
+
+
+
+Stream processing with Apache Flink enables the modern enterprise to capitalise an event-centric data architecture, and leverage the value of stream processing: understanding the world as it manifests in real time through powerful, distributed and scalable data processing.
+
+
+
+Summary: Many organisations have adopted an event-centric data strategy to capitalise on data at the moment it’s generated.
+There are a number of considerations to take into account when transitioning to real-time data processing – anything from the purely technical to organisational requirements.
+In addition, a solid data strategy, clear vision and adequate training are required.
+So what differences can we highlight between a traditional and an event-centric data strategy?
+Your SSOT (single source of truth) is recalibratedYour data strategy will ultimately impact the outlook of data authority as well as the level of chaos within your organization stemming from increased data creation.
+
+Other Blogs by Fabian Hueske: https://dataconomy.com/author/fabian-hueske/

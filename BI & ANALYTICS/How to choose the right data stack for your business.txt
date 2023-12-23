@@ -1,0 +1,74 @@
+Title: How to choose the right data stack for your business
+
+Article Link: https://dataconomy.com/2020/11/14/how-to-choose-the-right-data-stack-for-your-business/
+
+Author: Stewart Rogers
+
+Publish Date: 2020-11-14
+
+Article:
+Data comes in many shapes and forms, but two of its core structures are stacks and queues. TechTarget’s definition states the following; “In programming, a stack is a data area or buffer used for storing requests that need to be handled.”
+
+And what’s inside that data stack? It’s not just a data warehouse. Data stacks are composed of tools that perform four essential functions; collect, store, model and report. But the stack itself and the data warehouse are the two we’ll focus on in this article since they have a high importance level.
+
+To get the lowdown on why it is essential to focus on your data stack and warehouse, we talked with Archit Goyal, Solutions Architecture Lead at Snowplow Analytics to understand more.
+
+What are the opportunities and challenges that arise when choosing and developing a data stack?
+
+“Choosing a data stack will depend on multiple factors: the company’s core use cases, the size and capabilities of their data team, their budget, their data maturity, and so on,” Goyal said. “One of the key choices is choosing between packaged analytics solutions (think GA or Adobe) versus more modular components that combine to make up a data stack. The main advantage of packaged products is that they have a lot of analytics tooling ready to go right out of the box. However, the main drawback is that you sacrifice control and flexibility over your data management in favor of simplicity and ease-of-use. Picking and setting up multiple best-in-breed tools to make up the analytics stack is harder work, but will give you greater control over your data asset in the long term.”
+
+So what is a data warehouse, and why do companies need it? For example, what’s the difference between a data warehouse and a MySQL database?
+
+“A Data Warehouse is a centralized data repository which can be queried for business benefit,” Goyal said. “They can contain data from heterogeneous sources, such as SQL, CSV files, text files, and more. Comparatively, data warehouses are columnar databases, and MySQL is a relational database. This means that warehouses are optimized for historical analysis of data as it is easy to aggregate values across rows (e.g., count sessions over time), whereas MySQL databases are good for storing and retrieving individual entries as a transactional store in an app.”
+
+What are some excellent examples of data warehouses?
+
+“The big three (currently on the scene) are Google’s BigQuery, Amazon’s Redshift, and Snowflake,” Goyal said. “These are typically used to store a company’s data in a columnar format to allow for easy analysis and reporting. When used as the source of truth for a company to answer business questions, particularly about its users, it can be extremely powerful.”
+
+So that covers warehouses, but what is our definition of a data stack, and what should be inside a good data stack?
+
+“At Snowplow, we think about the data stack in four different stages,” Goyal said. “First, we collect. Data quality matters. With high-quality and complete data, attribution models are accurate, it’s easy to track and understand user behavior, and customer experiences can be optimized. That’s why our customers choose Snowplow, as we provide flexibility to collect data from multiple platforms and channels, as well as delivering clean and structured data.”
+
+“Then, we store. Snowflake, BigQuery, Redshift, and S3 are all examples of tools for storing data that is collected.”
+
+“The third stage is to model. Data modeling can help teams democratize their data – At Snowplow, our customers use tools like Snowplow SQL Runner, dbt, and Dataform to model their data.”
+
+“Finally, we report. At this stage, data teams want to enable self-service of analytics within their organization. This includes the use of tools such as Looker, Redash, PowerBI, and Amplitude.”
+
+“There is no one size fits all approach,” Goyal said. “Many teams opt for the out of the box solutions mentioned earlier while, increasingly, sophisticated data teams are combining the modular components outlined above to build a robust data stack which they can control from the get-go.”
+
+What is an excellent data stack use case?
+
+“Snowplow customers and recruitment marketing specialists VONQ wanted to use data to attract talent and advertise jobs on behalf of their customers,” Goyal said. “To make better recommendations and provide actionable insights for recruiters, VONQ invested in a data warehouse and data model that fit their business needs. For their use case, VONQ chose to implement a Snowflake data warehouse, citing the pricing model, user management, and performance as some of the key drivers behind their decision.”
+
+“In addition to implementing Snowflake, VONQ needed a way to serve their data as well as near real-time responses for their customers. They decided to take a small amount of their data from their data warehouse and put it in the database Postgres where they could configure indexes, for example. For this data movement, they implemented Airflow because of its functionality with batch ETLs. Once their data was in Postgres, it allowed the data team to build an Analytics Service to serve actionable data to the wider team.”
+
+“Natalia, Data Engineer at VONQ, shared this data journey with us in a recent webinar – you can watch it on-demand here.”
+
+Which data models are out there, and how should you navigate them to make the best choice for better business insights?
+
+“Data modeling is an essential step in socializing event-level data around your organization and performing data analysis,” Goyal said. “In its most basic form, data modeling is a way of giving structure to raw, event-level data. This structure is essentially your business logic applied to the data you bring into your data warehouse – making it easier to query and use for your specific use cases.”
+
+“There are many ways to model your data to make it easier to query and use, and at the end of the day, the way you’ll model it will depend on your business logic and analysis use cases. If you’re modeling your data for visualization in a BI tool, you’d want to follow the logic required by the BI tool, or do the modeling within the BI tool itself (e.g., using Looker’s LookML product).”
+
+“For most retailers and ecommerce companies, Google and Adobe’s data model will suit their use case. These giants have built their platforms and logic for retailers — conversion and goal tracking, funnel analysis, etc. is optimized for a traditional ecommerce customer journey. That said, many businesses struggle to make Google and Adobe work for them, e.g., if you’re a two-sided marketplace with two distinct groups of buyers and sellers or a (mobile) subscription business that wants to understand retention.”
+
+“Say you’re a recruitment marketplace, and you have job seekers and recruiters interacting with your platform (two distinct user groups with different behavior). When a job seeker is looking for a job, one search on the site might result in five job applications. This means that the traditional funnel or conversion rate would make no sense.”
+
+“Here are some examples of data models that we see with our customers: Modeling macro events from micro-events (e.g., video views); Modeling workflows (e.g., sign-up funnels); Modeling sessions; and Modeling users.”
+
+“Check out our guide to data modeling to learn more about each example and tips on how to turn your raw data into easy-to-consume data sets.”
+
+What should data professionals pay attention to when developing a data stack and data warehouse?
+
+“This question has a long answer full of ‘it depends,'” Goyal said. “However, it’s important to consider two things: data quality and transparency. Having high quality – complete and accurate – data in a granular format is often key to setting data science teams up for success. Transparency into how data is processed upstream of a data science model is important to be able to justify the output.”
+
+Archit Goyal will be speaking at DN Unlimited Conference on November 18-20, 2020 – meet him at the Data Science track during his talk “Building a strategic data capability.”
+
+Summary: TechTarget’s definition states the following; “In programming, a stack is a data area or buffer used for storing requests that need to be handled.”And what’s inside that data stack?
+“A Data Warehouse is a centralized data repository which can be queried for business benefit,” Goyal said.
+“Many teams opt for the out of the box solutions mentioned earlier while, increasingly, sophisticated data teams are combining the modular components outlined above to build a robust data stack which they can control from the get-go.”What is an excellent data stack use case?
+“To make better recommendations and provide actionable insights for recruiters, VONQ invested in a data warehouse and data model that fit their business needs.
+“Data modeling is an essential step in socializing event-level data around your organization and performing data analysis,” Goyal said.
+
+Other Blogs by Stewart Rogers: https://dataconomy.com/author/stewart-rogers/

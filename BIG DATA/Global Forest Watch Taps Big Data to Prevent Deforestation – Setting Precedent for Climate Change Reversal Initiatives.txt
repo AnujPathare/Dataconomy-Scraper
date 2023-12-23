@@ -1,0 +1,38 @@
+Title: Global Forest Watch Taps Big Data to Prevent Deforestation – Setting Precedent for Climate Change Reversal Initiatives
+
+Article Link: https://dataconomy.com/2014/10/03/global-forest-watch-taps-big-data-to-prevent-deforestation-setting-precedent-for-climate-change-reversal-initiatives/
+
+Author: Eileen McNulty
+
+Publish Date: 2014-10-03
+
+Article:
+The world’s forests are being destroyed at the rate of 50 football fields every minute. Deforestation is a leading factor, triggering climate change.
+
+However, a lot remains unknown about it as it occurs, like, ‘where forests are cleared, why it happens and who is responsible.’ By the time, deforestation is identified, the situation is too grim to make any worthwhile difference.
+
+Global Forest Watch (GFW) is an online forest monitoring and alert systems that harness satellite technology, open data, cloud computing, and crowdsourcing to guarantee access to near-real-time and reliable information about forests. GFW is free and follows an open data approach in putting decision-relevant information in the hands of governments, companies, NGOs, and the public.
+
+Writing for the Guardian, Nigel Sizer, Director of Global Forest Watch, Loretta Cheung, research analyst at Forest Legality Alliance and James Anderson, communications manager – forests programme at World Resources Institute talk about the obstacles they face while mining Big Data, explaining how, “big data comes with big challenges. From the start, GFW grappled with a lack of public data, barriers to participation, and confusion over terminology.” They believe that, “these challenges are common to data-driven initiatives that aim to enable public use of big data.”
+
+Building support for Open Data has been an issue for the GFW, as without precedence even “virtuous countries, companies, and researchers may be reluctant to share their information, for fear of losing control over how it would be used.”
+
+Reaching out to those who actually know the forests also proves to be an uphill task. “Global Forest Watch was built to allow users to contribute their own data to provide local context, such as: maps of protected areas, concessions, or land ownership, or short stories explaining why forests were lost, regrown, or conserved in a particular area. However, despite hundreds of thousands of visitors to the GFW website, relatively few submitted their own data or content.”
+
+Outreach on the ground remains indispensable which is why GFW is now trying to persuade governments, local communities, and businesses around the world and also looking for ways to better engage users online.
+
+Originally started in 1997 to set up a global forest monitoring network around the world, GFW is supported by a diverse partnership of organizations that contribute data, technical capabilities, funding, and expertise. The partnership is convened by the World Resources Institute and includes Google, University of Maryland, Imazon, UNEP, The Jane Goodall Institute, Blue Raster,and others as contributing partners.
+
+More information on the subject is available at http://www.globalforestwatch.org/
+
+Read more here.
+
+(Image credit: Flickr)
+
+Summary: Global Forest Watch (GFW) is an online forest monitoring and alert systems that harness satellite technology, open data, cloud computing, and crowdsourcing to guarantee access to near-real-time and reliable information about forests.
+GFW is free and follows an open data approach in putting decision-relevant information in the hands of governments, companies, NGOs, and the public.
+Writing for the Guardian, Nigel Sizer, Director of Global Forest Watch, Loretta Cheung, research analyst at Forest Legality Alliance and James Anderson, communications manager – forests programme at World Resources Institute talk about the obstacles they face while mining Big Data, explaining how, “big data comes with big challenges.
+Originally started in 1997 to set up a global forest monitoring network around the world, GFW is supported by a diverse partnership of organizations that contribute data, technical capabilities, funding, and expertise.
+The partnership is convened by the World Resources Institute and includes Google, University of Maryland, Imazon, UNEP, The Jane Goodall Institute, Blue Raster,and others as contributing partners.
+
+Other Blogs by Eileen McNulty: https://dataconomy.com/author/eileen-mcnulty/

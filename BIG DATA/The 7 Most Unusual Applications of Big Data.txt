@@ -1,0 +1,58 @@
+Title: The 7 Most Unusual Applications of Big Data
+
+Article Link: https://dataconomy.com/2015/04/20/the-7-most-unusual-applications-of-big-data/
+
+Author: Bernard Marr
+
+Publish Date: 2015-04-20
+
+Article:
+It’s all well and good to talk about customer experience and managing inventory flow, but what has big data done for me lately?
+
+I’ve rounded up seven of the most interesting — and unique — applications for big data I’ve seen recently and how they may be impacting your life.
+
+Big Data Billboards
+
+Outdoor marketing company Route is using big data to define and justify its pricing model for advertising space on billboards, benches and the sides of busses. Traditionally, outdoor media pricing was priced “per impression” based on an estimate of how many eyes would see the ad in a given day. No more! Now they’re using sophisticated GPS, eye-tracking software, and analysis of traffic patterns to have a much more realistic idea of which advertisements will be seen the most — and therefore be the most effective.
+
+iPhone’s ResearchKit
+
+Apple’s new health app, called ResearchKit, has effectively just turned your phone into a biomedical research device. Researchers can now create studies through which they collect data and input from users phones to compile data for health studies. Your phone might track how many steps you take in a day, or prompt you to answer questions about how you feel after your chemo, or how your Parkinson’s disease is progressing. It’s hoped that making the process easier and more automatic will dramatically increase the number of participants a study can attract as well as the fidelity of the data.
+
+Big Data and Foraging
+
+The website FallingFruit.org combined public information from the U.S. Department of Agriculture, municipal tree inventories, foraging maps and street tree databases to provide an interactive map to tell you where the apple and cherry trees in your neighborhood might be dropping fruit. The website’s stated goal is to remind urbanites that agriculture and natural foods do exist in the city — you might just have to access a website to find it.
+
+Big Data on the Slopes
+
+Ski resorts are even getting into the data game. RFID tags inserted into lift tickets can cut back on fraud and wait times at the lifts, as well as help ski resorts understand traffic patterns, which lifts and runs are most popular at which times of day, and even help track the movements of an individual skier if he were to become lost. They’ve also taken the data to the people, providing websites and apps that will display your day’s stats, from how many runs you slalomed to how many vertical feet you traversed, which you can then share on social media or use to compete with family and friends.
+
+Big Data Weather Forecasting
+
+Applications have long used data from phones to populate traffic maps, but an app called WeatherSignal taps into sensors already built into Android phones to crowdsource real time weather data as well. The phones contain a barometer, hygrometer (humidity), ambient thermometer and lightmeter, all of which can collect data relevant to weather forecasting and be fed into predictive models.
+
+Yelp Hipster Watch
+
+Whether you want to hang with the hipsters or avoid them, Yelp has you covered. With a nifty little search trick they call the Word Map, you can search major cities by words used in reviews — like hipster. The map then plots the locations for the reviews in red. The darker the red, the higher the concentration of that word used in reviews — and when it comes to hipsters, ironic tee shirts and handlebar mustaches.
+
+Even Big Data Bras?
+
+Website True&Co. is using big data to help women find better fitting bras. Statistics show that most women wear the wrong bra size, and so the website has stepped up to try to solve that problem. Customers fill out a fit questionnaire on the site, and based on the responses, an algorithm suggests a selection of bras to choose from. The company’s in-house brand is even developed and designed based on feedback from customers and data the company has collected.
+
+The possibilities of using big data are endless and it might be time to find the big data applications in your business. Have you seen any fascinating or unusual big data projects lately? Let me know about them in the comments below!
+
+This post originally appeared on LinkedIn.
+
+Bernard Marr – the ‘Big Data Guru’ – is one of the world’s most highly respected voices anywhere when it comes to data in business. He is a highly acclaimed keynote speaker and advises companies and government organizations on how to use big data, analytics and metrics to improve strategic decision-making and boost company performance. His new book is: Big Data: Using Smart Big Data, Analytics and Metrics To Make Better Decisions and Improve Performance.
+
+
+
+Photo credit: Melissa Maples / Foter / CC BY-NC
+
+Summary: Big Data BillboardsOutdoor marketing company Route is using big data to define and justify its pricing model for advertising space on billboards, benches and the sides of busses.
+Big Data on the SlopesSki resorts are even getting into the data game.
+The possibilities of using big data are endless and it might be time to find the big data applications in your business.
+Bernard Marr – the ‘Big Data Guru’ – is one of the world’s most highly respected voices anywhere when it comes to data in business.
+His new book is: Big Data: Using Smart Big Data, Analytics and Metrics To Make Better Decisions and Improve Performance.
+
+Other Blogs by Bernard Marr: https://dataconomy.com/author/bernard-marr/

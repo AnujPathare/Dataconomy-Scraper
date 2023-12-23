@@ -1,0 +1,46 @@
+Title: Big Data Symbiosis: Using Lessons from Big Data to Protect Big Data
+
+Article Link: https://dataconomy.com/2017/04/06/big-data-symbiosis/
+
+Author: Juan Salazar
+
+Publish Date: 2017-04-06
+
+Article:
+Big data is big news at the moment. The latest Yahoo! data breach, which affected data from over 500 million customers, continues to be discussed by press and public alike, while the role of big data in predicting and even influencing last year’s US election brought the term firmly into mainstream awareness.
+
+Voter Behavior and Risk Analysis
+
+The applications of big data are as varied as they are complex, with big data being used to help candidates and parties win votes across the world, and big data even predicted by Forbes magazine to be able to take over a range of jobs in the future. It is likely to bring about changes in law enforcement (with big data already making an impact in helping to cut crime and save money when policing New Year’s Eve in New York), alter the role of accountants, and influence the day-to-day activity of teachers and doctors.
+
+Bearing in mind its wide-ranging importance to society in 2017, the attempts of hackers to steal big data and use it to blackmail companies is a hugely threatening tactic that needs to be at the forefront of online security management. Imperva, who specialize in helping companies keep big data safe and secure, have warned that with the growth of big data (with IDC predicting that there will be double-digit growth for big data and business analytics between now and 2020), comes a responsibility to ensure that big data security is carried out sensitively and comprehensively. To put it plainly, there is way more to lose if big data is not protected adequately.
+
+It may seem unintuitive, but one means of helping to advance big data security and incident management should the worst happen, is by using information and trends gleaned by big data analysis itself. This symbiotic relationship could help companies make sure that they use any understanding of big data to keep the data they actually possess or make use of safe.
+
+Understanding Big Data Environment Challenges
+
+A big part of this relationship is learning the lessons from big data incidents to understand more closely the challenges that exist in securing big data environments. Many of these challenges come down to just one word: multiplicity. Let’s take the multiple layers of big data environments as a case in point. Different layers perform different functions within the overall environment of the big data set. For instance, querying and interface options sit separately to top-level management tools, which in turn sit separately to the actual data storage.
+
+Each layer has its own lifecycle and needs to be secured and guarded independently of the other layers while still fulfilling its role and purpose as part of a secure “whole” entity. Open-source framework Hadoop is a good example of this multiplicity, and lessons can be learned from the big data incidents that have affected Hadoop to inform big data protection in the future. With Hadoop, all data could well be encrypted on the platform, but if some of the key management elements are separated from the system and not adequately protected, this layer will remain prone to threats, rendering the entire system vulnerable.
+
+The challenges faced by big data in 2017 are varied and complex, but learning lessons from big data incidents and using this new knowledge as a security weapon to help protect emerging big data sets is a virtuous circle that, with some practice, could well prove to be the turning point in the fight against cybercrime.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Image Credits
+
+“Symbiosis” by Christopher Torris Olsen (CC BY-SA 2.0)
+
+“Hacker” by Blogtrepreneur (CC BY 2.0)
+
+“Data Breach” by Blogtrepreneur (CC BY 2.0)
+
+Summary: Big data is big news at the moment.
+Voter Behavior and Risk AnalysisThe applications of big data are as varied as they are complex, with big data being used to help candidates and parties win votes across the world, and big data even predicted by Forbes magazine to be able to take over a range of jobs in the future.
+Imperva, who specialize in helping companies keep big data safe and secure, have warned that with the growth of big data (with IDC predicting that there will be double-digit growth for big data and business analytics between now and 2020), comes a responsibility to ensure that big data security is carried out sensitively and comprehensively.
+Understanding Big Data Environment ChallengesA big part of this relationship is learning the lessons from big data incidents to understand more closely the challenges that exist in securing big data environments.
+Open-source framework Hadoop is a good example of this multiplicity, and lessons can be learned from the big data incidents that have affected Hadoop to inform big data protection in the future.
+
+Other Blogs by Juan Salazar: https://dataconomy.com/author/juan-salazar/

@@ -1,0 +1,50 @@
+Title: Big Data Solutions for Small Businesses
+
+Article Link: https://dataconomy.com/2015/10/28/big-data-solutions-for-small-businesses/
+
+Author: Hannah Augur
+
+Publish Date: 2015-10-28
+
+Article:
+Everyone is leveraging big data…but how can a small company maneuver a world of data intended for mega-companies?
+
+While big data has proven a game changer, small and medium-sized businesses are left at a major disadvantage. Without the resources to fully leverage new data technologies, it is simply impossible to implement the best advertising and sales tactics. Tools and personnel that specialize in big data, its uses and implementation can be expensive. However, despite the many barriers holding small business from full big data capabilities there is very good news; Small businesses have actually been leveraging data for years.
+
+There is a very large difference between what it means to use Big Data, and a company simply having the capacity to store large quantities of information. Big Data is about putting information together, and connecting dots that were not connected in the past. This is the same mechanism managers and owners regularly use when making decisions. New technology simply does this on a larger scale. It allows users to pull information from unthinkable mountains of data—but small businesses don’t need petabytes of data in order to make better decisions. What they need are appropriate tools, clear intentions and the right questions.
+
+Find a question worth answering
+
+The first hurdle for small businesses is, quite simply, the costs of big data. Software and tools have high up-front costs as well operational costs. While large companies may be content buying the best software and paying analysts to search out data gold, it is not the most cost effective strategy. Instead, smaller businesses must focus on pinpointing what problem they want to address. Rather than jumping into an expensive, unwieldy data lake, find a question that is worth answering, and find an answer. In reality, the very crux of big data is not just tech or information, but logic and analysis. You don’t need overpriced tools or a team of analysts in order to ask creative questions and find practical results. You do need structured, intelligent plans and strategies befor jumping into the deep-end.
+
+When you’re ready, try consulting IBM’s Watson’s Analytics, Google Analytics or Insight Squared.
+
+Leverage open source solution to get data wherever you can
+
+Don’t buy into Hadoop just yet. There are lightweight solutions available that cost less and are easier to leverage. In fact, if a company has been collecting its own data in a ledger format (Excel, QuickBooks), they already have a great mountain of data. This information already offers insights on promo and marketing campaigns as well as sales, and can be compared against external data for even more information—once you have the right questions. Social Media is not only an easy source of data, but an important one. These outlets give you insight into the personal lives of customers that aren’t always apparent. Apart from giving better insight into target customers, it also highlights what posts, information or campaigns are driving traffic up (or down). Gauging interest level and sentiment can also work as the backbone to a new campaign—before jumping in the deep end, consulting social data may hold some serious insights.
+
+Leveraging social media data is all about getting the full, 360 degree view of customers. Rather than just a location and list of purchases, they become a person with fully developed interests and opinions and, well, likes. Triggering and partaking in deeper conversations leads to more information and less churn.
+
+Check out Hootsuite, 33Acrossor, Presto or start simple with Facebook Insight and Twitter Analytics
+
+Do what big companies can’t
+
+Large corporations may have money, but they lack the speed and agility to respond quickly. Real-time changes and adjustments are something the little guy can excel at—when properly equipped. While a huge company may need five approvals from a CEO and a white paper to make changes, smaller businesses are able to combine data with savvy and intuition much easier. Big data lends insight into what is trending now. While it can also make predictions, the ability to implement quick changes is vital. When a trend is emerging, small businesses are just as capable (if not more capable) of making quick changes and jump on board. Rather than letting big names pave the way, big data let’s more modestly-sized companies ride (and make) the waves.
+
+Flexibility is also important when responding to problems. Rather than letting customers slip away, taking cues from negative data and responses is key to cutting back on churn. Even small complaints paint a big picture.
+
+Looking for inspiration? Tools like Constant Contact and Intuit Quickbooks helps smaller companies that can’t collect substantial amounts of data. By comparing their customer’s data to similar datasets from others in the industry, small companies can get a better idea of what’s trending in their market.
+
+Share data and insights with the team
+
+One of the biggest surprise results of big data is the way it impacts the team mentality. Once data is beginning to show up, conclusions being drawn, and responses implemented, the entire atmosphere shifts. With the ability to find a more clear path, and a better understanding of customers, employees (and employers) have a much better idea of how to do their jobs. A very interesting study delves into how big data changes the mindset and abilities of small companies. Rather than owner-managers running everything based on experience and a small pool of consumer information, better datasets meant better decisions and higher involvement levels. A great summary of the research can be found here.
+
+One important lesson to be learned is to trust the data. Trying to make sense of data is a great idea. Knowing the “why,” and “how” of every little detail could be useful; however, it can’t always be possible. The facts represented by data are not always easy to divine and, in fact, it might just be impossible sometimes. Whatever the market, company size, or even business style, businesses big and small benefit from leveraging big data. It all begins with the right questions, and an open mind. The best place to get start might just be Google Analytics and a big cup of coffee.
+
+Summary: While big data has proven a game changer, small and medium-sized businesses are left at a major disadvantage.
+However, despite the many barriers holding small business from full big data capabilities there is very good news; Small businesses have actually been leveraging data for years.
+Find a question worth answeringThe first hurdle for small businesses is, quite simply, the costs of big data.
+Share data and insights with the teamOne of the biggest surprise results of big data is the way it impacts the team mentality.
+Whatever the market, company size, or even business style, businesses big and small benefit from leveraging big data.
+
+Other Blogs by Hannah Augur: https://dataconomy.com/author/hannah-augur/

@@ -1,0 +1,56 @@
+Title: 4 data-driven ways to digitize your business
+
+Article Link: https://dataconomy.com/2017/09/22/4-ways-digitizing-business/
+
+Author: Diego Maldonado
+
+Publish Date: 2017-09-22
+
+Article:
+In today’s digital landscape, customers expect you to deliver products and services in a fast and efficient manner. Heavyweights like Amazon and Google have set a bar in terms of operations, and they’ve set it high. An increasing need for more streamlined and efficient processes, combined with advancing technologies has made digitization a priority across a range of sectors of the global economy. When faced with the decision to actively embrace the digital wave or to avoid it, experience tells us the ‘wait and see approach’ will not serve your business well.
+
+Although reinventing business processes can seem like a daunting task, it is possible to break digitization down into four tangible (and data-driven) steps.
+
+Rely on real-time business intelligence
+
+Creating periodical reports is labour intensive, requiring data gathering, standardising and processing information in spreadsheets. And once the report is out, the data becomes less and less relevant with each passing day.
+
+A better approach is to use real-time business intelligence systems. By approaching BI in real-time management can direct the company towards its objectives by always having the relevant KPIs to hand. This approach, ensures your business adopts a data-driven approach to operations as all projects will need to show measurable results.
+
+To make this possible, you’ll need a robust way to gather data in real-time, data will need to be stored in a structured database, you’ll need equally as robust models, as well as a system of dashboards to display the results. Sounds complicated, right? Lucky for you, there are several great products out there like Microsoft’s PowerBI, Tableau, Looker and Sisense, which turn abstract data into easy to understand visual displays.
+
+Adopt a CRM
+
+A Customer Relationship Management (CRM) system manages interactions between businesses and existing or potential clients. CRMs prevent a workplace from descending into chaos. They are a one-stop-shop to house all your client information.
+
+A CRM system is a great place to begin digitizing. For your customer service team, a CRM can help automate many communications processes. It can help your sales team manage their pipeline and allow your marketing team to execute and measure campaigns. By providing management with an idea of the cash flow the sales team is expected to generate, it can also act as a small Enterprise Resource Planning (ERP) system. Finally, a CRM will inform the operations departments of future production demands and inventory requirements.
+
+There are a range of CRM systems out there depending on your needs. On one end of the scale, you have easy to use management tools such as Hubspot or Pipedrive, affordable systems such as Zoho CRM or SugarCRM, and sophisticated full service suites offered by Oracle, SAP and Salesforce. But choose wisely. Once you pick a CRM, it is difficult to migrate to a different software in the future. Consider scalability, and if in doubt, seek out the advice of a CRM consultant.
+
+Manage your knowledge and your data
+
+Invest in a Knowledge Management System (KMS) for your business which can centralise your collective knowledge. It will make it easy to on-board new team members, share experiences across teams and departments, inform product developments or iterations and in general help to solve future problems.
+
+There are many great Wiki systems available to you, from open source projects to more sophisticated programs like Salesforce Knowledge or Atlassian’s Confluence. If you integrate your KMS with team collaboration tools, some good examples here are Slack or Atlassian, you will encourage adoption and ideally seamlessly launch your KMS.
+
+Listen to your customers
+
+It’s clear that revenue depends on catering to the wants and needs of your customers. Structured client feedback can help to improve your procedures, products and services to better address the pain points of your clients.
+
+The Net Promoter Score system is a great method to gather (and eventually action customer feedback). It’s a system based on the likelihood of a client or partner referring your business to a friend or colleague.
+
+There are of course some challenges here when it comes to implementation. It will require management commitment, and a few technical resources to get it up and running. You’ll also need to give it ongoing attention to ensure you can use the feedback in an actionable way.
+
+Digitizing your business needn’t be as daunting as it sounds. By making a few changes along with a little investment, you could transform your operations.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Rely on real-time business intelligenceCreating periodical reports is labour intensive, requiring data gathering, standardising and processing information in spreadsheets.
+A better approach is to use real-time business intelligence systems.
+By approaching BI in real-time management can direct the company towards its objectives by always having the relevant KPIs to hand.
+Adopt a CRMA Customer Relationship Management (CRM) system manages interactions between businesses and existing or potential clients.
+Manage your knowledge and your dataInvest in a Knowledge Management System (KMS) for your business which can centralise your collective knowledge.
+
+Other Blogs by Diego Maldonado: https://dataconomy.com/author/diego-maldonado/

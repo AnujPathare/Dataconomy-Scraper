@@ -1,0 +1,42 @@
+Title: The Future of Predictive Analytics In the Insurance Industry
+
+Article Link: https://dataconomy.com/2021/06/30/future-predictive-analytics-insurance-industry/
+
+Author: Ryan Ayers
+
+Publish Date: 2021-06-30
+
+Article:
+Big data is one of the most rapidly growing industries in the world and was valued at $169 billion in 2018, with expectations to approach the $300 billion mark by the end of next year. Even with such monetary influence in the world already, the industry is still figuring itself out, and new uses for data (and new jobs for data analysts) are being discovered all the time, including predictive analytics.
+
+From videogames to healthcare to sports, individuals with analytic backgrounds and beliefs are moving to the forefront of their respective industries, and the insurance industry is no different. Insurance rates are based on trends in given demographics, and young men tend to pay more for the exact vehicle than middle-aged women because data shows that young men are more likely to crash. That is a very simple example of data use in insurance, but as the ability to share data evolves and becomes more secure, so do the abilities to utilize it in different ways, including when making predictions for the future, otherwise known as predictive analytics.
+
+What is Predictive Analytics?
+
+When analytics and data science methods combine to focus on the future, the result is predictive analysis. Predictive analytics utilizes past and present trend data and extremely advanced computing methods to paint a proverbial picture for analysts regarding what the past and present data means for the future of a given industry.
+
+One step further is machine learning, where analytic programs no longer need to be programmed with data. They simply take it in and automatically change their predictive analyses, hence the name “machine learning.”
+
+How is Predictive Analytics Affecting the Insurance Industry Today?
+
+One of the primary uses of predictive analytics in the insurance industry is in risk assessment. Whether life, auto, home, or otherwise, insurance companies must weigh everything about a given client to determine their insurance rates.
+
+To use auto insurance as an example again, companies look at driving records, age, location, and more to determine a rate. When this information is put into a system, it can be compared to other individuals who had similar demographics and then can take into account how well those similar individuals did relative to the insurance (for cars, this may mean they crashed a lot, had a bunch of speeding tickets, or had squeaky clean records).
+
+In life insurance, health records are often the main subject of predictive analytics, as evolutions in EHR sharing allow companies to utilize similar methods as auto insurance to determine what the future may hold for a given client with a shared medical past. Ultimately, insurance companies have been known to err on the side of caution, so this uptick in the availability of relevant data saves consumers money more often than it costs them.
+
+How will Predictive Analytics Affect the Insurance Industry Tomorrow?
+
+The mere youth of predictive analytics makes it appealing because more and more capabilities are being discovered, and the insurance industry assumes the same. Significant investments are being made into the industry, and Forbes recently released an article encouraging investment into predictive analytics.
+
+With this trend in mind, consumers are already asking, “how do you utilize predictive analytics?” meaning a front-runner (in the sense of insurance use of data) can be more appealing to said consumers. They are more likely to switch to forward-looking insurance companies, especially when their commitment to predictive analytics means money saved for those consumers.
+
+Also, corporations that utilize predictive analytics grow at a rate 7% faster than their counterparts that do not. The future of predictive analytics in insurance is more likely to be a refined version of what is already happening, but as the industry is, indeed, very young, keeping an eye on new evolutions in the use of data can mean staying ahead of severe business curves that may arise from this rapidly growing data industry.
+
+Summary: They simply take it in and automatically change their predictive analyses, hence the name “machine learning.”How is Predictive Analytics Affecting the Insurance Industry Today?
+One of the primary uses of predictive analytics in the insurance industry is in risk assessment.
+How will Predictive Analytics Affect the Insurance Industry Tomorrow?
+The mere youth of predictive analytics makes it appealing because more and more capabilities are being discovered, and the insurance industry assumes the same.
+Also, corporations that utilize predictive analytics grow at a rate 7% faster than their counterparts that do not.
+
+Other Blogs by Ryan Ayers: https://dataconomy.com/author/ryan-ayers/

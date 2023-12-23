@@ -1,0 +1,38 @@
+Title: Data acquisition in 6 easy steps
+
+Article Link: https://dataconomy.com/2020/05/13/the-complete-guide-to-data-acquisition-for-machine-learning/
+
+Author: Evgeniya Panova
+
+Publish Date: 2020-05-13
+
+Article:
+Data scientists are constantly challenged with improving their ML models. But when a new algorithm won’t improve your AUC there’s only one place to look: DATA. This guide walks you through six easy steps for data acquisition, a complete checklist for data provider due diligence, and data provider tests to uplift your model’s accuracy.
+
+Editor’s note: This free guide walks you through six easy steps for data acquisition, a complete checklist for data provider due diligence, and data provider tests to uplift your model’s accuracy.
+
+When trying to improve a model’s accuracy and performance data improvement (generating, testing, and integrating new features from various internal and/or external sources) is time-consuming, difficult, but it could be a major discovery and move the needle much more.
+
+The process of data acquisition can be broken down into six steps:
+
+Hypothesizing – use your domain knowledge, creativity, and familiarity with the problem to try and scope the types of data that could be relevant to your model.
+
+Generating a list of potential data providers – create a shortlist of sources (data partners, open data websites, commercial entities) that actually provide the type of data you hypothesized would be relevant.
+
+Data provider due diligence – an absolute must. The list of parameters below will help you disqualify irrelevant data providers before you even get into the time-consuming and labor-intensive process of checking the actual data.
+
+Data provider tests – set up a test with each provider that will allow you to measure the data in an objective way.
+
+Calculate ROI – once you have a quantified number for the model’s improvement, ROI can be calculated very easily.
+
+Integration and production – The last step in acquiring a new data source for your model is to actually integrate the data provider into your production pipeline.
+
+Get the full guide for free here.
+
+Summary: This guide walks you through six easy steps for data acquisition, a complete checklist for data provider due diligence, and data provider tests to uplift your model’s accuracy.
+Editor’s note: This free guide walks you through six easy steps for data acquisition, a complete checklist for data provider due diligence, and data provider tests to uplift your model’s accuracy.
+Generating a list of potential data providers – create a shortlist of sources (data partners, open data websites, commercial entities) that actually provide the type of data you hypothesized would be relevant.
+Data provider tests – set up a test with each provider that will allow you to measure the data in an objective way.
+Integration and production – The last step in acquiring a new data source for your model is to actually integrate the data provider into your production pipeline.
+
+Other Blogs by Evgeniya Panova: https://dataconomy.com/author/evgeniya-panova/

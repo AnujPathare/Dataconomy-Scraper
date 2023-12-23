@@ -1,0 +1,114 @@
+Title: How Coronavirus can make open-source movements flourish and fix our healthcare systems
+
+Article Link: https://dataconomy.com/2020/04/02/how-coronavirus-can-make-open-source-movements-flourish-and-fix-our-healthcare-systems/
+
+Author: Kim Deen
+
+Publish Date: 2020-04-02
+
+Article:
+Five experts went live with educational sessions at our community site DN Club and told us about technology in times of coronavirus. Where are we heading in the crisis and how can the tech community contribute to finding solutions? Even though we are moving towards difficult times, there might be some light at the end of the tunnel. This crisis could make open-source movements flourish and could even fix our healthcare systems.
+
+Birds can be heard chirping loud, as Mark Turrell (CEO at Orcasci, Founder of unDavos) talks to the Data Natives online community from his garden. A squirrel might even jump on his head at any moment, he warns. In this idyllic scene from his home quarantine it might not seem so at first sight, but the entrepreneur, author and contagion expert is worried. And that says a lot, coming from a man who also used to be a spy in Libya and Syria. “We are living in a very unusual time”, he says.
+
+Turrell was in Davos this year when the coronavirus crisis broke loose in Wuhan. He became alarmed when he learned that the Chinese government had closed Wuhan. “A city of 16 million people, to just shut it down, that is weird”, he tells. “And then I saw, this virus has properties that will make it extremely hard to suppress and extremely hard to defeat.”
+
+It’s important to know what we are up against. That’s why he advises everyone to play the game “Plague Inc.”. He takes out his phone, as he tells the Data Natives community that we are now the virus and our purpose is to destroy humanity. “So we give it a name and we give it certain properties”, he says, selecting to make the virus airborne. “Then the symptoms. If I want to wipe out the earth, I want the virus to give no symptoms, so people won’t notice it.”
+
+That’s how you win the game as a virus and that’s exactly how the coronavirus behaves. It might be the key to why the coronavirus became a pandemic: it spreads through infected persons who don’t have any symptoms yet or won’t get them at all. “On the third day of being infected a person becomes infectious, but only on the fifth day usually symptoms start to appear”, tells Turrell.
+
+Time is ticking
+
+The problem is, we still know very little about the disease that now mutates every thirty days. “So what first came out of China isn’t necessarily experienced by what is now experienced in the US or in Germany”, he tells.” In China, 90% of the cases had fever first. That’s why China measured temperatures when you walked around because for them it is a good early warning sign.” But in Germany, most cases started with coughing.
+
+There is still a lot to get to know about the virus, but the time is ticking. Most likely, the virus will become more benign as it mutates, but it could also become more dangerous. “It is plausible that some mutations will become more lethal. Or give more serious symptoms, for example, to the younger generation”, he says. But a cure is still far from being available. According to Turrell, it will take at least 18 months to get to a safe and effective vaccine, 2,5 years at worst.
+
+If we keep business closed and ourselves locked, that could have detrimental consequences to the economy, he worries. With no immunity in society, the virus can spread any time we get out of our isolation. Businesses might open and close again, uncertain economies will spiral into bankruptcies and layoffs. The 2008 financial crisis could be a bliss compared to what we are looking at, he warns:
+
+“Central banks are already pulling out the big guns now and what is it, day twelve? What options do we have left?” Mark Turrell
+
+A Facebook post from a senior doctor in New York gave him an idea. After being sick from the coronavirus for two weeks, she wrote how happy she was to now be immune, so she could focus completely on curing patients. “My concept is safe infection and recovery”, he says. In his plan, healthy volunteers would get infected under medical supervision and then monitored whether they are on track for recovery, or need special treatment. “In this way, you can immunize the population quickly.”
+
+So far as we know, the chances of infection with the virus developing into a serious situation are slim for a person under 50, with no previous diseases. According to Turrell, his plan would be a chance to create group immunity in societies fast. A prolonged economic crisis may kill more people than the virus itself. “I understand there are medical concerns”, he says.
+
+“But we are looking at the end of days at the moment. Where there will be practically no businesses standing.” Mark Turrell
+
+Difficulties to comprehend
+
+In another DN Club webinar, an expert in digital transformation Bart de Witte explores with his two guests how data science can help societies during the pandemic. Simone Bianco is genomics and AI researcher at IBM, Tamas David-Barrett is a Behavioural Scientist.
+
+David-Barrett started the online conversation with his observation that humans seem to be struggling a great deal to managing the coronavirus crisis.
+
+“We are not good at two things: exponential curve and risk”, he tells. “We don’t have a feel for it.” Tamas David-Barrett
+
+That’s why the response in many places in the world was delayed. When in China all hell broke loose, there was very little worry in Europe that it might come to that side of the world as well.
+
+“Even today, it’s happening in Italy and France, but in the UK for example, people keep hesitating and hesitating with the response. It is almost like they don’t believe it until the death rates are going up”, he tells. “We have wasted all that time. We have a real problem imagining this process.”
+
+
+
+Bianco also thinks countries around the world could have had a much better uniform response. That’s because we could see such a pandemic coming, we even knew that a respiratory disease would likely cause it.
+
+“Preparedness should be ensured at the level of governments and large bodies. But this situation now requires the efforts of multiple institutions. Scientists need to be at the forefront.” Simone Bianco
+
+Because of the late response, a lot of combined efforts are needed to overcome our challenges. “We need people”, he says.
+
+“The ideal task force to advise governments would be people with strong mathematics and computational skills. They can accelerate the creation of public measures, vaccines, and drugs. So we can control these pandemics more quickly.”
+
+Online community to the rescue
+
+But one amazing advantage of this age is that it stands strong online. We are all able to contribute to the challenges we are facing from our homes. Online data science communities are a source of power that shouldn’t be underestimated. For example, bioinformatics is the backbone of drug development. The data science community can contribute to the development of new vaccines and drugs, using sources like Kaggle, where over 26.000 papers about the coronavirus are available.
+
+This time of crisis shows how very crucial open-source is. Researching pandemics in recent weeks, Bart de Witte read how people bought religious from the church, in the hope that it would cure them of the plague. “A lack of knowledge hurts society”, says De Witte.
+
+“This pandemic might be a chance for us to realise we need to open up information.” Bart De Witte
+
+David-Barrett agrees that these efforts are hugely important, and says Academic institutions became what they are today, in their efforts to push out theology from the field of science. “But maybe this is the time to go away with this 200-year-old structure”, he tells.
+
+“Maybe this is the moment to use this outpouring of collaborations against a common enemy, to somehow reach academia.” Tamas David-Barrett
+
+It’s a great time to think about the role of open-source movements, he thinks. Just making data available is not enough, also models need to be accessible and capacity should be built to run them. “We now rely on pop-up decentralized groups of scientists”, he tells. “How many people are actually measuring impact in Europe, in North America? How many people are modeling this in parts of the world where policy forecasting capacity isn’t that strong?
+
+Broken healthcare
+
+Health entrepreneur Roi Shternin envisions how something good can come out of this crisis. He hopes that what we take away from the crisis will contribute to the medical revolution he started years ago. After becoming sick himself, he realized that doctors aren’t the superhumans he always believed them to be. They make mistakes when they don’t have the time or resources to hear the patient.
+
+He developed a mysterious condition in his early twenties, that left him not able to walk or talk. No doctor was able to help him, some accused him of making his condition up, or assumed it was a genetic disease with no cure. So Shternin decided to take matters into his own hands. For two years, he read books, researched, took online courses and was able to diagnose himself with a POTS syndrome.
+
+He then enrolled to study in the medical field and realized something is broken in healthcare:
+
+“I found out that doctors are doing more firefighting than actual healing.” Roi Shternin
+
+Through his various healthcare projects, he empowers doctors through technology, so there is space to listen to the needs of the patient again.
+
+“Healthcare is the only industry in the world where the customer’s opinion doesn’t matter.”
+
+According to Shternin, one issue is that the healthcare system is a very paternalistic place: “You suffered through medical school, you suffered through training. Now it’s the turn for the younger generation to suffer. It is not exactly an innovative space.”
+
+Times are changing
+
+But times of crises show us how with a little creativity, processes can go very different. “The Second World War showed us that you can train doctors in four years’ time, not seven”, he tells. “The coronavirus crisis is showing us it might be possible to have a vaccination in half the time. This is time to rethink the entire bureaucracy, the protocols around health.”
+
+And the technological innovations are already there. BioBeat has developed a watch that can constantly track the health of chronically ill patients. Their monitor is a butterfly-shaped device that fits into the palm of your hand. When equipment is portable, it’s easy to treat patients at alternative locations. “Instead of treating patients at hospitals, you can treat them at home, or at a nursing home. Or like Israel is doing now with the coronavirus, at hotel rooms”, he tells.
+
+These kinds of technological changes reduce the time doctors spend looking at screens instead of looking at the patient. In Shternin’s vision, people go just once per year to the doctor, not because they are sick, but to discuss and improve their health. Because most can be done remotely.
+
+“Eventually doctors are going to be like pilots in planes. Overseeing the process, 95% done by plane”, says Shternin.
+
+According to Shternin, through making healthcare more tech, we can get the human connection back in healthcare. “If we give doctors better tools, they can go back to their original role”, he says.
+
+“They were educators, social workers, a place where you come for advice, as they hold such great knowledge. But we made them expensive clerks.”
+
+Even though these days are dark, our communities have the power to create good things to come out of this crisis.
+
+“We see healthcare adapting at rates we didn’t see happening in years”, says Shternin. “It’s good for healthcare and for our critical thinking, about how governments manage our health and safety.”
+
+If you still didn’t join DN Club, you’re missing out on some great live educational content. Don’t wait – subscribe now to get 14 free days to explore the platform and deep-dive into live sessions recordings.
+
+Summary: This crisis could make open-source movements flourish and could even fix our healthcare systems.
+Turrell was in Davos this year when the coronavirus crisis broke loose in Wuhan.
+David-Barrett started the online conversation with his observation that humans seem to be struggling a great deal to managing the coronavirus crisis.
+“The coronavirus crisis is showing us it might be possible to have a vaccination in half the time.
+According to Shternin, through making healthcare more tech, we can get the human connection back in healthcare.
+
+Other Blogs by Kim Deen: https://dataconomy.com/author/kim-deen/

@@ -1,0 +1,36 @@
+Title: KPMG and Imperial College Aim to Harness the Power of Big Data
+
+Article Link: https://dataconomy.com/2014/07/17/kpmg-and-imperial-college-aim-to-harness-the-power-of-big-data/
+
+Author: admin
+
+Publish Date: 2014-07-17
+
+Article:
+KPMG and Imperial College London yesterday announced the launch of a new initiative that aims to meet the excess demand for data scientists. With an investment of £20m from KPMG, the two organisations will open the “KPMG Centre for Advanced Business Analytics”, where the focus of the project will be on five key areas: analysis of business capital, growth opportunities, people, operations and resilience.
+
+“Our clients are facing the enormity and complexity of big-data and our partnership with Imperial will help our clients meet this challenge. The fact is that one in five of the UK’s largest companies now measure the value of corporate data on their balance sheets,” said Alwin Magimay, KPMG’s UK head of digital and analytics.
+
+“Businesses realise that finding better ways of analysing data is the key to unlocking its profitability and we hope to help them unleash new waves of productivity, growth and innovation,” Magimay continued.
+
+“We are still at the silent movie era with respect to evolution of big-data and together with Imperial, we will break new ground with a simple objective of generating new insights to create new business value for our clients.”
+
+Over an eight-year period, the programme is set to train 800 PhD students with the ambition of completing 15-20 projects per year. Imperial said that the Centre will be led by researchers at from Imperial College Business School as part of the College’s Data Science Institute.
+
+Professor G ‘Anand’ Anandalingam, Dean of Imperial College Business School, concluded: ” Today’s datasets are so big and complex to process that they require new ideas, tools and infrastructures. The KPMG Centre for Advanced Business Analytics aims to address these challenges by looking at how we can translate complicated information and turn it into potential solutions. Doing this successfully could help businesses solve a range of issues and develop more commercial ideas.”
+
+Follow @DataconomyMedia
+
+Interested in more content like this? Sign up to our newsletter, and you wont miss a thing!
+
+[mc4wp_form]
+
+Image Credit: Uli Harder
+
+Summary: KPMG and Imperial College London yesterday announced the launch of a new initiative that aims to meet the excess demand for data scientists.
+“Our clients are facing the enormity and complexity of big-data and our partnership with Imperial will help our clients meet this challenge.
+Imperial said that the Centre will be led by researchers at from Imperial College Business School as part of the College’s Data Science Institute.
+Professor G ‘Anand’ Anandalingam, Dean of Imperial College Business School, concluded: ” Today’s datasets are so big and complex to process that they require new ideas, tools and infrastructures.
+The KPMG Centre for Advanced Business Analytics aims to address these challenges by looking at how we can translate complicated information and turn it into potential solutions.
+
+Other Blogs by admin: https://dataconomy.com/author/admin/

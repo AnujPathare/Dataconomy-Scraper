@@ -1,0 +1,60 @@
+Title: 5 Misconceptions About Data-Driven Financial Services Marketing
+
+Article Link: https://dataconomy.com/2017/08/21/5-misconceptions-data-driven-marketing/
+
+Author: Michael Mathias
+
+Publish Date: 2017-08-21
+
+Article:
+Many marketers representing mid-market financial services companies labor under the impression that due to their size and scope, the data-driven marketing tactics used by the dominant players are simply out of reach for them.
+
+This is a shame and quite far from the truth. Data, analytics, technology and the overall process that supports data-driven marketing have undergone significant (dare I say radical?) transformation over the past decade. The result is a great democratization of marketing tactics. Today’s mid-size financial services organizations can now execute marketing initiatives that rival those of banking giants.
+
+The first step in encouraging more marketers from mid-size organizations to consider data-driven marketing is to debunk the misconceptions I hear most frequently.
+
+Misconception #1: Due to legal requirements banks can only do broad-base advertising, such as billboards, radio spots and print ads
+
+While it’s true that Federal regulations ban advertising that targets consumers based on age, ethnicity, income and other factors, marketers still have plenty of data options they can use to identify their ideal prospects, both online and off.
+
+Marketers can leverage a wide variety of online and offline behavioral data to model your best existing customers. Once you know the online behaviors of your best checking account customers, those insights can be applied to find similar consumers — entirely new to your bank – who exhibit similar behaviors and target them with addressable advertising on their mobile devices, desktop computers and mailboxes.
+
+Misconception #2: Data-driven marketing won’t help me form relationships with consumers (they need to come into a branch for that to happen)
+
+It’s true that many consumers, millennials in particular, want to be educated about financial services products, and are keen to understand how a bank and its products will fit into their lives and their communities. You can use this desire to begin the relationship building in your data-driven marketin perspective.
+
+Take advertising as an example; it’s not enough to state the interest rates your charge for a home equity loan, consumers want to know how your bank will help them remodel their home after the birth of a new child. With data-driven marketing, you can target consumers who live within your designated market area (DMA) and who purchase diapers or visit sites for new parents.
+
+Misconception #3: You need a database and a huge budget to do data-driven marketing
+
+While the big banks certainly maintain huge databases in house to support their marketing initiatives, mid-size institutions can leverage a virtual datamart for campaigns. These SaaS-based solutions host your first-party data (securely and privately), and provide mechanisms that let you integrate it with a huge array rich third-party data, both online and off.
+
+Datamarts allow mid-size marketers to accomplish several critical tasks. First, you can associate online user IDs with offline data (thus allowing you to send a direct mail offer to a household in which a member visits a website for new parents!). It will allow you to gain insight into your current customers, including interests, intents and other psycho-demograpic information. Most importantly, it will allow you to build customer models to use to target new customers to your bank.
+
+Though this may all sound expensive, a datamart will shave up to 90% of the costs of relying on an in-house database.
+
+Misconception #4: Maybe data-drive marketing can help me reach the right person, but it can’t help me achieve my goals
+
+Merchant John Wanamaker famously said, “Half the money I spend on advertising is wasted; the trouble is I don’t know which half.” But that was long before the advent of data-driven marketing! The advances in data and tracking now allow marketers to optimize campaigns based on specific business metrics, such as number of accounts opened, cards applied for and deposits made.
+
+It all begins with an assumption: Based on my data-driven customer models, I assume that this type of consumer, under these conditions, will open a new checking account. The marketing execution platform targets consumers who fit the model, and tracks the results. If conversions occur as anticipated, targeting criteria remains intact; if they don’t, the model makes adjustments and measures the results. These models are designed to focus campaign spend on the scenarios that drive the most business KPIs.
+
+Misconception #5: It takes way too much time to embark on data-driven marketing
+
+A lot of marketers I talk to believe that data-driven marketing is a huge endeavor that requires a 12- to 18-month lead time. The truth: thousands of mid-size organizations, both in and out of the financial services sector, create models, design offers and execute campaigns within 30 days using a datamart described above.
+
+Keep in mind that although it may take just a few weeks to design and execute a campaign, all models need time to learn. In my experience, models that are given at least 90 days tend to deliver the best results (but since campaigns tend to have multi-quarter flight dates, this isn’t a problem).
+
+While your particular path and level of marketing maturity may differ, taking advantage of the trickle-down effect with marketing and organizing your efforts around the modern consumer first will yield far better results than remaining married to theses misconsceptions.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Many marketers representing mid-market financial services companies labor under the impression that due to their size and scope, the data-driven marketing tactics used by the dominant players are simply out of reach for them.
+Data, analytics, technology and the overall process that supports data-driven marketing have undergone significant (dare I say radical?)
+Today’s mid-size financial services organizations can now execute marketing initiatives that rival those of banking giants.
+The first step in encouraging more marketers from mid-size organizations to consider data-driven marketing is to debunk the misconceptions I hear most frequently.
+With data-driven marketing, you can target consumers who live within your designated market area (DMA) and who purchase diapers or visit sites for new parents.
+
+Other Blogs by Michael Mathias: https://dataconomy.com/author/michael-mathias/

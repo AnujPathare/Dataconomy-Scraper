@@ -1,0 +1,144 @@
+Title: Enterprises, caution your “data in motion”
+
+Article Link: https://dataconomy.com/2022/09/14/data-in-motion-encryption-security-states/
+
+Author: Kerem Gülen
+
+Publish Date: 2022-09-14
+
+Article:
+The phrase “data in motion” refers to data traveling from one location to another. Many different kinds of networks can be utilized for data transportation in this way. Data in motion must be protected in order to increase the security of a network because a network often consists of several nodes with numerous clients interconnected to the same network. This procedure is known as encryption.
+
+What is data in motion?
+
+The process of moving digital information between locations, either within or between computer systems, is known as “data in motion,” also known as “data in transit” or “data in flight.” The phrase can also refer to data available for reading, accessing, updating, or processing and is kept in the RAM of a computer. One of the three data states—the other two being data at rest and data in use—is data in motion.
+
+A book called “Managing Data in Motion” stresses the importance of data in motion:
+
+“The average enterprise’s computing environment is comprised of hundreds to thousands computer systems that have been built, purchased, and acquired over time. The data from these various systems needs to be integrated for reporting and analysis, shared for business transaction processing, and converted from one format to another when old systems are replaced and new systems are acquired. The data from these various systems needs to be integrated for reporting and analysis, shared for business transaction processing, and converted from one format to another when old systems are replaced and new systems are acquired.”
+
+The process of moving digital information between locations, either within or between computer systems, is known as data in motion
+
+How do you handle data in motion?
+
+Many distinct network types are compatible with data in motion:
+
+Data is sent from a web-facing service in a public or private cloud to an internet-connected device.
+
+Data travels across both reputable private networks and dubious public networks, like the internet.
+
+Data that is transferred between integrations and applications. Once the data arrives at its final destination, it becomes data at rest.
+
+Data is being transferred between virtual computers inside and outside of cloud services.
+
+Data in motion is a crucial notion in data protection for companies and for adhering to legislative requirements like PCI DSS or GDPR. For individuals who work in big data analytics, data in motion is especially crucial since processing data enables an organization to evaluate and understand trends as they emerge.
+
+Data in motion is a crucial notion in data protection for companies and for adhering to legislative requirements like PCI DSS or GDPR
+
+Data in motion encryption
+
+If data is not encrypted when being sent between devices, it could be intercepted, obtained, or leaked. Data in motion is frequently encrypted to prevent interception because it is susceptible to man-in-the-middle attacks, for instance. Whenever data travels across any internal or external networks, it should always be encrypted.
+
+Data replication: One of the most powerful instruments to protect a company’s data
+
+The following techniques can be used to encrypt data in motion:
+
+HTTPS. HTTPS is typically used to secure internet connections, but it has also established itself as a common encryption method for communications between web hosts and browsers as well as between hosts in the cloud- and non-cloud contexts.
+
+HTTPS is typically used to secure internet connections, but it has also established itself as a common encryption method for communications between web hosts and browsers as well as between hosts in the cloud- and non-cloud contexts. Cryptography. Users that utilize cloud-based services may additionally encrypt their own data while it is in the cloud using a variety of encryption techniques. For key exchange and content confidentiality, for instance, symmetric cryptography is sometimes utilized. The conventional encryption levels and strengths are strengthened and improved by this method.
+
+IPSec. Internet Protocol Security is used by the Internet Small Computer System Interface transport layer to protect data while it is in motion (IPSec). To prevent hackers from seeing the contents of the data being sent between two devices, IPSec can encrypt the data. Due to the fact that IPSec employs cryptographic techniques like Triple Data Encryption Standard (Triple DES) and Advanced Encryption Standard, it is widely utilized as a transit encryption protocol for virtual private network tunnels (AES). Encryption technologies can also be integrated with existing enterprise resource planning systems to keep data in motion secure.
+
+Asymmetric encryption. With this technique, a message is encrypted and decrypted using one public key and one private key. This is done to prevent the message from being read or used by unauthorized parties. When a sender encrypts a message with their private key, only their public key may decrypt the message, authenticating the sender. The encryption and decryption procedures are also automatic. Asymmetric cryptography is used by many protocols, such as Transport Layer Security (TLS) and Secure Sockets Layer (SSL), to enable HyperText Transfer Protocol Secure (HTTPS).
+
+TLS and SSL. TLS and SSL are two of the most well-known cryptography applications for data in motion. TLS offers a transport layer as an encrypted conduit between message transfer agents or email servers. On the other hand, SSL certificates use public and private keys to encrypt private conversations sent over the internet.
+
+If data is not encrypted when being sent between devices, it could be intercepted, obtained, or leaked
+
+Why is data in motion important?
+
+Big data analytics heavily relies on data in motion. An organization may benefit from processing this data in real-time to analyze current trends as they emerge. However, processing this form of data is more challenging, necessitating the adoption of novel techniques than for data that is at rest. An organization’s ability to get insightful information from data in motion is a crucial advantage.
+
+How many types of data are there?
+
+Structured and unstructured data are categorized into three states. Data can be in three different states: data at rest, data in motion, and data in use. Data can change states frequently and quickly, or it can stay in one state for the duration of a computer’s life. Organizations can handle sensitive information more safely by recognizing the traits and variations among data states.
+
+Data mature businesses are more profitable than others
+
+Data center administrators (DCAs) used to spend a lot of time maintaining data that was at rest, especially in market sectors with heavy compliance requirements. However, the extent to which businesses today rely on real-time analytics has increased the importance of managing data in use.
+
+Data can be in three different states: at rest, in motion, and in use
+
+What are the 3 states of data?
+
+There are 3 states of data: Data at rest, data in motion, and data in use. Let’s review each and one of them below.
+
+Data at rest
+
+Computer experts refer to all data in computer storage that is not currently being accessed or transferred as “data at rest.” Although some data may be kept in reference or archived files where it is infrequently or never read or moved, data at rest is not in a fixed state. The hard drive of a worker’s computer, files on an external hard drive, information left in a storage area network (SAN), or files on the servers of an off-site backup service provider are all examples of data at rest.
+
+In contrast to data in the other states, data at rest is regarded as stable. It is not being processed by a CPU or transferred between systems or devices. Data is deemed to have arrived at its destination when it is at rest.
+
+Business processes need data management for their continuous improvement
+
+Data encryption, hierarchical password protection, secure server rooms, and outside data protection services are just a few of the safeguards used by companies, government organizations, and other institutions to stop threats posed by hackers to data that is at rest. Information that is stored at rest is further protected by multifactor authentication and stringent data security standards for employees. Specific security precautions are required by law for some data categories, such as medical records.
+
+Data in motion
+
+Data in motion is any information that is traveling or being transferred between points on one computer system or another. It can also refer to information that is stored in RAM and is available for updating, processing, accessing, and reading. Migrating from one network to another or between cloud storage and a local file storage location is also seen as moving data. Data in motion can go across a cable connection, wireless link, or even within a computer system. Additionally, emails and files moved between folders on an FTP server are regarded as data in motion.
+
+Data in motion can go across a cable connection, wireless link, or even within a computer system
+
+Data in motion should be encrypted to prevent hackers from intercepting it, just like data in the other common states. Encrypting the data before it is transferred (when it is in a state of data at rest) or encrypting the path the data is sent along are two common types of encryption for data in motion.
+
+Data in use
+
+Data that is currently being updated, processed, accessed, and read by a system is known as data in use. This is the condition at which data is most susceptible to assaults and when encryption is most necessary since data in use is immediately accessible by one or more users. Along with encryption, solid identity management, up-to-date permissions for organizational profiles, and user authentication at all stages are some additional critical safeguards for data in use. Organizations frequently need their employees to sign non-disclosure agreements on safeguarding the data they have access to in addition to the digital forms of protection.
+
+Data in motion vs data at rest
+
+Data is always in motion in today’s digital workplaces. Employees send and receive data daily via email, online coworking spaces, and messaging programs. The solutions they utilize can be collaborative tools sanctioned by the organization, but they can also shadow IT—personal services that people use at work secretly from their employers.
+
+Data is therefore regarded as being less secure while in motion. In addition to being exposed to transfer across potentially unsafe routes, it also leaves the protection of corporate networks, travels to perhaps unsafe locations, and is exposed to Man-in-the-Middle (MITM) cyberattacks that target data as it moves.
+
+Cybercriminals are frequently more drawn to data at rest because it ensures a larger payoff than smaller data packets in transit
+
+Data at rest is less vulnerable than data in motion since it is not exchanged over the internet and stays inside the boundaries of corporate networks and their security environment. Cybercriminals, however, are frequently more drawn to data at rest because it ensures a larger payoff than smaller data packets in transit. Malicious insiders who want to harm a company’s reputation or steal data before moving on to a new job frequently target data that is at rest.
+
+How AI and data analytics impact the era of COVID-19
+
+Despite not being exchanged over the internet, data at rest nevertheless travels. Data at rest was placed in a particularly vulnerable position during the COVID-19 pandemic as more and more work computers were removed from the security of office settings and placed in the low-security environs of homes.
+
+Employee error can happen to data that is at rest or in motion. A moment of employee carelessness can expose data to a data breach or leak, regardless of whether the data is stored locally or sent over the internet.
+
+Data in motion examples
+
+Data in motion can be copied from one app to another or downloaded from a web browser to a local app and moved to other locations on the same machine. Additionally, it can be moved physically across short or long distances via portable storage devices like USB flash drives or through cloud services like email.
+
+Data in motion can be copied from one app to another or downloaded from a web browser to a local app and moved to other locations on the same machine
+
+Data in motion security risks
+
+Two major categories can be used to describe data in motion. The first is the virtual data transmission inside a private network’s confines. Firewalls and other internal data protection techniques secure this information to some extent. Information that is transported outside of the organization falls under the second category. Data in motion is most vulnerable when it is transported outside of an organization’s or private network since it is occasionally processed across shaky networks like the internet or through auxiliary devices that, if handled incorrectly, can be made accessible to unauthorized viewers.
+
+Key takeaways
+
+Big data analytics heavily relies on data in motion.
+
+An organization may benefit from processing this data in real-time to analyze current trends as they emerge.
+
+This type of data processing is particularly challenging, hence different strategies must be applied than for data that is at rest.
+
+An organization’s ability to get insightful information from data in motion is a crucial advantage.
+
+Conclusion
+
+With the current state of big data, you need data in motion to respond swiftly. Data must be transferred from one place to another in order to complete a credit card transaction or send an email. In a database in your data center or the cloud, data is at rest when it is kept there. Data, on the other hand, is in motion when it is transferred between two resting locations.
+
+Summary: One of the three data states—the other two being data at rest and data in use—is data in motion.
+For individuals who work in big data analytics, data in motion is especially crucial since processing data enables an organization to evaluate and understand trends as they emerge.
+Data can be in three different states: data at rest, data in motion, and data in use.
+There are 3 states of data: Data at rest, data in motion, and data in use.
+Data in motion vs data at restData is always in motion in today’s digital workplaces.
+
+Other Blogs by Kerem Gülen: https://dataconomy.com/author/kerem-gulen/

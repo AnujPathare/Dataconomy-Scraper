@@ -1,0 +1,122 @@
+Title: A Data Scientist’s relationship with building Predictive Models
+
+Article Link: https://dataconomy.com/2019/10/16/a-data-scientists-relationship-with-building-predictive-models/
+
+Author: Josh Poduska
+
+Publish Date: 2019-10-16
+
+Article:
+If you’re a Data Scientist, you’ve likely spent months earnestly developing and then deploying a single predictive model. The truth is that once your model is built – that’s only half the battle won.
+
+
+
+A quarter of a Data Scientist’s working life often goes something like this: You met with business stakeholders to scope the model and what it should do. You gathered, ingested, explored, and prepped the data. You iteratively built, tested, and tweaked the model. And then — just when you finally hit the AUC (Area Under the Curve) threshold you had been targeting — you shared it with business stakeholders, and chances are, it wasn’t exactly what they had in mind.
+
+
+
+So, you started the process over again. And finally, after countless iterations and reviews, your model was ready for production.
+
+
+
+From there, you worked with the Engineering or the IT team to operationalize the model — whether that meant building an app, integrating into another system, or serving insights to business decision-makers through a chart or graph. Chances are, your code had to be rewritten in another programming language to meet the requirements of your production environment. But you worked through it and — ta-da! — your model is running.
+
+
+
+Organizations that invest in Data Science can and should expect that a lot of time and energy will be dedicated to a single model before it even starts to impact the business. But then what? What happens to a model once it’s been deployed, whether serving insights to humans or triggering automated workflows that directly impact end customers?
+
+Organizations’ management of models once they’re in production is critical to maximizing their impact.
+
+Most Data Scientists today would say the core of their job is building a model. Team’s incentive structures often reflect this, with one Data Scientist saying, “I get paid for what I build this year, not maintaining what I built last year.”
+
+
+
+Once a model has been deployed in production, its ownership transfers to either business IT or data science management. But too often, those tasked with managing production models are not equipped to keep close tabs on how they’re using key resources or maintain visibility to their models in production. The default is a “set it and forget it” mentality. This is dangerous and severely limits the impact of an organization’s data science efforts.
+
+
+
+In the context of a broader model management framework, we refer to the pillar that allows an organization to keep a finger on the pulse of the activity, cost, and impact of each model as “model governance.”
+
+Governance is key to any mission-critical system, however governing a growing, complex systems of models is particularly difficult for a few reasons:
+
+
+
+
+
+Rapidly evolving toolkits: Models use computationally-intensive algorithms that benefit from scalable compute and specialized hardware like GPUs, and they leverage packages from a vibrant and constantly innovating ecosystem. Data Scientists need extremely agile technology infrastructure to accelerate research. Most enterprise IT organizations are accustomed to provisioning new servers in a flexible and automated manner leveraging Continuous Integration – Continuous Deployment (CI/CD) processes, but Data Scientists aren’t used to following CI/CD processes or including DevOps in the model building cycle until they are ready to deploy. When IT engineers can’t respond to an overwhelming volume of requests immediately before a critical deployment, data scientists seek to create their own shadow IT to support their models.
+
+
+
+
+
+Models use computationally-intensive algorithms that benefit from scalable compute and specialized hardware like GPUs, and they leverage packages from a vibrant and constantly innovating ecosystem. Data Scientists need extremely agile technology infrastructure to accelerate research. Most enterprise IT organizations are accustomed to provisioning new servers in a flexible and automated manner leveraging Continuous Integration – Continuous Deployment (CI/CD) processes, but Data Scientists aren’t used to following CI/CD processes or including DevOps in the model building cycle until they are ready to deploy. When IT engineers can’t respond to an overwhelming volume of requests immediately before a critical deployment, data scientists seek to create their own shadow IT to support their models. Research-based development: The process to develop models is different from well-established approaches to software engineering or data management. Data Science is research — it’s experimental, iterative, and exploratory. You might try dozens or hundreds of ideas before getting something that works. In software development, such false starts and dead ends are not preserved. When you make a mistake, it’s a bug. In Data Science, a failure can be the genesis of the next breakthrough. IT organizations that presume their source control and database access systems are sufficient will fail to capture critical metadata and documentation.
+
+Probabilistic behavior: Unlike software, which implements a specification, models prescribe action based on a probabilistic assessment. Statistician George Box captured the difference well saying, “All models are wrong but some are useful.” Models have no “correct” answer — they just have better or worse answers once they’re live in the real world. And while nobody needs to “retrain” software, models should change as the world changes around them. Organizations need to plan for rapid iteration and establish tight feedback loops with stakeholders to mitigate the risk of model drift.
+
+Given these unique characteristics of models, existing processes and technology for managing them are often insufficient, leaving organizations vulnerable to inefficiencies and risks. The result? Long cycle times to deploy a revolving door of “buggy” models that don’t communicate with the rest of the technology ecosystem and don’t reflect the current state of the world. This directly threatens the business’ competitive advantage that could have been achieved through effective model management. This is why a new capability of model governance is critical.
+
+
+
+What is model governance?
+
+Model governance is the Data Science management function that provides visibility into Data Science projects, models, and their underlying infrastructure. High-functioning Data Science organizations implement model governance to keep tabs on models that are in development and running in production to ensure they’re doing what they’re supposed to be doing, and impacting the business as they should.
+
+
+
+While governance sounds antithetical to the experimental ideals of data science, it is required to make sure the Data Science team is delivering business value and mitigating risk that can undermine the transformative potential of models.
+
+How will model governance change your world?
+
+Data Science leaders gain real-time transparency into the aggregate model portfolio and impact, rather than wondering exactly how many models are in-development and bemoaning perpetually outdated model inventories. Transparency into models can also help Data Science leaders quickly identify and address model bias before it presents a problem.
+
+
+
+
+
+gain real-time transparency into the aggregate model portfolio and impact, rather than wondering exactly how many models are in-development and bemoaning perpetually outdated model inventories. Transparency into models can also help Data Science leaders quickly identify and address model bias before it presents a problem. Data Scientists — especially those early in their careers — can clearly see how their work is used (and potentially misused). They no longer underestimate the risks of models or wonder how their work fits into the broader organization.
+
+
+
+
+
+can clearly see how their work is used (and potentially misused). They no longer underestimate the risks of models or wonder how their work fits into the broader organization. IT establishes an alignment with Data Science, and both groups gain granular knowledge of where key resources are used and how they can be used more efficiently. Clashes between the two groups stemming from difficulties forecasting compute resources and software, leading to missed budgets or wasted resources, are minimized or eliminated entirely. Concerns over security of the data used in models are also alleviated with complete provenance provided by model governance.
+
+
+
+
+
+establishes an alignment with Data Science, and both groups gain granular knowledge of where key resources are used and how they can be used more efficiently. Clashes between the two groups stemming from difficulties forecasting compute resources and software, leading to missed budgets or wasted resources, are minimized or eliminated entirely. Concerns over security of the data used in models are also alleviated with complete provenance provided by model governance. Infrastructure teams get real-time mapping of their model graph, encompassing all of the dependencies and linkages across critical system artifacts. They no longer have to deal with CACE (change anything, change everything) problems and the unknown risk to downstream models and systems.
+
+Who is ultimately responsible for this?
+
+Multiple stakeholders across the business should be involved to ensure model governance is successful — from Data Science practitioners to IT to line of business stakeholders to compliance teams. The Data Science leader who is tasked with growing Data Science as a function within most companies is responsible for establishing and enforcing a model governance policy.
+
+How do I get started?
+
+Investing in a holistic model management strategy — that emphasizes model governance — leads to maximizing the impact of Data Science across the organization. As you think about model governance, in particular, you should first tackle challenges around model visibility. Here are some important tasks that can get you started on the right path:
+
+
+
+Build and keep an inventory of all models that are in production.
+
+Identify the production models that haven’t been reviewed and/or updated in a long time. What’s considered a “long time” is relative to your business and the unique purpose of each model, but generally speaking, three months is a good benchmark. Pay particular attention to those models operating in situations that may have changed significantly since the model was built.
+
+Get stakeholders across the business involved, and work together to agree on a feedback mechanism that can be standardized to streamline improvements to production models moving forward.
+
+Maintain an audit trail of all models in production and how they were built. Whenever changes are made to a model, track that in your audit log. This is a best practice for knowledge management generally and is required if you operate in a regulated industry.
+
+Keep track of not just the models themselves and their code derivations, but also the artifacts associated with them — such as charts, graphs, interesting insights, or even feedback provided along the way from stakeholders.
+
+Consider investing in a data science platform that can streamline and automate many of these tasks.
+
+Final Thoughts
+
+Building models continues to be a critical element of a Data Scientist’s job. However, for companies looking to rapidly scale their organizations and build a competitive advantage with Data Science, model governance should be at the top of their mind. It’s better to build it proactively than wait until you are responding to a crisis. Not only does model governance mitigate downside risks, but it also helps your organization become increasingly productive as the organization grows.
+
+Summary: Most Data Scientists today would say the core of their job is building a model.
+But too often, those tasked with managing production models are not equipped to keep close tabs on how they’re using key resources or maintain visibility to their models in production.
+This is dangerous and severely limits the impact of an organization’s data science efforts.
+Model governance is the Data Science management function that provides visibility into Data Science projects, models, and their underlying infrastructure.
+The Data Science leader who is tasked with growing Data Science as a function within most companies is responsible for establishing and enforcing a model governance policy.
+
+Other Blogs by Josh Poduska: https://dataconomy.com/author/jp/

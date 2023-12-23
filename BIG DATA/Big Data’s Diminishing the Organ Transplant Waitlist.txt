@@ -1,0 +1,44 @@
+Title: Big Data’s Diminishing the Organ Transplant Waitlist
+
+Article Link: https://dataconomy.com/2014/07/24/big-datas-diminishing-organ-transplant-waitlist/
+
+Author: Eileen McNulty
+
+Publish Date: 2014-07-24
+
+Article:
+Last year, 28,594 organs were transplanted in the US. Although this seems like an impressive number, it pales in comparison to the number of people who currently need an organ transplant, which is over 120,000. 18 people die each day waiting for an organ according to United Network for Organ Sharing, the non-profit that manages the U.S.’s organ transplant system. Doctors and mathematicians have turned to data to combat the constant donor shortage, and think the solution might lie in an algorithm.
+
+Organs can come from living or dead donors. Living donors, obviously, have a much more limited list of organs they can donate- one kidney, or a part of their liver. Kidneys last 9 years longer on average when taken from a living patient, and require lower doses of pernicious anti-rejection drugs. Yet, roughly 80% of organs donated last year came from the deceased. Donors or candidates in approximately one-third of potential kidney transplants are deemed incompatible, due to mismatched blood and tissue types.
+
+If no immediate donor can be found, the patient goes onto a wait list, the order of which is determined by a MELD score (a data-driven ranking of how severe a patient’s condition is). When an organ becomes available, it goes to the patient with the most severe MELD score, who is geographically closest and who is compatible.
+
+But economist Alvin Roth saw a potential to improve the number of donors with match theory. He began working on an algorithm, based on match theory, to find organs for previously incompatible pairs. For instance, if a husband wants to give his wife a kidney (Pair A), but are incompatible, the algorithm aims to find a donor in Pair B whose compatible with the wife in Pair A, but who isn’t compatible with his partner in Pair B.
+
+“Kidney paired donation is a way for more kidneys to come into the system and for more people to get a living donor transplant, which has benefits like longer graft survival and a higher likelihood to function immediately,” says Ruthanne Leishman, program manager for UNOS’ and the Organ Procurement and Transplantation Network’s Paired Kidney Donation Program.
+
+“You donate for someone instead of to someone. It has a great impact and the potential for more impact”.
+
+This dataset may seem deceptively simple, but when you break transplants down to the granular level of antibodies, it becomes increasingly complex. “It’s easy enough to look at blood groups, but a lot of the people who are waiting for a kidney transplant have developed antibodies,” Leishman says. “You really need the power of a computer where you can enter blood type, antibody information of the candidate and the antigen information of the donor.”
+
+In 2000, only two “paired” transplants of this sort were carried out. Today, more than 2,897 have been completed, with 500 happening in the last two years- evidence, Leishman says, of the algorithm’s effectiveness and increased use.
+
+Tuomas Sandholm took the initiative one step further in 2005 when he, along with fellow Carnegie Mellon professor Avrim Blum and graduate student David Abraham, developed a computational model to cluster together 10,000 pairs in 2-, 3-, and 4-way swaps.
+
+“Organ exchange is a clever and rapidly growing form of transplantation that addresses the shortage in deceased-donor organs and the incompatibility of donors and patients in live donation,” Sandholm says. “It has been extremely interesting and satisfying to design these markets and the algorithms that power them. The newest algorithms from our research automatically learn to match better in a dynamic setting.”
+
+Four years ago, UNOS launched its Kidney Paired Donation Program that used Sandholm and his team’s algorithm. Since then, it’s led to 97 transplants, with over a dozen scheduled for the coming months.
+
+Let’s hope that as such algorithms become more widely-used, the list of people desperately waiting for a life-saving transplant decreases.
+
+Read more here.
+
+(Image credit: Flickr)
+
+Summary: Although this seems like an impressive number, it pales in comparison to the number of people who currently need an organ transplant, which is over 120,000.
+18 people die each day waiting for an organ according to United Network for Organ Sharing, the non-profit that manages the U.S.’s organ transplant system.
+Living donors, obviously, have a much more limited list of organs they can donate- one kidney, or a part of their liver.
+Donors or candidates in approximately one-third of potential kidney transplants are deemed incompatible, due to mismatched blood and tissue types.
+“It’s easy enough to look at blood groups, but a lot of the people who are waiting for a kidney transplant have developed antibodies,” Leishman says.
+
+Other Blogs by Eileen McNulty: https://dataconomy.com/author/eileen-mcnulty/

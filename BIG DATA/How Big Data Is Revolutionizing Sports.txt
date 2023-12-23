@@ -1,0 +1,44 @@
+Title: How Big Data Is Revolutionizing Sports
+
+Article Link: https://dataconomy.com/2018/01/24/big-data-revolutionizing-favorite-sports-teams/
+
+Author: Ryan Ayers
+
+Publish Date: 2018-01-24
+
+Article:
+Imagine you’re a quarterback and you’ve just stepped off the field. Your team has lost. You could look at it as a failure and call it a day – or you could look at it as an opportunity to improve. How? Embedded in your jersey are sensors that have tracked your every move, and the data contained within them will help you make the next game different.
+
+Yes, data is now being collected in sports across the world to help guide teams to victory. Whether you’re a basketball fan based in the United States, or a football fan in Europe, you can expect to see big data increasingly influencing this massive industry. Globally, the professional sports market is worth over $90 billion; this offers a big opportunity for big data. Just as other industries are using data to reach and connect with their audiences, so is athletics to enhance both the player, organization and fan experience.
+
+The Uses of Big Data in Sports
+
+Data can be shared and used on an extremely granular level, enhancing the experience of professional sports for all parties involved. Instead of relying on intuition, experience and anecdotes, sports participants and enthusiasts can examine data that tells the real story to help with every aspect of the game – from player recruitment to fan engagement.
+
+Baseball was one of the first sports to get the big data treatment. The famous story of the Oakland Athletics, popularized in Michael Lewis’s book Moneyball, showed the power of big data in sports as it depicted the revitalization story of a struggling team using evidence-based recruitment tactics. Data helped the A’s general manager Billy Beane pick his talent based on the numbers, not the gut – and to great success. Today, big data-based recruitment is picking up speed, with Irish startup Profile 90 introducing a multifaceted talent identification platform that evaluates physical, mental and social factors to help teams make smart recruitment decisions.
+
+Big data is more of a long game in some contexts, setting the stage for the future rather than the present. In the ultra-competitive Olympics, where training is a full-time job, athletes are looking for any edge they can get along the way. Coaches are beginning to collect training data on young athletes, hoping to gain some insight into what makes top athletes succeed in the Olympics, and which factors play the biggest role. This data is also helping Olympic competitors learn more about the challenges they face during training, such as the clash between strength training and endurance training for rowers.
+
+The Role of Social Media
+
+On the fan side of things, nowhere is there a bigger source of data than social media. Of course, fans can use these platforms to interact and find more information about their favorite teams – but that’s not even the biggest role of social media in athletics. Universities and pro sports teams can leverage data from social media to attract and engage fans, encouraging them to buy tickets and attend games.
+
+University programs have the most to gain from using social media, since many users of social platforms tend to be young adults. Currently, many of these programs don’t have the technological resources to leverage data from these platforms. The future is looking bright, however, as more schools are beginning to see the important role of social media data in driving engagement with their athletic programs. In fact, now 84% of all universities have Twitter and use it to attract millennial students and fans. This trend is becoming so popular that even professional sports teams often market ticket sales directly to millennials who typically make purchases through social media platforms.
+
+The Future of Big Data in Athletics
+
+We’ve only scratched the surface with use cases of big data and sports, and that’s the most exciting thing moving forward. Every bit of data that is being collected now could be of use in the future, with many applications still in their early stages.
+
+Wearables, for example, can help monitor players on the field and are becoming increasingly advanced as time goes on, even becoming integrated in players’ uniforms! Coaches can already check on players’ fatigue and hydration levels. As these devices become smarter, player safety and performance will also be tracked, analyzed and improved.
+
+Data from fans will continue to influence marketing efforts and decisions about sporting events, such as when to schedule games and how to cater to fan preferences. Advances in big data can even lead to career opportunities for avid fans with a talent for numbers. The possibilities are endless for coaches, players and fans – and we’ll only continue to see data playing a larger role in sports moving forward. Keep an eye out for big data advancements with your favorite team!
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Summary: Globally, the professional sports market is worth over $90 billion; this offers a big opportunity for big data.
+Baseball was one of the first sports to get the big data treatment.
+Big data is more of a long game in some contexts, setting the stage for the future rather than the present.
+The Future of Big Data in AthleticsWe’ve only scratched the surface with use cases of big data and sports, and that’s the most exciting thing moving forward.
+Keep an eye out for big data advancements with your favorite team!
+
+Other Blogs by Ryan Ayers: https://dataconomy.com/author/ryan-ayers/

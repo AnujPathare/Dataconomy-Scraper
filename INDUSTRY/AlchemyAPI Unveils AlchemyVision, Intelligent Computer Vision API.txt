@@ -1,0 +1,28 @@
+Title: AlchemyAPI Unveils AlchemyVision, Intelligent Computer Vision API
+
+Article Link: https://dataconomy.com/2014/05/14/alchemyapi-unveils-alchemyvision-intelligent-computer-vision-api/
+
+Author: Eileen McNulty
+
+Publish Date: 2014-05-14
+
+Article:
+Alchemy API is branching out from its usual realm of natural-language processing and into the world of computer vision. Its new product, Alchemy Vision, is the first computer vision API on the market to understand complex visual scenes without textual clues. Using the pixel content, AlchemyVision can recognise multiple objects and concepts within in image for more comprehensive image tagging and classification.
+
+“Many visual analysis applications today rely on tedious and expensive tagging of images by hand,” said Elliot Turner, founder and CEO of AlchemyAPI, Inc. “This new ability to understand visual scenes in their broader context opens the era where applications automatically extract knowledge from the billions of images we can access with our devices. AlchemyVision represents the first API capable of truly acting upon all of this information.”
+
+The first function of AlchemyVision which is now available is the Image Tagging API, capable of processing millions of photos every hour. There is clear demand for such a classification tool when you consider the amount of photos shared every day is set to double to over 1 billion in the next 12 months. Unstructured data is big business, and a tool such as AlchemyVision for hasty classification and management could prove to be exceptionally profitable. What’s more, AlchemyVision’s knowledge-base of concepts is constantly expanding. When Alchemy API demoed AlchemyVision in September, it could recognise and understand around 1,000 visual concepts; today, that number has exceeded 10,000.
+
+It is hoped this ability to classify and manage images will have beneficial practical applications in the retail sector. ‘As shoppers become increasingly comfortable making their purchases online, major brands are driving a large amount of sales through eCommerce offerings,’ said Aviel Ginzburg, CPO and Co-Founder of Simply Measured. ‘It’s important that we provide brands a way to track which campaigns resonate and drive action online. The ability to track and measure everything in a campaign, including the images used, gives brands a competitive advantage when targeting customers and driving sales.’ Moving forward, AlchemyAPI are also looking develop APIs for image search, text extraction, and recognizing faces and logos.
+
+Read more here.
+
+(Photo credit: Screenshots from the AlchemyVision Demo)
+
+Summary: Alchemy API is branching out from its usual realm of natural-language processing and into the world of computer vision.
+Its new product, Alchemy Vision, is the first computer vision API on the market to understand complex visual scenes without textual clues.
+Using the pixel content, AlchemyVision can recognise multiple objects and concepts within in image for more comprehensive image tagging and classification.
+AlchemyVision represents the first API capable of truly acting upon all of this information.”The first function of AlchemyVision which is now available is the Image Tagging API, capable of processing millions of photos every hour.
+When Alchemy API demoed AlchemyVision in September, it could recognise and understand around 1,000 visual concepts; today, that number has exceeded 10,000.
+
+Other Blogs by Eileen McNulty: https://dataconomy.com/author/eileen-mcnulty/

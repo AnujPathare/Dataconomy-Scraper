@@ -1,0 +1,46 @@
+Title: GDPR and the skills gap that could cost you €20million
+
+Article Link: https://dataconomy.com/2017/08/23/gdpr-skills-gap/
+
+Author: Yariella Coello
+
+Publish Date: 2017-08-23
+
+Article:
+It’s not new news that Europe is suffering from a near-chronic skills gap. It’s been going on for a while now, with industry experts and government bodies all scratching their heads over how to solve it. The problem is about to get a whole lot worse, as the soon-to-be-enforced General Data Protection Regulation (GDPR) will turn the skills gap into a chasm.
+
+GDPR breaches can cost up to €20million
+
+Under GDPR, your business could be one mistake away from a breach that could cost you up to €20million or 4% of your global revenue. A fine-worthy breach includes data hacks, loss or misuse of data. ‘Misuse’ covers a number of sins that employees lacking in the right technical knowledge risk committing every day.
+
+To make the issue even worse, to prepare for GDPR itself you’re going to need staff that are adequately trained in data protection, data management and GDPR compliance. As GDPR affects nearly every company in the EU (and those that do business with EU citizens), people who have knowledge of all of the above are going to be in extremely high demand.
+
+Data literacy training from within
+
+For some companies, it will make sense to nurture and develop staff from within. A quick search online brings up several GDPR training courses you can send your IT team and other technical staff on so they can get clued up on GDPR and its requirements. Some businesses will need a dedicated Data Protection Officer (DPO). Again, because of the vast number of businesses affected, DPOs are going to be in high demand. One solution for smaller businesses that cannot afford to fight for a DPO is to appoint a third-party who can act like one.
+
+There is the further issue of your staff potentially leaking customer data, misusing it or storing it incorrectly. As part of your GDPR preparations, you will have to ensure all staff are aware of GDPR, its implications and what GDPR-compliance looks like. You’ll have to go into detail over what constitutes a breach, as well as put in place policies on bring-your-own equipment and data governance that all staff will have to be trained in.
+
+There’s no one-size-fits-all type of training that will speak to all your employees. Therefore, you should consider holding a few different training sessions with your employees based on how tech literate they are and how clued up they are on GDPR. You’ll also have to schedule in regular refresher sessions in case anything changes and to really ensure compliance and include GDPR in induction sessions for new employees. The emphasis here is to do several different levels of workshop, however, a fresh faced graduate who has grown up surrounded by email, social media and smartphones is going to handle GDPR readiness very differently to someone who isn’t quite as confident with technology.
+
+Organiztations should focus on solid data infrastructures
+
+Between setting up employee training and finding yourself a DPO, it’s very easy to forget about the main preparations for GDPR readiness. That is, getting your data infrastructure up to standard as well. Privacy by design will become the default approach, where you hold the minimum amount of data for the task you need to carry out. Likewise, you’ll need to carry out a data audit to ensure all your data is stored correctly and securely, is easily transferable when requested and has all the required consent.
+
+When beginning your GDPR preparations, you should firstly take a long hard look at your data infrastructure before training your staff. However, you don’t want a chicken and egg situation on your hands if your staff aren’t skilled enough to audit your infrastructure in the first place. This rings especially true for smaller businesses and start-ups. Again, to save yourself the hassle of trying to hire someone, it’s worth considering third parties who can audit your systems for you.
+
+Conclusion
+
+There’s a significant amount of work to be put in before the May 2018 deadline when GDPR is enforced. The skills gap only makes this mountain harder to climb. It makes sense to begin your preparations now before the impending deadline and skills gap makes it a sellers’ market. Invest in the right people now and it’ll pay off in the long run – and at the very least save your business from that €20 million fine.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: It’s not new news that Europe is suffering from a near-chronic skills gap.
+The problem is about to get a whole lot worse, as the soon-to-be-enforced General Data Protection Regulation (GDPR) will turn the skills gap into a chasm.
+GDPR breaches can cost up to €20millionUnder GDPR, your business could be one mistake away from a breach that could cost you up to €20million or 4% of your global revenue.
+The skills gap only makes this mountain harder to climb.
+It makes sense to begin your preparations now before the impending deadline and skills gap makes it a sellers’ market.
+
+Other Blogs by Yariella Coello: https://dataconomy.com/author/yariella-coello/

@@ -1,0 +1,32 @@
+Title: Travel Startup Hopper Uses Big Data to Find Cheaper Travel Options for Users
+
+Article Link: https://dataconomy.com/2014/12/09/travel-startup-hopper-uses-big-data-to-find-cheaper-travel-options-for-users/
+
+Author: Eileen McNulty
+
+Publish Date: 2014-12-09
+
+Article:
+Travel startup innovator Hopper is mining Big Data to help users to find the cheapest available travel options from across the web.
+
+Enunciates Chief Data Scientist Patrick Surry, “Every time you check a price, it’s different, it changes day-to-day, and people have no idea whether they’re getting a good deal. What we’re trying to do is bring some transparency to that, and the way we’re doing that is by working with billions of flight prices that we collect every day.”
+
+The research and data team at Hopper taps Apache HBase, Apache Hive, and Elasticsearch combinations to harness vast datasets available with sites like Expedia and Priceline, using which, it establishes reports analysed over large scales, that make sense of travel news and trends. With custom built tools it carries out flexible searching and offers interactive and information-rich results. “We provide a wealth of data about pricing, scheduling, and airlines for every origin-destination combination,” according to their website.
+
+Based in Boston and Montreal has landed funding several times, however Hopper is not looking for another round of funding. A mobile application is in the pipeline, reports CRN.
+
+Read more here.
+
+Follow @DataconomyMedia
+
+
+
+(Image credit: Hopper)
+
+Summary: Travel startup innovator Hopper is mining Big Data to help users to find the cheapest available travel options from across the web.
+Enunciates Chief Data Scientist Patrick Surry, “Every time you check a price, it’s different, it changes day-to-day, and people have no idea whether they’re getting a good deal.
+With custom built tools it carries out flexible searching and offers interactive and information-rich results.
+“We provide a wealth of data about pricing, scheduling, and airlines for every origin-destination combination,” according to their website.
+Based in Boston and Montreal has landed funding several times, however Hopper is not looking for another round of funding.
+
+Other Blogs by Eileen McNulty: https://dataconomy.com/author/eileen-mcnulty/

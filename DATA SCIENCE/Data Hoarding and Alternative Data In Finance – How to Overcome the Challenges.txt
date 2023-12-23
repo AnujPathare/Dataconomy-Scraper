@@ -1,0 +1,96 @@
+Title: Data Hoarding and Alternative Data In Finance – How to Overcome the Challenges
+
+Article Link: https://dataconomy.com/2017/01/02/data-hoarding-alternative-data/
+
+Author: Peter Hafez
+
+Publish Date: 2017-01-02
+
+Article:
+Financial institutions have become data hoarders
+
+Banks, hedge funds, and asset managers have become data hoarders. However, many of these firms find it difficult to make use of all of this data. They need tools that can be used to extract information from various internal unstructured content and to democratise its use: legal documents, emails, instant messages, news archives, analyst reports etc.
+
+An increasing number of firms are now embracing the cloud making it easier for vendors to come in and analyse proprietary content on their behalf. This new trend is primarily driven by the more sophisticated hedge funds and assets managers, since banks are often more restricted by their compliance.
+
+But it is challenging to make use of that data. Big data craze inspires firms to save every possible bit of data, with the misconception that the more data you have, the better. Firms must keep data (for compliance purposes) or often aren’t sure what information they need to keep. Having more data is not necessarily a good thing when you are not sure how it is going to accumulate or how to manage the data. There is hope that data hoarding, however, will eventually bear fruits when it comes to alpha generation – with the right help that is!
+
+Catching the Alternative Data Wave
+
+Much of the data hoarding actually comes from alternative data sources. The proliferation of social networks, mobile devices, IoT, low-cost sensors, and image-processing have led to an explosion of new and potential data sources. It is creating some interesting opportunities and new ways of harvesting signals for investors. A lot of this information is new. Financial institutions have been used to building models based on market and fundamental data. Alternative sources now offer a new way of getting insights into fundamentals – often on a real-time basis.
+
+But, what are these alternative data sources?
+
+News & Social Media – traditional news, microblogs, or unstructured data firehoses to understand what’s happening in the world. The most mature of these alternative datasets. It’s been around for awhile. Machine readable news and social media has already made its way into the quantitative process as a proven source of alpha
+
+Credit Card Transactions – anonymous aggregate transaction data to capture trends in consumer purchasing habits that can offer a daily reading on (expected) company revenues
+
+Satellite Data – image data from orbiting satellites to do things like measure farm health based on the color of crops, how many people are purchasing at Wal Mart or other retail stores as a result as counting the number of cars in a parking lot
+
+Internet of Things (IoT) – collected data from smart grids, smart cities, and shipping/transportation systems to measure in real-time supply and demand of resources or services
+
+Crowdsourced data – opinions from large groups of people especially from online communities/specialized social networks offering insights from the “wisdom of the crowd”
+
+Location/Foot Traffic Data – where consumers shop by measuring foot traffic via check-ins, mobile phone traffic, video analysis, etc.
+
+Local Prices – what’s happening to prices and inflation by aggregating data from measurements by people on the ground, specifically useful in remote areas where it’s more difficult to get data for crops or prices of specific services
+
+Peer lending data – lending/borrowing transactions for a more timely view of supply of capital or overindebtedness
+
+App Data – data from web/mobile to understand how people are interacting with their devices
+
+Weather Data – information utilizing sensors to measure how weather will influence our daily lives and choices, sensors are even placed inside of buildings to know how it really feels to be at certain places
+
+Alternative Data comes with its challenges
+
+It’s NOT about finding that one Big Data factor that you can simply plug into your model and you’re good to go. There are basically 3 challenges to overcome:
+
+Value: is there value in the data?
+
+Some of these datasets are so new that there is no professional or academic research, we don’t know if they work
+
+A lot of the information is at the product or service level, and not easily mapped to tradeable securities
+
+Relevance: can you use it as part of your investment process?
+
+The data is unstructured, hence requires NLP for text; or images require special processing through AI
+
+The history of these datasets is limited (even if we started to hoard data) so historical archive is not always large enough to make proper backtesting.
+
+We need to wait/accumulate until it’s testable
+
+Content integrity, providers were not contemplating selling it and we need to normalize datasets and put it into a format that is useful
+
+Capacity: does the data have capacity to be used, how much can you actually trade?
+
+Niche data, covering only limited number of stocks (ex: twitter only for stocks that people speak about), or retail / healthcare / tech focused
+
+Value erosion: the more users on these niche datasets, the more likely their basic value will be arbitraged away: need of sophisticated models
+
+But there are also many opportunities with Alternative Data
+
+It gives a way to:
+
+Innovate and develop differentiated portfolios, improve scalability and avoid crowded trades
+
+Explain things that we can’t understand at present with market data and fundamentals which we all have
+
+Measure new and interesting estimates, to create new factors or economic indicators
+
+Connect the dots between different data points by looking at what people are saying about an event, a competitor, a supplier, i.e. contagion effects across an entire network of tradeable securities
+
+And most importantly, predict more accurately than we do today
+
+This post appeared originally here
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Big data craze inspires firms to save every possible bit of data, with the misconception that the more data you have, the better.
+Catching the Alternative Data WaveMuch of the data hoarding actually comes from alternative data sources.
+But, what are these alternative data sources?
+News & Social Media – traditional news, microblogs, or unstructured data firehoses to understand what’s happening in the world.
+The most mature of these alternative datasets.
+
+Other Blogs by Peter Hafez: https://dataconomy.com/author/peter-hafez/

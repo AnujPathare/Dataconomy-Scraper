@@ -1,0 +1,60 @@
+Title: “I don’t think that you should approach big data as a solution in search of a problem”- Interview with Skimlinks Maria Mestre
+
+Article Link: https://dataconomy.com/2015/12/23/i-dont-think-that-you-should-approach-big-data-as-a-solution-in-search-of-a-problem-interview-with-skimlinks-maria-mestre/
+
+Author: Peadar Coyle
+
+Publish Date: 2015-12-23
+
+Article:
+
+
+I completed a PhD in signal processing at Cambridge developing models of user behaviour using brain data. After the PhD I joined Skimlinks as a data scientist, where I model online user behaviour and work on much larger datasets. My main role is implementing large-scale machine learning models processing terabytes of data.
+
+What project have you worked on do you wish you could go back to, and do better?
+
+I think that pretty much applies to any project you do as a data scientist. When you’re developing algorithms that become a service used by someone either internally or externally, I think it is best to use an iterative approach where you wait for some feedback from the client before doing any further improvements. I am a true believer of “lean data science”.
+
+What advice do you have to younger analytics professionals and in particular PhD students in the Sciences?
+
+I guess it depends what the advice is for. If it is for PhD students thinking about a career as a data scientist in industry, then I would strongly recommend them to get some experience working on real-world data at some point during the PhD. It is quite common in academia to work mainly on synthetic data. In addition to that, I would say it is important to keep a curious and open mind about the research carried out by other people, since it is very easy to only stay focused on your specific research project. For analytics professionals, I would say that learning how to code is quite useful, especially in a scripting language like Python. Knowing some classical statistics is also very helpful, if you want to learn how to apply a scientific approach to any type of data analysis.
+
+What do you wish you knew earlier about being a data scientist?
+
+There is not much I can think about, but maybe I wish I had spent more time using version control platforms, such as GitHub. During my PhD I had a very rudimentary version control method: copying my whole project into a different folder with today’s date. It was definitely not the best way of managing my project. In my current role we work on a shared Codebase and we need to keep track of changes, so I had to start using GitHub. I wish I had taken more time to learn how to use it properly before diving into it, as it would have saved me a lot of time.
+
+How do you respond when you hear the phrase ‘big data’?
+
+I say that’s boring, now it’s all about “massive data”! Now seriously, I have experienced big data at Skimlinks, where we run daily jobs on terabytes of data using Spark. I think “big data” is a real thing, but people sometimes believe they have it when they don’t, or if they have it, then they think they need to do something about it, but don’t know what. I don’t think that you should approach “big data” as a solution in search of a problem. You should always think of the problem first that you’re trying to solve, see if your data scale qualifies as “big data”, and then finally start using big data tools once you have defined all these parameters. It is a waste of time and resources to start using these tools just because they are fashionable and you’re scared of missing out.
+
+What is the most exciting thing about your field?
+
+I find solving real problems exciting, and if these problems are hard, then it is double as exciting. As a data scientist, you have to solve hard problems all the time, mainly because real data is never like in the textbooks! It is always biased, with missing columns or wrong values. Then, I also find it exciting to solve problems with large-scale data. It is very easy to use out-of-the-box Python libraries to run a machine learning algorithm, but what happens when you have to adapt that algorithm to run on 500 gigabytes? That’s when you need to start thinking creatively using the tools you already know to solve a new problem. You might even be the first person to solve such a problem!
+
+In more general terms, I think that machine learning will have a huge impact on our daily lives. We have already started seeing the effects now that we are always connected and use increasingly intelligent apps, but I think this is only the beginning.
+
+How do you go about framing a data problem – in particular, how do you avoid spending too long, how do you manage expectations etc. How do you know what is good enough?
+
+This is a great question, and one that I keep asking myself. As I said earlier, I believe in lean data science. What this means is that I believe you need to start with a very clear objective you are trying to solve and use an iterative approach over it, always gathering feedback from the end user. If possible, the end goal should be stated in clear objective metrics, like increasing the accuracy of a classifier by 10%, or make better recommendations in 20% of the cases. You know it’s good enough when the end user is happy. I also believe that sometimes when you look at a problem from a lot of different angles and don’t seem to make a lot of progress, it is good to document all the attempts, leave it on the side, and get back to it later with a fresh pair of eyes.
+
+How do you explain to C-level execs the importance of Data Science? How do you deal with the ‘educated selling’ parts of the job?
+
+As a data scientist, your role is not only to develop algorithms, but also to be an evangelist in your own company on the use of data science, and generally the scientific method. If you want to convince business people that data science is important, then the best you can do is talk business. You need to think of data science projects in terms of the value they can add to your business, either because they can increase conversion rates, or keep some customers happy, or make someone’s job in the company much easier… You can start by running small experiments and gather some results to show to the executives in your company. However, data science is not the solution to any problem, and sometimes a simple rule-based model could do the job just as well. It is important not to oversell what you can do, and be realistic about what you can offer.
+
+What is the most exciting thing you’ve been working on lately and tell us a bit about?
+
+Skimlinks is about to launch a new product in the coming weeks, and the data science team has been heavily involved in its making. I cannot say much about it unfortunately, but these are exciting times for the company. From a technical point of view, the last thing that I have done which was exciting was classifying 1.2 billion data points using Spark. I broke a personal record in terms of the size of the data involved.
+
+What is the biggest challenge of building a data science team?
+
+I would have to ask my manager, since I have never built a team myself. I have been involved in the hiring process though, and I think it is sometimes difficult to find the right combination of skills across the team. You want some people who have experience working with data, others than may be stronger in engineering. It is also important to manage people’s expectations about the role, since data scientists spend a lot of time doing data processing and setting up data pipelines before they can apply machine learning algorithms. It’s all part of the job!
+
+Like the Article? Subscribe to our weekly Newsletter.
+
+Summary: Now seriously, I have experienced big data at Skimlinks, where we run daily jobs on terabytes of data using Spark.
+I think “big data” is a real thing, but people sometimes believe they have it when they don’t, or if they have it, then they think they need to do something about it, but don’t know what.
+I don’t think that you should approach “big data” as a solution in search of a problem.
+If you want to convince business people that data science is important, then the best you can do is talk business.
+Skimlinks is about to launch a new product in the coming weeks, and the data science team has been heavily involved in its making.
+
+Other Blogs by Peadar Coyle: https://dataconomy.com/author/pcoyle/

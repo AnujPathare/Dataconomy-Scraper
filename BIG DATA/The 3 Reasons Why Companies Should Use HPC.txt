@@ -1,0 +1,66 @@
+Title: The 3 Reasons Why Companies Should Use HPC
+
+Article Link: https://dataconomy.com/2017/02/27/3-reasons-data-intensive-computing/
+
+Author: Barry Bolding
+
+Publish Date: 2017-02-27
+
+Article:
+Researchers have estimated that 25 years ago, around 100GB of data was generated every day. By 1997, we were generating 100GB every hour and by 2002 the same amount of data was generated in a second. We’re on trajectory – by 2018 – to generate 50TB of data every single second – the equivalent of 2000 Blu-ray discs – a simply mind-boggling amount of information.
+
+While the amount of data continues to skyrocket, data velocity is keeping pace. Some 90% of the data in the world was created in the last two years alone, and while data growth and speed are occurring faster than ever, data is also becoming obsolete faster than ever.
+
+All of this leads to substantial challenges associated with identifying relevant data and quickly analyzing complex relationships to determine actionable insights. Which certainly isn’t easy, but the payoff can be substantial. CIOs gain better insight into the problems they face daily, to ultimately better manage their businesses.
+
+Predictive analytics has become a core element behind making this possible. And while machine learning algorithms have captured the spotlight recently, there’s an equally important element to running predictive analytics – particularly when both time-to-result and data insight are critical: high performance computing. “Data intensive computing,” or the convergence of High Performance Computing (HPC), big data and analytics, is crucial when businesses must store, model and analyze enormous, complex datasets very quickly in a highly scalable environment.
+
+Firms across a number of industry verticals, including financial services, manufacturing, weather forecasting, life sciences & pharmaceuticals, cyber-reconnaissance, energy exploration and more, all use data intensive computing to enable research and discovery breakthroughs, and to answer questions that are not practical to answer in any other way.
+
+There are a number of reasons why these organizations turn to data intensive computing:
+
+Product Improvement
+
+In manufacturing, the convergence of big data and HPC is having a particularly remarkable impact. Auto manufacturers, for example, use data intensive computing on both the consumer side and the Formula 1 side. On the consumer end, the auto industry now routinely captures data from customer feedback and physical tests, enabling manufacturers to improve product quality and driver experience. Every change to a vehicle’s design impacts its performance; moving a door bolt even a few centimeters can drastically change crash test results and driver safety. Slightly re-curving a vehicle’s hood can alter wind flow which impacts gas mileage, interior acoustics and more.
+
+In Formula 1 racing, wind flow is complicated by the interplay of wind turbulence between vehicles. During a race, overtaking a vehicle – for example – is difficult by nature. Drivers are trying to pass on a twisting track in close proximity to one other, where wind turbulence becomes highly unpredictable. To understand the aerodynamics between cars travelling at over 100 miles per hour on a winding track, engineering firms have turned to data intensive computing in order to produce images like the one below:
+
+Computational Fluid Dynamics simulation of a passing maneuver with unsteady flow, moving mesh and rotating tires.
+
+(Image courtesy of Swift Engineering, Inc.)
+
+Simulation and data analysis enables auto manufacturers to make changes far more quickly than when running physical tests alone, as they try to address new challenges by altering a car’s material components and design layout. On the consumer side, this leads to the development of more fuel-efficient and safer vehicles. On the Formula 1 side, modeling is key to producing safer and faster supercars.
+
+Scalability Limits
+
+The promise of data intensive computing is that it can bring together the technologies of the newest data analytics technologies with traditional supercomputing, where scalability is king. This marriage of technologies empowers the development of platforms to solve the most complex problems in the world.
+
+Developed for supercomputing, globally addressable memory and low latency network technologies bring the ability to achieve new levels of scalability to analytics. Achieving application scalability can only be done if the networking and memory features of the systems are large, efficient and scalable.
+
+Notably, two apex cloud virtues are feature richness and flexibility. To maximize these virtues, the cloud sacrifices user architectural control and consequently fails to meet the challenge of applications that require scale and complexity. Companies across all different verticals need to find the right balance of usage between the flexibility of cloud and the power of scalable systems. Finding the proper balance results in the best ROI and ultimately segments leadership in a highly competitive business landscape.
+
+Data intensive computing… as a service
+
+Just as the cloud is a delivery mechanism for generic computing, now data intensive, scalable system results can be delivered without necessarily purchasing a supercomputer. Deloitte Advisory Cyber Risk Services – a breakthrough threat analytics service – takes a different approach to HPC and analytics. Deloitte is using high performance technologies of Spark, Hadoop, and the Cray Graph Engine, all powered by the Urika-GX analytics engine to provide insights into how an organization’s IT infrastructure and data looks to an outside aggressor. Most importantly this service is available through a subscription-based model as well as through system acquisition.
+
+Deloitte’s platform combines supercomputing technologies with a software framework for analytics. It is designed to help companies discover, understand and take action against cyber attackers, and the US Department of Defense currently uses it to glean actionable insights on potential threat vectors.
+
+HPC: The Answer to Unresolved Questions
+
+In the end, the choice to implement a data intensive computing solution comes down to the amount of data an organization has, and how quickly analysis is required. For those tackling the world’s most complicated problems, gaining unknown insights into data provides a distinct competitive advantage. Fast-moving datasets help spur innovation, inform strategy decisions, enhance customer relationships, inspire new products and more.
+
+So if an organization is struggling to maintain its framework productivity, data intensive computing may well provide the fastest, most cost-effective solution.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Image: Sandia Labs, NCND 2.0
+
+Summary: There are a number of reasons why these organizations turn to data intensive computing:Product ImprovementIn manufacturing, the convergence of big data and HPC is having a particularly remarkable impact.
+Auto manufacturers, for example, use data intensive computing on both the consumer side and the Formula 1 side.
+Scalability LimitsThe promise of data intensive computing is that it can bring together the technologies of the newest data analytics technologies with traditional supercomputing, where scalability is king.
+Data intensive computing… as a serviceJust as the cloud is a delivery mechanism for generic computing, now data intensive, scalable system results can be delivered without necessarily purchasing a supercomputer.
+So if an organization is struggling to maintain its framework productivity, data intensive computing may well provide the fastest, most cost-effective solution.
+
+Other Blogs by Barry Bolding: https://dataconomy.com/author/barry-bolding/

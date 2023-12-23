@@ -1,0 +1,46 @@
+Title: Three Critical Aspects of Design Thinking for Big Data Solutions
+
+Article Link: https://dataconomy.com/2019/05/23/three-critical-aspects-of-design-thinking-for-big-data-solutions/
+
+Author: Quang Le
+
+Publish Date: 2019-05-23
+
+Article:
+Design thinking continues to be all the rage amongst organizations of all kinds – from academia to startups, to agencies and consultancies, or large enterprises. The concept is popular today not because it’s new per se, but its approach to problem-solving fits well with the digital transformation that companies are going through.
+
+Artificial Intelligence and Machine Learning powered solutions are forcing businesses to reorganize entire business processes, and the design thinking orthodoxy helps in these journeys. For many companies, there’s a vast opportunity to develop such solutions that leverage advanced data analytics – both for internal use and for end consumers. When developing these solutions, design thinking creates a clear vision and understanding of what the company is creating a solution for.
+
+Applying design thinking when building advanced data analytics solutions both for internal company teams and consumers places a priority on what is needed from a human interaction perspective. It complements what is technically possible and adds incremental value to the bottom line.
+
+With this in mind, here are three design thinking best practices for companies ideating and developing new big data solutions – and why they are important:
+
+Always begin by asking what users actually need
+
+When designing solutions that leverage massive amounts of enterprise or consumer data, the first thing to ask is what the end user actually needs. While economic viability and profitability inevitably play a role in all business decisions, it’s crucial to take a step back and place the focus on the end-user. Whether designing solutions that leverage big for consumers (e.g. Netflix or Spotify recommendation engines, Apple Health App) or solutions for enterprise users (Tableau, IBM Watson), it’s important to first define what the end users truly need and what it’s trying to accomplish to satisfy that need.
+
+It would be counterintuitive for design decisions to be driven exclusively by the CTO or CEO. Instead, these should be influenced by the people who are actually going to be using the solution, which requires a mind-shift. Although businesses might require a certain kind of functionality, this does not mean they should automatically proceed with an idea. A business use case or requirement does not necessarily translate to value for the end user. For this reason, adopting a user-centric approach where the user is placed before the business is a logical strategy. The pressure to please leadership can be a stumbling block in design thinking, but in the end, if you satisfy end users, business results will naturally follow.
+
+Adopt a holistic view and avoid tunnel vision
+
+Observing a step-by-step process is important when it comes to design thinking. Adhering to well-thought-out steps and guidelines helps uncover the needs and desires of users. When approaching design thinking, it’s important to have a holistic view rather than to focus on one particular use case. Dedicating time to carry out thorough research facilitates a better and broader understanding of the solution’s potential. Avoiding tunnel vision and being receptive to different ways of approaching any single problem will ultimately save resources because the earlier the team is able to identify an issue, the easier and less costly it is to change direction. The general rule of thumb is that it costs $1 to change something in the requirement phase, $10 in the design phase, and $100 in the development phase. For this reason, it is advantageous to spend ample time in the requirement phase to determine feasibility and save money early on in the entire process.
+
+A more agile approach is not only more transparent but lets you shift your roadmap quicker, go through many iterations of design and iterate faster. In design thinking, you go through many iterations. If it doesn’t work, it takes a fraction of the time and money to shift early on then it would take to fully develop the solution and understand new requirements later on.
+
+Understand the importance of domain expertise and collaboration
+
+It’s inevitable to face challenges in the design phase of any big data project. To overcome these obstacles, design and business teams must collaborate with subject matter experts to gain knowledge on a particular vertical or topic. It’s also important to be cognizant of the processes and applications already in place for a particular company within the context of it’s vertical – be it financial services, healthcare, media/entertainment, etc. The ideation process is key because it allows teams to work with subject matter experts to identify what the business or domain needs are.
+
+Lastly, coming into the design process with an open mind sets you up for success. If your product or company goes through the process and arrives at the same offerings year over year, it won’t make any progress. Having an open mind opens up the possibility of breaking down barriers and discovering new features that weren’t previously thought of without that specific domain knowledge.
+
+Conclusion
+
+Design thinking should be a collaborative and informed process that requires teams to put themselves in the shoes of the end-users. It’s important to always place the focus back on the end-users, understand their workflow, and show how a new functionality or solution to leverage and visualize big data would add value to them. Teams should also adopt a holistic view and collaborate with each other, rely on domain experts, and embrace an open-mind to ensure maximum success. Design thinking when building any big data solution can help uncover the true needs of the end user, reduce risk and costs associated with product development, and turn incremental changes into solutions that can potentially transform or disrupt an industry
+
+Summary: Design thinking continues to be all the rage amongst organizations of all kinds – from academia to startups, to agencies and consultancies, or large enterprises.
+Artificial Intelligence and Machine Learning powered solutions are forcing businesses to reorganize entire business processes, and the design thinking orthodoxy helps in these journeys.
+When developing these solutions, design thinking creates a clear vision and understanding of what the company is creating a solution for.
+Applying design thinking when building advanced data analytics solutions both for internal company teams and consumers places a priority on what is needed from a human interaction perspective.
+When approaching design thinking, it’s important to have a holistic view rather than to focus on one particular use case.
+
+Other Blogs by Quang Le: https://dataconomy.com/author/quang-le/

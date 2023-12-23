@@ -1,0 +1,96 @@
+Title: How Big Data Assists in Disaster Relief and Preparedness
+
+Article Link: https://dataconomy.com/2018/12/18/how-big-data-assists-in-disaster-relief-and-preparedness/
+
+Author: Ryan Ayers
+
+Publish Date: 2018-12-18
+
+Article:
+Disasters are dangerous, but Big Data can help improve disaster relief and preparedness to cut back on lives lost and community damage.
+
+
+
+Historically, public policies have proved ineffective in providing adequate help for disaster-stricken citizens. A year after hurricane Harvey in 2017, for example, residents are still in the midst of recovery despite $15.3 billion earmarked for relief efforts.
+
+
+
+With the emergence of new innovations, one wonders if legislators should give more thought to incorporating Big Data technologies into aiding in disaster prediction and relief.
+
+Over the last two decades, remarkable innovations such as the Internet of things (IoT) have entered the mainstream. While the intensity of natural disasters is increasing, advances in communications because of this technology has greatly reduced casualties and injuries. For instance, agencies such as NASA and the National Oceanic and Atmospheric Administration (NOAA) leveraged big data technology to predict hurricane Harvey’s landfall and coordinate emergency response personnel.
+
+
+
+The technology helped the agencies choose ideal disaster response staging locations and evacuation routes as well as pinpoint likely flooding areas and prepare accordingly. Additionally, agencies throughout the storm impact area used machine learning algorithms to dictate the trajectory of the storm and its potential damage.
+
+Big Data for Disaster Management
+
+Big Data technology has proven its merit as a resource for disaster relief and preparedness. It helps emergency responder agencies identify and track populations such as elderly communities or areas with high concentrations of babies and children.
+
+
+
+Additionally, Big Data systems help rescue workers identify support resources and plan logistics during emergencies. Big data also facilitates real-time communication during a disaster, and emergency managers use the technology to forecast how residents will react to crises.
+
+Today’s big data systems are growing at an accelerating rate with some studies saying that 90% of the worlds data was created in the last two years. All of this data can be used to help emergency managers make more informed decisions before, during and after natural disasters.
+
+Dr. Anirudh Ruhil, professor of leadership and public affairs at the Voinovich School of Leadership and Public Affairs at Ohio University, says that data can also be used to help improve the current process, “By seeing how residents move, by gathering data on their experiences, what worked, what did not, and then going back after the emergency is over to study the emergency response and identify weak spots.”
+
+This reporting allows disaster response managers to combine mapping data with geographical records and real-time imagery.
+
+
+
+The reports also provide responders with on-demand information about activity in disaster areas and gives them a continuously flowing stream of real-time information during frantic emergency scenarios.
+
+Big Data Helps with Crisis Mapping
+
+In Nairobi, the nonprofit data analysis group Ushahidi has developed an open-source software platform for information gathering. Their technology works with an interactive mapping platform developed in 2008 that was used to analyze violent areas after the Kenyan presidential election.
+
+
+
+At that time, the agency gathered information from eyewitnesses and social media. Team members then plotted that information on an interactive Google map, which helped citizens steer clear of danger.
+
+The group’s technology was deployed again in 2010 doing the earthquake in Haiti, helping to save the lives of many citizens in that region.
+
+
+
+The U.S. Marine Corps. used the organization’s crisis mapping system to quickly find and rescue citizens. This innovation is invaluable during crises and can also reunite separated families. For it to work effectively, however, residents and volunteers must assist with data collection.
+
+Connecting Families & Loved Ones
+
+Technology leaders Google and Facebook have also developed advanced resources that help during disasters. The tech giants have deployed online systems that help family members reconnect after being separated during an emergency.
+
+
+
+Google, for instance, released its “Person Finder” application immediately after the 2010 Haiti earthquake. The platform allows anyone to enter missing persons information and hopefully reconnect with family members during a disaster. Doing the Haiti earthquake, for example, citizens updated Google’s Person Finder 5,300 times in attempts to locate family members.
+
+Robots & Drones
+
+In 2015, governments around the world deployed drones to aid in 43 disasters that occurred in 13 different nations. The technologies reduce exposure to risks for emergency workers such as claims adjusters, volunteers and engineers.
+
+
+
+As an example, unmanned aircraft systems (UAS) are especially beneficial for tracking and reconnaissance. They’re cost-effective and provide rescuers and emergency workers with visual perspectives that cannot be acquired with manned craft. Furthermore, robots and drones can make structural adjustments, provide logistics support and deliver supplies. They’re also especially beneficial for responding to disasters involving chemical, biological and nuclear materials. Resultantly, robots and drones hold tremendous potential for aiding in disaster recovery efforts. Analysts forecast that the global demand for UAS will climb to 4.7 million units by 2020 and generate between $2 billion and $127 billion at that time.
+
+Emergency Preparedness
+
+Big data systems are making it easier for agencies to forecast when disasters will occur. This advanced information allows agencies to prepare communities for emergencies and protect them from threats. The organizations combine data collection, scenario modeling and notification platforms to form preemptive disaster management systems.
+
+
+
+Citizens contribute by providing household information that the agencies use to evaluate and allocate resources during disasters. For instance, residents can share potentially lifesaving information, such as whether there are physically impaired residents living in a household.
+
+The United States needs more data scientists who work with technologies that aid during disasters. This is a common theme among many enterprises that are struggling to fill their ranks with qualified information technology (IT) professionals.
+
+
+
+In fact, a recent survey revealed that over 40-percent of enterprise leaders believe that the data scientist shortage is making it difficult for their organizations to thrive in the competitive marketplace. Firms that do manage to fill their IT ranks, however, perform more strongly than their talent deprived peers.
+
+Analysts are forecasting that United States enterprises will create 490,000 new jobs for talented data scientists by the year 2020. However, with the data science talent pool only forecast to reach approximately 200,000 available experts by that time, there are ample opportunities for these professionals for the foreseeable future.
+
+Summary: Disasters are dangerous, but Big Data can help improve disaster relief and preparedness to cut back on lives lost and community damage.
+With the emergence of new innovations, one wonders if legislators should give more thought to incorporating Big Data technologies into aiding in disaster prediction and relief.
+Big Data for Disaster ManagementBig Data technology has proven its merit as a resource for disaster relief and preparedness.
+Today’s big data systems are growing at an accelerating rate with some studies saying that 90% of the worlds data was created in the last two years.
+Big Data Helps with Crisis MappingIn Nairobi, the nonprofit data analysis group Ushahidi has developed an open-source software platform for information gathering.
+
+Other Blogs by Ryan Ayers: https://dataconomy.com/author/ryan-ayers/

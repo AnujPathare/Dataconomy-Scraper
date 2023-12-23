@@ -1,0 +1,58 @@
+Title: Why Businesses Should Turn to Data to Fight Climate Change
+
+Article Link: https://dataconomy.com/2019/10/21/why-businesses-should-turn-to-data-to-fight-climate-change/
+
+Author: Mark Ferlatte
+
+Publish Date: 2019-10-21
+
+Article:
+Businesses can contribute to reducing climate change if they focus on collecting and analyzing data around refrigerant use, particularly within the supply change. Refrigerant usage and waste rates play one of the most damaging roles in climate change.
+
+When we don’t understand what’s contributing to a problem, it’s nearly impossible to know the “right” questions to ask. This is a particular pain point for businesses of all sizes–whether it’s finding a solution to issues like lack of employee diversity or why a product isn’t resonating with a target market.
+
+As advanced tech like AI and ML–once reserved for deep-pocketed Fortune 500s–becomes more available to mainstream businesses (from fintech startups to marketing firms), leaders have turned to data to answer their questions. Yet, when it comes to examining businesses contributing to climate change, there are places where they aren’t looking at the data. For starters? Refrigerant.
+
+Project Drawdown, a group of leading international academics and scientists, recently held their annual conference at Penn State; at the top of the list for business-relevant solutions was “refrigerant management.” For most entrepreneurs, that’s not common knowledge, and because they don’t know enough about its impact, they aren’t asking the data for answers.
+
+The Problem: We Don’t Have the Data
+
+Refrigerant use is everywhere–grocery stores, data centers (one of the prime drivers), pharmaceutical labs, hotels, industrial and manufacturing plants, and so on. hydrofluorocarbons (HFCs) it emits are one of the biggest contributors to climate change since it traps heat in the atmosphere.
+
+The European Union’s regulatory bodies mandated a cap on refrigerant use years ago, and as a result, businesses are already using technologies like IoT sensors to gather and analyze data that can inform processes.
+
+Why aren’t U.S. businesses diving into this data mine across the board? Because there’s a lack of universal equipment and standards that can help suppliers speak to each other. There’s also the typical pattern of businesses avoiding a change that will cost them upfront; they wait until the federal government or the state imposes regulations. (The EPA rules around this just came online this year, and there was an expectation that they might get reverted, which caused organizations to take a “wait and see” attitude.) Kicking this can down the road will only hurt U.S. businesses more in the long run, but bureaucratic structures and competing priorities have made it possible, thus far, to avoid logistical and technological changes.
+
+Emerging Solutions
+
+On a policy level, California is in the process of imposing new energy policies on grocers, which proposes “regulations [that] would eliminate [the] use of new equipment with a refrigerant with a GWP > 150, and ban retrofits with GWP > 1500.” This would ban the commonly used F-gas, found in newer stores, as well as new HFO blends that just became commercially available. These restrictions will also affect some retrofits. If it’s successful, other states will likely follow suit. Washington State recently passed a lawrestricting certain uses of HFCs. Last year, Connecticut, New York, and Maryland passed similar legislation.
+
+On a private market level, we’re seeing more momentum. New York-based Noble Profit recently announced a solutionthat applies blockchain technology to track data around natural capital flows and resources, which allows businesses to be transparent on a global level about how much they are consuming and emitting. By making it easier to capture data without manipulation, businesses can see where their “green” problems are.
+
+Most startups are targeting niche markets. Forced Physics is exclusively addressing data centers’ hunger for cooling. Varcode has developed something more industry-specific for the “cold chain,” which references the supply-side processes of keeping our groceries refrigerated. Varcode uses sensors and blockchain technology to record temperatures throughout the food supply process (did cooling break down en route, and if so, how long will that lettuce actually last on the shelves?). This is more for the benefit of grocers who need this data to better manage their stock and sales but isn’t particularly geared toward refrigerant reduction. Additionally, there are other well-known gaps in cold chainthat have yet to be addressed.
+
+In Australia, Glaciem Cooling Technologies announced its development of “the world’s most efficient air-cooled carbon dioxide refrigeration system.” Glaciem’s tech addresses the blind spot in alternative cooling that uses CO2 (it still uses synthetic refrigerant) by integrating dew point technology, with the ability to store excess energy. They have a customer using the new design but need investments to scale to more locations.
+
+In the HVACR industry, IoT is increasingly promising. At first, HVAC’s IoT usage was limited to hardware applications. But is now able to collect data across devices thanks to sensor and data storage capabilities–and the more mainstream the tech becomes, the more affordable it gets.
+
+Retrofits solutions are equally as popular since many industries use old systems that are so entrenched, it’s exceptionally onerous to replace entirely, financially and logistically. (While CFCs, for example, have been phased out, old structures still leak them). Retrofits focus on making certain components more efficient via tech like automated controls and AI, which can provide predictive analytics that automatically generate a diagnosis and responses for chiller and plant optimization–saving businesses energy, money, and labor.
+
+The Caveat: Data Alone Won’t Fix It
+
+It’s expensive for a business to go above and beyond the current mandates, but it can be just as expensive for entrepreneurs to build and scale solutions. A great idea will die on the operating table if their creators can’t navigate the space, or get enough funding. And even with funding, they may not have the manpower to make enough of an impact. Take EOS Climate, which developed technology that, among other advantages, helped businesses reclaim HFC refrigerants. They received millions in VC funding, but for their project to scale, they essentially sold to dominant player Bluesource.
+
+Data is at the center of any modern solution, but there’s also the issue of the infrastructure that feeds into that data. Alternative cooling structures, like air-cooled and water-cooled, look to make refrigerant use more efficient. This is equally as important as learning how to make the most of data; according to the American Carbon Registry, the biggest releaser of HFCs are leaks–refrigerant leaks in transport and storage, for example. And while tech like sensors can help detect leaks faster (and therefore they are replaced faster), there’s a fundamental materials issue that software can’t fix.
+
+Then, there’s the personnel hurdle. The need to get buy-in from various stakeholders, who made need heavy convincing (in the absence of policy) that they need to invest to save in the long-term (both money, and the planet!). Investing in infrastructure and maintenance is always a difficult sell; especially in a quarterly earnings driven environment. Well, run organizations can and will focus on the long term gains; this is harder to execute on and leads to a better result.
+
+Moving over to HFC alternatives–no matter if you’re a medium-sized business or a corporate giant– is a big lift, but one that will yield results equally as large. At the end of the day, this draws a clear line between the pioneers who act and those who wait and follow. Pioneers are doing the hard work, looking at everything from expensive equipment swap-outs to hiring design teams to build bespoke software around workflows to reinventing their re-investment strategy. The country’s most competitive businesses that have commanded a loyal customer base have always thought further ahead than the rest of the market. As climate change grows more severe, it’s no question as to who consumers will opt for. They’ll choose the pioneering brand that cared to save their planet.
+
+Enjoyed reading the article? Follow us on Twitter
+
+Summary: Businesses can contribute to reducing climate change if they focus on collecting and analyzing data around refrigerant use, particularly within the supply change.
+Refrigerant usage and waste rates play one of the most damaging roles in climate change.
+Yet, when it comes to examining businesses contributing to climate change, there are places where they aren’t looking at the data.
+hydrofluorocarbons (HFCs) it emits are one of the biggest contributors to climate change since it traps heat in the atmosphere.
+As climate change grows more severe, it’s no question as to who consumers will opt for.
+
+Other Blogs by Mark Ferlatte: https://dataconomy.com/author/mark-ferlatte/

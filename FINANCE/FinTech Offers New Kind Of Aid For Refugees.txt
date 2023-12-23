@@ -1,0 +1,42 @@
+Title: FinTech Offers New Kind Of Aid For Refugees
+
+Article Link: https://dataconomy.com/2015/11/30/fintech-offers-new-kind-of-aid-for-refugees/
+
+Author: Hannah Augur
+
+Publish Date: 2015-11-30
+
+Article:
+Responses to refugees this year have been dramatic, to say the least. Denmark has even run advertisements in Lebanon describing how terrible life would be for a refugee in their country. Support is, however, coming from one of the most unexpected places.
+
+FinTech evangelists are all about getting banking services to the underbanked, and the refugee crisis has caused an eruption in that field. Moreover, the world of bitcoin and the blockchain have turned the situation into a chance to not only showcase how useful their technology is, but to put it to good use. This crisis is incredibly complex and has even been termed an exodus of biblical proportions. However, there are several statistics that might paint refugees in a different light. Almost one in five of small business owners in the US were born abroad. Many refugees do possess employable skills and real money. Of course, when they leave their country they leave behind everything.
+
+That’s why they receive aid, and that’s why people make donations. Unfortunately, the vouchers commonly used in refugee camps are very often exploited. Agencies are known to take much of that money for themselves. According to Sibos 2015 speaker Christine Duhaime, founder of the Vancouver-based Digital Finance Institute,“By the time you have donated one dollar something like only 10¢ ends up in the hands of a refugee. This is where FinTech comes in. First and foremost, the goal is put power and confidence back into the hands of the refugees. For some time, contactless credit cards have been the preferred method. It grants the user the ability really get the full bang for their buck. Now, blockchain and bitcoins are playing a new role.” It’s FinTech that is helping make the tough transition for refugees a little easier.
+
+Bitnation and Blockchain Were Basically Born For This
+
+Bitnation is a tad difficult to understand; they’re a decentralized Organization (DO) that offers “Governance 2.0” services. They essentially decentralize governance by using blockchain technology. Recently, they created three specific methods to help refugees: Emergency Blockchain IDs, International Bitcoin Visa Cards and Bitcoin Refugee Aid.
+
+While the influx of refugees has been going steadily for several months, the effects will last much longer. Without identification, it will be a long battle for refugees and locals, alike. Given the complicated political and social climate, it’s no surprise a third party like Bitnation is raring to go. They’re trying to spread the Blockchain Emergency ID. This acts as a very rudimentary form of identification. It allows users to prove their existence and relations via a blockchain ledger. They’ve already issued dozens of ID’s and hope to make that number grow once they can organize workshops within camps and spread the word. Plus, bitcoin and bitcoin cards are completely borderless. Anyone anywhere in the world being able to directly help refugees, and the refugees have much more control over their funds.
+
+Creating A Digital Bank For Refugees From The Ground Up
+
+Digital Finance Institute, a Toronto-based non-profit, has stated they will be launching pilot project “Refugee Bank.” By using blockchain-technology, they address identification problems, improve the delivery of relief efforts and provide financial inclusion. The name “Refugee Bank” does, of course, sound a bit idealistic. Luckily, DFI’s founder, Christine Duhaime, is actually a financial crime lawyer with plenty of experience working for profit and non-profits. The Refugee Bank was born after much deliberation and research. Realizing that many more ordinary options were hindered by sanctions, identification requirements and countless legal, social and political factors, DFI went for the radical.
+
+Their goal is to help refugees help themselves by offering financial inclusion. They put emphasis on how servicing refugees will actually service future countries and economies. Not surprisingly, refugees that are, in fact, given access to money and the chance to work often helps not only those in trouble, but the economy. The digital bank is still in the making, but has been garnering traction. The group also had a second idea, though whether it will see daylight remains unknown. The Refugee FinTech Lab would involve bringing the question of “how to use FinTech to best serve refugees” to the refugees. As many activists have already noted, the ubiquitous Steve Jobs was actually the son of a Syrian political refugee. DFI recognized that refugees know what they need more than anyone else. With Facebook pushing to connect camps with internet, it is possible an unexpected solution could come from the refugees, themselves.
+
+Updating Traditional Aid For The Modern Age
+
+On top of these more extreme examples, it seems modern technology has put a FinTech spin on traditional aid relief. The bitcoin platform Cubits has released a relief service for refugees. By partnering with Aktion Deutschland Hilft, Islamic Relief Fund Deutschland, Pro Asyl and CARE, the Cubits Refugee Relief takes the traditional system of donating money and makes it streamlined. By donating in bitcoin, transactions and intermediary fees are avoided, hopefully getting the hands into those who actually need it.
+
+Truthfully, all of this can sound a little absurd. Who thinks about bitcoin in the middle of a crisis? Why should having a bank account even be the so important? One of the key points most non-profits will make again and again is how these refugees are people. There has been backlash over images of refugees using cell phones. The assumption being that because refugees have the money for a phone, they don’t actually merit outside help. These phones, much like having the right to a bank account, are equal parts symbolic and practical. Without them, it’s hard to fully exist in modern society. By giving individuals an amount of dignity (for example, by proving identity via the blockchain) and also power (having access to a bank account) a small but notable differenec is made. Clearly the refugee crisis will not be solved by FinTech alone, but it is making an impact. If nothing else, the situation highlights the scene’s commitment to the underbanked. In reality, is it a surprise that blockchain and bitcoin advocates are jumping in to help those in need?
+
+(image cred: Photo Unit)
+
+Summary: Recently, they created three specific methods to help refugees: Emergency Blockchain IDs, International Bitcoin Visa Cards and Bitcoin Refugee Aid.
+Anyone anywhere in the world being able to directly help refugees, and the refugees have much more control over their funds.
+Their goal is to help refugees help themselves by offering financial inclusion.
+The Refugee FinTech Lab would involve bringing the question of “how to use FinTech to best serve refugees” to the refugees.
+Updating Traditional Aid For The Modern AgeOn top of these more extreme examples, it seems modern technology has put a FinTech spin on traditional aid relief.
+
+Other Blogs by Hannah Augur: https://dataconomy.com/author/hannah-augur/

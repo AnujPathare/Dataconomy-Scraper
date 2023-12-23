@@ -1,0 +1,48 @@
+Title: How Blockchain Can Supercharge the Network Effect
+
+Article Link: https://dataconomy.com/2018/06/28/how-blockchain-can-supercharge-the-network-effect/
+
+Author: Ralph Tkatchuk
+
+Publish Date: 2018-06-28
+
+Article:
+The network effect is a curious phenomenon that describes the group’s benefit that ensues as each new member joins and begins using the same product or service. It applies to several industries and ideas, and can be found in examples like eBay, the popular auction site. As more people join eBay to find great prices on used goods, there are more people to bid, potentially driving the price of individual listings higher. This alone is little help to the site’s buyers, but as sellers are seen generating more money, new sellers are attracted to the platform and effectively balance the ecosystem as it grows.
+
+With a product or service that many use, adding new members to the network is usually beneficial. However, the network effect isn’t necessarily as effective as it could be. It can be slow to gain momentum, and even in the finest examples of network effect that exist, group benefits can be compromised by the network’s own infrastructure. Blockchain’s decentralized network technology is quickly changing this notion considering it relies on the network effect to proliferate and grow.
+
+The Blockchain Booster Effect
+
+Blockchain is a groundbreaking technological architecture that runs on the back of a peer-to-peer network, therefore enabling complete decentralization. To provide the processing power necessary to host services on the blockchain, peers are incentivized to work together democratically, and can collectively fill the role of a centralized server or some other type of authority. These conditions are ripe for the network effect, which sprouts up with vigor when blockchain is involved.
+
+One of the biggest flaws of the network effect is how slow it is to manifest. Part of this sluggishness is due to the absence of any direct financial benefit for new users or for existing users. Social networks are a pertinent example. New users might want to join and avoid missing out on a fun platform, and their membership adds to their friends’ experiences by increasing relevant content. However, the chance to participate is not a great incentive by itself. Moreover, a network like Facebook has more to gain from new users than its users themselves.
+
+Blockchain’s decentralization makes it immune to control by any single entity, so any financial benefits stemming from a growing user population are passed onto users directly. It’s able to successfully remain decentralized due to cryptocurrency, which is a powerful incentive for any blockchain network peer, or user. Most blockchain platforms incorporate cryptocurrencies or tokens because they must offer some reward to peers whose computers are working to process and verify transmissions of data.
+
+Network Effect in Action
+
+With tangible incentives in the form of cryptocurrency, and equitable distribution of benefits to users rather than centralized authorities, blockchain is helping businesses take advantage of the network effect while concurrently realizing better results. A relatively basic application of the network effect is seen in referral programs, for example, which will commonly give away some type of reward to those parties which bring in new users.
+
+Referral systems employed by companies that want to motivate user-generated growth don’t typically use very sophisticated technology. The rather shallow software options available cannot track complicated multi-step referral chains across more than two parties, which limits their efficacy severely. It’s also relatively easy to game basic referral systems by providing minimum value intentionally, which amounts to a sort of referral fraud.
+
+Companies like 2key are combatting this reality by building an easily integrated referral platform on blockchain. The company’s referral links are logged seamlessly on the shared ledger and feature an embedded cryptographic signature that can be tracked across an unlimited number of referrers and users. It also promotes a healthier network by punishing spammers and disincentivizing bad referrals by docking users tokens.
+
+2Key is not alone in tapping into blockchain’s network effect, with other marketing firms developing similar platforms. Vyral, for instance, is working on a network for users to share leads and creating a network that will allow merchants and companies to better reach the right consumers. Users will be able to purchase and sell leads on the company’s marketplace in a peer-to-peer model, without having to resort to costly agencies.
+
+ReferralCoin is a token specifically created to enhance the current referral market. The Referral token will be used both for back-end functions such as paying for referrals and marketing, as well as front-end needs like rewarding users and trading for services. Some, like Ponder, have even narrowed the concept to a specific industry like online dating. The company’s referral system rewards users for matching others successfully, creating a strong network effect for the ecosystem.
+
+The Network Engine
+
+The network effect is also present in blockchain solutions that seek to replace traditional counterparts, instead of improving them. Blockchain-based cloud storage solutions like Storj operate via the network effect exclusively and represent one of its most impressive specimens. Storj users contribute their own computers’ spare memory to the network and are rewarded in coins that they can sell or use to rent anonymous, decentralized storage. As more users join, memory gets cheaper, but simultaneously more secure.
+
+A similar concept comes courtesy of IOTA, a blockchain platform that seeks to use the network effect to improve the Internet of Things (IoT). IoT is an older concept, but one that stands to benefit immensely from greater transparency and faster communication. With IoT devices seamlessly connected via IOTA’s ledger, they can react more accurately to changing environmental cues and each other. If a swarm of IoT devices represents a brain, then before IOTA, it was only capable of simple logic. Using the blockchain network effect, however, strengthens its neural connections and lends it the ability to think more critically.
+
+Blockchain is itself a product of the network effect and wouldn’t survive without it. Though some have likened cryptocurrency to a pyramid scheme, what they forget to consider is that there can be no top nor any bottom to a blockchain-based system. Blockchains using the network effect to grow expand outwards in every direction at once, and as they mature, every single user feels the benefits in proportion to their level of input. This is already inevitably leading to a plethora or more equitable services, and the private sector is just now waking up to this new reality.
+
+Summary: Blockchain’s decentralized network technology is quickly changing this notion considering it relies on the network effect to proliferate and grow.
+These conditions are ripe for the network effect, which sprouts up with vigor when blockchain is involved.
+Network Effect in ActionWith tangible incentives in the form of cryptocurrency, and equitable distribution of benefits to users rather than centralized authorities, blockchain is helping businesses take advantage of the network effect while concurrently realizing better results.
+The Network EngineThe network effect is also present in blockchain solutions that seek to replace traditional counterparts, instead of improving them.
+Using the blockchain network effect, however, strengthens its neural connections and lends it the ability to think more critically.
+
+Other Blogs by Ralph Tkatchuk: https://dataconomy.com/author/ralph-tkatchuk/

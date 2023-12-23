@@ -1,0 +1,96 @@
+Title: ‘Streams in the Beginning, Graphs in the End’ – Part II: Sensors, Event Streams and ‘Upside Down’ databases
+
+Article Link: https://dataconomy.com/2015/06/08/streams-in-the-beginning-graphs-in-the-end-part-ii-sensors-event-streams-and-upside-down-databases/
+
+Author: Venkat Krishnamurthy
+
+Publish Date: 2015-06-08
+
+Article:
+‘Streams in the Beginning, Graphs in the End’ is a three-part series by Dataconomy contributor and Senior Director of Product Management at Cray, Inc., Venkat Krishnamurthy – focusing on how big changes are afoot in data management, driven by a very different set of use cases around sensor data processing. In part I, we talked about a sensor-led Big Data revolution, variously referred to as the Internet of Things (and even the Internet of Everything). Here, we’ll examine some ideas on why this revolution places a new set of demands on systems infrastructure for analytics and data management.
+
+The consequences of Moore’s law today mean that we now have a way to create data streams out of anything – plants, animals, natural phenomena big and small (including tornadoes, of course), and machines themselves, in a satisfyingly recursive turn of events. We’ve entered the age of the really small machine that will be a Really Big Deal – the sensor.
+
+For a start, what are we defining as a ‘sensor’? One definition is that it is a device to turn a physical phenomenon into a discrete sequence of data events. The sensor itself may be physical – for example, a heart rate sensor in a smart watch, or a pitot tube on the wings of an airplane, or an ionizing microscope that turns tissue samples into spectra.
+
+Fig 2 – Sensors are everywhere. 2(a) – the Boeing 787 has several sensor systems generating 0.5TB of data per flight. 2(b) A Smartwatch is equipped with multiple biophysical sensors. 2(c) – The compact muon solenoid in the Large Hadron Collider is so large a sensor collection that it has its own datacenter located above it
+
+Or, it could well be ‘logical’ – for example, a web page can be seen as a sensor that turns a sequence of user actions into an event stream. The reason for this broader definition of a sensor is that it gives us a single unifying conceptual handle on thinking about where data ‘begins’.
+
+Turning our attention to our data management story, the quantum of data produced by a sensor is typically a well-defined, tiny (in terms of data size) observation. For example, a single tick of a stock in a financial market, a single ambient pressure reading from a pressure sensor in an aircraft engine, or a single click on a web page.
+
+At its most basic level, this observation has a timestamp associated with it, giving us the ‘atomic theory’ equivalent of data – the Event, which is a combination of a data payload from an observation, and a timestamp.
+
+As reality unfolds (with sensors attached!), you get an Event Stream (also known as a Log) – a naturally ordered sequence of event data. This is a core building block of stream processing systems and their variants.
+
+To date, a significant portion of data management research (E.F.Codd’s rules, ACID, CAP theorem being prime examples) has been devoted to the idea that the dominant concern is managing State, which is defined as the cumulative effect of a set of events. These principles remain critical, but the world of event streams needs a new set of corresponding ideas.
+
+Martin Klepmann provides a must-read explanation of these core ideas in his blog series. Jay Kreps (the co-creator of Kafka and founder of Confluent) who coined the term ‘Kappa architecture’ also has a great series on the Confluent blog, as well as a terrific post on log-centric data management. The fundamental question both of them ask, and set out to answer is this – If observed reality in data becomes an ever-growing set of event streams, shouldn’t data processing begin with stream processing?
+
+For us, the answer clearly is yes. The implications at a systems architecture level are significant – here are a few of them, drawing from Martin and Jay’s ideas.
+
+Event Streams are primary data containers
+
+The immutable collection of events that forms a stream is, in a sense, the ground truth for analytical data processing. Every processing need can now be based on applying a set of analytic operations (filters, transforms, joins etc) to the streams directly, usually after selecting an interval of time such as a day, and possibly other axes (e.g. location) of interest. The approach of co-locating at least part of the data processing with data collection means that you can now choose to replay the processing in its entirety for any chosen interval of time since you’re always starting with the raw material (events).
+
+Compare this to traditional analytic approaches, where the typical ‘starting point of analysis, is a post-facto container of state (A table or DataFrame etc). In effect, you’re starting a step further from the original data. For example, a table in an RDBMS is usually mutated via SQL Data Manipulation Language (INSERT, UPDATE, DELETE): in allowing this, you implicitly require that the state data in the table (eg. your end of day balance) actually represents an accurate picture of the collective effect of several underlying events (eg. your set of transactions through the day).
+
+The emergence of tools like Kafka is a realization of the idea of event-centric data management. By providing scalable data management for streams, they make it possible to repeatedly go back to the original, structured event sequence data rather than start later with state containers like tables, or pay the cost of file-based serialization/deserialization operations on this data (like log processing from files in HDFS).
+
+The impact this has on systems architecture is significant. In this approach, the design of the data processing infrastructure will be driven primarily by the needs of stream processing, in which latency is critical, rather than batch processing, that was driven by throughput considerations.
+
+Similarly, there is a significant subset of analytical processing that can be done entirely on the stream – everything from simple windowing aggregations to emerging streaming versions of machine learning and advanced analytic algorithms.
+
+Event Streams allow for Time Series analysis
+
+Since an Event Stream is a time series, the universe of techniques to find and analyze temporal patterns in the data now becomes a powerful toolset. This isn’t new by any means – As a matter of fact, in Finance, Robert Engle won the Nobel prize in economics for his study of the time series properties of asset returns. More recently, PayPal has pointed out how fraud detection is viewable as a signal-processing problem, and gone so far as to also build custom hardware architectures to handle this at scale.
+
+One caveat is that a stream of events emitted by a single sensor probably has relatively little value when considered in isolation. While one can characterize the underlying probability density for the time series variable and determine whether the underlying process generating it is changing in significant ways (i.e. non-stationary behavior), this can gives you only a limited view of the system under observation. For instance, a glucose monitor might be able to detect blood sugar spikes in diabetics, which is useful, but you need other time series variables such as blood pressure, ketone levels, lipid panels, etc. to really say something about the disease progression of the individual.
+
+The correlation structure that exists between sensors, i.e. a quantitative measure of how strongly two or more sensors are associated, is important to start understanding the baseline behavior of a complex system in time and space. More on this in the last article, where we talk about graphs and their value as an organizing principle for data in the age of sensors.
+
+Time series can also be correlated to risks of outcomes of interest. For instance several time series variables might be “risk factors” for a particular type of event of interest.
+
+A great example of this is in failure prediction for large supercomputers. Predicting the risk of failure for a particular compute node, for instance, involves monitoring multiple streams of data from different subsystems (memory, network, disk) and watching for abnormal signals that need to be defined upfront, using past failure history. The primary analytic focus here is in the temporal patterns in sensor readings – in other words, time-series analysis. The raw material for this analysis is the actual sensor reading events.
+
+This is in contrast to a ‘state first’ approach, which can hide important outlier signals lurking in temporal patterns by “averaging over” these details. Aggregations might provide a convenient way to summarize complex data, but rare events that can herald important outcomes of interest may be lost in the process.
+
+The focus on time series analysis as an important analytic need, early in the data ingest process, results in a fundamental shift in thinking from ‘understand what occurred to ‘understand and react to what is occurring NOW. This paradigm shift is already underway – the autopilot in commercial aircraft is a great illustration, as is the imminent arrival of self-driving cars – you could not build such capabilities if the analytical loop was anything other than real-time.
+
+Data Structures, not Files
+
+As the stream becomes the primary focus of data processing, the unit of data in the stream is a higher-level data structure representing the event, and not a bunch of bytes in a file. In other words, applications that process the stream, typically in a pipeline, speak ‘data structures’, not ‘un-interpreted byte streams’ (a.k.a ‘files’).
+
+This forces a rethink of the storage-first mentality (‘Data Lake’/’Data Warehouse’/ Data Hub’) that pervades frameworks like Hadoop today. A central component in Hadoop is HDFS, and a typical data processing life cycle in Hadoop begins on files in HDFS. While this is acceptable for use cases like indexing unstructured web pages (the motivating reason for Hadoop and its MapReduce precursor), it’s questionable as the primary approach when the data (eg. Web server logs or sensor readings from a turbine) are real-time event streams that have been allowed to ‘pile up’ into files, centralized and aggregated at locations far away in time and space from the generating event.
+
+Why is this relevant to data systems architecture? Primarily because it moves the focus of storage higher up the memory hierarchy. In a stream-first architecture, applications that process the stream want to work with their data structures as long as possible, and have these stay as close as possible to the ‘compute’ – in effect, the file as the unit of data exchange is questionable for this approach. As a result, there is far greater need and role for memory as a first-order storage tier. A great realization of this idea can be found in Apache Spark, which defines an API for a distributed in-memory data structure – the source and intermediate/final storage destination for the resident dataset are up to the application, and can be NoSQL or SQL databases, or filesystems.
+
+Data Processing Pipelines, not monolithic applications
+
+Underlying most practical applications of analytics, is the idea that you need a series of discrete steps to achieve a specific analytical result.
+
+For example, a recommendation system, or a risk analytics platform or Next Generation Sequencing are all examples of this ‘assembly-line’ approach. This brings up the idea of an analytic pipeline, where multiple tools, possibly from disparate toolsets are integrated via data exchange steps to create a set of analytical outputs.
+
+This pipeline approach allows great flexibility in assembling data products, and is already becoming prominent with tools like Google’s Cloud Dataflow, Amazon’s Kinesis, and Databricks’ Cloud allowing a systematic way to assemble and deploy such pipelines.
+
+Pipelines, especially for sensor data force an important consideration in the data processing lifecycle. A key reason for putting sensors on real physical things like aircraft engines and humans is that a whole class of analytics is now possible on the stream itself – from simple windowing aggregations, to streaming analytic algorithms and beyond. For all these cases, the need is not necessarily to process a very large batch of sensor readings, as much as a large number of smaller time windows.
+
+From a systems perspective, pipelines necessarily involve multiple components acting on a data stream in order. Naturally, the resulting need for data exchange become a big gating factor in performance and overall productivity of the pipeline.
+
+This development parallels the emergence of deeper memory hierarchies on computing platforms, that span both on and off-node storage tiers and types (DRAM, NVRAM, Spinning disk)
+
+This results in a fundamentally different focus for storage. It brings in the need for a ‘working store’ for data processing that is much closer to the applications. The working store offers the opportunity for a high-performance storage tier that exposes application-level APIs, but can interface with multiple storage systems and API’s underneath.
+
+In the next and final part of the series, we’ll look at another data management idea of increasing relevance to the Internet of Everything – Graphs. Stay tuned!
+
+Follow @DataconomyMedia
+
+Image Credit: Nick Sherman / This is a font. / CC BY-NC-SA 2.0
+
+Summary: ), you get an Event Stream (also known as a Log) – a naturally ordered sequence of event data.
+This is a core building block of stream processing systems and their variants.
+These principles remain critical, but the world of event streams needs a new set of corresponding ideas.
+A central component in Hadoop is HDFS, and a typical data processing life cycle in Hadoop begins on files in HDFS.
+Pipelines, especially for sensor data force an important consideration in the data processing lifecycle.
+
+Other Blogs by Venkat Krishnamurthy: https://dataconomy.com/author/venkat-krishnamurthy/

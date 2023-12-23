@@ -1,0 +1,82 @@
+Title: Big Data’s Potential For Disruptive Innovation
+
+Article Link: https://dataconomy.com/2017/07/10/big-data-disruptive-innovation/
+
+Author: Savaram Ravindra
+
+Publish Date: 2017-07-10
+
+Article:
+An innovation that creates a new value network and market, and disrupts an existing market and value network by displacing the leading, highly established alliances, products and firms is known as Disruptive Innovation. Clayton M. Christensen and his coworkers defined and analyzed this phenomenon in the year 1995. But, every revolutionary innovation is not disruptive. When a revolution creates a disorder in the current marketplace, then only it is considered as disruptive.
+
+The term ‘disruptive innovation’ has been very popular over the past few years. In spite of many differences in application, many agree on the following.
+
+Disruptive innovations are:
+
+More accessible (with respect to distribution or usability)
+
+Cheaper (from a customer perspective)
+
+And utilize a business model with structural cost advantages (with respect to existing solutions)
+
+than their existing counterparts in the market.
+
+The reason why the above characteristics of disruption are important is that when all 3 exist, it is very difficult for an existing business to stay in competition. Whether an organization is saddled with an outmoded distribution system, highly trained specialist employees or a fixed infrastructure, adapting quickly to new environments is challenging when one or all of those things become outdated. Writing off billions of dollars of investment, upsetting the distribution partners of your core business, firing hundreds of employees – these things are difficult for managers to examine, and with good reason.
+
+Every day, new technologies emerge. The vendors in the market get shaken only if the technological innovation is extremely powerful. Big Data technologies such as NoSQL and Hadoop could be seen as catalysts for this type of innovation. We should understand here that big data is just raw data. The disruptive innovation coming from big data are big data analytics processes and technologies.
+
+In the marketplace, big data is a disruptive force. It means that people require more than new skills, technologies and tools. They need an open mind to rethink about the processes they have followed for a long time and transform the way they operate. However, it is not particularly easy to force this type of change on long-time employees.
+
+This must be viewed differently as many people believe that big data is a disruptive opportunity. Instead of the challenges that are stated above, we should consider 2 positive aspects:
+
+There is an opportunity to gain advantage from the flux occurring in the market, market changes and disruptions.
+
+Opportunity abhors a vacuum. If you don’t take advantage of the opportunities, you should expect that others will.
+
+In his seminal work, The Innovator’s Dilemma, Clayton M. Christensen states a path forward for disruptive, new innovations in the following 4 steps:
+
+Phase 1 – Performance
+
+There are various new market entrants at this stage with a large amount of chaos and the major focus of customers is on the emerging feature sets and functionality. When a technology arrives in the market, the first thing people look for is advanced features and high product performance, while ensuring it is doing the new thing they expect.
+
+Phase 2 – Reliability
+
+When the market reaches this stage, people have accepted the feature set and they now want reliability and stability in the products. There is a shift in focus from ‘does this product do what we expected’ to ‘how reliable is this product.’
+
+Phase 3 – Convenience
+
+Here, the relevance for big data implies making the software accessible on mobile devices in the form of iPhone apps or similar ones. Instead of making the software products that are command-line driven, the UIs that are appealing have become operative and the customers began demanding them.
+
+Phase 4 – Price
+
+Once the above 3 phases have been completed, all market players have equal opportunity and they will start competing on price. When other criteria are satisfied and product turns into a commodity, the price will be the only differentiator.
+
+With Big Data, I think we are still early in this lifecycle. Most of the products are in Phase 1, and some are entering Phase 2. If you consider Hadoop in spite of the amount of hype, few organizations are not using it. They want to utilize it as part of their Enterprise Data Warehouse, or as part of a Data Lake. Hadoop needs to have some features to make it more reliable for the enterprise for this to be a reality. It is getting there because active users of Hadoop are working on this, as are its vendors, like Pivotal and Cloudera. Expect a similar evolution for the types of tools along this continuum, and for Hadoop vendors and other somewhat highly established technologies of Big Data, as they begin to think of convenience and add reliability. YARN is an instance of emerging technology like Hadoop.
+
+With information at the centre of most modern disruptions, there are new opportunities to attack industries from various angles. In a fragmented limo market, Uber built a platform that let it go into the broader logistics and transportation market. Through streaming video, Netflix grabbed users’r attention and it utilized the data it had to stir up the content production process. With a web mapping service known as Google Maps, Google mapped the world and then took its understanding of street layouts and traffic patterns to build autonomous cars.
+
+There is not even a small doubt that disruption is in progress here. The products are created by these players and they are more accessible and cheaper when compared with their peers. It is coming from orthogonal industries with strong information synergy but not necessarily starting at the low end of the market. It is beginning where the source of data is and then building the information enabled system to attack an incumbent industry.
+
+It is time for innovators, entrepreneurs and executives to stop arguing over whether something satisfies the traditional path of disruption. The disruption enabled by data may present an anomaly to the existing theory, but it is here and it is here to stay for a long time. The new questions must be
+
+How can you adapt in the face of this new type of competition?
+
+When data is a critical piece of any new disruption, what capabilities do you need and where do you get them?
+
+How do you assess new threats?
+
+In order to succeed in this new environment, businesses require a thoughtful approach to recognize the potential threats combined with the will to make the right long-term investments — in spite of short-term profit incentives.
+
+In spite of various wild predictions made regarding big data, the reality is that big data is disruptive and it must follow an established path. Businesses need to know in which disruption phase they exist and should make sure they are meeting the requirements of current phase as well as the next phase in the progression. This is extremely important to understand to define as well as implement a big data strategy successfully and meet the needs proactively.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: The term ‘disruptive innovation’ has been very popular over the past few years.
+The disruptive innovation coming from big data are big data analytics processes and technologies.
+Instead of the challenges that are stated above, we should consider 2 positive aspects:There is an opportunity to gain advantage from the flux occurring in the market, market changes and disruptions.
+In spite of various wild predictions made regarding big data, the reality is that big data is disruptive and it must follow an established path.
+This is extremely important to understand to define as well as implement a big data strategy successfully and meet the needs proactively.
+
+Other Blogs by Savaram Ravindra: https://dataconomy.com/author/ravindra-savaram/

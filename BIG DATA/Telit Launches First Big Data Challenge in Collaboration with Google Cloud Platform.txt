@@ -1,0 +1,34 @@
+Title: Telit Launches First Big Data Challenge in Collaboration with Google Cloud Platform
+
+Article Link: https://dataconomy.com/2014/11/25/telit-launches-first-big-data-challenge-in-collaboration-with-google-cloud-platform/
+
+Author: admin
+
+Publish Date: 2014-11-25
+
+Article:
+Telit Wireless Solutions, an enabler of the global machine-to-machine (m2m) movement has announced the loT Big Data challenge in collaboration with Google Cloud Platform. It is aimed at promoting and accelerating innovation around the Internet of Things. Developers are invited to create web-based and mobile applications based on data from a wide variety of connected sensors and devices, delivered to the Cloud by Telit’s m2mAIR Cloud application enablement platform, powered by deviceWISE.
+
+Participants will use Google Cloud Platform to harvest the IoT data, to illustrate the power and simplicity of developing compelling IoT solutions that change the way people live, work and play. The IoT Big Data Challenge encourages developers to submit innovative applications with the broadest possible scope and purpose – from the practical, to the clever, to the totally unexpected.
+
+Categories include Business transformation, Healthy and happy living and the good of mankind. Participants will be judged on Innovation, Potenial Commercial Impact and Scalability, Best use of Telit data and GCP developer resources, look, feel and entertainment value.
+
+Registrations for the competition will open on December 2nd with the Kick- off webinar and submissions are due in January. Winners for America and Asia will be announced in the deviceWISE Global Summit at Miami on January 27th and winners for Europe, Middle east and Africa at the Google loT Hackathon in London later on February 3rd.
+
+Telit delivers its extensive portfolio of cellular, short-range, and positioning products in over 80 countries. By making these products business scalable, interchangeable across families, technologies, and generations, and with high quality standards, Telit keeps development cycles short and cost optimized, protects customer design investments, and removes technology risk.
+
+Read more here
+
+Follow @DataconomyMedia
+
+
+
+(Image Credit: Sebastiaan ter Burg)
+
+Summary: Telit Wireless Solutions, an enabler of the global machine-to-machine (m2m) movement has announced the loT Big Data challenge in collaboration with Google Cloud Platform.
+Developers are invited to create web-based and mobile applications based on data from a wide variety of connected sensors and devices, delivered to the Cloud by Telit’s m2mAIR Cloud application enablement platform, powered by deviceWISE.
+Participants will use Google Cloud Platform to harvest the IoT data, to illustrate the power and simplicity of developing compelling IoT solutions that change the way people live, work and play.
+The IoT Big Data Challenge encourages developers to submit innovative applications with the broadest possible scope and purpose – from the practical, to the clever, to the totally unexpected.
+Participants will be judged on Innovation, Potenial Commercial Impact and Scalability, Best use of Telit data and GCP developer resources, look, feel and entertainment value.
+
+Other Blogs by admin: https://dataconomy.com/author/admin/

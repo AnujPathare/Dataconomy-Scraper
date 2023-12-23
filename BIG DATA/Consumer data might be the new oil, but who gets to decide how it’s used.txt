@@ -1,0 +1,44 @@
+Title: Consumer data might be the new oil, but who gets to decide how it’s used?
+
+Article Link: https://dataconomy.com/2019/10/09/consumer-data-is-the-new-oil-but-who-gets-to-decide-how-its-used/
+
+Author: Rafael Lourenco
+
+Publish Date: 2019-10-09
+
+Article:
+From the Cambridge Analytica scandal to GDPR and data breach headlines, the idea that consumers should know how their data is used is gaining traction with governments and consumer groups. What does this trend mean for companies that rely on consumer data for their business model?
+
+Right now, consumer data is the fuel that powers the information economy. Online banking, shopping and other services use personal data to authenticate customer identities and prevent fraud. Many companies use personal data to target ads to their audience, find prospective hires and more. These functions offer safety or convenience benefits to consumers. Without personal data, mobile banking wouldn’t be possible, and online advertising would be random and unhelpful. But handling personal data is a big responsibility. And over the past couple of years, there’s been story after story in the media of consumer data being stolen, mishandled or used in ways that consumers didn’t realize they’d agreed to.
+
+Rising concern over how consumer data is collected, stored and used
+
+Data breaches are so common that a quick search turns up breaches at city transit services, health care systems, universities, federal agencies and the entire nation of Ecuador, just in the past couple of weeks. The website haveibeenpwned.com has identified more than 8.4 billion accounts that have been compromised by data breaches, and that number is always rising. These breaches can lead to identity theft, credit card fraud, account takeovers and a slew of other negative consequences for victims.
+
+Even if consumer data isn’t stolen, it’s sometimes used in ways that consumers don’t approve of. The biggest example is the Cambridge Analytica scandal, in which that company used Facebook data to build psychological profiles of US voters to target some of them with political advertising. Many Facebook users didn’t realize their data could be used this way and some left the platform as fresh revelations about Cambridge Analytica’s activities during the 2016 election kept coming out.
+
+The future of data regulation: GDPR, CCPA, PDPB and more
+
+Breaches and a lack of transparency have eroded the public’s trust in companies and agencies to keep their personal data safe. To address the problem, governments are enacting their own data-protection rules. The best-known of these rules is the EU’s General Data Protection Regulation (GDPR), which took effect in 2018. Under GDPR, companies with customers in the EU can collect only the personal data that’s “absolutely necessary” to transact business. They also face severe financial penalties for breaches. In July, British Airways was fined $230 million and Marriot $123 million for breaches that exposed their customer data.
+
+Meanwhile, California this year passed its own data privacy law, after much pushback from tech companies based in the state. The California Consumer Privacy Act (CCPA) takes effect in January. Like GDPR, it allows consumers to see what data companies collect about them. Consumers will also be able to request that companies delete or not sell their personal data. The CCPA’s penalties are capped at $7,500 per consumer, and the potential fine is that high only in cases where the company deliberately violates the law.
+
+India is also overhauling the way its laws handle data rights and privacy. The Personal Data Protection Bill (PDPB) has been in the works since 2018, and it diverges from GDPR and CCPA in a couple of significant ways. The bill doesn’t allow consumers to request that their data be deleted, which seems like a win for companies that want to hold on to that information.
+
+But PDPB may impose a new kind of data restriction: localization. Under the law, data collected about Indian citizens cannot be moved outside the country for storage or use. This part of the law has prompted complaints from global businesses like Visa, Mastercard and Amazon, who have lobbied for changes to the bill.
+
+Community pushback on data collection
+
+As other governments look for ways to protect their citizens, companies may face an increasingly complex web of data rules. But lawmakers aren’t the only ones trying to set data boundaries.
+
+When Toronto partnered with Google’s Sidewalk Labs in 2017 to develop a “smart neighborhood,” the plan included sensors to collect “urban data” to make the neighborhood more responsive to residents’ need. Community members raised concerns about whether individuals can retain privacy in such a heavily monitored area, and whether they can meaningfully consent to such monitoring. Then came questions about how the data would be used and who would have access to it. Then came a lawsuit. The entire project could be tossed out at the end of October if Sidewalk can’t satisfy concerns about its plans.
+
+It’s clear from the Sidewalk situation and the new laws to protect consumer data that the public and governments are realizing how valuable and sensitive that data is. They are raising their expectations of how the companies they do business with will safeguard that data. And they increasingly expect to have a say in how their data is used. To maintain public trust—and to avoid penalties in regions with data privacy laws–companies that run on consumer data need to seek permission to use that data, secure it against theft or loss and be transparent with customers about how they intend to use that valuable resource.
+
+Summary: Right now, consumer data is the fuel that powers the information economy.
+Online banking, shopping and other services use personal data to authenticate customer identities and prevent fraud.
+Without personal data, mobile banking wouldn’t be possible, and online advertising would be random and unhelpful.
+Even if consumer data isn’t stolen, it’s sometimes used in ways that consumers don’t approve of.
+It’s clear from the Sidewalk situation and the new laws to protect consumer data that the public and governments are realizing how valuable and sensitive that data is.
+
+Other Blogs by Rafael Lourenco: https://dataconomy.com/author/rafael-lourenco/

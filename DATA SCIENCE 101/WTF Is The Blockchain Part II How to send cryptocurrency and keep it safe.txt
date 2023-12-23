@@ -1,0 +1,44 @@
+Title: WTF Is The Blockchain? Part II: How to send cryptocurrency and keep it safe
+
+Article Link: https://dataconomy.com/2016/02/04/wtf-is-the-blockchain-cryptocurrency/
+
+Author: Hannah Augur
+
+Publish Date: 2016-02-04
+
+Article:
+We have already learned the basics of the blockchain cryptocurrencies (like Bicotin) in WTF Is The Blockchain? A Guide for Total Beginners. Cryptocurrency exists solely in digital, and the chain is completely decentralized, enabling it to never just “go down.” Transfers are verified by the hard work of miners, who add up all the numbers and solve mathematical equations to prove that the transfer is valid. Blocks of transactions are strung together, and include a summary, a time stamp, and proof of work. Thanks to the complicated equations and keys, the “public ledger” styled chain can never be wrong, and solved blocks can never be altered.
+
+How are bitcoin transactions really sent?
+
+Rather than including a SWIFT, routing number, bank address and oodles of other information, all a user really needs is their “key.” A private key is a slew of numbers that is both incredibly secure and unusually delicate. Changing one tiny number or letter renders it useless. Stranger still, these private keys must be made public in order to be used. Much like a password, a user must be able to provide the real key to the location of their money in order for their transaction to be validated. The private key is not, however, used in its entirety. Instead, a public key is created that includes a portion of that private key. Sounds dangerous, doesn’t it? If part of that secret key is put out into the world, couldn’t this network of mathematic problem solving and souped-up computers crack the secret key? Luckily, no. The public key is formed in such a way that is necessarily only refers to the transaction created. If you want to send your mother five bitcoins, that information is inherent in the generated key. It cannot be removed. Even the slightest change would require an entirely new number. For bitcoin, a private key is a 256-but number (though some wallet vary from 128 and 512 bits).
+
+What does that look like? An example shows us that it may look like this: 16qT2iLQ7d5MiEkKWYau6mfRNHUFZ3NzHz. Trying to crack such a number, though theoretically possible, is really implausible. It is often compared to finding a certain grain of sand or counting atoms. However, poorly chosen private keys are just like poorly chosen passwords. While choosing “1234” or “sausage” generates a slew of numbers that looks, at first, like any other slew of numbers, it is much more likely to be targeted and cracked.
+
+Keep keys and money safe
+
+As the spirit of blockchain and cryptocurrency is founded on bankless and borderless transactions, there is no one to ask for help if a key is lost. If a hard drive crash erases all of your keys, say goodbye to that money. Much like coins jostling around in pant pockets and cup holders, cryptocurrency often needs a safe place to stay. Wallet software helps generate, use and store private keys. They are not, however, 100% flawless, and can malfunction just like anything else on a computer. Before diving head first into a wallet, make sure to understand the program as well as how keys are imported and proper backup procedures.
+
+The blockchain system is founded on the idea that users should trust no one. It is also designed to completely remove “trust” from the equation, and replace it with mathematical proofs. Of course, there are always tricksters, especially in the highly anonymous cryptocurrency world. Luckily, there is only so much they may be able to do. While we won’t go into detail, there is a basic rule of thumb when it comes to transactions. Blocks further back on the chain (those that are older) are more secure. As the chain is decentralized, a fraudster could try to jump in and replace one transaction with another. The chain is always being updated, and the block that is processed first is found to be the valid one. The chain that is the longest also always takes precedent over other, shorter chains. This means that is possible for a transaction to be overrun with another. How can fraud like this be avoided? Simply by waiting until a block is far enough down the chain to be considered solidly embedded removes possibility of its removal. As one block cannot simply be changed without affecting the others, a fraudster must change all subsequent blocks. This becomes more and more difficult with time. After about ten minutes, the block is validated and the money is considered moved; however, you may want to wait six blocks to consider the transaction truly safe. This should take about one hour to complete.
+
+Cryptocurrency and infinitely faster computers
+
+The system has already exploded in recent years. People are content to purchase and build powerful mining-machines from scratch. Serious miners are capable of doing much more than the average person would even consider possible, and it causes fear. There are several valid fears about blockchain technology being vulnerable or dangerous, but the rise of powerful computers and faster processing times should not be one of them. Perhaps the most important part of the technology (apart from being at the heart of “digital anarchy”) is how it was very carefully and specifically designed. It was designed to respond to faster processing speeds and to adapt for the future.
+
+Using machine learning to create a computer that learns from each and every process would make mining infinitely easier. Theoretically, it could eventually take no time at all. This could be dangerous, allowing those with access to great computers the ability to effectively “run the show,” and do so with impossible speed. This is why the difficulty level is constantly being recalibrated. When users refer to the “10 minute” waiting period for a block to be confirmed, they mean 10 minutes yesterday, today and tomorrow. Though it’s impossible to always be the exact same speed, the program is always ready to change the difficulty level of mathematical equations to keep the process running at the same speed.
+
+The perhaps biggest concern about bitcoin, specifically, is when it will run out. There is not, in fact, an infinite amount of bitcoin. Every four years, the number of bitcoins generated per block are cut in half. It will eventually cease to offer rewards, and no new bitcoins will be created. The final number available is expected to cap out at 21 million. One of the bigger cryptocurrency fears is how deflation could affect bitcoin. For some, the fact that bitcoin will one day simply stop growing means the cryptocurrency will soon be dead. For others, the exact number of bitcoins is irrelevant, as the world will continue to deal in dollars, euros and other currency, using cryptocurrency solely as the payment system. This has been a common debate in recent years, with a growing number of commentaries, but save that argument for another day.
+
+image credit: Zach Copley
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: We have already learned the basics of the blockchain cryptocurrencies (like Bicotin) in WTF Is The Blockchain?
+Stranger still, these private keys must be made public in order to be used.
+The private key is not, however, used in its entirety.
+Instead, a public key is created that includes a portion of that private key.
+For bitcoin, a private key is a 256-but number (though some wallet vary from 128 and 512 bits).
+
+Other Blogs by Hannah Augur: https://dataconomy.com/author/hannah-augur/

@@ -1,0 +1,38 @@
+Title: Data Tracking In The Workplace: Is Big Data Hurting Employees?
+
+Article Link: https://dataconomy.com/2016/02/23/data-tracking-in-the-workplace-is-big-data-hurting-employees/
+
+Author: Hannah Augur
+
+Publish Date: 2016-02-23
+
+Article:
+The common usage cases for big data and employees usually stops at HR and recruiting. However, recent news has sparked interest in the dark uses of data in the workplace. Until recently, the biggest concern about data collection was whether Target would find out you were pregnant, or you would receive obnoxious targeted ads. For all of the positive ways big data can strengthen a company, there are also several downsides.
+
+Employee and Health Tracking For Darker Purposes
+
+It recently came to light that several major companies don’t just track employee health—they know when employees might be getting sick, or are looking to have a baby. Companies like Walmart and J.P. Morgan were cited in a report by the Wall Street Journal for using data to try to save money on employee health. Using third party data companies, businesses can plot data points that indicate what will cost them money, and what will save them money. When it was revealed that 30% of Walmart employees who received second opinions on pricy back surgeries opt not to receive surgery, it became a point of interest. By devising methods to speak with employees about “alternatives” or getting second opinions, Walmart knew they would money. The goal of such data-driven programs is not better well-being, but money saving. Hence why this second example has been splattered all over the press.
+
+Data analysts have also plotted points that indicate when female employees may soon become pregnant. They not only scan insurance claims to locate women who have stopped filling birth-control prescriptions, but they also check for fertility-related search histories. Comparing that data against more basic information like age can determine with great accuracy an impending pregnancy. Questions of “will they fire me if they find out I’m pregnant?” are not uncommon among employees, particularly in the US. Despite existing laws intended to protect pregnant women, knowing that employers are tracking pregnancy might not just be strange, but a massive source of stress. James Hodge, a public health law and ethics professor at the Arizona State University Sandra Day O’Connor College of Law, describes some of the effects this might cause:
+
+“If [an employer] originally thought that 15% of the women in its employee base may become pregnant, but data shows it’s closer to 30%, that could lead an employer to say we cannot hire as many female employees this year because we can’t afford them being out for family leave.”
+
+The true power of big data is not the ability to predict small instances, like one woman becoming pregnant, but trends, like the one described above. Of course, company’s are going to want to use data to get the best information available, and make the best decisions for the business. It is no surprise that initiatives like health tracking to save money now exist. The question is what to do about it. Whether data is being used for the good of the employees or the employers will involve a thin line. Lockheed Martin specializes in a number of areas, including data analytics. While their LM Wisdom brochure sports crime scenes, yellow police tape, and a reference to the Mafia, they have also used their data powers to assist Walmart track employees. The 2012 Black Friday strike at Walmarts in the US apparently did much more than just rattle the cage. Many of the employees were not surprised that they were tracked, but the presence of a company like Lockheed Martin put a very different spin on the situation. In the words of one activist: “We’re artists, not ISIS”
+
+Your Boss May Know You’re Going to Quit Before You Do
+
+Big data is being used to recruit employees that are likely to stay longer. The story of Xerox’s 20% reduction in attrition thanks to algorithm-driven recruiting is the poster child of this method. Unfortunately, the other side of the coin involves analyzing existing employees to find seeds of discontent or signs that they will be leaving soon. One software company called Workday does just that. Their director of data science even told the New York Times, “we’re surprised how accurately we can predict someone will leave a job.” For many, the decision of an employee to quit can seem surprising. It’s a mystery, and there’s only so much one can do to foresee it. Data companies, however, note that there are actually several signs. People tend to leave in “patterns,” and using data to decipher those patterns could save everyone heartache. One positive outcome may be that, the next time you’re planning to walk out, an employer will step in and offer you a raise or better benefits. By comparing what salaries, habits, and needs a person has, maybe data can really help employees. However, when the chief strategy officer of workforce analytics company Visier remarks “we know what benefits they have, we know what they’re claiming in benefits and when,” employees might be left wondering whether that data is going to help them, or hurt them.
+
+One fact employees and employers can agree on is that big data is here to stay. Trying to turn back the clock on how resources are managed and measured would be a nearly impossible task. Even if employees agree to allow parts of their life to be tracked, that does not mean they feel safe with it. Research has shown that employees are wary of large scale, intensive data mining. These kinds of programs lead both to legal and moral questions about privacy, as well as issues in job satisfaction and workplace well-being. Much of the industry is still unregulated in this sense, and employees are highly aware of that fact. Even when an employee chooses not to opt-in to data collection services, data collected from other sources can still be applied to them. Once algorithms are developed, it becomes much easier to turn an employee into a statistic. The onus is laid entirely on companies to show their employees that data is being collected and used in a reasonable way, otherwise the “creepy” factor of workplace data collection might cause major disruption one day.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: The common usage cases for big data and employees usually stops at HR and recruiting.
+Using third party data companies, businesses can plot data points that indicate what will cost them money, and what will save them money.
+When it was revealed that 30% of Walmart employees who received second opinions on pricy back surgeries opt not to receive surgery, it became a point of interest.
+It is no surprise that initiatives like health tracking to save money now exist.
+Data companies, however, note that there are actually several signs.
+
+Other Blogs by Hannah Augur: https://dataconomy.com/author/hannah-augur/

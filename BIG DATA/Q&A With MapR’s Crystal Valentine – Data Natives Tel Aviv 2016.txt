@@ -1,0 +1,62 @@
+Title: Q&A With MapR’s Crystal Valentine – Data Natives Tel Aviv 2016
+
+Article Link: https://dataconomy.com/2016/08/09/crystal-valentine-data-natives-tel-aviv/
+
+Author: Rachel Wolfson
+
+Publish Date: 2016-08-09
+
+Article:
+Meet Crystal Valentine, Data Natives Tel Aviv 2016 Keynote Speaker
+
+Crystal Valentine is VP of Technology Strategy at MapR Technologies in San Jose, California and will serve as a keynote speaker during Data Natives Tel Aviv 2016.
+
+Dr. Valentine received her doctorate in Computer Science from Brown University and was a Fulbright Scholar at the University of Padua in Italy. Dr. Valentine’s unique background in computer science has allowed her to apply big data use cases to impact real-world applications.
+
+Dr. Valentine will be discussing the impact of big data during her keynote discussion. Here is what she has to say about how data-driven technologies are driving innovation:
+
+Q: How did you get involved in the field of Big Data?
+
+I’m a computer scientist by training. I fell in love with computer science in college, having had a strong mathematics background but no prior experience with programming. After college, I got involved in computer science research at MIT Lincoln Laboratory and at the University of Padua in Italy as a Fulbright Scholar. Wanting to continue my research, I entered a doctoral program at Brown University where I studied discrete, combinatorial algorithms for problems in computational biology.
+
+Since receiving my PhD, I’ve spent time both in industry and academia—first learning about big data as a consultant at Ab Initio Software and then accepting a position as a tenure-track professor at Amherst College. Since big data is a field where the line between industry and academia is blurred, it feels natural to have moved again into my new role with MapR Technologies where I get to collaborate with brilliant thought leaders, while having an impact on real-world applications.
+
+Q: How is big data driving the data revolution?
+
+My philosophy is that we should be empowering individuals and organizations to leverage whatever data they have available to them—in whatever form it happens to be in.
+
+Traditional enterprise applications were designed with a particular question in mind and then the appropriate data sets had to be identified, filtered, transformed, and loaded into a database where the query could be run to answer the question. In my mind, that whole process is unnecessarily slow and cumbersome.
+
+Today, we’ve flipped the traditional assumptions about how to get value from data on their heads. We should be looking at all the data that’s available to us and then asking “How can I leverage all of this data?”. That is, the data should dictate the application—not the other way around. This is what I would call a “data-first” philosophy.
+
+Q: Provide one use case/example on how data is being applied to create change?
+
+A great example of how data is creating real change can be seen in India’s Aadhaar Project. India is a country of 1.2B people, and the government provides $50B annually in food and subsidies for the country’s poor.
+
+Traditionally, the task of proving one’s identity in order to receive these subsidies was an almost impossible challenge for poor citizens. Aadhaar is the Indian government’s unique identification project, built on the world’s largest biometric database. Today, an Indian resident can prove his/her identity without paper documents any time of day in less than 200 milliseconds.
+
+This has facilitated the receipt of subsidies by those who really need them, while drastically cutting the incidence of fraud. The impact this project has had on the population of India cannot be understated; it’s one of the best examples of big data making a real-world impact.
+
+Q: Do you believe that Israel is a strategic market for showcasing data-driven technologies? If so, why?
+
+Israel is a great market from our perspective. There is a tremendous amount of innovation in Israel as a result of its strong universities and an incredible cadre of burgeoning startups. I am excited to meet with Israeli researchers and entrepreneurs to learn about how they are thinking about data and what challenges they are seeing in the field.
+
+Q: What do you hope to gain or learn during data Natives Tel Aviv?
+
+I’m excited to attend Data Natives Tel Aviv to learn about how data-driven applications are making an impact on other people’s lives. There are brilliant people all over the world who are looking at today’s problems through the lens of data. I’m hoping to gain new ideas and insights into how data can be leveraged by smart people to solve real-world problems.
+
+Q: Can you offer advice for others wanting to get involved in this particular field?
+
+I think that there are a couple ways that people are becoming involved in the big data field. A number of senior technology folks who have been in the industry for a few decades and have witnessed the great data revolution are approaching big data with an invaluable perspective and a great set of experiences and lessons about computational architectures and algorithms.
+
+For younger folks, the best way to get involved in the big data sector is to study computer science, computer architectures, and statistics. These fields are all quite deep and their intersection really holds the keys to the kingdom.
+
+Join us for Data Natives Tel Aviv 2016. Save your spot by registering today!
+
+Summary: Meet Crystal Valentine, Data Natives Tel Aviv 2016 Keynote SpeakerCrystal Valentine is VP of Technology Strategy at MapR Technologies in San Jose, California and will serve as a keynote speaker during Data Natives Tel Aviv 2016.
+Q: How is big data driving the data revolution?
+Q: What do you hope to gain or learn during data Natives Tel Aviv?
+I’m excited to attend Data Natives Tel Aviv to learn about how data-driven applications are making an impact on other people’s lives.
+Join us for Data Natives Tel Aviv 2016.
+
+Other Blogs by Rachel Wolfson: https://dataconomy.com/author/r-wolfson/

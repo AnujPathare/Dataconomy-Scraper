@@ -1,0 +1,44 @@
+Title: Things got easier to do with Zoom AI Companion
+
+Article Link: https://dataconomy.com/2023/09/06/things-got-easier-to-do-with-zoom-ai-companion/
+
+Author: Onur Demirkol
+
+Publish Date: 2023-09-06
+
+Article:
+Zoom has implemented new generative AI features in its application. The Zoom AI Companion has many capabilities, and it aims to make it easier for users to complete certain tasks,.
+
+Zoom is offering its AI Companion tool as part of standard Zoom subscriptions for paid accounts at no additional cost. This tool, previously available as a free trial, assists with tasks like composing Zoom Chat messages and summarizing meetings, providing added value to Zoom’s paid users.
+
+Zoom’s unique federated approach to AI is designed to deliver high-quality results by dynamically incorporating Zoom’s own large language model (LLM) in addition to Meta Llama 2, OpenAI, and Anthropic. With this approach, AI Companion can evolve and incorporate innovations in LLMs so you do not have to worry about which model to choose while getting the benefits of improved quality and performance,” says Zoom’s official announcement about the new Zoom AI Companion.
+
+What can Zoom AI Companion do?
+
+The rebranded Zoom IQ, now known as the Zoom AI Companion, utilizes a combination of technologies, including Zoom’s in-house generative AI and AI models from vendors like Meta, OpenAI, and Anthropic. It is expanding its presence within the Zoom ecosystem, encompassing Zoom Whiteboard, Zoom Team Chat, and Zoom Mail.
+
+One significant addition is the introduction of a ChatGPT-like bot within Zoom. Starting in spring 2024, users will have access to a conversational interface that enables direct interaction with the AI Companion. Users can ask questions related to past meetings and chats and delegate various tasks to them.
+
+For instance, users can inquire about project statuses by pulling information from transcribed meetings, chats, whiteboards, emails, documents, and even third-party apps. During meetings, they can seek clarification on key points, generate and organize support tickets, and compose responses to inquiries. Like Zoom IQ, the AI Companion can also provide meeting summaries, identify action items, and highlight the next steps automatically.
+
+Starting next spring, Zoom’s AI Companion will provide real-time feedback on users’ presence in meetings and offer coaching on conversational and presentation skills. However, users concerned about privacy and AI can choose to disable these features at any time through their account settings.
+
+In Zoom Team Chat, users will soon have the option to summarize chat threads through the AI Companion, with auto-completion of chat sentences and meeting scheduling features coming in early 2024. Zoom Whiteboard, the collaborative whiteboarding tool, will also gain AI capabilities to generate images and populate templates in spring 2024, although the specific model powering this feature is yet to be disclosed.
+
+Zoom is making efforts to enhance user productivity on its platform by introducing various AI features in the coming months. The Zoom AI Companion, available to paid subscribers, will allow users to catch up on key meeting highlights and ask specific questions related to meeting discussions.
+
+After a meeting concludes, the Companion will automatically transcribe the session and segment it into “smart chapters” while highlighting important information. It will also create summaries of meetings, emphasizing crucial topics and potential next steps.
+
+In September, Zoom plans to release a feature where the AI Companion can assist in generating email responses, assessing the appropriate tone and length. Around the same time, it will be capable of summarizing missed chats for a broader perspective.
+
+In the coming fall, Zoom aims to automatically enable the AI Companion to detect meeting intent through chat messages. Additionally, Zoom envisions users interacting with the AI Companion to seek feedback on presentation skills and track speaking versus listening time during meetings.
+
+Featured image credit: Iyus sugiharto/Unsplash
+
+Summary: The Zoom AI Companion has many capabilities, and it aims to make it easier for users to complete certain tasks,.
+Zoom is offering its AI Companion tool as part of standard Zoom subscriptions for paid accounts at no additional cost.
+What can Zoom AI Companion do?
+The rebranded Zoom IQ, now known as the Zoom AI Companion, utilizes a combination of technologies, including Zoom’s in-house generative AI and AI models from vendors like Meta, OpenAI, and Anthropic.
+It is expanding its presence within the Zoom ecosystem, encompassing Zoom Whiteboard, Zoom Team Chat, and Zoom Mail.
+
+Other Blogs by Onur Demirkol: https://dataconomy.com/author/onurdemirkol/

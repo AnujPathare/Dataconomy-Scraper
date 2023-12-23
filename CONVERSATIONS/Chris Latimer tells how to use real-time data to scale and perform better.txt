@@ -1,0 +1,56 @@
+Title: Chris Latimer tells how to use real-time data to scale and perform better
+
+Article Link: https://dataconomy.com/2022/04/13/how-to-use-real-time-data-to-scale/
+
+Author: Aytun Çelebi
+
+Publish Date: 2022-04-13
+
+Article:
+Real-time data is more critical than ever. We need it for quick decisions and pivot timely. Yet, most businesses can’t do this because they must upgrade their software and hardware to cope with real-time data processing’s demanding performance and scale standards. And when they can’t, we are left with stale data.
+
+DataStax recently announced its Change Data Capture (CDC) feature for Astra DB, which brings data streaming capabilities built on Apache Pulsar to its multi-cloud database built on Apache Cassandra.
+
+The new functionality offers real-time data for use across data lakes, warehouses, search, artificial intelligence, and machine learning by processing database changes in real-time via event streams. It will enable more reactive applications that can benefit from connected real-time data.
+
+Solving today’s problem: How to use real-time data?
+
+To get more details on the matter, we had a chance to talk with Chris Latimer, Vice President of Product Management at DataStax, about their new offering and the current landscape in data.
+
+Can you inform our readers about the current market in real time data streaming?
+
+The demand for real-time data streaming is growing rapidly. Chief data officers and technology leaders have recognized that they need to get serious about their real time data strategy to support the needs of their business. As a result, business leaders are putting more and more pressure on IT organizations to give them faster access to data that’s reliable and complete. As enterprises get better at data science, being able to apply AI to augment data in real time is becoming a critical capability that offers competitive advantages to companies that master these techniques and pose a major threat to companies that can’t.
+
+How does real time data streaming affect user experience?
+
+We’ve grown accustomed to data streaming in the consumer apps that we all use. We can watch the driver’s location when we’re ordering food or when we’re waiting for an online purchase we made to be delivered. While those features have clearly improved our experience, they also provide valuable data that can be used later to create second and third order effects which have less obvious impacts on user experiences.
+
+These effects range from new optimizations that can be made by recording data streams. For example, a food delivery service might analyze driver location, drive times, selected routes and start incentivizing customers to order from restaurants which have a lower overall delivery time, letting drivers complete more deliveries and reducing wait times for consumers.
+
+Likewise, in applications such as retail, capturing clickstream data from the collective audience of shoppers in an e-commerce app can enable retailers to select the best offers to put in front of customers to improve conversions and order size. While consumers are now accustomed to and demanding these types of interactions, many of these improvements are invisible and the end user sees a relevant discount on a product on food or clothing that can get delivered to them quickly
+
+How did Pulsar tech help you build the new CDC feature?
+
+Pulsar is the foundation for these new CDC capabilities. With Pulsar we’re able to offer customers more than just a CDC solution; we’re able to offer a complete streaming solution. This means that customers can send data change streams to a wide range of different destinations such as data warehouses, SaaS platforms or other data stores. They can also build smarter data pipelines by leveraging the serverless function capabilities built into our CDC streaming solution. Better still, changes are recorded so users can replay those change streams to do things like train ML models to create smarter applications.
+
+Chris Latimer tells how to use real-time data to scale and perform better
+
+How will your users benefit from this new feature?
+
+This feature makes it a lot easier for users to build real time applications by listening to change events and providing more responsive experiences. At the same time, it provides the best of both worlds to users that need a massively scalable, high performance, best of breed NoSQL solution while delivering that data throughout the rest of their data ecosystem.
+
+If you compare your CDC solution with others, what are the advantages?
+
+The biggest difference is that DataStax is providing a comprehensive event streaming platform as part of CDC. Other solutions out there provide a raw API that sends changes as they happen. With CDC for Astra DB, we offer customers all the tools needed to quickly connect their change data streams to other platforms with a library of connectors and a full serverless function platform to facilitate smarter real time data pipelines.
+
+We also provide developer friendly libraries so that change streams can power real time applications in Java, Golang, Python, Node.js and other languages.
+
+With the ability to replay change streams, DataStax also offers differentiated capabilities for organizations as they build machine learning algorithms and other data science use cases.
+
+Summary: Yet, most businesses can’t do this because they must upgrade their software and hardware to cope with real-time data processing’s demanding performance and scale standards.
+The new functionality offers real-time data for use across data lakes, warehouses, search, artificial intelligence, and machine learning by processing database changes in real-time via event streams.
+The demand for real-time data streaming is growing rapidly.
+This means that customers can send data change streams to a wide range of different destinations such as data warehouses, SaaS platforms or other data stores.
+Chris Latimer tells how to use real-time data to scale and perform betterHow will your users benefit from this new feature?
+
+Other Blogs by Aytun Çelebi: https://dataconomy.com/author/aytun-celebi/

@@ -1,0 +1,52 @@
+Title: “Open source and public cloud are the most impactful shifts I have seen.” – Interview with Google Cloud Platform’s William Vambenepe
+
+Article Link: https://dataconomy.com/2015/11/23/open-source-and-public-cloud-are-the-most-impactful-shifts-i-have-seen-interview-with-google-cloud-platforms-william-vambenepe/
+
+Author: Elena Poughia
+
+Publish Date: 2015-11-23
+
+Article:
+William Vambenepe is the Lead Project Manager for Big Data at Google Cloud Platform. Dataconomy interviewed him about his career path, his current role and how he sees the industry changing.
+
+You’ve worked for some of the biggest names in the industry (HP, Oracle, Google), what stands out to you about these companies?
+
+All of the places I’ve worked are great, Google really stands out for me because of its appetite to tackle big problems and try hard things. And the technical expertise and infrastructure are available to actually make it happen.
+
+You studied Computer Science at Ecole Centrale de Paris and University of Cambridge, then switched to Industrial Engineering at Stanford. What have been the biggest influences from your academic life?
+
+Ecole Centrale is where I really learned to code (mostly as part of the student computer club, VIA) and where I discovered the Internet and the then-nascent WWW. In Cambridge, I learned some of the CS theory behind what I was already doing. At Stanford I discovered how anyone could potentially have a huge impact by using Computer Science. That’s why I decided to stay in the Bay Area.
+
+What type of problems do you focus on solving at Google?
+
+The main focus of my work in Google Cloud Platform is empowering users by giving them access to super-productive tools which don’t require complex setup or a long-term commitment. Anyone with an idea can implement it quickly and easily, try it out, and iterate on it. If the idea doesn’t work out, the sunk cost is very low (a few hours of coding and a few dollars of infrastructure). If it works, the resulting system is not a throwaway prototype. It is a cloud application which is already able to scale infinitely and support production workloads.
+
+In 17 years of working as a technologist and product manager, what are the significant shifts you have seen in the industry?
+
+Open source and public cloud are the most impactful shifts I have seen. Both have redefined the dynamics of the industry, and in both cases they have done that in a way which levels the playing field between incumbents and new entrants. Actually, it might have even given the new entrants a leg up in many ways over the most nimble incumbents. It has resulted in a burst of innovation and creativity.
+
+If you could give one piece of advice to aspiring tech product managers, what would it be?
+
+First of all to be sure they really want to go this way. Most PMs I work with, including myself, started as software engineers. And while becoming a PM doesn’t mean you’re giving up on coding, it does mean you’re giving up on being able to focus on solving deep technical problems. There’s a lot of satisfaction in a good software engineering career and it’s very hard to go back, so think about it carefully and don’t rush into a transition.
+
+Once embarked on the PM journey, my main advice is to work hard to keep yourself intellectually honest. There are many ways you can rationalize taking the obvious or easy way (going with the flow, building what the engineers want to build because it’s technically interesting, copying the competition, etc…) but that’s not what a PMs job should be. The role of the PM is to focus on finding and injecting the non-obvious into the product strategy.
+
+Of the trends you see in the technology market today, do any particularly excite or trouble you?
+
+Recent advances in Machine Learning are the most exciting development in the industry right now. On the big data side, there’s still a lot of work to make everything completely easy, cheap, integrated and reliable, but the problem of storing and processing data at large scale is more or less solved.The next challenge is how best to use this data for human progress; Machine Learning, especially its Deep Learning branch is the most promising direction to solve this.
+
+If you could tackle any technology-solvable challenge existing today, which would it be – and why?
+
+There are few challenges which are only technological. For example, the health care system (especially in the US) could benefit from a huge boost from applying technology in the way technology has propelled so many other sectors forward. There are obviously technical issues involved, but they are not the blocker. I’d love to help make progress there.
+
+What have been the most valuable resources for you to develop your career and professional ability?
+
+Other than coffee, presumably? It would have to be my colleagues. I’ve been fortunate to work closely and for long periods of time with a few truly exceptional colleagues. By the way, that’s one reason why I tend to advise against too frequent job-hopping. The quality of the professional relationships that you build have a strong dependency on how closely and how long you work with someone. You don’t learn from someone by seeing them from afar or having “mentoring sessions” (at least in my experience). It’s much more or a two-way street and it only works if you are working intently on hard problems together for sustained periods of time.
+
+Summary: William Vambenepe is the Lead Project Manager for Big Data at Google Cloud Platform.
+Open source and public cloud are the most impactful shifts I have seen.
+Once embarked on the PM journey, my main advice is to work hard to keep yourself intellectually honest.
+By the way, that’s one reason why I tend to advise against too frequent job-hopping.
+It’s much more or a two-way street and it only works if you are working intently on hard problems together for sustained periods of time.
+
+Other Blogs by Elena Poughia: https://dataconomy.com/author/epoughia/

@@ -1,0 +1,54 @@
+Title: FTC leak reveals discless Xbox and new Bethesda games
+
+Article Link: https://dataconomy.com/2023/09/19/ftc-leak-discless-xbox-bethesda-games/
+
+Author: Kerem Gülen
+
+Publish Date: 2023-09-19
+
+Article:
+Quick take: The FTC leak divulges key details about the discless Xbox Series X and Bethesda’s upcoming game releases, pointing to a transformative year ahead in gaming.
+
+The FTC leak divulges key details about the discless Xbox Series X and Bethesda’s upcoming game releases, pointing to a transformative year ahead in gaming. Core insight: The FTC leak uncovers future technology products, raising questions about data safety and confidentiality in revealing upcoming projects from Microsoft and Bethesda.
+
+The FTC leak uncovers future technology products, raising questions about data safety and confidentiality in revealing upcoming projects from Microsoft and Bethesda. What’s next: Given the credibility of the FTC leak, both Microsoft and Bethesda may need to accelerate their official announcements to manage public expectations and maintain the momentum of their upcoming releases.
+
+Amidst recent FTC leak documents, exciting information has surfaced regarding a Discless Xbox Series X makeover, slated for a 2024 release, according to The Verge. Codenamed Brooklin, the leaked plans unveil Microsoft’s intent to revamp its flagship gaming console. The same documents have lifted the curtain on Bethesda’s future game projects, highlighting their ambitions for truly groundbreaking titles.
+
+The disclosed information doesn’t just provide a sneak peek at what Microsoft aims to achieve with its gaming hardware; it also offers a revealing look at the remarkable endeavors Bethesda is undertaking. The FTC leak essentially acts as a treasure map to Bethesda’s gaming roadmap for the coming years.
+
+The discless Xbox unveiled during the FTC leak
+
+The discless Xbox Series X will take on a more cylindrical form and ditch the disc drive. Exclusive Microsoft documents show it will have an expanded 2TB of storage and a USB-C port that comes with power delivery, alongside an “all-new, more immersive controller.”
+
+A new controller, dubbed Sebille, will be unveiled later this year. It will be fitted with an accelerometer to support gyro controls. The controller will offer cloud-direct connection, Bluetooth 5.2, and an improved “Xbox Wireless 2” connection. Further specs for the controller include “precision haptic feedback” and “VCA haptics double as speakers.” The buttons and thumbsticks are quieter, and it comes with a rechargeable, swappable battery and modular thumbsticks. The controller will wake up when lifted.
+
+Internally, the redesigned discless Xbox Series X will boast Wi-Fi 6E and Bluetooth 5.2 capabilities. The company is minimizing the current die to 6nm “for improve efficiency.” The FTC leak also indicates that the power supply unit’s power consumption will go down by 15%. The console is expected to retail for the same $499 as its predecessor.
+
+According to the FTC leak, Microsoft’s future plans include this redesigned Xbox Series X and an updated Xbox Series S, featuring 1TB of storage. A recent black version of the Series S has been released, but another update is anticipated in 2024, with the inclusion of Wi-Fi 6E and Bluetooth 5.2.
+
+Bethesda’s future games also made an appearance in Microsoft’s roadmap, which was mentioned in the leaked documents. Console customization, possibly through Microsoft’s Xbox Design Lab program, is among the company’s long-term goals set for 2030. However, it’s worth noting that, according to the same FTC leak, this initiative isn’t fully financed yet. An Elite controller upgrade is also in the pipeline, expected to inherit the features of the main controller redesign.
+
+Microsoft is eyeing next September for the release of the updated Xbox Series S, followed by the discless Xbox Series X refresh in November.
+
+Bethesda to release Dishonored 3, Doom Year Zero, Oblivion Remaster and Fallout 3
+
+Bethesda has an action-packed pipeline, according to the FTC leak, with new game releases spanning from classics to entirely fresh titles. Next year, Bethesda aims to roll out a new Indiana Jones game and refresh The Elder Scrolls IV: Oblivion.
+
+By fiscal year 2023, gamers can look forward to Doom Year Zero. Although specifics are scant, id Software’s ongoing work on the new id Tech Engine suggests this upcoming Doom installment will leverage it.
+
+Employees are given three options as seen in the VMware leaked email
+
+The road ahead is even more exciting as Bethesda is setting the stage for highly anticipated launches, including The Elder Scrolls VI, Fallout 3 Remaster, Dishonored 3, and a follow-up to Ghostwire: Tokyo. However, it’s unlikely that these projects will be ready for release in FY24E.
+
+This isn’t mere speculation; it’s all corroborated by a court document, making the FTC leak a credible source. Overall, this accidental disclosure could be seen as a setback for Bethesda, but it’s a windfall for gamers keen on what the future holds for the studio’s lineup.
+
+Featured image credit: Kerem Gülen/Midjourney
+
+Summary: The FTC leak divulges key details about the discless Xbox Series X and Bethesda’s upcoming game releases, pointing to a transformative year ahead in gaming.
+Amidst recent FTC leak documents, exciting information has surfaced regarding a Discless Xbox Series X makeover, slated for a 2024 release, according to The Verge.
+The discless Xbox unveiled during the FTC leakThe discless Xbox Series X will take on a more cylindrical form and ditch the disc drive.
+According to the FTC leak, Microsoft’s future plans include this redesigned Xbox Series X and an updated Xbox Series S, featuring 1TB of storage.
+Microsoft is eyeing next September for the release of the updated Xbox Series S, followed by the discless Xbox Series X refresh in November.
+
+Other Blogs by Kerem Gülen: https://dataconomy.com/author/kerem-gulen/

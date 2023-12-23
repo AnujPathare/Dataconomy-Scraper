@@ -1,0 +1,44 @@
+Title: Visual Cues in Big Data for Analytics and Discovery
+
+Article Link: https://dataconomy.com/2014/11/12/visual-cues-in-big-data-for-analytics-and-discovery/
+
+Author: Kirk Borne
+
+Publish Date: 2014-11-12
+
+Article:
+One of the most fun outcomes that you can achieve with your data is to discover new and interesting things. Sometimes, the most interesting thing is the detection of a novel, unexpected, surprising object, event, or behavior – i.e., the outlier, the thing that falls outside the bounds of your original expectations, the thing that signals something new about your data domain (a new class of behavior, an anomaly in the data processing pipeline, or an error in the data collection activity). The more quickly that you can find the interesting features and characteristics within your data collection, consequently the more likely you are to improve decision-making and responsiveness in your data-driven workflows.
+
+Tapping into the human natural cognitive ability to see patterns quickly and to detect anomalies readily is powerful medicine for big data analytics headaches. That’s where data visualization shines most brightly in the big data firmament! One could even say that visualization is an efficiency amplification methodology for discovery from data. But visualization contributes to more than just discovery – it is an analytics ally.
+
+The phrase “A picture is worth a thousand words” is a very common expression. In the modern computing era (where one word is equal to 4 bytes), we should say that a picture is worth 4 Kbytes. However, the rich complexity (high dimensionality and variety) of big data calls for a richer visual experience – perhaps encoding Megabytes (not Kbytes) of information in a single display. With such capabilities, we can exploit human visual cognitive abilities more effectively. In particular, visualization is especially useful and powerful for seeing patterns (trends) in your data and for seeing things that break the pattern (outliers). When used in this way (for description, discovery, prediction, and insights) within large datasets, visualization moves into the scientific realm of visual analytics. The significance of this potential analytics application explains the recent rapid growth in research and development of visualization tools for visual storytelling with data.
+
+One of the best new tools in the visualization universe comes from VisualCue Technologies. They were recently named a winner of the 2014 Ventana Research Business Intelligence Innovation award.
+
+VisualCue uses semantic cues in the form of glyphs (icons, symbols) within the visualization. This is doubly powerful in that it not only exploits visual cognition, but it employs semantics in the presentation and display of the information content within a big data stream. Semantic technologies in general are the future of big data discovery and analytics – going beyond the bits and the bytes, and delivering more than content, the semantics of the data reveal to us what the data means and what is its context: not only the “what”, but the “why”. One of the first such examples of glyph-enabled data visualization was a NASA project called ViSBARD (Visual System for Browsing, Analysis, and Retrieval of Data) – this ground-breaking system was specifically designed for use with space physics data from spacecraft in the interplanetary environment. VisBARD displayed six or more dimensions of scientific data simultaneously, enabling discovery of patterns and correlations across multiple parameters at once, but it did not provide any semantic elements. VisualCue is now making major advancements and significant contributions in the direction of visual data semantics.
+
+The semantic visual cue contains an iconic representation of the meaning of a particular data element in the visualization. For example, if you are displaying international shipping manifests, the icons would include an iconic image of a ship, which can be color-coded according to some metric (e.g., time to delivery, load, or country of origin). The visual cue tile can also include smaller embedded icons representing key performance indicators (KPIs) related to the business intelligence questions that the analyst needs to track and monitor for insights and data-driven business decisions based on a dynamic, evolving, complex (high-dimensional) database.
+
+VisualCue allows a single display of multiple visual cues (arranged in tiles on an end-user’s dashboard) to simultaneously present and track numerous KPIs, processes, assets, events, clients, suppliers, customers, transactions, etc., using color-coded alerts (green, yellow, red) to signal the spots in the data stream that need the most immediate attention, or where something novel (interesting) is occurring. The arrangement, grouping, and dashboard layout of the tiles is completely user-configurable. In fact, if a dashboard is not your thing, you can display the tiles on a map – oh yes, geospatial location-based business intelligence is hot stuff, and now becoming even hotter! You can also display the tiles in a diagram of your own choice: a floorplan, blueprints, a schematic, a workflow, or whatever graphic display empowers your business decision-making. The sky is the limit! In fact, I hope to try this out on the sky –i.e., putting astronomical event data on a VisualCue-enabled sky map.
+
+As is the case with the most powerful data exploration and visualization tools, VisualCue’s tiles are just the icing on the big data cake. In other words, a user can click on a tile and drill down deeper into the data, for further discovery and analytics. In this way, the analyst can more effectively and efficiently determine the root cause of specific visual cues that were displayed in a particular tile.
+
+The VisualCue Technologies’ solution is easily configurable and extensible to many use cases and business domains. It has a drag-and-drop capability, including a growing library of tiles that you can use “out of the box”. You can also channel your inner “data artist’ and use their tile builder tool in order to design and create your own personalized cues and tiles. Some of the application domains that are already supported in their tile library include IT system administration, call center, agent performance, health, education, logistics, vehicle fleet management, supply chain, delivery routing, business process management, and more.
+
+Business intelligence is clearly a driver in the development of the new visual languages that enable efficient and effective big data discovery and analytics. VisualCue Technologies is an emerging leader in this field. Take a cue from me – check them out. You will be glad you did.
+
+Follow @DataconomyMedia
+
+
+
+Kirk is a data scientist, top big data influencer and professor of astrophysics and computational science at George Mason University.He spent nearly 20 years supporting NASA projects, including NASA’s Hubble Space Telescope as Data Archive Project Scientist, NASA’s Astronomy Data Center, and NASA’s Space Science Data Operations Office. He has extensive experience in large scientific databases and information systems, including expertise in scientific data mining. He is currently working on the design and development of the proposed Large Synoptic Survey Telescope (LSST), for which he is contributing in the areas of science data management, informatics and statistical science research, galaxies research, and education and public outreach. His writing and data reflections can be found at Rocket-Powered Data Science.
+
+(Image Credit: VisualCue)
+
+Summary: Tapping into the human natural cognitive ability to see patterns quickly and to detect anomalies readily is powerful medicine for big data analytics headaches.
+That’s where data visualization shines most brightly in the big data firmament!
+When used in this way (for description, discovery, prediction, and insights) within large datasets, visualization moves into the scientific realm of visual analytics.
+Business intelligence is clearly a driver in the development of the new visual languages that enable efficient and effective big data discovery and analytics.
+Follow @DataconomyMediaKirk is a data scientist, top big data influencer and professor of astrophysics and computational science at George Mason University.He spent nearly 20 years supporting NASA projects, including NASA’s Hubble Space Telescope as Data Archive Project Scientist, NASA’s Astronomy Data Center, and NASA’s Space Science Data Operations Office.
+
+Other Blogs by Kirk Borne: https://dataconomy.com/author/kirk-borne/

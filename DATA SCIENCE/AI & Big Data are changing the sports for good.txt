@@ -1,0 +1,126 @@
+Title: AI & Big Data are changing the sports for good
+
+Article Link: https://dataconomy.com/2022/04/28/artificial-intelligence-in-sports/
+
+Author: Hasan Selman
+
+Publish Date: 2022-04-28
+
+Article:
+Artificial Intelligence in sports makes its presence felt in every corner of the world, from post-game analysis to in-game action to fan experience. If you watched the movie Moneyball, you must be in your element about how data-driven performance optimization in sports works and changes the games we dearly love for good.
+
+Data-driven tactical clashes
+
+Coaches have employed data science in sports to enhance their players’ performance for the previous two decades. They’ve been using big data to make split-second on-the-field judgments, and they’ve been relying on sports analytics to help them discover the next big thing for their game’s and team’s sake or a particular player’s growth.
+
+Referees have also embraced Video Assistant Technology (VAR) in football to aid them in making more accurate judgments on the biggest calls, such as penalties, free kicks, and red cards. On the other hand, the line technology investigates images to decide if the ball passed the line or not to decide a goal or offside. As you see, AI keeps calling more and more shots at football pitches now.
+
+Those above are just a couple of examples of how AI changes the games we love. The sports experience will change even more now that Deep Learning has gotten involved.
+
+Artificial intelligence in sports: The world of sports is rife with measurable variables, making it an excellent testing ground for AI
+
+Artificial intelligence in sports
+
+Data analytics and artificial intelligence can predict anything quantifiable with accuracy. The world of sports is rife with measurable components, making it an excellent testing ground for artificial intelligence. In recent years, artificial intelligence applications in sports have become more common. Given the good influence they’ve had due to their improving capabilities, they’ll continue to expand into the world of sports. On the other hand, artificial intelligence already plays a significant role in the following areas of sports:
+
+Performance analysis
+
+Analysts and coaches must examine a wide range of data points to assess performances. This allows them to see where players excel and fall short. The metrics used to evaluate their contribution varies depending on the position of the team’s individual players. For instance, in soccer, the key performance indicators of goal-oriented offensive players are different from those of creative midfielders or defenders. Although not all performance elements can be quantified yet, a growing portion of a player’s game is being quantifiable and measurable.
+
+Players’ personality characteristics can be determined by applying artificial intelligence to compare qualitative factors and numerical variables and then measuring the results to predict the players’ corresponding qualitative worth. Artificial Intelligence in sports is also used to find patterns in an opponent’s plan, strengths, and flaws before games. This helps coaches create highly focused gamelans based on their study of the opposition and raising the chance of victory.
+
+Health, fitness, and safety
+
+AI has become the newest tool in teams’ medical kits. Players are frequently subjected to physical examinations that employ AI to analyze a variety of health variables and player movements to assess their fitness and even detect early indicators of tiredness or stress-induced injuries. Taking immediate action may assist the medical staff of sports teams in keeping their athletes healthy and safe from harm by promptly taking care of these problems.
+
+Wearable technology is increasingly popular among top sports organizations to track athletes’ movements and physical characteristics during practice and monitor the overall health of the squad. Artificial Intelligence in sports continuously monitors the data stream gathered by these wearables to spot the warning signals that might indicate players are developing musculoskeletal or cardiovascular diseases. Sports clubs preserve their most important assets in peak condition over lengthy seasons.
+
+Artificial intelligence in sports: Thanks to AI, clubs preserve their athletes in peak condition over lengthy seasons
+
+Talent scouting
+
+There is chemistry in all teams, not only in sports but in all kinds of squads, and the factors that will determine whether the new talent to join the team is the right person is of a kind that greatly exceeds the big data capabilities of a human mind. Fortunately, many details that make the games we love unique and amazing have come to light thanks to big data, and it’s not ours to make sense of them; it’s artificial intelligence.
+
+Artificial Intelligence in sports utilizes historical data to predict a player’s future potential before investing. It is also used to calculate market values for players to make the right offers while acquiring new talent. In this way, clubs find the right talents for their teams more easily and eliminate the potential losses from unfitting transfers, blind assumptions, and faulty valuations.
+
+Refereeing and journalism
+
+Refereeing is one of the first instances of artificial Intelligence in sports. Hawk-eye technology has been employed in cricket to determine whether a batter is out or not based on LBW circumstances. Technology has improved the fairness and law-abiding nature of racing. NASCAR has used video surveillance to identify rule violations, as it has done in other sports.
+
+NLP and AI are set to revolutionize news reporting. Automated journalism is about to arrive, and it has long been influenced by sports journalism. NLP and AI in news reporting will have a huge impact on how news coverage is delivered. Artificial Intelligence in sports uses data to produce legible text about sporting events.
+
+3 main types of sports data
+
+Artificial intelligence works with data from various sources to make predictions on various sports, including but not limited to football, basketball, baseball, volleyball, tennis, swimming, martial arts, and many more. Box scores, event data, and tracking data are the three most common sports data. The more detailed the temporal and spatial information for a game is, the better an analyst can dig it deeper.
+
+Box-score statistics
+
+High-level box-score statistics (half-time match score, full-time match score, goal scorers, time of goals, yellow cards, etc.) can summarize a full game in only a few seconds to show how it was played. On the other hand, basic box-score statistics can tell you who won the match, which team took the lead first, when the goals were scored, and how far apart they were. Box-score statistics provide a good picture of a game and some degree of match recuperation.
+
+Box scores also provide a more detailed level of information. They can, for example, demonstrate which team took more shots and the quality of those shots by displaying the number of attempts and goals scored. They can also break down the possession distribution between teams, which team had more corners, committed more fouls, made more saves, etc. They may record the match’s narrative, which team dominated, or how close that game was in a few seconds.
+
+Artificial intelligence in sports: The most detailed level of data that is presently being collected in sports is tracking data
+
+Play-by-play data
+
+Play-by-play data (also known as event data) is more detailed than box score statistics because it includes additional surrounding context about important occurrences in a game. Play-by-play comments on a match can, for example, provide textual descriptions of each minute of the encounter. Similarly, game spatial data (i.e., players’ spatial locations) may be used to generate visual representations of some of the most significant events in a match, such as how a particular goal was scored. It’s not the same as watching the video, but it’s a brief digitized look at the actual-world play that can be reconstructed in seconds.
+
+Tracking data
+
+The most detailed level of data that is presently being collected in sports is tracking data. It allows the projection of all players and the ball onto a pitch diagram that best re-creates a match from raw video footage—having a digital representation of all players on the entire field allows analysts to do more precise searching than simply viewing a video feed that only shows a part of the pitch.
+
+Where does sports data come from?
+
+The most popular approach to collecting sports data is through video analysis. Raw match video serves as the basis for video analysis, which involves manually viewing or automatically recording (i.e., computer vision) relevant events from the bout to create statistics. Today, all three sorts of sports data (box scores, event data, and player tracking data) are essentially video-based. However, new technologies have been implemented in various sports to collect outstanding data in recent years.
+
+The NFL is now employing Radio Frequency Identification (RFID) trackers built into players’ shoulder pads to keep track of each player’s x and y positions on the field. In golf, radar and other sensor technology have tracked the ball’s path and rendered spectacular visualizations.
+
+GPS devices are used in football, as well as other team sports, to track the player’s movements and other data such as heart rate and intensity of effort. These wearable gadgets benefit that they may be used in both training and competitive games. In the world of sports analytics, market data usually refers to betting data. It’s an indirect approach to recreating the match’s narrative that takes advantage of individuals providing their forecasts.
+
+Artificial intelligence in sports: The goal of capturing sports data is to recreate the tale of a match as precisely as possible
+
+How to collect deeper sports data?
+
+The main goal of capturing sports data is to recreate the tale of a match as precisely as possible, using human or camera vision based on the raw footage. The video is then processed to generate a digitized format that may be read and understood, allowing us to develop actionable insights.
+
+Reconstructing performance with data usually begins by breaking down a game into digestible parts, such as objectives. We attempt to figure out what occurred in each segment of this game, how it occurred, and how well it was done for each part.
+
+The work of video analysts is presently used for digitizing play-by-play sports data from the video footage. Humans record (or live in the sports facility) the events in a game using their notes. The play-by-play system of data collection provides a narrative of end-of-possession activities, which describes what occurred in a specific play or possession.
+
+However, human notational systems do not give the best information for recreating the tale when it comes to comprehending how that play evolved or how well it was performed. Humans face cognitive and subjective constraints when recording very fine levels of data by hand, such as determining the precise date for each occurrence or offering an objective assessment of how well a play was performed.
+
+Artificial intelligence in sports: The intent is to shift sports strategy analysis from a qualitative approach to a more quantitative one
+
+How was Marcelo Bielsa’s Leeds United preparing for the upcoming games?
+
+The better analysis we can do based on data, the more granular the data. The need for greater detail in tracking data presents us with the needed level of granularity to perform sophisticated analytics. Strategy, search, and simulation are complex activities that superior data and improved metrics might accomplish considerably better than humans.
+
+Marcelo Bielsa once explained his approach to analysis at Leeds United. His analysis team watches all 51 matches from their upcoming opponent’s current and prior seasons, each taking 4 hours to study. They look for certain information about the team’s starting XI, tactical system and formations, and strategic decisions that they take on set pieces in this research. However, it may be argued that this method is time-consuming, subjective, and frequently incorrect. This is where technology can come in and save the day by automating the analysis process more than having a group of Performance Analysts spend 200 hours analyzing the next opponent.
+
+The intent is to shift sports strategy analysis from a qualitative approach to a more quantitative one. There are hidden patterns in the data. All of the data points tracked by monitoring data are useful for analyzing teams’ tactics and formations in a football game. Analytics can’t tell you anything about these topics without more work on the data. This is because tracking data is noisy, owing to players changing positions on the field. However, tracking data may help you recognize a team’s or player’s hidden mentality and structure, allowing it to emerge.
+
+AI predicts game results
+
+Artificial Intelligence in sports can assist with match predictions in various ways. One is through crowd-sourced information, which is sometimes implicitly used. Customers may bet on the outcome of various events using prediction markets, such as betting exchanges. It’s a crowd-sourced approach, and if the market has enough participants to represent the entire market’s collective knowledge, with a good variety of information and freedom of decision in a distributed way, it’s the most reliable predictor available. It is not interpretable because we don’t know why people have made their betting decisions. If enough individuals participate in these markets, all imaginable information for a prediction is available. It’s impossible to outperform the market’s accuracy if that’s the case.
+
+Another approach is to employ an explicit data-driven method that relies solely on historical matches and machine learning methods to predict match outcomes. This technique requires accurate and deep data to work, and it may only record the performance represented by the data points gathered. The advantages of employing a data-driven strategy are that it can be dynamic and interpretable. It also only needs a data feed of events, making it scalable. However, because not all data may be included in the dataset utilized (e.g., injury data), the analysis may have holes that impact the predictions made.
+
+Artificial intelligence in sports: AI can assist with match predictions in a variety of ways
+
+Some of the most prominent betting organizations use a mixed technique of crowd-sourced data and data-driven methods to balance the action on both sides of the wager while ensuring that their level of risk is manageable. They start with a data-driven approach and human instinct, then iterate based on volume and other sportsbooks lines.
+
+The technology behind AI-based solutions and tracking data might be used to support these prediction markets, especially in markets where there isn’t enough coverage for crowd knowledge. The calculation of win probability is one approach to do so. Win probability is a frequently utilized analytics technique across almost every sport for media purposes. The present restriction of win probability is determined by the likelihood that an average team would succeed in a given match scenario. However, relying on an average may overlook crucial contextual information about specific teams’ or players’ strengths. The most efficient technique to deal with this is to utilize specialized models that include the players, teams, and lineups of the game in question.
+
+A brief history of AI-driven sports analysis
+
+The majority of sports analysis has been based on box score and event data up until now. One example is Bill James’ Project Scoresheet, which sought to create a network of baseball fans to collect and distribute information. In 2007, the Houston Rockets added Daryl Morey’s use of sophisticated statistical analysis to improve their game.
+
+However, now tracking data began to set a new course for sports analytics. Over the last decade, a new era of sports analysis has emerged that takes advantage of traditional box-score and event information by adding more comprehensive tracking data. Artificial Intelligence in sports now can analyze tracking data to collect deeper data, perform deeper analysis, and forecast.
+
+Summary: Artificial intelligence in sports: The world of sports is rife with measurable variables, making it an excellent testing ground for AIArtificial intelligence in sportsData analytics and artificial intelligence can predict anything quantifiable with accuracy.
+Box scores, event data, and tracking data are the three most common sports data.
+Tracking dataThe most detailed level of data that is presently being collected in sports is tracking data.
+Today, all three sorts of sports data (box scores, event data, and player tracking data) are essentially video-based.
+Artificial Intelligence in sports now can analyze tracking data to collect deeper data, perform deeper analysis, and forecast.
+
+Other Blogs by Hasan Selman: https://dataconomy.com/author/hasan-selman/

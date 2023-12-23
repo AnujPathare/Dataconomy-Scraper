@@ -1,0 +1,56 @@
+Title: Who should own data analytics in your company and why
+
+Article Link: https://dataconomy.com/2018/09/12/who-should-own-data-analytics-in-your-company-and-why/
+
+Author: Valeryia Shchutskaya
+
+Publish Date: 2018-09-12
+
+Article:
+Data management strategies have undergone a significant change over the last decade. A decade ago the responsibility of data management laid with the IT department, while data analytics were performed in other departments individually based on the needs. Now, we are seeing a significant shift towards a more centralized approach to data management and analytics.
+
+Much of the change can be attributed to the rise of predictive analytics that has made leveraging data and extracting insights, which have a significant impact on things like revenue and customer retention, much easier.
+
+Still, not all companies are there yet. According to Gartner, only 50% of companies have a C-level role dedicated to data management and analytics. Data is still siloed in IT, and many departments still rely on basic calculations done in Excel and more complex analysis executed by the IT department.
+
+Excel as an analytical tool has obvious limitation (data security, row limitation, two parameter analysis, etc.) but its usage as a primary analytical tool also puts a toll on IT capacity, creating overwhelm and backlogs.
+
+Of course, that is not the reality of all companies. Many have groups of analytical professionals working in their respective departments, never communicating about addressing the overall analytical needs of the company. That is not all.
+
+With a more widespread adoption of predictive analytics, each business unit has their own analytics requirements, database and analysis systems, and reporting hierarchies. Without someone in a position to pool together all individual requirements and align them with the overall business strategies, an organization will struggle to move beyond targeted analytics towards truly leveraging big data.
+
+The champion of analytics strategy
+
+Effective analytical capabilities start with an enterprise-wide strategy that shows that what you want to accomplish and how. It needs to be detailed and incorporating laws your company needs to follow, such as GDPR. This means successful data analytics strategies start at the top.
+
+Although the executive suite of a company needs to be fully immersed in defining a data and analytics strategy and setting expectations across the entire organization, each company needs an appointed person who acts as a link between the C-suite and the rest of the company. This way you can avoid that strategies and decisions are made in silos across the organization.
+
+In the past, several different people have taken on that role: Chief Analytics Offices (CAO), Chief Data Officers (CDO), or Chief Technology Officers (CTO) just to name a few. However, in the end, the title of the person in changer does not matter for development and execution of a good corporate-level data analytics strategy.
+
+The aspect of the CAO, CDO or any other C-level analytical role is to provide extra analytical support for the business units in terms of training and data, to ensure the impact of analytics is being measured consistently, and to be the first to identify and implement new, innovative analytics possibilities.
+
+Defensive vs offensive data strategy
+
+There are nuances in exactly how this is to be achieved, and it partially depends on whether you have a defensive (comply with regulations, detect fraud, prevent theft, etc.) or offensive (supporting business objectives such as increasing revenue, profitability, and customer satisfaction) strategy.
+
+Typically, companies with a defensive data strategy operate in industries that are heavily regulated (automobile, pharmaceuticals, etc.) need more control of their data. Therefore, a data strategy needs to optimize data extraction and standardization, ensure data security, and regulatory compliance. In such organization, day-to-day data management can be executed by a single, IT team that high level of AI and data science capabilities.
+
+Offence strategy, on the other hand, calls for more tactical and strategic use of data because they operate in a more customer-focused industry. Data analysis is used to increase revenue, profitability, and customer satisfaction. Usually, it means, for example, generate customer insights through data modelling or integrating customer and market data from multiple sources into one interactive dashboard.
+
+In such cases, analytics are more real-time and their value also depends on how quickly they can reach decision makers. It is therefore important for the CAO or CDO to equip the business units with not only data but also tools to analyze it.
+
+Here, self-service business intelligence tools can be quite useful. Although they can be complex and require certain knowledge, the investment in training of those tools introduces a level of flexibility and self-reliance that in turn makes the use of data more decentralized within a company.
+
+There are many self-service BI vendors like Tableau or Power BI out there but yet deliver on the promises of user-friendliness and value. Choosing the right vendor is directly connected to knowing the overall goals and strategy of the company, and needs, therefore, to be executed by the CAO or the CDO.
+
+Final remarks
+
+The responsibility of driving data analytics within a company needs to lay with one person. But that is not all. Regardless of who takes charge of building analytics capabilities within a company, there is a great need for a team of software engineers and data scientist who are trained in the use of big data.
+
+Summary: A decade ago the responsibility of data management laid with the IT department, while data analytics were performed in other departments individually based on the needs.
+Although the executive suite of a company needs to be fully immersed in defining a data and analytics strategy and setting expectations across the entire organization, each company needs an appointed person who acts as a link between the C-suite and the rest of the company.
+However, in the end, the title of the person in changer does not matter for development and execution of a good corporate-level data analytics strategy.
+Therefore, a data strategy needs to optimize data extraction and standardization, ensure data security, and regulatory compliance.
+Final remarksThe responsibility of driving data analytics within a company needs to lay with one person.
+
+Other Blogs by Valeryia Shchutskaya: https://dataconomy.com/author/valeriya-shchutskaya/

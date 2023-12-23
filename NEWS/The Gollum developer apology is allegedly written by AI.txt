@@ -1,0 +1,40 @@
+Title: The Gollum developer apology is allegedly written by AI
+
+Article Link: https://dataconomy.com/2023/10/10/gollum-developer-apology-written-by-ai/
+
+Author: Onur Demirkol
+
+Publish Date: 2023-10-10
+
+Article:
+According to recent reports, the Gollum developer apology letter was allegedly written by AI, and the person behind the statement used ChatGPT for this sensitive piece. Here is everything you need to know about it!
+
+Former employees of Daedalic Entertainment, the studio responsible for the licensed game “Gollum,” have revealed some startling information about the troubled development process. After the game’s less-than-stellar release, Daedalic issued an apology, acknowledging the game’s flaws and promising future improvements. However, recent reports have raised eyebrows, suggesting that this apology might not have been penned by a human but by an AI that almost everyone is familiar with, ChatGPT.
+
+The Gollum developer apology is pretty “unusual”
+
+Daedalic’s apology was an open admission of the game’s flaws, describing it as a letdown that fell short of players’ expectations. The firm expressed profound remorse and promised to improve the game in future upgrades. While such apologies are typical in the gaming business, the assertion that this apology was produced by an AI language model dubbed ChatGPT, developed by OpenAI, has sparked controversy, according to sources speaking to GameTwo.
+
+The Gollum developer apology was evidently ignorant of the apology or its contents prior to its public distribution adds to the mystery. Instead, it appears that Nacon, the game’s publisher, took the initiative in this regard. This disclosure has sparked debate regarding the power dynamics in the gaming business between creators and publishers.
+
+As things stand, “Gollum” is the lowest-rated game of the year on major review aggregation platforms like Metacritic and OpenCritic. It has faced harsh criticism, with The Guardian labeling it as “a derivative, uninteresting, and fundamentally broken stealth action adventure that fails to capture anything interesting about Tolkien’s fiction.” This is a notable setback for a game that reportedly had a development budget of around 15 million Euros, which, in 2023’s AAA gaming landscape, is considered modest.
+
+What led to the Gollum developer apology? Challenges in development and omitted content
+
+Former Daedalic senior developer and technical director Paul Schulze gave insight into the challenges experienced during the game’s development. Despite having competent developers on board, the game’s full potential was hampered by the game’s modest budget. Due to time restrictions, certain major parts of the game, such as character animations and cutscenes, had to be deleted, says VGC.
+
+A crucial sequence in which Gollum listens in on a conversation, for example, was never animated as planned. Instead, players watched Gollum peering out a window while music played in the background. Due to budget and time restrictions, this compromise was made, leaving gamers with an incomplete experience.
+
+Furthermore, the game’s distinct argument system, in which Gollum and Smeagol disputed different options, was never completely realized. Before the release, a hurriedly created workaround was included. The mechanism was designed to emulate fascinating talks from the movie, but it fell short. Players were given simple text selections while a lifeless Gollum figure floated in the backdrop, failing to convey the spirit of the character.
+
+Following these disclosures, the gaming community must consider not simply the role of AI in drafting apologies but also the larger implications of resource constraints on the creation of licensed products. As the industry evolves, “Gollum” serves as a sharp reminder of the difficulties that creators confront in providing engaging gaming experiences.
+
+Featured image credit: Daedalic
+
+Summary: According to recent reports, the Gollum developer apology letter was allegedly written by AI, and the person behind the statement used ChatGPT for this sensitive piece.
+Former employees of Daedalic Entertainment, the studio responsible for the licensed game “Gollum,” have revealed some startling information about the troubled development process.
+The Gollum developer apology is pretty “unusual”Daedalic’s apology was an open admission of the game’s flaws, describing it as a letdown that fell short of players’ expectations.
+The Gollum developer apology was evidently ignorant of the apology or its contents prior to its public distribution adds to the mystery.
+What led to the Gollum developer apology?
+
+Other Blogs by Onur Demirkol: https://dataconomy.com/author/onurdemirkol/

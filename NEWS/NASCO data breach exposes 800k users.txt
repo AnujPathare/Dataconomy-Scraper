@@ -1,0 +1,58 @@
+Title: NASCO data breach exposes 800k users
+
+Article Link: https://dataconomy.com/2023/10/30/nasco-data-breach-exposes-800k-users/
+
+Author: Onur Demirkol
+
+Publish Date: 2023-10-30
+
+Article:
+A major breach has hit users again. The NASCO data breach affected about 800,000 users, a crucial player in healthcare tech. This security breach happened due to a cyberattack on files stored on their MOVEit servers. NASCO, which handles benefits administration for Blue Cross and Blue Shield health insurance customers, fell victim to this attack on their MOVEit Transfer software.
+
+This software is used for file exchanges and was attacked by threat actors linked to Russia.
+
+Revealing the NASCO data breach
+
+NASCO made the breach public in a statement on October 27th, acknowledging unauthorized access to their MOVEit Transfer system. This breach allowed hackers to get hold of personal data like names and Social Security numbers of NASCO’s clients. To counter the attack, NASCO deactivated the affected MOVEit server, ensuring it’s no longer accessible.
+
+Gamesprite data breach revealed after 4 years
+
+Extent of the attack
+
+The Office of the Maine Attorney General confirmed that more than 800,000 individuals had their sensitive information compromised. To address this, NASCO stepped up by offering affected individuals two years of identity monitoring services to help protect them from potential risks following the breach.
+
+Understanding the MOVEit hack and its widespread impact
+
+This security breach was carried out through a zero-day exploit, a cyberattack taking advantage of a vulnerability unknown to software developers or antivirus providers. This exploit allows attackers to spot and exploit system vulnerabilities before they are addressed.
+
+The MOVEit Transfer attacks impacted a vast network, with over 2,100 organizations and a massive 62 million individuals falling victim to this cyber vulnerability. Some significant global entities affected by this breach include European banks like Deutsche Bank, ING Bank, Postbank, and Comdirect, along with others such as American Airlines, TJX stores, TomTom, Warner Bros Discovery, among several more.
+
+NASCO’s response and the Way Forward
+
+NASCO swiftly responded by ceasing the use of MOVEit services and focusing on beefing up their security measures to prevent future breaches. The decision to shut down the compromised server underlines their commitment to safeguarding their clients’ sensitive data.
+
+Breaking down the Okta Data Breach: What happened?
+
+Key takeaways
+
+Though such breaches are alarming, they prompt companies to tighten their cybersecurity protocols. NASCO and others affected will likely use this incident to emphasize the importance of robust security measures to protect valuable client data against potential cyber threats.
+
+How do data breaches happen and how can you protect yourself
+
+Data breaches can happen through various means. In NASCO’s case, it was due to a cyberattack exploiting vulnerabilities in their MOVEit Transfer software. Often, hackers exploit weak points in a company’s security system, allowing them access to sensitive information.
+
+Protecting yourself
+
+To guard against such breaches, individuals can take several proactive steps. Utilizing strong, unique passwords for different accounts, regularly updating software, and being cautious of unsolicited emails or messages can significantly reduce the risk of personal information exposure. Moreover, using two-factor authentication and employing reputable antivirus software adds an extra layer of security. Staying informed about the latest cybersecurity threats and measures is essential for maintaining data security and protecting oneself against potential breaches.
+
+The recent NASCO data breach serves as a stark reminder of the crucial need for robust cybersecurity practices in today’s tech-driven world. As companies continue to enhance their security measures, the primary aim is to prevent similar breaches and ensure the safety and privacy of their clientele moving forward.
+
+Featured image credit: Alex Chumak/Unsplash
+
+Summary: The NASCO data breach affected about 800,000 users, a crucial player in healthcare tech.
+Revealing the NASCO data breachNASCO made the breach public in a statement on October 27th, acknowledging unauthorized access to their MOVEit Transfer system.
+Gamesprite data breach revealed after 4 yearsExtent of the attackThe Office of the Maine Attorney General confirmed that more than 800,000 individuals had their sensitive information compromised.
+How do data breaches happen and how can you protect yourselfData breaches can happen through various means.
+The recent NASCO data breach serves as a stark reminder of the crucial need for robust cybersecurity practices in today’s tech-driven world.
+
+Other Blogs by Onur Demirkol: https://dataconomy.com/author/onurdemirkol/

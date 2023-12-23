@@ -1,0 +1,118 @@
+Title: Data Mining for Predictive Social Network Analysis
+
+Article Link: https://dataconomy.com/2017/01/18/data-mining-predictive-analytics/
+
+Author: Elder Santos
+
+Publish Date: 2017-01-18
+
+Article:
+Social networks, in one form or another, have existed since people first began to interact. Indeed, put two or more people together and you have the foundation of a social network. It is therefore no surprise that, in today’s Internet-everywhere world, online social networks have become entirely ubiquitous.
+
+Within this world of online social networks, a particularly fascinating phenomenon of the past decade has been the explosive growth of Twitter, often described as “the SMS of the Internet”. Launched in 2006, Twitter rapidly gained global popularity and has become one of the ten most visited websites in the world. As of May 2015, Twitter boasts 302 million active users who are collectively producing 500 million Tweets per day. And these numbers are continually growing.
+
+Given this enormous volume of social media data, analysts have come to recognize Twitter as a virtual treasure trove of information for data mining, social network analysis, and information for sensing public opinion trends and groundswells of support for (or opposition to) various political and social initiatives. Twitter trending topics are becoming increasingly recognized as a valuable proxy for measuring public opinion.
+
+This article describes the techniques I employed for a proof-of-concept that effectively analyzed Twitter Trending Topics to predict, as a sample test case, regional voting patterns in the 2014 Brazilian presidential election.
+
+The Election
+
+General presidential elections were held in Brazil on October 5, 2014. No candidate received more than 50% of the vote, so a second runoff election was held on October 26th.
+
+In the first round, Dilma Rousseff (Partido dos Trabalhadores) won 41.6% of the vote, ahead of Aécio Neves (Partido da Social Democracia Brasileira) with 33.6%, and Marina Silva (Partido Socialista Brasileiro) with 21.3%. Rousseff and Neves contested the runoff on October 26th with Rousseff being re-elected by a narrow margin, 51.6% to Neves’ 48.4%. The analysis in this article relates specifically to the October 26th runoff election.
+
+Partido dos Trabalhadores (PT) is one of the biggest political parties in Brazil. It is the political party for the current and former presidents, Dilma Roussef and Luis Inacio Lula da Silva. Partido da Social Democracia Brasileira (PSDB) is the political party of the prior president Fernando Henrique Cardoso.
+
+Data Mining and Extracting Twitter Trend Topic Data
+
+I began social media data mining by extracting Twitter Trend Topic data for the 14 Brazilian cities for which data is supplied via the Twitter API, namely: Brasília, Belém, Belo Horizonte, Curitiba, Porto Alegre, Recife, Rio de Janeiro, Salvador, São Paulo, Campinas, Fortaleza, Goiânia, Manaus, and São Luis.
+
+I queried the Twitter REST API to get the top 10 Twitter Trend Topics for these 14 cities in a 20 minute interval (limited by some restrictions that Twitter has on its API). Limiting the query to these 14 cities is done by specifying their Yahoo! GeoPlanet WOEIDs (Where On Earth IDs).
+
+For this proof-of-concept, I used Python and a Twitter library (cleverly called “twitter”) to get all the social network data for the day of the runoff election (Oct 26th), as well as the two days prior (Oct 24th and 25th). For each day, I performed about 70 different queries to help identify the instant trend topics.
+
+Below is an example of the JSON object returned in response to each query (this example was based on a query for data on October 26th at 12:40:00 AM, and only shows the data for Belo Horizonte).
+
+[{"created_at": "2014-10-26T02:32:59Z", "trends": [{"url": "http://twitter.com/search?q=%23GolpeNoJN", "name": "#GolpeNoJN", "query": "%23GolpeNoJN", "promoted_content": null}, {"url": "http://twitter.com/search?q=%23SomosTodosDilma", "name": "#SomosTodosDilma", "query": "%23SomosTodosDilma", "promoted_content": null}, {"url": "http://twitter.com/search?q=%23EAecio45Confirma", "name": "#EAecio45Confirma", "query": "%23EAecio45Confirma", "promoted_content": null}, {"url": "http://twitter.com/search?q=Uilson", "name": "Uilson", "query": "Uilson", "promoted_content": null}, {"url": "http://twitter.com/search?q=%22Lucas+Silva%22", "name": "Lucas Silva", "query": "%22Lucas+Silva%22", "promoted_content": null}, {"url": "http://twitter.com/search?q=%22Marcelo+Oliveira%22", "name": "Marcelo Oliveira", "query": "%22Marcelo+Oliveira%22", "promoted_content": null}, {"url": "http://twitter.com/search?q=Cruzeiro", "name": "Cruzeiro", "query": "Cruzeiro", "promoted_content": null}, {"url": "http://twitter.com/search?q=Tupi", "name": "Tupi", "query": "Tupi", "promoted_content": null}, {"url": "http://twitter.com/search?q=%22Real+x+Bar%C3%A7a%22", "name": "Real x Bar\u00e7a", "query": "%22Real+x+Bar%C3%A7a%22", "promoted_content": null}, {"url": "http://twitter.com/search?q=Wanessa", "name": "Wanessa", "query": "Wanessa", "promoted_content": null} ], "as_of": "2014-10-26T02:40:03Z", "locations": [{"name": "Belo Horizonte", "woeid": 455821}] }]
+
+Brief Intro to Social Network Analysis
+
+Social Network Theory is the study of how people, organizations, or groups interact with others inside their network. There are three primary types of social networks:
+
+Egocentric networks are connected with a single node or individual (e.g., you and all your friends and relatives).
+
+are connected with a single node or individual (e.g., you and all your friends and relatives). Socio-centric networks are closed networks by default. Two commonly-used examples of this type of network are children in a classroom or workers inside an organization.
+
+are closed networks by default. Two commonly-used examples of this type of network are children in a classroom or workers inside an organization. Open system networks are networks where the boundary lines are not clearly defined, which makes this type of network typically the most difficult to study. The type of socio-political network we are analyzing in this article is an example of an open system network.
+
+Social networks are considered complex networks, since they display non-trivial topological features, with patterns of connection between their elements that are neither purely regular nor purely random.
+
+Social network analysis examines the structure of relationships between social entities. These entities are often people, but may also be social groups, political organizations, financial networks, residents of a community, citizens of a country, and so on. The empirical study of networks has played a central role in social science, and many of the mathematical and statistical tools used for studying networks were first developed in sociology.
+
+Establishing the Network
+
+To create a network using the Twitter Trend Topics, I defined the following rules:
+
+Each city is a vertex (i.e., node) in the network.
+
+If there is at least one common trend topic between two cities, there is an edge (i.e., link) between those cities.
+
+Each edge is weighted according to the number of trend topics in common between those two cities (i.e., the more trend topics two cities have in common, the heavier the weight that is attributed to the link between them).
+
+For example, on October 26th, the cities of Fortaleza and Campinas had 11 trend topics in common, so the network for that day includes an edge between Fortaleza and Campinas with a weight of 11:
+
+In addition, to aid the process of weighting the relationships between the cities, I also considered topics that were not related to the election itself (the premise being that cities that share other common priorities and interests may be more inclined to share the same political leanings).
+
+Although the order of the trend topics could potentially have some significance to the analysis, for purposes of simplification of the proof-of-concept, I chose to ignore the ordering of the topics in the trend topic list.
+
+Network Topology
+
+Network topology is essentially the arrangement of the various elements (links, nodes, etc.) of a network. For the social network we are analyzing, the network topology does not change dramatically across the 3 days, since the nodes of the network (i.e., the 14 cities) remain fixed. However, differences can be detected in the weights of the links between the nodes, since the number of common trend topics between cities varies across the 3 days, as shown in the comparison below of the network topology on Day 24 vs. Day 25.
+
+Predicting Election Results Using Twitter Trend Topic Data
+
+To assist us in predicting election results, we consider not only the trend topics in common between cities, but also how the content of those topics relates to likely support for each of the two principal political parties; i.e., Partido dos Trabalhadores (PT) and Partido da Social Democracia Brasileira (PSDB).
+
+First, I created a list of words and phrases perceived to indicate a positive leaning toward, or support for, one of the parties. (Populating this list is admittedly a highly complex task. In the context of this proof of concept, I deliberately took a simplified approach. If anything, this makes the caliber of the results all the more intriguing, since a more highly tuned list of terms and phrases would presumably further improve the accuracy of the results.)
+
+Then, for each node, I count:
+
+the number of its links which include terms that indicated support for PT
+
+the number of its links which include terms that indicated support for PSDB
+
+Using the city of Fortaleza again as an example, I ended up with counts of:
+
+Fortaleza['PT'] = 56 Fortaleza['PDSB'] = 37
+
+We thereby draw the conclusion that Fortaleza residents have an overall preference for Partido dos Trabalhadores (PT).
+
+Results and Conclusions
+
+Based on this algorithm, the analysis yields results that are surprisingly similar to the actual election results, especially when one considers the general simplicity of our approach. Here’s a comparison of the predictive results based on the Twitter Trend Topic data as compared with the real election results (red is used to represent Partido dos Trabalhadores and blue is used to represent Partido da Social Democracia Brasileira):
+
+Improved scientific rigor, as well as more sophisticated algorithms and metrics, would undoubtedly improve the results even further.
+
+Here are a few metrics, for example, that could be used to infer a node’s importance or influence, which could in turn inform the type of predictive analysis described in this article:
+
+Node centrality. Numerous node centrality measures exist that can be employed to help identify the most important or influential nodes in a network. Betweenness centrality, for example, considers a node highly important if it forms bridges between many other nodes. The eigenvalue centrality, on the other hand, based a node’s importance on the number of other highly important nodes that link to it.
+
+Numerous node centrality measures exist that can be employed to help identify the most important or influential nodes in a network. Betweenness centrality, for example, considers a node highly important if it forms bridges between many other nodes. The eigenvalue centrality, on the other hand, based a node’s importance on the number of other highly important nodes that link to it. Clustering coefficient. The clustering coefficient of a node measures the extent to which a node’s “neighbors” are connected to one other. This is another measure that can be relevant to evaluating a node’s presumed degree of influence on its neighboring nodes.
+
+The clustering coefficient of a node measures the extent to which a node’s “neighbors” are connected to one other. This is another measure that can be relevant to evaluating a node’s presumed degree of influence on its neighboring nodes. Degree centrality. Degree centrality is based on the number of links (i.e., connections) to a node. This is one of the simplest measures of a node’s “significance” within a network.
+
+But even without that level of sophistication, the results achieved with this simple proof-of-concept provided a compelling demonstration of effective predictive analysis using Twitter Trending Topic data. There is clearly the potential to take social media data analysis even further in the future.
+
+This post appeared originally in the Toptal blog
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Indeed, put two or more people together and you have the foundation of a social network.
+It is therefore no surprise that, in today’s Internet-everywhere world, online social networks have become entirely ubiquitous.
+Given this enormous volume of social media data, analysts have come to recognize Twitter as a virtual treasure trove of information for data mining, social network analysis, and information for sensing public opinion trends and groundswells of support for (or opposition to) various political and social initiatives.
+Social network analysis examines the structure of relationships between social entities.
+For the social network we are analyzing, the network topology does not change dramatically across the 3 days, since the nodes of the network (i.e., the 14 cities) remain fixed.
+
+Other Blogs by Elder Santos: https://dataconomy.com/author/elder-santos/

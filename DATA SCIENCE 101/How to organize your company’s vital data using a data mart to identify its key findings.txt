@@ -1,0 +1,128 @@
+Title: How to organize your company’s vital data using a data mart to identify its key findings?
+
+Article Link: https://dataconomy.com/2022/04/06/what-is-a-data-mart/
+
+Author: Eray Eliaçık
+
+Publish Date: 2022-04-06
+
+Article:
+Data marts are one critical tool in successfully turning data into insights in a market dominated by big data and analytics. A data mart is a type of access layer in a data warehouse that is used to give users data. Data marts are often viewed as tiny pieces of the entire data warehouse. Enterprise-wide information is typically kept in a data warehouse, and the material stored in a data mart usually pertains to a specific department or group.
+
+The main aim of data marts is to give the business user the most relevant information in the quickest time feasible. Users can create and follow a train of thought without waiting long periods for queries to finish. A data mart is an information management system tailored to a specific group’s demands and has a restricted subject area. Narrow in scope does not necessarily imply little in size, however. Data marts might have hundreds of thousands of records and take up terabytes of storage space.
+
+What is a data mart?
+
+A data mart is a type of data warehouse that focuses on a specific line of business, department, or subject area. Data marts allow users to access critical insights quickly by providing restricted information from a subset of the entire data warehouse. For instance, many organizations may have it tailored to a certain department in the business, such as finance, sales, or marketing.
+
+Data marts speed up business processes by allowing access to critical information in a data warehouse or operational data store within days rather than weeks or months. Because it only contains the data pertinent to a particular industry sector, it is an economically beneficial technique to get rapid actionable insights.
+
+Comparison: Data lake vs data warehouse vs data mart
+
+The terms data lake, data warehouse, and data mart are not synonymous. They each fulfill different requirements in your company, so we’ll go through the most significant distinctions between them.
+
+Comparison: Data mart vs data warehouse
+
+Warehouses and mart data are organized, read-only data storage facilities for transactional information. However, they differ in the scope of data kept. Data warehouses combine multiple sources’ large quantities of data into a single repository with highly structured and integrated historical information.
+
+Data marts are a subset of this warehouse data relevant to your business’s specific topic or department. As shown above, they’re inserted between the warehouse and the analytics solutions.
+
+FACTOR DATA MART DATA WAREHOUSE Type of Data Summarized historical (traditionally). Summarized historical (in traditional DW’s). Data Sources Fewer operational sources. You’ll find a broad range of source systems from all parts of the organization. Use Case/ Scope Analyzing small data sets (typically <100 GB) focused on a particular topic to assist in analytics and business intelligence. Analyzing massive (typically 100+ GB), complex enterprise-wide data to help with data mining, business intelligence, artificial intelligence, and machine learning. Data governance Easier because data is already partitioned. Requires strict governance rules and systems to access data.
+
+Comparison: Data mart vs data lake
+
+The most significant distinction between the two is the stored sort and quantity of information. On the other hand, data lakes contain huge quantities of raw, unstructured data.
+
+Another distinction to consider is that data in marts have been selected to meet a well-defined need, while the aim of data in data lakes has not necessarily been determined. Many businesses employ both technologies to meet their various storage demands.
+
+FACTOR DATA MART DATA LAKE Type of Data Usually, structured data has been transformed. Raw, unstructured data. Use Case The primary aim of this sort of analysis is to answer pre-determined questions about a specific subject (such as marketing programs) based on a limited data set. Data scientists and engineers are looking at and analyzing raw data to discover new business insights. Analysis and output BI and data analytics producing visualizations, dashboards, and reports. Predictive analytics, BI, big data analytics, machine learning, and AI producing prescriptive recommendations, visualizations, dashboards, and reports. Cost It’s a cheaper alternative to data lakes but takes longer to administer. More expensive than data mart due to their size. Data governance Because data is already divided, it’s simpler. To access data, the organization should have tight governance rules and methods.
+
+Key advantages of data mart
+
+The amount of data you must manage is mind-boggling. You receive hundreds of documents from historical data and real-time streaming information from multiple sources. The majority of this big data resides in a data warehouse, where users must write complex queries to obtain the facts they need.
+
+What is a data mart?
+
+A data warehouse is an extensive database that houses all of your company’s information in one place. You’ll find it challenging to keep track of everything you need to be done if you have many items on your plate. A data mart is an efficient approach for analytics and business users to explore and analyze more manageable subsets of data directly relevant to them.
+
+A mart has several advantages for the end-user, including the following:
+
+Cost-efficiency : There are several variables to consider when establishing a data mart, such as the scope, integrations, and ETL extraction, transformation, and loading (ETL) process. On the other hand, a mart is somewhat less expensive than a data warehouse.
+
+: There are several variables to consider when establishing a data mart, such as the scope, integrations, and ETL extraction, transformation, and loading (ETL) process. On the other hand, a mart is somewhat less expensive than a data warehouse. Simplified data access: Data marts contain a limited amount of data, so users may quickly access the information they require with less effort than when working with a data warehouse’s larger pool.
+
+Data marts contain a limited amount of data, so users may quickly access the information they require with less effort than when working with a data warehouse’s larger pool. Quicker access to insights: Intuition gained from a data warehouse aids strategic decision-making at the enterprise level, impacting the entire company. A data mart improves business intelligence and analytics. Teams may use focused data insights to help them reach their specific objectives. The business benefits from increased business processes and greater productivity as teams discover and extract valuable data in a shorter time.
+
+Intuition gained from a data warehouse aids strategic decision-making at the enterprise level, impacting the entire company. A data mart improves business intelligence and analytics. Teams may use focused data insights to help them reach their specific objectives. The business benefits from increased business processes and greater productivity as teams discover and extract valuable data in a shorter time. More straightforward data maintenance: A data warehouse is a collection of data that contains important information about the company. A mart on the other hand, focuses on a single line and has a capacity limit of fewer than 100GB, resulting in fewer distractions and easier maintenance.
+
+A data warehouse is a collection of data that contains important information about the company. A mart on the other hand, focuses on a single line and has a capacity limit of fewer than 100GB, resulting in fewer distractions and easier maintenance. Easier and faster implementation: A data warehouse requires a significant amount of setup time in any company because it gathers data from various internal and external sources. When creating a one, you only require a tiny portion of information, so implementation is more efficient and requires less setup time.
+
+A data warehouse requires a significant amount of setup time in any company because it gathers data from various internal and external sources. When creating a one, you only require a tiny portion of information, so implementation is more efficient and requires less setup time. More reliable data: The data analytics tool creates a “single source of truth” for a particular area or department. This gives your teams a shared perspective on the data and enables them to focus on discovering insights, making judgments, and taking action rather than sharing spreadsheets and figuring out which information is correct.
+
+The data analytics tool creates a “single source of truth” for a particular area or department. This gives your teams a shared perspective on the data and enables them to focus on discovering insights, making judgments, and taking action rather than sharing spreadsheets and figuring out which information is correct. Better support short-term projects: They’re ideal for analyzing short-term data, such as assessing the success of an advertising campaign. You may quickly and cheaply create a data mart, making them ideal for quick data analysis projects like measuring the effectiveness of a marketing campaign.
+
+Disadvantages of data mart
+
+The following are a few drawbacks of using data marts:
+
+The business may not have access to data cross-data-mart reporting if it uses an independent data mart model.
+
+It can be not easy to set up Data Marts. Because data mart must align fields, this task may be time-consuming. There could be problems generating reports to compare data across Data Marts if it isn’t handled correctly.
+
+The first step is to figure out what the organization’s needs are. Data Marts aren’t always the ideal answer for every team.
+
+Data mart types
+
+There are three types of data marts: Dependent, Independent, and Hybrid. This categorization is based on how the data has been acquired from a data warehouse or any other information source.
+
+Collecting its data from any source system is called Extraction, Transformation, and Transportation (ETT).
+
+Dependent data mart
+
+The primary data in an organization’s data warehouse is divided into dependent data marts. Storing all corporate information in a single central location starts this top-down approach. When it’s time for analysis, the new data marts isolate a particular section of the original data.
+
+Independent data mart
+
+It is a self-contained system that does not rely on a data warehouse. Analysts may extract information from either internal or external data sources, process it, and then store it in a repository until the team requires it.
+
+Hybrid data mart
+
+Hybrid data marts integrate data from various operational sources and existing data warehouses. This unified technique utilizes the top-down approach’s speed and user-friendly interface while incorporating enterprise-level integration features.
+
+Data mart structure
+
+It is a relational database that contains transactional information in rows and columns, making it simple to get at, arrange, and interpret. Because it’s based on historical information, this design makes it easier for an analyst to identify trends in the data. Numerical position, time value, and references to one or more items are common data fields.
+
+Data marts are designed in a multidimensional structure as templates for people using the databases for analytical work. The three most common schema are star, snowflake, and vault.
+
+Star
+
+A STAR schema is a star-shaped layout of tables in a multidimensional database that makes logical sense. One fact table—a metric set that pertains to a specific business event or process—is located at the star’s center, surrounded by several dependent dimension tables in this plan.
+
+There’s no relationship between dimension tables, so star schemas need fewer joins when generating queries. This design makes data access and navigation easier. Therefore, the star schema is exceptionally efficient for analysts who want to analyze vast amounts of information.
+
+Snowflake
+
+A snowflake schema is a logical extension of a star schema that adds dimension tables to the blueprint. The dimensions are normalized to maintain data integrity and minimize data redundancy.
+
+Dimension tables require less space to store than traditional relational tables, but they are more complicated to manage. The significant advantage of the snowflake schema is that it uses fewer disk resources, but there is a drawback in terms of performance due to the additional tables.
+
+Vault
+
+The data vault is a contemporary database modeling technique that allows IT professionals to build agile corporate data warehouses. This method, designed specifically to tackle difficulties with agility, flexibility, and scalability that may arise when utilizing other schema models, requires a layered structure.
+
+Star schema’s need for cleaning and the ease of adding new data sources are eliminated by the data vault, which streamlines the introduction of new sources without disturbing existing schemas.
+
+Why do we use a data mart?
+
+Determine the data needs of your department and develop it to meet these requirements based on the need and after consulting with stakeholders since operational costs of data marts might be high at times.
+
+Consider the following reasons for establishing a data mart:
+
+Summary: Comparison: Data lake vs data warehouse vs data martThe terms data lake, data warehouse, and data mart are not synonymous.
+Comparison: Data mart vs data warehouseWarehouses and mart data are organized, read-only data storage facilities for transactional information.
+FACTOR DATA MART DATA WAREHOUSE Type of Data Summarized historical (traditionally).
+FACTOR DATA MART DATA LAKE Type of Data Usually, structured data has been transformed.
+Dependent data martThe primary data in an organization’s data warehouse is divided into dependent data marts.
+
+Other Blogs by Eray Eliaçık: https://dataconomy.com/author/eray-eliacik/

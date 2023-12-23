@@ -1,0 +1,62 @@
+Title: The Power of a Data Value Chain For Your Business
+
+Article Link: https://dataconomy.com/2017/02/22/power-of-data-value-chain/
+
+Author: Ron Bisio
+
+Publish Date: 2017-02-22
+
+Article:
+The Value of Data Goes Beyond Any Number
+
+A quick look around the 21st century marketplace reveals a simple truth: the value of data has changed. Industries that once stood alone and operated in silos, have become interconnected by sheer necessity – collecting, analyzing, sharing and even selling data. Thus, calculating the value of data has become a rather complex task. Companies supporting critical infrastructures have transitioned from tracking basic data, to gathering data from all facets of operations and information technologies, analyzing that data, and turning it into actionable intelligence. The value of data today truly exceeds its numerical quantity.
+
+State of the Geospatial Data
+
+Geospatial data is used by nearly every human throughout the world, either directly or indirectly. Navigation functions on a cell phone? Geospatial data. Restaurant or entertainment recommendations in a specific area? Geospatial data. City bus route coordination? Geospatial data. Most often, we see the end result of geospatial data usage, but what we don’t see is just how many people touch that data to even get it to the point of deployable information.
+
+The implicit value of geospatial data belongs to the 21st century workforce: from the boots on the ground mapping geographic terrain and gathering data in urban and rural settings, to engineers and project managers turning that data into knowledge by developing creative solutions to difficult infrastructure dilemmas; and even to the middle and upper management personas where decision makers are tasked with solving the problems of today with an eye on the obstacles of tomorrow.
+
+The industries affected by geospatial data use that information in innovative ways – from the collection points on the ground to the backend analytics in the corporate office – to drive decision-making, project management, derive creative solutions, and thus increase productivity and a streamlining of workflows. These industries are directly responsible for building and maintaining the critical infrastructure upon which cities – and countries – are built and maintained. With each iteration of geospatial data along the chain, the value of that data increases.
+
+The various touch points of a series of data (for example, each of the aforementioned applications and use cases) creates a chain of inextricably linked decisions that culminate into a set of outcomes. This “value chain” alters the way people and groups of people interact in our daily lives, as a whole, both internally and externally.
+
+So, What Is the Data Value Chain Really?
+
+The Data Value Chain is a framework through which people can view the flow of geospatial data from the instant it is collected throughout its entire lifecycle. Each vertical industry has its own flow (and needs) of data, but eventually, that data intersects with analytics that can turn individual points of information into all different kinds of actionable intelligence. The Data Value Chain depends on a blended technology ecosystem that acts as disruptive force throughout the global marketplace to root out traditional, static practices and supplant them with innovative, purpose-built solutions based on data analytics.
+
+Technology Is Simply A Means to An End
+
+The focus should not be on the newest tools. Rather, it is more important to know what users need to accomplish their tasks. To do this, we first must understand how people work. Who are they, and what is their role in a project or enterprise? What information do they need? Where and how do they use it? And what is the end result?
+
+The answers to these questions often illustrate how people use multiple types of data that come from different sources at different times. End users often need to combine and analyze the data to extract the needed bits. Only when we understand these processes can we ask the next question: How can we use technology to make their work easier?
+
+The solution often lies in a technological ecosystem—a synergistic combination of core technologies to gather and manage data, combined with software and tools for processing, analysis and delivery. Technological ecosystems built around geospatial information support the needs of, and actions for, large portions of an organization.
+
+The use of integrated or blended technologies is one of the most important trends in the geospatial arena. By combining multiple technologies, integrated solutions provide new ways to work and reduce costs, accelerate schedules and supply high-value deliverables along the value chain. And even though many geospatial practitioners are deeply interested in integrated technology, their clients may not share that passion. As long as information is complete, accurate and usable, the people using it may have little interest in how it got to them. That’s a key point to keep in mind. And it raises the next question: How can integrated technologies make work easier for their clients?
+
+Technological ecosystems can be described at two levels. One level, technology fusion, combines sometimes-dissimilar technologies in a way that produces faster operation and more powerful deliverables. A second approach—largely driven by the Internet and information-savvy consumers—is the blending and sharing of information to support workflows and decision processes.
+
+It seems that every day we see new combinations of technologies that are producing ever-larger volumes of data. That trend will continue. But these systems can only deliver data. The value of the data is not realized until it is converted to information and put to work, which brings us to the need for a holistic, purpose-built data value chain across an enterprise.
+
+Reducing Operational Costs Starts in The Forest
+
+Geospatial data is changing how energy, natural resources and utility operations enhance productivity, safety and compliance to manage their internal resources. For instance, in forestry settings, managers can shave 10-25 percent off operational costs based on the reduction of trucks used, scheduling efficiency improvements and driver habit monitoring. Forestry, for instance, requires all manners of logistical consideration to create an effective workflow. Workers collect the actual data, leveraging blended technologies to quickly collect and aggregate data such as: area covered, conditions, locations, etc. Workers share data with software designers to facilitate analytics without needing to return to an office to manually input data. If it takes fewer workers to gather the same amount of accurate data, project managers can allocate fewer vehicles to a project, allowing C-level decision makers to earmark those resources being saved into other areas of business. The strides made across even one organization in the forestry setting can have a disruptive effect on the entire industry and change how work is done.
+
+Why Do We Need a Data Value Chain?
+
+The Data Value Chain has the power to disrupt industries with new ways of thinking and doing, but it also has the ability to unify disparate business practices by putting data – knowledge – into the hands of decision makers across each workgroup or department, informing daily workflow from the simple deployment of resources, to the strategic placement of those resources, to the ultimate value those resources provide in return.
+
+Ultimately, it is of great benefit to embrace and cultivate a Data Value Chain mindset because the benefits are too large to ignore. This conceptual framework ignites a greater capacity to disseminate valued information across an organization (both vertically and horizontally) and helps industries derive actionable intelligence from all points of operation. As the sheer amount of data available continues to grow, so does the importance of understanding the role of the Data Value Chain in the ecosystem of the global marketplace
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: With each iteration of geospatial data along the chain, the value of that data increases.
+So, What Is the Data Value Chain Really?
+The Data Value Chain is a framework through which people can view the flow of geospatial data from the instant it is collected throughout its entire lifecycle.
+Ultimately, it is of great benefit to embrace and cultivate a Data Value Chain mindset because the benefits are too large to ignore.
+As the sheer amount of data available continues to grow, so does the importance of understanding the role of the Data Value Chain in the ecosystem of the global marketplaceLike this article?
+
+Other Blogs by Ron Bisio: https://dataconomy.com/author/ron-bisio/

@@ -1,0 +1,56 @@
+Title: NVP’s Big Data Executive Survey 2014 Highlights Forces Driving Business Investment in Big Data
+
+Article Link: https://dataconomy.com/2014/11/05/nvps-big-data-executive-survey-2014-highlights-forces-driving-business-investment-in-big-data/
+
+Author: Eileen McNulty
+
+Publish Date: 2014-11-05
+
+Article:
+NewVantage Partners has released its third annual Big Data Executive Survey for 2014 and it turns out that Corporate investment in Big Data has been growing.
+
+This year’s results provide compelling evidence that Big Data and analytics continue to be rapidly adopted within the corporate mainstream.
+
+Corporate investments in Big Data are set to rise, from 35% to 75% by 2017, for fundings greater than $10MM, and a remarkable 6% to 28% for investments greater than $50MM.
+
+“Our 2014 Big Data Executive Survey shows a remarkable surge in Big Data investment in the last three years,” explains NewVantage Partners CEO Randy Bean. “The majority of executive respondents characterize Big Data as highly important or mission-critical to their organization, reflecting the value that organizations believe they can realize from Big Data initiatives. The term Big Data itself has become common enough to be used loosely, but the large corporate world takes its payoffs very seriously, as proven by this enormous jump in investment. ”
+
+Key statistics point out:
+
+Executives are invested in Big Data.
+
+The participation of 125 senior corporate executives representing 59 Fortune 1000 companies and industry leaders demonstrates the level of commitment to Big Data from the top of the house. Executive C-suite sponsorship is perceived as critical to business adoption.
+
+Big Data is Becoming Mainstream.
+
+67% of executives now report that they have Big Data initiatives running in production within the corporation. Executives report that their corporate investments in Big Data are projected to grow from 35% to 75% by 2017 for investments greater than $10MM, and by an astounding 6% to 28% for investments greater than $50MM.
+
+Business-IT Partnership is Key to Big Data Adoption.
+
+88% of executives cited the importance of a strong business-IT partnership, with 77% citing business leadership and sponsorship, and partnership and organizational alignment as being the most critical factors in ensuring successful adoption of Big Data initiatives within the corporation.
+
+The Chief Data Officer is an Emerging Role.
+
+43% of executives report that their organization has established a Chief Data Officer (CDO) function. This represents a dramatic jump from 2012, when only 19% of executives reported that their organization had established a CDO role, and from 2013 where the number had grown only slightly to 26%.
+
+Big Data is a Business Issue.
+
+Executives see Big Data as providing significant business benefits – greater insight and learning, the ability to obtain answers and make decisions faster and in a more informed manner, greater agility and flexibility. Only 4% see technology selection as being critical to successful Big Data adoption.
+
+Respondents include Fortune 1000 senior business and technology executives who have a vested interest in the success of an organization’s data and analytics, and Big Data, initiative, reports the NVP press release. C-executives and business unit chief executives, representing top organizations including American Express, Aetna, Fidelity Investments, General Electric, Johnson & Johnson, Kaiser Permanente, Lincoln Financial, and Wells Fargo, comprised 42% of the respondents.
+
+The entire survey can be found here.
+
+Follow @DataconomyMedia
+
+
+
+(Image credit: MuseScore)
+
+Summary: NewVantage Partners has released its third annual Big Data Executive Survey for 2014 and it turns out that Corporate investment in Big Data has been growing.
+This year’s results provide compelling evidence that Big Data and analytics continue to be rapidly adopted within the corporate mainstream.
+“Our 2014 Big Data Executive Survey shows a remarkable surge in Big Data investment in the last three years,” explains NewVantage Partners CEO Randy Bean.
+“The majority of executive respondents characterize Big Data as highly important or mission-critical to their organization, reflecting the value that organizations believe they can realize from Big Data initiatives.
+Only 4% see technology selection as being critical to successful Big Data adoption.
+
+Other Blogs by Eileen McNulty: https://dataconomy.com/author/eileen-mcnulty/

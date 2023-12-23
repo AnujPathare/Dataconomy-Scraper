@@ -1,0 +1,64 @@
+Title: Thriving SaaS Growth and Containerization Use Will Drive Cloud Market in 2020
+
+Article Link: https://dataconomy.com/2020/01/29/thriving-saas-growth-and-containerization-use-will-drive-cloud-market-in-2020/
+
+Author: Mark Kirstein
+
+Publish Date: 2020-01-29
+
+Article:
+What does the cloud industry has to offer for the year 2020? What are the trends we will see in cloud adoption and cloud-to-cloud migration? How will 5G impact cloud adoption? Read on.
+
+The global economic outlook has been lukewarm heading into 2020, yet there is much reason for confidence and enthusiasm among those in the cloud industry. The cloud-services market is a $200 billion industry that’s experienced tremendous growth in recent years, and that growth is expected to continue. Gartner forecasts cloud growth in the range of 20 percent in 2020, since cloud services are integral to the operations of many global businesses.
+
+Though some market experts are suggesting the U.S.’s dominance in global services is weakening, there still remains significant reliance on cloud services. Hardware and infrastructure are continuing to age – Microsoft has a slew of products reaching end of life in 2020 – and will require upgrades for end users.
+
+
+
+As many businesses look to phase out older hardware, many are opting to migrate to the cloud. Other businesses are experiencing significant global growth. Given this, we believe that reliance on evolving cloud technology will continue in 2020, despite changing political and economic landscapes.
+
+Outlined below are five additional cloud market predictions to consider for 2020 and beyond.
+
+SaaS growth will continue
+
+While the cloud is a $200B market, overall IT spending is in the trillions, meaning much of that spending is devoted to on-premises software and services. As more enterprise leaders adopt cloud services, they have gotten over initial concerns about security and reliability, lending to stronger confidence in the cloud to support their operations. Furthermore, business leaders are moving away from homegrown applications and opting for turnkey solutions that are born in the cloud.
+
+As organizations look to migrate more office-productivity workloads to the cloud, there is still ample technology that can be moved. In 2020, we believe another five to 15 percent of solutions will be cloud-based as companies continue to gain confidence in and reliance on cloud services, retire old on-premises technology, and rely more on SaaS solutions.
+
+Use of containerization will increase
+
+According to research from Gartner, more than 50 percent of global organizations will be running containerized applications in production by 2020, up from less than 20 percent in 2019. The value propositions around containerization, which allows applications to effectively be written once and run anywhere, are unmistakable. Containerization offers a multitude of benefits to business and IT leaders looking to leverage the cloud.
+
+Containers allow for easy provisioning of storage and network resources. They allow businesses to bypass building servers, procurement, purchase orders, installation, configuration and security concerns – all of which create opportunities for error.
+
+By leveraging containers, businesses can define environments by configuring one file, which can then be automated and replicated in a matter of minutes. Containers effectively de-escalate risks during migrations and remove reliance on manual configuration, offering a streamlined migration process. Containerization also helps enterprises reduce costs that are typically associated with managing physical, on-premises network infrastructure.
+
+As more enterprises become aware of the benefits of containers in 2020, we expect to see an increase in their use.
+
+Cloud-to-cloud migrations will rise
+
+A common hurdle to cloud adoption is vendor lock-in, or the feeling of surrendering control over your data to a single vendor, as opposed to having direct access to physical data onsite. In addition, businesses often don’t want to be dependent on a sole vendor because it limits their ability to negotiate on price and flexibility. Dependency on one vendor can pose a predicament if there is an issue with that vendor’s service.
+
+To minimize these risks, many enterprises choose to leverage multi-cloud environments, which can help with managing rates and leveraging preferred services. In fact, on average, most organizations leverage five different cloud platforms. We expect this trend will continue, leading to more cloud-to-cloud migrations as businesses reach agreements with multiple vendors in their quest for the optimal digital environment.
+
+AWS will lose market share to its public-cloud rivals
+
+Amazon has become a household name in many ways and for many reasons. Amazon’s early adoption and implementation of cloud services has positioned it as a frontrunner, accounting for nearly half of the market share. Amazon’s growth and revenue have been astounding, but its high-speed revenue growth rate is not sustainable. Additionally, with public-cloud competitors growing 60 percent year-over-year, AWS will see more competition from the likes of Google Cloud and Microsoft Azure. Google provides end users with technology that is effective, accessible and easily operated, while Microsoft remains trusted among enterprise organizations for the migration of legacy environments. In 2020, AWS will continue to experience growth, but on a lesser level, and companies like Google Cloud and Microsoft Azure will decrease the gap between AWS and its competitors.
+
+
+
+5G will impact global cloud adoption
+
+5G subscriptions are on the rise and according to Ericsson Mobility, there will be 2.6 billion subscriptions within the next six years, accounting for almost 45 percent of the entire global mobile data traffic. In addition, 5G will cover up to 65 percent of the global population by the end of 2025.
+
+The impact of 5G will reverberate throughout the global cloud market and enable cloud computing in new ways, particularly in underdeveloped economies. Due to the cost of laying infrastructure, such as copper, fiber and piping, underdeveloped economies will opt for the more cost-effective alternative of deploying 5G wireless infrastructure. This in turn will open new doors for the people in those countries and accelerate international cloud adoption.
+
+There are always uncertainties when predicting how the cloud market will unfold. By employing progressive strategizing, cloud businesses can set themselves up for success and take advantage of opportunities as they appear. In doing so, these businesses will deliver added value to their customers, increase their bottom line, and be leaders in their respective markets.
+
+Summary: Gartner forecasts cloud growth in the range of 20 percent in 2020, since cloud services are integral to the operations of many global businesses.
+Though some market experts are suggesting the U.S.’s dominance in global services is weakening, there still remains significant reliance on cloud services.
+Given this, we believe that reliance on evolving cloud technology will continue in 2020, despite changing political and economic landscapes.
+The impact of 5G will reverberate throughout the global cloud market and enable cloud computing in new ways, particularly in underdeveloped economies.
+By employing progressive strategizing, cloud businesses can set themselves up for success and take advantage of opportunities as they appear.
+
+Other Blogs by Mark Kirstein: https://dataconomy.com/author/markkirstien/

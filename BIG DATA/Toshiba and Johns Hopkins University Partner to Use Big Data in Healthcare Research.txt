@@ -1,0 +1,30 @@
+Title: Toshiba and Johns Hopkins University Partner to Use Big Data in Healthcare Research
+
+Article Link: https://dataconomy.com/2014/09/09/toshiba-and-johns-hopkins-university-partner-to-use-big-data-in-healthcare-research/
+
+Author: admin
+
+Publish Date: 2014-09-09
+
+Article:
+As varied as the utilities of Big Data maybe, new frontiers periodically open up to be explored; fitness, travel, marketing, retail and more recently, medical. Toshiba Group is working in tandem with the Johns Hopkins radiation oncology department to carry out research in treatment of head, neck and lung cancer.
+
+“Toshiba recognizes the ability of Big Data to monitor individual health, and in the future, to support day-to-day clinical decision making,” notes the director of Clinical Programs, Toshiba Medical Research Institute USA, Inc., Rich Mather. “With our collaboration at Johns Hopkins, we hope to create a new paradigm in medicine that transforms healthcare into a more efficient, cost-effective and data-driven enterprise that will help to improve patient outcomes.”
+
+The Toshiba Center for Big Data in Healthcare will be situated in the Science & Technology Park at Johns Hopkins. Researchers from Johns Hopkins will collaborate with Toshiba to utilise its data analysis capabilities with advanced image analysis in order to carry out patient treatment with precision.
+
+Mr. Satoshi Tsunakawa, corporate senior vice president of Toshiba Corporation, spoke furhter about the partnership, ‘‘This is a great opportunity to work with Johns Hopkins, one of the world’s leading medical centers, and I am confident that the research will lead to improvements in prevention, diagnosis, treatment and prognosis of disease, and help to promote better health for patients in the U.S. and around the world.”
+
+Read more here
+
+Follow @DataconomyMedia
+
+(Image Credit: callison-burch)
+
+Summary: As varied as the utilities of Big Data maybe, new frontiers periodically open up to be explored; fitness, travel, marketing, retail and more recently, medical.
+Toshiba Group is working in tandem with the Johns Hopkins radiation oncology department to carry out research in treatment of head, neck and lung cancer.
+“Toshiba recognizes the ability of Big Data to monitor individual health, and in the future, to support day-to-day clinical decision making,” notes the director of Clinical Programs, Toshiba Medical Research Institute USA, Inc., Rich Mather.
+“With our collaboration at Johns Hopkins, we hope to create a new paradigm in medicine that transforms healthcare into a more efficient, cost-effective and data-driven enterprise that will help to improve patient outcomes.”The Toshiba Center for Big Data in Healthcare will be situated in the Science & Technology Park at Johns Hopkins.
+Researchers from Johns Hopkins will collaborate with Toshiba to utilise its data analysis capabilities with advanced image analysis in order to carry out patient treatment with precision.
+
+Other Blogs by admin: https://dataconomy.com/author/admin/

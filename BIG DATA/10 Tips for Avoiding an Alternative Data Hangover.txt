@@ -1,0 +1,66 @@
+Title: 10 Tips for Avoiding an Alternative Data Hangover
+
+Article Link: https://dataconomy.com/2018/03/21/ten-tips-for-avoiding-an-alternative-data-hangover/
+
+Author: Armando Gonzalez
+
+Publish Date: 2018-03-21
+
+Article:
+More than 80% of the world’s data is unstructured. Investors in the financial industry are now having to confront the challenge of managing a large volume of data in this unstructured format, assembling in-house data scientists, engineers and IT staff who can transform it into insights.
+
+As you might imagine, this is an extremely lengthy and expensive process. The majority of buy-sides do not have access to these types of resources, and that’s why big data vendors are essential. Everyday, these valuable teams of experts are turning out large volumes of unstructured content and converting it into tradable market data.
+
+For hedge funds, asset managers and banks looking for a big data vendor, it’s important to ask the right questions. We have narrowed down the top 10 key areas to consider when deciding on an alternative data vendor.
+
+Structured data
+
+Buy-side firms should be looking for alternative data vendors that pre-process unstructured data to deliver data in a 100% machine readable, structured format – regardless of the data type.
+
+Get a full history
+
+A lot of these alternative data providers are relatively new, and consequently they have only been storing data for a short amount of time. This makes proper back-testing difficult or impossible.
+
+Alternative data mishaps
+
+The business of alternative data is not a perfect science. Sometimes, the vendor is not able to store data when it was actually generated. It’s better to be transparent about the gaps or data integrity issues so the consumer can make an informed decision on whether they want to use that part of the data or not.
+
+Get proof of research
+
+Some of the new vendors have limited to no research demonstrating the value of their data. Consequently, the vendor ends up putting all the burden on the customer to do all the early stage research from their side.
+
+Context matters
+
+When you look at unstructured content such as text, the natural language processing (NLP) engine being used must understand financial terminology. Vendors should build their own dictionary of industry related terms.
+
+Version control is essential
+
+The vendor must ensure version control of their process as technology improves or their production methods change. Otherwise, future results are more likely to vary from back-testing performance.
+
+Point-in-time sensitivity
+
+Point-in-time sensitivity is about making sure your analysis only includes information that was relevant and available at any given point in time. Otherwise, there is a potential for forward-looking bias being added to your results.
+
+Data maps to tradable securities
+
+Most alternative data out there is not about financial securities. The users need to figure out how to relate this information to a tradable security, like stocks or bonds.
+
+Fast and innovative
+
+Alternative data analytics and AI are fast-moving spaces. There is a lot of competition amongst companies, and technology is changing dramatically every year. To stay innovative and competitive, some data vendors secure a dedicated, full-time data science team. That team can work with financial organizations and academic institutions to continuously conduct research and development in the analysis of unstructured data.
+
+Make sure the data is legal
+
+Both vendors and clients must truly understand where their information comes from and where it’s being sourced to ensure it doesn’t violate any laws.
+
+This article was first published by Ravenpack.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Summary: We have narrowed down the top 10 key areas to consider when deciding on an alternative data vendor.
+Structured dataBuy-side firms should be looking for alternative data vendors that pre-process unstructured data to deliver data in a 100% machine readable, structured format – regardless of the data type.
+Get a full historyA lot of these alternative data providers are relatively new, and consequently they have only been storing data for a short amount of time.
+Alternative data mishapsThe business of alternative data is not a perfect science.
+To stay innovative and competitive, some data vendors secure a dedicated, full-time data science team.
+
+Other Blogs by Armando Gonzalez: https://dataconomy.com/author/armando-gonzalez/

@@ -1,0 +1,34 @@
+Title: Context Relevant: Going from $0 to $28 Million in 28 Months
+
+Article Link: https://dataconomy.com/2014/05/21/context-relevant-going-from-0-to-28-million-in-28-months/
+
+Author: admin
+
+Publish Date: 2014-05-21
+
+Article:
+Context Relevant, a predictive analytics startup, announced yesterday that it has raised $21 million in Series B funding. Formation 8 led the Series B investment, with participation from a large unnamed bank, an unnamed insurance agency, Bloomberg Beta, Madrona Venture Group and Vulcan Capital.
+
+Although there are a number of other companies offering predictive analytics capabilities – Infer, InsideSales, RapidMiner, InsightsOne (which recently got acquired by Apigee) to name just a few – Context Relevant does not have any direct competitors, according Context Relevant’s CEO Stephen Purpura.
+
+“We don’t really have any competition. The big data platform that we have built enables this previous impossible use case to take place,” said Purpura. “And it is really valuable. The companies that are using it are finding it to have an extremely large ROI.”
+
+Purpura did not disclose Context Relevant’s customers or how many individual customers they have. “The technology and solution we provide provides our customers with an unfair strategic advantage over their competitors and our customers do not desire to inform their competitors about the details of this advantage,” said Purpura.
+
+However, Purpura offered an example to describe the work at Context Relevant and how it is trying to make a breakthrough into Wall Street:
+
+“Say you are a trader at a bond desk for a large bank. You are watching the market change in real time. Our software will update you in an instant about what bonds are the best buy in each class. In addition to that, one of the other complexities when you buy bonds is that customers buy what are called hedges to offset the risk that they are taking when they buy the bonds. Our software actually instantly calculates the best hedges for each of the best bonds in each class. This technology never existed before and was ultimately done by hand, and some of it has been guess work. The level of automation we are providing for finding these best buys will likely offer a competitive advantage when it comes to adopting our product.”
+
+The Seattle-based startup recently opened an office in New York and raised $7 million in July for its first round of funding, bringing its total funding to $28 million. The company said the money will be used to hire an extra 100 people by 2015, including data scientists and engineers to continue building their product, and also increasing their sales and marketing staff.
+
+Read more here
+
+(Image Credit: Context Relevant)
+
+Summary: Context Relevant, a predictive analytics startup, announced yesterday that it has raised $21 million in Series B funding.
+Our software will update you in an instant about what bonds are the best buy in each class.
+In addition to that, one of the other complexities when you buy bonds is that customers buy what are called hedges to offset the risk that they are taking when they buy the bonds.
+Our software actually instantly calculates the best hedges for each of the best bonds in each class.
+Read more here(Image Credit: Context Relevant)
+
+Other Blogs by admin: https://dataconomy.com/author/admin/

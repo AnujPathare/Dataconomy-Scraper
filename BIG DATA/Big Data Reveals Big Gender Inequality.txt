@@ -1,0 +1,44 @@
+Title: Big Data Reveals Big Gender Inequality
+
+Article Link: https://dataconomy.com/2016/03/08/big-data-reveals-big-gender-inequality/
+
+Author: Hannah Augur
+
+Publish Date: 2016-03-08
+
+Article:
+Big Data is no stranger to the women’s movement. In fact, many see it as the great equalizer. It provides cold hard facts, and adds weight to topics that are otherwise easy to skew. Proponents of big data’s use for gender equality range from private firms and individuals to major players, like Hilary Clinton. Even popular magazines have been featuring a recent study on gender inequality among coders. Analyzing polling from 1.5 million GitHub users, researchers at the California Polytechnic University and North Carolina State University found a powerful case of sexism and gender inequality on the platform, and called for the use of big data to highlight the relationship between genders. The paper has yet to even be fully released, yet their numbers and story is blowing up across several news sources.
+
+There are, however, several studies that have been published, and show similar disparaging results. By collecting invoices from corporate legal departments with annual legal spending between one million and one billion dollars, Sky Analytics captured valuable information that thoroughly reflects the industry. The data spans 40,000 attorneys and timekeepers across 3,000 law firms in the U.S. The list even includes 73 of the AmLaw 100 firms, allowing us to peek into top law firms and see what is really happening, right now. The study is also noted as “the first gender study based on $3.4 billion of actual billings,” which is very much thanks to the opportunities afforded by big data. For those in the field, this study may make a world of difference. Research on inequality in the law industry has been going on for decades, but is largely limited to surveys and interviews. Relevant pioneering research is now decades old. This data, however, is both brand new and hard to argue with.
+
+Law isn’t the only field experiencing data-based analysis. Gender Gap Grader was founded specifically to make gender gap estimates on an exact level, using data. They’ve analyzed gender’s role in science, investing and aviation. There may be a common feeling that women are missing in these industries, but these researchers found the exact numbers, making it far harder to argue with or to ignore. For example, to study investors, they used the AngelList database, which includes some 650,000 profiles of entrepreneurs, startup professionals, venture capitalists and business angels, to determine women’s role in the industry. The results? See for yourself.
+
+image source: Gender Gap Grader
+
+Disaggregating Data
+
+The above data is not valuable just because it has been put to use, but because it exists. In fact, missing data is considered to be one of the biggest problems for the gender equality movement. This is what sparked one of the more talked about initiatives of late, Data2X. The joint project of the Clinton Foundation, the United Nations Foundation, the William and Flora Hewlett Foundation, as well as the Bill & Melinda Gates Foundation was founded in 2012 with the clear goal of using big data to help push gender equality. They have been very clear on their “#GenderDataRevolution” mission, and also very creative.
+
+One example of Data2X’s 2015 initiatives includes tracking the mental health of young girls around the world. Recognizing depression as one of the leading illnesses for girls worldwide, they seek to extract information specific to adolescent girls’ mental health. Using Twitter and social media, they hope to gather and disaggregate data and paint a more thorough picture of gender inequality, and how to address it. They hope to use several other methods to generate valuable data, including understanding women’s mobility patterns through mobile phone and satellite data.
+
+The “glass door” of gender does not stop just at women in North America, but continues around the globe, and even broaches several other topics. The International Water Institute worked with the Network of Women Water Professionals and the Women for Water Partnership, to organize the “Gender, Agricultural Water and ‘Big Data’: Practical steps and forwards thinking under the SDGs” meeting Sri Lanka last fall. They discussed the issues of gender and data in the realm of water management and agriculture, and have since released powerful interactive maps of certain areas with sex-disaggregated data. They chart several points, including male and female infant deaths, male and female literacy, and number of workers based on gender. They have also been very explicit in their reasons, bluntly stating:
+
+“Gender inequity is prevalent in water management and agriculture but there is very little accurate data available on gendered aspects of these sectors. In order to improve gender equity in access and decision-making, researchers, policy makers and development investors need better information and understanding of gender relations in water and agricultural systems. The basin maps on this website aim to provide this evidence base for analysis of gender disparities and new development opportunities.”
+
+Is Data The Way Out?
+
+The best way to find the “glass door” of gender inequality is through big data. Though surveys, essays, and even empirical studies are important to the overall progress of social topics, it’s data that makes all the difference. This puts a lot of emphasis on the importance of data scientists and analysts. Companies may gain access to pay rates, but that is not where the information ends. A list of wages cannot reflect just how happy individuals are with their job, or how they may be personally experiencing difficulty. The root causes behind numbers and information may not always be clear. Good data storytellers are necessary to uncover exactly what is going wrong in the pipeline. One cheeky example from Sky Analytics’ legal study includes the slap-in-the-face of which employees control the “large” matters in a company, and which get the “small.” Scenarios involving twenty or more timekeepers, meaning they are more important and involve a lot more staff, were labeled as “large matters.” 93% of large matters were handled by mostly male groups. “Small” matters, on the other hand, were comprised of less than five timekeepers, making seem almost trivial in comparison. 81% of “small” matters were handled by women.
+
+Researchers need data, and they need skilled analysts to determine what that data means. Luckily, with the huge amount of press the topic has been receiving, it seems to be on the right path. It may not happen overnight, but data is slowly filling in the gaps of knowledge on gender inequality, then real, sweeping change may finally be possible.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Big Data is no stranger to the women’s movement.
+Even popular magazines have been featuring a recent study on gender inequality among coders.
+The study is also noted as “the first gender study based on $3.4 billion of actual billings,” which is very much thanks to the opportunities afforded by big data.
+The best way to find the “glass door” of gender inequality is through big data.
+It may not happen overnight, but data is slowly filling in the gaps of knowledge on gender inequality, then real, sweeping change may finally be possible.
+
+Other Blogs by Hannah Augur: https://dataconomy.com/author/hannah-augur/

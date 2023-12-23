@@ -1,0 +1,36 @@
+Title: Switzerland’s Biggest Bank Taps Artificial Intelligence to Keep Pace with Competition
+
+Article Link: https://dataconomy.com/2014/12/09/switzerlands-biggest-bank-taps-artificial-intelligence-to-keep-pace-with-competition/
+
+Author: Artur Lapinsch
+
+Publish Date: 2014-12-09
+
+Article:
+Banking giant UBS will harness Artificial Intelligence to provide its clients with personalized counsel.“Banking is one of the most rudimentary industries when it comes to digitalization,” Dirk Klee, chief operating officer for UBS wealth management and responsible for digital initiatives, said in an interview, reports Bloomberg
+
+“EBay, Amazon – everything is getting more and more digital. The question is how we translate this into a similar experience for our clients,” he added.
+
+Assisting UBS in this endeavour is Singapore-based Sqreem Technologies Pte. Ltd. that emerged winner against 80 teams in an Innovation Challenge, organized by UBS, bagging S$40,000 ($30,000) and a contract.
+
+Their task, Bloomberg reports will be to “Extract the information most relevant to an individual client from an explosion of data and deliver this tailored content to clients’ mobile phones, iPads and other digital devices.”
+
+Having realised the significance of mining Big Data, Banks believe that such technologies would grant better insight into customer behaviour, so that lenders can remain “competitive in the digital era.” UBS sees a potential threat in the mobile payment systems offered by Internet giants like Google Inc. (GOOG) and Apple Inc.
+
+Founded seven years ago by Ian Chapman-Banks, CEO and Rene Raiss, a Columbia University graduate, Sqreem has a workforce of 15, and boasts of Visa Inc. (V) and DBS Group Holdings Ltd. as its customers.
+
+Read more here.
+
+Follow @DataconomyMedia
+
+
+
+(Image credit: Martin Abegglen)
+
+Summary: The question is how we translate this into a similar experience for our clients,” he added.
+Assisting UBS in this endeavour is Singapore-based Sqreem Technologies Pte.
+Ltd. that emerged winner against 80 teams in an Innovation Challenge, organized by UBS, bagging S$40,000 ($30,000) and a contract.
+Founded seven years ago by Ian Chapman-Banks, CEO and Rene Raiss, a Columbia University graduate, Sqreem has a workforce of 15, and boasts of Visa Inc. (V) and DBS Group Holdings Ltd. as its customers.
+Follow @DataconomyMedia(Image credit: Martin Abegglen)
+
+Other Blogs by Artur Lapinsch: https://dataconomy.com/author/artur-lapinsch/

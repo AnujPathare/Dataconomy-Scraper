@@ -1,0 +1,52 @@
+Title: Amazon: See How Big Data Can Drive Business Success
+
+Article Link: https://dataconomy.com/2014/09/15/amazon-see-how-big-data-can-drive-business-success/
+
+Author: Bernard Marr
+
+Publish Date: 2014-09-15
+
+Article:
+Amazon is a big data giant, which is why I want to look at the company in my second post of my series on how specific organisations use big data.
+
+We all know that Amazon pioneered e-commerce in many ways, but possibly one of its greatest innovations was the personalized recommendation system – which, of course, is built on the big data it gathers from its millions of customer transactions.
+
+Psychologists speak about the power of suggestion – put something that someone might like in front of them and they may well be overcome by a burning desire to buy it – regardless of whether or not it will fulfil any real need.
+
+This is of course how impulse advertising has always worked – but instead of a scattergun approach, Amazon leveraged their customer data and honed its system into a high powered, lazer-sighted sniper rifle. Or at least that is the plan – they don’t seem to get it completely right yet. Like most of us, I have had some very strange recommendations from Amazon.
+
+Anyway, their systems are getting better and it looks like what we have seen so far is only the beginning – as I’ve previously mentioned, Amazon has recently obtained a patent on a system designed to ship goods to us before we have even decided to buy it – predictive despatch – you can read more about that here. This is a strong indicator that their confidence is reliable predictive analytics is increasing.
+
+An important factor to consider when looking at Amazon is how commercial its big data is, compared to those of other companies that deal with data on a comparable scale. Unlike, say, Facebook – which might know an awful lot about which movies you like or who your friends are – the vast majority of Amazon’s data on us relates to how we spend hard cash.
+
+And having worked out how to use it to get more money out of our pockets, it is now setting out on a mission to help other global corporations do the same – by making that data, as well as its own tools for analyzing it, available to buy.
+
+This means that, as with Google, we have started to see adverts driven by Amazon’s platform and based on its data appearing on other sites over the past few years. As noted by MIT Technology Review last year, this makes the company now a head-on competitor to Google – with both online giants fighting for a chunk of marketers’ budgets.
+
+However, ad sales is not the only arena in which Amazon is taking on Google – its Amazon Web Services offers cloud-based computing and big data analysis on an enterprise scale. This allows companies which need to run highly processor-intensive procedures to rent the computing time far more cheaply than setting up their own data processing centres – just like Google’s BigQuery.
+
+These services include datawarehousing (Redshift), hosted Hadoop solution (Elastic Map Reduce), S3 – the database service it uses to run its own physical warehousing operations and Glacier, an archival service. Recently added to this list is Kinesis, which is a real-time “stream processing” service designed to aid analysis of high volume, real-time data streams.
+
+Amazon has also incorporated big data analysis into its customer service operations. Its purchase of shoe retailer Zappos is often cited as a key element in this. Since its founding, Zappos had earned a fantastic reputation for its customer service and was often held up as a world leader in this respect. Much of this was due to their sophisticated relationship management systems which made extensive use of their own customer data. These procedures were melded together with Amazon’s own, following the 2009 acquisition.
+
+Finally, it is worth mentioning the public data sets that Amazon hosts, and allows analysis of, through Amazon Web Services. Fancy digging around in the data unearthed through the Human Genome Project, NASA’s Earth science datasets or US census data? Amazon hosts all of this and much more, and makes it available for anyone to browse for free.
+
+Amazon has grown far beyond its original inception as an online bookshop, and much of this is due to its enthusiastic adoption of big data principles. It looks set to continue breaking new ground in this field, for the foreseeable future.
+
+This article was first posted here
+
+Follow @DataconomyMedia
+
+
+
+Bernard Marr is a global enterprise performance expert and a best-selling business author. He has worked with and advised many of the world’s best-known organisations including Accenture, Astra Zeneca, Bank of England, Barclays, BP, DHL, Fujitsu, Gartner, HSBC, Mars, Ministry of Defence, Microsoft, Oracle, SAP and Shell, among many others. His leading-edge work with major companies, organisations and governments across the globe makes him an acclaimed and award-winning keynote speaker, researcher, consultant and teacher. Bernard is acknowledged by the CEO Journal as one of today’s leading business brains.
+
+(Image Credit: Robert Scoble)
+
+Summary: Amazon is a big data giant, which is why I want to look at the company in my second post of my series on how specific organisations use big data.
+An important factor to consider when looking at Amazon is how commercial its big data is, compared to those of other companies that deal with data on a comparable scale.
+However, ad sales is not the only arena in which Amazon is taking on Google – its Amazon Web Services offers cloud-based computing and big data analysis on an enterprise scale.
+Amazon has also incorporated big data analysis into its customer service operations.
+Much of this was due to their sophisticated relationship management systems which made extensive use of their own customer data.
+
+Other Blogs by Bernard Marr: https://dataconomy.com/author/bernard-marr/

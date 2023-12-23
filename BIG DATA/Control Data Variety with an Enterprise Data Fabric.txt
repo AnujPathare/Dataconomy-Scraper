@@ -1,0 +1,46 @@
+Title: Control Data Variety with an Enterprise Data Fabric
+
+Article Link: https://dataconomy.com/2017/10/25/control-data-variety-enterprise-data-fabric/
+
+Author: Jelani Harper
+
+Publish Date: 2017-10-25
+
+Article:
+Big data is everywhere: in the cloud, in different locations, and in different online applications. Organizations need a single way of unifying, accessing, and controlling these distributed resources for the best possible operational efficiency. The problem with big data is that its sources are often very dissimilar. An Enterprise Data Fabric addresses that problem by providing a single access layer to all of those sources. Doing so is important because it optimizes big data’s usefulness in a variety of tasks.
+
+The ability to connect and control all big data for any purpose is perhaps the defining attribute of an Enterprise Data Fabric. Cambridge Semantics Chief Technology Officer Sean Martin called it the means by which “data and its processing are described in ways that they can be tied together in a lake-binding way.”
+
+Today, the Enterprise Data Fabric tenet is rapidly gaining traction as the means of leveraging all heterogeneous big data from a central repository where governance, security, and data modeling consistency are implicit. Moreover, it does so while directly controlling the movement of data for time-sensitive applications. An Enterprise Data Fabric’s unique competitive advantage is that it can flexibly do this across any range of architectural structures.
+
+“It’s the companies that are the most agile that will win, not the ones with the most data,” MapR Senior Vice President of Data and Applications Norris mentioned. “It’s not who’s got the biggest data; it’s who’s got the most active fabric.”
+
+Connections
+
+The premier characteristic of an Enterprise Data Fabric is its ability to connect big data across locations in a uniform manner accessible from a single place. “It’s the new evolutionary step: something that will tie together all the data in the totality of your data infrastructure,” Franz CEO Jans Aasman reflected. Supplying access to all big data from a central location is the first step in realizing the agility Norris referenced. Methods for doing so vary, with the most common being to implement an abstraction layer with cloud access to create a virtualized repository. By storing both descriptions of data and instructions for their action (such as Spark jobs) in a centralized controlling mechanism, organizations can “abstract their entire computing fabric, their data, and descriptions of their data in such a way that you can optimize least cost routing of your processing across the cloud,” Martin said. Users can account for inherent differences in semantics and schema by mapping to standardized ontologies.
+
+Other approaches involve managing all big data on a single platform with alternative means of manipulating the data. The primary difference between this method and the aforementioned abstraction layer’s is the former involves the actual data instead of abstracted data. Clusters can be deployed on physical or cloud infrastructure as needed. Options for self-describing schema on the fly including JSON are responsible for data modeling in distributed environments that are “not just a data center,” Norris said. “It’s multiple data centers, clouds and sources.” Transformation activities occur on the same cluster for integration. Additional capabilities include consolidated views of data in multiple locations.
+
+Action
+
+The agility for which global data fabrics are reputed stems from the action they engender. “The assumptions have passed that we’ve got a long time before we do analytics,” Norris said. “The pressures organizations have require immediate intelligence and access, and incorporation into business flows for better customer experience and more efficient operations.” Fabrics can move big data from distributed locations for on-demand automation of tasks otherwise too time-consuming and resource-intensive to perform. By abstracting processing instructions for data in a way Martin described as “runtime, processing neutral”, organizations can use a single data fabric to simultaneously facilitate different run times in different locations. “Right now, how easy is it for you to move all your things from Amazon’s to Google’s cloud?” Martin asked. “It’s a big effort, right? How about if the Enterprise Data Fabric was doing that for you?” Organizations can also run certain jobs with sensitive data on-premise or in private clouds, while utilizing fleeting pricing options for less sensitive data in public clouds. Data fabrics enable users to pull this data from the same repository for different jobs.
+
+The Fabric’s Core
+
+Metadata descriptions of data assets form the basis of virtualized repository approaches to Enterprise Data Fabrics. These descriptions are located alongside the schema of the original data, instructions for their action, and their mapping. This is vital to providing unified access to disparate big data sources combined in a single fabric. Fabrics encompassing a sole platform in which all data can be managed will do so with tools that provide unified views of data, regardless of location. They solidify their function with location awareness and rack awareness, which lets organizations optimize how their data is positioned and moved. “We have that location awareness now at a much broader level: at the edge, at the data center, and at the cloud so you can have intelligent rules and optimize,” Norris said. Data fabrics automate aspects of data access for more efficient response times. To automate responses to medical events such as respiratory failure, for example, a data fabric will take “an abstracted description of the data and compile it into much more complex code that will get you the data,” Aasman said. “You just define what you want to have and it will get compiled to something that will access the data.”
+
+Tomorrow’s Choice
+
+The Enterprise Data Fabric concept supersedes alternative big data management approaches. It exploits the cloud’s utility by seamlessly tying it to on-premise and edge computing applications via a single access layer. It coordinates data’s movement across a variety of locations, formats, and structures with a nimbleness that can keep up with the speed of today’s businesses. It is a direct consequence of its most meaningful technologies. “A data fabric automates access to the data,” Aasman said. “It takes the data that you have and lets you query against it, and makes sure you get the data available in the way you query it. It automates that part.”
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: An Enterprise Data Fabric addresses that problem by providing a single access layer to all of those sources.
+The ability to connect and control all big data for any purpose is perhaps the defining attribute of an Enterprise Data Fabric.
+An Enterprise Data Fabric’s unique competitive advantage is that it can flexibly do this across any range of architectural structures.
+The Fabric’s CoreMetadata descriptions of data assets form the basis of virtualized repository approaches to Enterprise Data Fabrics.
+Data fabrics automate aspects of data access for more efficient response times.
+
+Other Blogs by Jelani Harper: https://dataconomy.com/author/jelanih/

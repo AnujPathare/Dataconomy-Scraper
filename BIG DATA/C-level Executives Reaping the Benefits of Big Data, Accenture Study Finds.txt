@@ -1,0 +1,36 @@
+Title: C-level Executives Reaping the Benefits of Big Data, Accenture Study Finds
+
+Article Link: https://dataconomy.com/2014/09/12/c-level-executives-feeling-reaping-the-benefits-of-big-data-accenture-study-finds/
+
+Author: admin
+
+Publish Date: 2014-09-12
+
+Article:
+The Management consultant and global tech services provider, Accenture released the outcome of a study on Big Data and its influence on enterprises earlier this week.
+
+The Accenture Analytics survey carried out globally, quizzed senior business and technology executives to find that enterprises that incorporate Big Data, report “overwhelming satisfaction with their results,” speeding up the digitalisation of these enterprises, reports the survey.
+
+The key statistics point out that 92% of the respondents who have completed at least one project are very satisfied with their initial forays into big data while 94% believe that their big data implementation meets their needs. Meanwhile, 36% are yet to incorporate big data into their machinery whereas 60% have had success in their big data projects and the remaining 4 percent are still to complete implementation.
+
+The hurdles that enterprises face while implementation of Big Data vary from, Security and Budget (51% and 47% respectively) to lack of skills in implementing big data and carrying out big data and analytics on an ongoing basis (41% and 37%, respectively) to enterprises not being ready for big data (27%). To deal with these challenges 54% resorted to internal technical training, while 33% went to external consultant for training.
+
+A big fraction (89%) believe big data will revolutionize business operations like the Internet did and 85% see big data changing the business machinery dramatically. Organisations are incorporating big data projects to gain competitive edge (83%). Furthermore, approximately eight out of ten respondents understand the disruptive potential and feel that ‘companies that do not embrace big data will lose their competitive position and may even face extinction.’
+
+In order to capitalise from the big data scenario the research points out, the study advises that companies should explore the entire big data ecosystem and “be nimble” as ‘data sources and big data technologies are in a constant state of flux’.
+
+The complete Accenture Analytics’ “Big Success with Big Data” survey can be found here.
+
+Follow @DataconomyMedia
+
+
+
+(Image Credit: Michael Gray)
+
+Summary: The key statistics point out that 92% of the respondents who have completed at least one project are very satisfied with their initial forays into big data while 94% believe that their big data implementation meets their needs.
+Meanwhile, 36% are yet to incorporate big data into their machinery whereas 60% have had success in their big data projects and the remaining 4 percent are still to complete implementation.
+The hurdles that enterprises face while implementation of Big Data vary from, Security and Budget (51% and 47% respectively) to lack of skills in implementing big data and carrying out big data and analytics on an ongoing basis (41% and 37%, respectively) to enterprises not being ready for big data (27%).
+A big fraction (89%) believe big data will revolutionize business operations like the Internet did and 85% see big data changing the business machinery dramatically.
+The complete Accenture Analytics’ “Big Success with Big Data” survey can be found here.
+
+Other Blogs by admin: https://dataconomy.com/author/admin/

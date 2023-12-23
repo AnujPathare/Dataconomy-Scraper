@@ -1,0 +1,64 @@
+Title: Data is the New Dollar: Turning Data Into Business Profit
+
+Article Link: https://dataconomy.com/2016/01/26/data-is-the-new-dollar-turning-data-into-business-profit/
+
+Author: Manish Gupta
+
+Publish Date: 2016-01-26
+
+Article:
+Every business knows that their data, from customer demographics and buying behavior to production insights, holds tremendous value. But, historically, most have considered only its internal worth—the insight it provides to improve operational efficiency, deliver a better customer experience, enhance products and services or save money.
+
+But now, a new perspective on data is emerging. Not only is the data valuable for internal purposes, but it can even be sold by companies who are establishing a data-as-a-service model, and the examples are quite surprising. Businesses of all types are exploring the market potential of their data, considering ways to productize, package and profit from it—how they can literally turn their data into dollars – within the security, privacy and regulatory guidelines.
+
+What can your data do for you?
+
+The ability to collect and analyze rich, dynamic data—made possible through cloud computing, massive data warehousing systems and business intelligence solutions—could turn companies many would never consider as being in “the data business” into potentially lucrative purveyors of information.
+
+A toothbrush manufacturer, for example, knows a tremendous amount about toothbrush consumption, including how often tooth brushes are replaced and which SKUs sell best in specific geographic regions or to certain demographics. This unlikely “data business” could package and sell this insight to retailers, who would pay to obtain this insight, to help them optimize SKUs, determine which products will most likely succeed in one location versus another, or to help them turn over inventory faster.
+
+As another example, medical laboratories conduct millions of screenings daily, providing accurate, timely results back to health care providers and consumers. These labs could anonymously analyze that data to uncover patterns and insights that would be extremely valuable to both health care organizations seeking ways to reduce and prevent disease and to pharmaceutical companies developing and marketing new medications. The data might also reveal that specific patient groups obtain screening exams at certain times during the year, data that physicians and hospitals could use to market their services to the right patients at the right time.
+
+A “perfect storm” for data-driven business opportunities
+
+We’re seeing the trend toward uncovering the profit potential within data stores across many business sectors. Companies like Uber, Airbnb and FitBit all provide an interesting product or service, but their true value lies in the data they collect and leverage: insight about our commute schedules, travel habits, physical activity levels and overall health. And the potential value of this data is being amplified by a perfect storm of factors:
+
+Mobile devices—We can now collect, track and analyze data wherever and whenever consumers go.
+
+Internet of Things—both wearables and machine sensors have become ubiquitous, low-cost data-capturing juggernauts.
+
+Global perspective — Our communications—and the data collected over the platforms we use(Facebook, WhatsApp, Twitter, etc.)—are truly global in nature.
+
+Cloud/SaaS platforms—no longer are our data efforts confined to the premises, behind-the-firewall. Instead, our capacity to collect, analyze, share and visualize data from many diverse sources seems infinite.
+
+Dealing with the data deluge
+
+Not only do we have access to more data than ever before, it also has the potential to be exponentially richer in context and meaning. It is attributable directly back to its source, where we can compare and contrast it with other attributes and characteristics. But, in order to uncover the richness of data and derive its monetary value, companies must:
+
+Gain access to complete data, integrated from a wide variety of sources, formats, languages and protocols. Effectively manage the data to ensure its quality. This includes verifying, cleansing, harmonizing, and storing it properly for analysis. Analyze the data, for which there is no shortage of algorithms and options, almost all of which require in-depth analytical skills and talent. Use business intelligence tools to visualize and gain actionable insight. This relies on a significant assumption that the data is complete, managed properly and analyzed accurately. Otherwise, it’s garbage in, garbage out. Assure data security and regulatory compliance across all of these steps.
+
+There are a multitude of technologies and approaches available to help enterprises achieve these objectives. But even with these tools, companies still struggle to derive the full value from their data for their own operational insight, much less for taking advantage of new revenue-generating opportunities. In fact, most companies are analyzing only 12 percent of their data. Even more disheartening, the ROI on Big Data projects is abysmal, with companies expecting an average of $3.50 return per $1 invested, but realizing just $0.55. Not only is the ROI lackluster, one-third of business leaders say they’re so uncertain about the accuracy of their analysis, they don’t trust it to make decisions.
+
+The failure lies in the overwhelming complexity of dealing with multiple tools and processes. Most traditional approaches segregate data integration and data management as two separate endeavors,despite their interdependency. And, most integration efforts focus on applications—making disparate software work together—leaving data integration as somewhat of an afterthought, often resulting in even more siloed, dirty or duplicated data. The situation is compounded by the fact that most solutions are self-service. This leaves companies to do the highly technical and complex integrations themselves -while under immense pressure to move with speed and agility to stay ahead of the competition—and to stay within a cost-constrained budget.
+
+Given these obstacles, it’s no surprise that it’s nearly impossible for companies to gain the visibility and deep insights they need to serve their internal needs, let alone uncover opportunities to monetize their data.
+
+dPaaS is the answer
+
+As companies demand more cohesive, integrated solutions to generate data-driven revenue, a new approach to data management is bringing all of these pieces together in a much simpler, tightly integrated way. dPaaS, or Data Platform-as-a-Service, puts data at the center of the process, resolving the inherent problems of data quality, harmonization and integration, in a fully managed environment. The dPaaS difference lies in it’s unique approach that combines:
+
+A multi-tenant cloud platform, which provides greater agility, resources and scalability to handle the growing complexity and quantity of data. A single, unified platform that eliminates the piecemeal approach and simplifies integration and data management. Full visibility into the data—with complete tracking to see exactly where it’s come from, how it was modified, what was analyzed, how it looks today and where it’s going—instead of a black-box solution that leaves analysts in the dark. Simple API management that allows businesses to do whatever they want with their data—construct packages, apply algorithms and insights, visualize, etc.—with complete flexibility.
+
+In short, with dPaaS, companies can get down to the business of extracting value from their data, rather than spending so much time wrestling with it. With faster, more efficient time to insights, companies that never considered themselves a data purveyor, can open an entirely new revenue stream to maximize the value of—and monetize—their data.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: A “perfect storm” for data-driven business opportunitiesWe’re seeing the trend toward uncovering the profit potential within data stores across many business sectors.
+And the potential value of this data is being amplified by a perfect storm of factors:Mobile devices—We can now collect, track and analyze data wherever and whenever consumers go.
+Most traditional approaches segregate data integration and data management as two separate endeavors,despite their interdependency.
+And, most integration efforts focus on applications—making disparate software work together—leaving data integration as somewhat of an afterthought, often resulting in even more siloed, dirty or duplicated data.
+A single, unified platform that eliminates the piecemeal approach and simplifies integration and data management.
+
+Other Blogs by Manish Gupta: https://dataconomy.com/author/manishgupta/

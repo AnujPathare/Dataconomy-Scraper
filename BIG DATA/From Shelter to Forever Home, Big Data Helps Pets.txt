@@ -1,0 +1,44 @@
+Title: From Shelter to Forever Home, Big Data Helps Pets
+
+Article Link: https://dataconomy.com/2016/07/22/from-shelter-to-forever-home-big-data-helps-pets/
+
+Author: Hannah Augur
+
+Publish Date: 2016-07-22
+
+Article:
+When it comes to pets, there’s almost nothing an owner wouldn’t do. Many people have a certain soft spot for cats and dogs, and it’s no surprise that organizations and individuals alike are looking to utilize big data to make pets’ lives better.
+
+Data’s greatest use may be in adoption efforts and shelters. Shelters often go with very little funding and must operate as a shrewd business to stay afloat. They not only look after the animals in their kennels, but the animals still on the streets or in at-risk homes. There is a desperate need to reduce the intake of animals and that can be achieved through a variety of approaches.
+
+The first step is to understand where homeless animals are coming from. This is being done with big data by mapping where and when animals are often abandoned. Compiling a list of exact locations allows workers to prioritize efforts. As with any business, hard data can also be used to effect change or acquire proper funding. Many programs are publicly funded, meaning finances can be tight and hard to get a hold of. Much like startups appealing to investors, the ability to quantitatively express how much change can be affected by a new initiative is key to securing funding.
+
+Enacting that change is also more effective with data. Neighborhoods and areas identified as abandonment hotspots could benefit from more preventative efforts. They could be ideal places to enact new spay/neuter programs and opportunities. Some areas may benefit from low-cost veterinary options that would reduce the stressors that eventually force owners to give their pets up. For those in low-income areas, more extreme measures like looking at housing costs and overall financial problems could lead to a better understanding of what’s causing trouble and how to change it. Data also leads directly to information on abuse patterns and could help law enforcement agencies or shelters determine high-risk areas and factors as well as pinpoint common signs.
+
+The key characteristic of data is the ability to create efficiency. For cash-strapped shelters and programs, funding and labor can be hard to procure. It’s paramount that every decision be carefully informed by good information. Poorly executed plans have a very real effect and mean more cats and dogs will end up in shelters, often with a pessimistic outlook.
+
+However, for those animals in shelters, data can continue to play a big role. Profiling shelter animals as well as possible adopters could lead to more happy homes and less time in the shelter. Infomercials and ad campaigns already exist to get ordinary folks interested, yet a number of animals remain unadopted. By using the advertising- and marketing-power of big data, animal adoption could become a more effective and even streamlined process. For those who might be interested, making animal data more accessible could prove key to turning maybe-adopters into pet owners.
+
+Household Pets Need Data, Too
+
+The importance of data doesn’t end at the shelter, but continues into the forever home. Is it any surprise that humans love outfitting their pets with wearables and trackers? The only thing more exciting than the quantifiable self is the quantifiable pet. Owners can see where pets go and finally answer the elusive question: what does my pet even do all day?
+
+It can also help owners fight pet obesity, which is becoming an ever increasing trend. Given that few owners actively weigh their pets, determining whether or not a pet is really overweight can prove a lot harder than expected. Even worse is figuring out what to do about an overweight pet. Surveys have found that some 50% of pet cats and dogs in the U.S. are now overweight or obese. Startups are looking to make pets healthier using not just low-calorie pet foods but their data. Modern pet food makers are particularly fragmented, making pet food databases crucial to startups’ efforts.
+
+Never before has there been such a need to compile such information and make it readily scannable. Algorithms can be used to find the perfect, customized pet diet. Though it may be easy to throw down bowls of puppy chow, it can be surprisingly difficult to care for pets who overeat, stress eat, or don’t go outside. Pets can be great actors and convince owners they’re starving even when they just ate. Knowing exactly how much, when, and what to feed pets could do a world of good for a generation of overweight pets.
+
+Some more high-tech startups are going so far as to create wearables specifically for pets. Just like human wearables, they can count calories and measure activity levels. Since pets can’t communicate how they’re doing, technology could be a great intermediary and translate pet’s daily movements into information owners can use. Much like ordinary doctors, veterinarians would also benefit from real data. Being able to see exactly how a pet is behaving, how much they’re moving or eating could lead to immediate insights on how to help a pet get healthier. Moreover, data means having proof. While it can be hard for owners to see what’s going on in their pets’ lives, vets can point to exact numbers and patterns to show how the animal could be doing better.
+
+Such wearables can even go further and track vital signs that could indicate other illnesses. The most valuable pet accessories can utilize machine learning get to know its wearer and recognize when something unusual is going on. If a pet’s heart or respiratory rate is abnormal, wearables could help owners and vets recognize the problem much sooner, making animal’s lives better and saving owners’ wallets from rapidly depleting.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: However, for those animals in shelters, data can continue to play a big role.
+For those who might be interested, making animal data more accessible could prove key to turning maybe-adopters into pet owners.
+Household Pets Need Data, TooThe importance of data doesn’t end at the shelter, but continues into the forever home.
+Knowing exactly how much, when, and what to feed pets could do a world of good for a generation of overweight pets.
+Since pets can’t communicate how they’re doing, technology could be a great intermediary and translate pet’s daily movements into information owners can use.
+
+Other Blogs by Hannah Augur: https://dataconomy.com/author/hannah-augur/

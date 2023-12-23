@@ -1,0 +1,62 @@
+Title: IBM acquires Databand to boost data observability
+
+Article Link: https://dataconomy.com/2022/07/13/ibm-databand-data-observability/
+
+Author: Kerem Gülen
+
+Publish Date: 2022-07-13
+
+Article:
+On Wednesday, IBM added the data observability company Databand to its data fabric platform. The deal’s financial details weren’t made public.
+
+In order to develop its data observability technology, Tel Aviv, Israel-based Databand, founded in 2018, had raised $14.5 million in funding. This technology gives organizations visibility and monitoring for data pipelines that can be used for machine learning training, data analytics, and business intelligence.
+
+Data observability is a highly competitive business
+
+After acquiring application observability company Instana in November 2020, Databand, formerly known as Databand.ai, is the second observability vendor that IBM has purchased in as many years.
+
+Data observability is a highly competitive business, with many providers vying for market share. According to Paige Bartley, an analyst at S&P Global Market Intelligence’s 451 Research, there is a rising need for data observability. Enterprises require more data observability solutions to preserve access to quality data when data is utilized by less technical personnel more often.
+
+Data observability is a highly competitive business, with many providers vying for market share.
+
+“While periodic, cyclical clean-up efforts for individual data sets will still remain necessary in certain cases, data observability efforts offer a more preventative and real-time approach to data pipeline maintenance, helping ensure a steady flow of high-integrity data through the organization,” explained Bartley.
+
+Data dependability and data quality assurance applications are most frequently directly related to data observability technologies nowadays. According to Bartley, data observability technology still has capacity to develop and become more frequently utilized for other important business goals, such reducing the cost of data systems and better allocating cloud resources.
+
+Data observability technology still has capacity to develop and become more frequently utilized.
+
+“Our clients are data-driven enterprises who rely on high-quality, trustworthy data to power their mission-critical processes. When they don’t have access to the data they need in any given moment, their business can grind to a halt. With the addition of Databand.ai, IBM offers the most comprehensive set of observability capabilities for IT across applications, data and machine learning, and is continuing to provide our clients and partners with the technology they need to deliver trustworthy data and AI at scale,” explained Daniel Hernandez, General Manager for Data and AI at IBM.
+
+Why data observability is necessary for IBM’s data fabric?
+
+Databand will be compatible with IBM’s data fabric platform, which enables businesses to manage and use data for analytics, business intelligence, and machine learning.
+
+According to Michael Gilfix, vice president of product management for data at IBM, the data fabric enables businesses to link data consumers to the data’s locations, whether they are on-premises or in the cloud.
+
+Typically, a data pipeline that pulls data from many sources powers a BI dashboard.
+
+Making ensuring a BI dashboard is correct and up to date is one example of a common application that Databand will now make available to IBM consumers.
+
+Typically, a data pipeline that pulls data from many sources powers a BI dashboard. The data might be erroneous or there may have been a problem in the pipeline, which the Databand technology can identify. Databand notifies users of errors and identifies their causes so they can be fixed.
+
+The confluence of data observability and quality
+
+The IBM Watson Knowledge Catalog is already a part of the IBM data fabric and offers data governance and data catalog features to help customers find and use data for data analytics or machine learning training.
+
+Organizations may define guidelines for how data should be utilized using the Watson Knowledge Catalog, which also offers tools for enforcing those guidelines. Gilfix asserts that the data fabric’s technology and the data catalog’s combination will result in higher-quality data.
+
+Data observability is going to help people trust that the data that comes from different parts of the organization is reliable.
+
+Data generation through the pipeline may be seen thanks to Databand technology. According to Gilfix, businesses’ ability to classify and use data of higher quality as a result of having visibility into the data creation process.
+
+“Data observability is going to help people trust that the data that comes from different parts of the organization is reliable,” explained Gilfix.
+
+Data is too valuable to backup traditionally, that is why firms are joining forces to both protect their data and manage it better. Also the regulations are changing as the technology advances, for instance, UK eases restrictions on data mining laws to facilitate AI industry growth.
+
+Summary: On Wednesday, IBM added the data observability company Databand to its data fabric platform.
+Enterprises require more data observability solutions to preserve access to quality data when data is utilized by less technical personnel more often.
+Data dependability and data quality assurance applications are most frequently directly related to data observability technologies nowadays.
+Why data observability is necessary for IBM’s data fabric?
+The confluence of data observability and qualityThe IBM Watson Knowledge Catalog is already a part of the IBM data fabric and offers data governance and data catalog features to help customers find and use data for data analytics or machine learning training.
+
+Other Blogs by Kerem Gülen: https://dataconomy.com/author/kerem-gulen/

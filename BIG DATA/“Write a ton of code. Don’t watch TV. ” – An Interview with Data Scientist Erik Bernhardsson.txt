@@ -1,0 +1,68 @@
+Title: “Write a ton of code. Don’t watch TV. ” – An Interview with Data Scientist Erik Bernhardsson
+
+Article Link: https://dataconomy.com/2015/11/09/write-a-ton-of-code-dont-watch-tv-an-interview-with-data-scientist-erik-bernhardsson/
+
+Author: Peadar Coyle
+
+Publish Date: 2015-11-09
+
+Article:
+Erik likes to work with smart people and deliver great software. After 5+ years at Spotify, he recently left for new and exciting startup in NYC where he is leading the engineering team.
+
+At Spotify, Erik built up and lead the team responsible for music recommendations and machine learning. They designed and built many large scale machine learning algorithms we use to power the recommendation features: the radio feature, the “Discover”​ page, “Related Artists”​, and much more. He also authored Luigi, which is a workflow manager in Python with 3,000+ stars on Github – used by Foursquare, Quora, Stripe, Asana, and more.
+
+Follow Peadar’s series of interviews with data scientists here.
+
+What project have you worked on do you wish you could go back to, and do better?
+
+Like… everything I ever built. But I think that’s part of the learning experience. Especially working with real users, you never know what’s going to happen. There’s no clear problem formulation, no clear loss function, lots of various data sets to use. Of course you’re going to waste too much time doing something that turns out to nothing. But research is that way. Learning stuff is what matters and kind of by definition you have to do stupid shit before you learned it. Sorry for a super unclear answer 🙂
+
+The main thing I did wrong for many years was I built all this cool stuff but never really made it into prototypes that other people could play around with. So I learned something very useful about communication and promoting your ideas.
+
+What advice do you have to younger analytics professionals and in particular PhD students in the Sciences?
+
+Write a ton of code. Don’t watch TV. 🙂
+
+[bctt tweet=”Write a ton of code. Don’t watch TV. :)”]
+
+I really think showcasing cool stuff on Github and helping out other projects is a great way to learn and also to demonstrate market validation of your code.
+
+Seriously, I think everyone can kick ass at almost anything as long as you spend a ridiculous amount of time on it. As long as you’re motivated by something, use that by focusing on something 80% of your time being awake.
+
+I think people generally get motivated by coming up with various proxies for success. So be very careful about choosing the right proxies. I think people in academia often validate themselves in terms of things people in the industry don’t care about and things that doesn’t necessarily correlate with a successful career. It’s easy to fall down into a rabbit hole and become extremely good at say deep learning (or anything), but at a company that means you’re just some expert that will have a hard time getting impact beyond your field. Looking back on my own situation I should have spent a lot more time figuring out how to get other people excited about my ideas instead of perfecting ML algorithms (maybe similar to last question).
+
+What do you wish you knew earlier about being a data scientist?
+
+I don’t consider myself a data scientist so not sure 🙂
+
+There’s a lot of definitions floating around about what a data scientist does. I have had this theory for a long time but just ran into this blog post the other day. I think it summarizes my own impression pretty well. There’s two camps, one is the “business insights” side, one is the “production ML engineer” side. I managed teams at Spotify on both sides. It’s very different.
+
+If you want to understand the business and generate actionable insights, then in my experience you need pretty much no knowledge of statistics and machine learning. It seems like people think with ML you can generate these super interesting insights about a business but in my experience it’s very rare. Sometimes we had people coming in writing a master’s thesis about churn prediction and you can get a really high AUC but it’s almost impossible to use that model for anything. So it really just boils down to doing lots of highly informed A/B tests. And above all, having deep empathy for user behavior. What I mean is you really need to understand how your users think in order to generate hypotheses to test.
+
+For the other camp, in my experience understanding backend development is super important. I’ve seen companies where there’s a “ML research team” and a “implementation team” and there’s a “throw it over the fence” attitude, but it doesn’t work. Iteration cycles get 100x larger and incentives just get misaligned. So I think for anyone who wants to build cool ML algos, they should also learn backend and data engineering.
+
+How do you respond when you hear the phrase ‘big data’?
+
+Love it. Seriously, there’s this weird anti-trend of people bashing big data. I throw up every time I see another tweet like “You can get a machine with 1TB of ram for $xyz. You don’t have big data”. I almost definitely had big data at Spotify. We trained models with 10B parameters on 10TB data sets all the time. There is a lot of those problems in the industry for sure. Unfortunately sampling doesn’t always work.
+
+The other thing I think those people get wrong is the production aspect of it. Things like Hadoop forces your computation into fungible units that means you don’t have to worry about computers breaking down. It might be 10x slower than if you had specialized hardware, but that’s fine because you can have 100 teams running 10000 daily jobs and things rarely crash – especially if you use Luigi. 🙂
+
+But I’m sure there’s a fair amount of snake oil Hadoop consultants who convince innocent teams they need it.
+
+The other part of “big data” is that it’s at the far right of the hype cycle. Have you been to a Hadoop conference? It’s full of people in oversized suits talking about compliance now. At some point we’ll see deep learning or flux architecture or whatever going down the same route.
+
+How do you go about framing a data problem – in particular, how do you avoid spending too long, how do you manage expectations etc. How do you know what is good enough?
+
+Ideally you can iterate on it with real users and see what the impact is. If not, you need to introduce some proxy metrics. That’s a whole art form in itself.
+
+It’s good enough when the opportunity cost outweighs the benefit 🙂 I.e. the marginal return of time invested is lower than for something else. I think it’s good to keep a backlog full of 100s of ideas so that you can prioritize based on expected ROI at any time. I don’t know if that’s a helpful answer but prioritization is probably the hardest problem to solve and it really just boils down to having some rules of thumb.
+
+(image credit: Jer Thorp, CC2.0)
+
+Summary: :)”]I really think showcasing cool stuff on Github and helping out other projects is a great way to learn and also to demonstrate market validation of your code.
+I don’t consider myself a data scientist so not sure 🙂There’s a lot of definitions floating around about what a data scientist does.
+How do you respond when you hear the phrase ‘big data’?
+You don’t have big data”.
+The other part of “big data” is that it’s at the far right of the hype cycle.
+
+Other Blogs by Peadar Coyle: https://dataconomy.com/author/pcoyle/

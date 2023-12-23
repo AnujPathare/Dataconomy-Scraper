@@ -1,0 +1,44 @@
+Title: Wells Fargo Open Big Data Lab
+
+Article Link: https://dataconomy.com/2014/06/12/wells-fargo-open-big-data-lab/
+
+Author: Artur Lapinsch
+
+Publish Date: 2014-06-12
+
+Article:
+Jim Smith, Executive VP and Head of the digital channels group at Wells Fargo, has been discussing recent innovations within the company. Among these innovations is the establishing of Big Data lab, which will augment customer experience, help to identify and prevent fraud, and garner insights about who’s using their technologies.
+
+“The technology and pace of change has increased in those 20 years, yet there’s so much more that can be done with mobile and all the information we have available to us now. I feel like we’re just at the start of this journey of transforming how people manage their finances,” Smith says.
+
+Wells Fargo’s recent transformations include:
+
+Launching a service which allows check deposits to be paid through smartphones, which currently has 1.5 million users
+
+Introduced the SurePay service, which allows face-to-face transactions to be carried out throuhg mobile devices using emails/phone numbers
+
+Launched the Wells Fargo app on iPads and Android tablets; there were 200,000 downloads of the iPad app two weeks after the launch, and over 1,000,000 subsequent downloads
+
+Continuing to work on its mobile banking features; over half of Wells Fargo’s 23 million active online banking customers now use the mobile banking service
+
+Looking ahead, it is mobile capabilities that intrigue Smith most. “The areas we think are really interesting in the next five years relate to mobile,” he stated. “So far, most companies have just taken capabilities they had in online banking and other channels and rebuilt them into mobile.” With the continuing rise of mobile technology, functions such as loan applications and opening new accounts could be done entirely over mobile in the coming years.
+
+Read more here.
+
+(Image credit: Paul Falardeau)
+
+Follow @DataconomyMedia
+
+
+
+Interested in more content like this? Sign up to our newsletter, and you wont miss a thing!
+
+[mc4wp_form]
+
+Summary: Jim Smith, Executive VP and Head of the digital channels group at Wells Fargo, has been discussing recent innovations within the company.
+Among these innovations is the establishing of Big Data lab, which will augment customer experience, help to identify and prevent fraud, and garner insights about who’s using their technologies.
+I feel like we’re just at the start of this journey of transforming how people manage their finances,” Smith says.
+“The areas we think are really interesting in the next five years relate to mobile,” he stated.
+Sign up to our newsletter, and you wont miss a thing!
+
+Other Blogs by Artur Lapinsch: https://dataconomy.com/author/artur-lapinsch/

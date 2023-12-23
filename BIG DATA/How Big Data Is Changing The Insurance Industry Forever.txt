@@ -1,0 +1,58 @@
+Title: How Big Data Is Changing The Insurance Industry Forever
+
+Article Link: https://dataconomy.com/2014/11/13/how-big-data-is-changing-the-insurance-industry-forever/
+
+Author: Bernard Marr
+
+Publish Date: 2014-11-13
+
+Article:
+If you’re a young, male driver, or you have one in your family, you are no doubt aware of the astronomical price of car insurance.
+
+This is obviously because drivers in this category are involved in a higher number of accidents, so it seems fair that they pay more to be on the road, right?
+
+But what about those young, male drivers who are perfectly safe, and never cause a single accident? Isn’t it unfair that they are lumped in with the unsafe ones? It almost seems like a form of discrimination.
+
+Big data analysis offers the chance to correct that unfairness. By giving insurers a better indication of which drivers are likely to claim, safer motorists can be rewarded with lower premiums – regardless of their age or gender.
+
+Insurers such as Progressive in the US and Prudential in the UK are now pushing for wider acceptance of “telematics” devices, which feed back real-time data on a driver’s behaviour. So young drivers who can demonstrate that they keep within speed limits and do not brake suddenly too often, can pay less.
+
+Progressive say they have already collected a trillion seconds of driving data, by monitoring 1.6 million of their customers, and that this data is being used to build a picture of how people drive in general – which individual driving behaviour can be compared against.
+
+One startup – MetroMile – offers “pay as you go” insurance, where drivers pay by the mile. A device fitted to the car tracks the mileage and customers are billed monthly according to how far they have driven. The company claims that this saves low-mileage drivers an average of $500 a year.
+
+And it isn’t just our cars that insurance companies want to attach sensors to – health insurers are increasingly looking at ways they can monitor our lifestyle and activity levels to determine how likely we are, or will be in the future, to make expensive medical claims. Oscar is a health insurer currently only available to New York residents which claims to be built on big data from the ground up – and goes further by making much of that information available to their customers through their apps and web interfaces, who can get real-time information on which doctors and medicines are available to them in their area.
+
+Household insurance providers are learning to make better predictions about, for example, crime or flood risk. In fact a recent survey by Ordnance Survey and the UK Chartered Institute of Loss Adjusters found that, of 242 underwriters questioned, 82% thought they had to capture and analyze big data to remain competitive.
+
+It’s another example of companies effectively paying us (well, reducing our expenses) for our personal data (as long as it is showing a positive impact). Of course this example relies on a customer volunteering to share information about their life in order to pay lower premiums. People often feel protective of their personal data (and rightly so!) – but they like saving money too – and it seems that these days, people are getting used to the idea of trading personal data for financial incentives.
+
+But what if we don’t agree to those terms? Well, insurers will probably find a way to use our personal data anyway! In 2011 a report by Celent found that social media is “the first place” fraud investigators look to when setting out on a case – “We look not only at the claimant, but their family, friends and the companies they follow”, one unnamed insurer is quoted as saying.
+
+The obvious danger here is that it can lead to ridiculous situations – such as when a woman unable to work due to depression had her insurance payouts stopped when her insurers found a picture of her on Facebook, smiling.
+
+We might feel safe if we have our privacy settings under control, but there is always the risk of other people. A friend could easily share something which might seem trivial to them, but could be of great interest to insurers delving into our lifestyles to make sure everything matches up with what we put on our application forms.
+
+But in theory, customers will ultimately benefit from an increase in insurers’ ability to detect fraud – after all, according to the Insurance Research Council, the cost of fraud in the industry adds 13% to 18% onto the average motorist’s premiums.
+
+Ultimately, big data in insurance will mean insurers combining the data already available to them which they have been using for decades – such as the Comprehensive Loss Underwriting Exchange (CLUE) and the Motor Vehicle Record databases with emerging streams of data such as telematics and social media, to build up a more accurate picture of who we are, and how safe a bet they are placing by offering us insurance.
+
+Will it get to the point where health insurers are calling customers up to question why they seem to post an awful lot of pictures of themselves drinking with their friends in bars or restaurants when they stated on their applications they are very infrequent imbibers of alcohol? Whether we like it or not, it seems very likely that it will. The good news is that it should lead to fairer premiums for everyone.
+
+What’s your view on big data in the insurance world? Please share it in the comments below…
+
+Follow @DataconomyMedia
+
+
+
+Bernard Marr is a global enterprise performance expert and a best-selling business author. He has worked with and advised many of the world’s best-known organisations including Accenture, Astra Zeneca, Bank of England, Barclays, BP, DHL, Fujitsu, Gartner, HSBC, Mars, Ministry of Defence, Microsoft, Oracle, SAP and Shell, among many others. His leading-edge work with major companies, organisations and governments across the globe makes him an acclaimed and award-winning keynote speaker, researcher, consultant and teacher. Bernard is acknowledged by the CEO Journal as one of today’s leading business brains.
+
+(Image Credit: Mademoiselle -M-)
+
+Summary: Big data analysis offers the chance to correct that unfairness.
+One startup – MetroMile – offers “pay as you go” insurance, where drivers pay by the mile.
+People often feel protective of their personal data (and rightly so!)
+– but they like saving money too – and it seems that these days, people are getting used to the idea of trading personal data for financial incentives.
+What’s your view on big data in the insurance world?
+
+Other Blogs by Bernard Marr: https://dataconomy.com/author/bernard-marr/

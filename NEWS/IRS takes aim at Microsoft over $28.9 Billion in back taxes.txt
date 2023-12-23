@@ -1,0 +1,42 @@
+Title: IRS takes aim at Microsoft over $28.9 Billion in back taxes
+
+Article Link: https://dataconomy.com/2023/10/12/irs-takes-aim-at-microsoft-over-28-9-billion-in-back-taxes/
+
+Author: Onur Demirkol
+
+Publish Date: 2023-10-12
+
+Article:
+The Internal Revenue Service (IRS) has targeted Microsoft, claiming that the tech giant owes $28.9 billion in past taxes, as well as penalties and interest. These allegations cover the tax years 2004 through 2013, and they were made public through an SEC filing. This development has sparked debate in the technology and business sectors.
+
+We’ll break down the matter as it evolves, from Microsoft’s response to the possible ramifications for both the corporation and the IRS.
+
+Microsoft’s tax transformation
+
+Microsoft’s corporate VP for worldwide tax and customs, Daniel Goff, responded to the IRS audit results in a blog post. Goff explicitly concedes the IRS’s assertions, but contends that Microsoft’s business structure and financial procedures have changed significantly during the years under review. Goff said, “The IRS’s concerns are tied to the past and not reflective of our current practices.” This remark is essential to Microsoft’s stance in response to the IRS.
+
+Microsoft secures your place in the world of business
+
+The IRS’s proposed modifications, according to Goff, do not take into account the considerable sums Microsoft paid under the Tax Cuts and Jobs Act. Goff claims that these improvements might result in a $10 billion reduction in the final tax bill. Microsoft also disagrees with the IRS’s position on how it divides earnings globally, employing a practice known as cost-sharing through transfer pricing agreements. This strategy is critical to Microsoft’s economic model, and the corporation is vehemently opposed to the IRS’s “suggested changes.”
+
+Microsoft disagrees with IRS
+
+Microsoft made an official statement about the matter and told the story from its perspective, obviously disagreeing with the IRS on the matter.
+
+“The IRS says Microsoft owes an additional $28.9 billion in tax for 2004 to 2013, plus penalties and interest. The IRS’s proposed adjustments do not represent a final determination. Not reflected in the proposed adjustments are taxes paid by Microsoft under the Tax Cuts and Jobs Act (TCJA), which could decrease the final tax owed under the audit by up to $10 billion. Microsoft disagrees with these proposed adjustments and will pursue an appeal within the IRS, a process expected to take several years. We believe we have always followed the IRS’ rules and paid the taxes we owe in the U.S. and around the world. Microsoft historically has been one of the top U.S. corporate income taxpayers. Since 2004, we have paid over $67 billion in taxes to the U.S.,” Microsoft said in an official statement.
+
+Are you eligible for the Tesla Model 3 tax credit?
+
+Despite these disagreements, Microsoft is adopting a firm stance, stating its intention to “vigorously contest” the IRS’s claims. This issue is likewise expected to take a long time to resolve, according to the firm. In a related court triumph, Microsoft recently defeated the Federal Trade Commission’s (FTC) efforts to get a preliminary injunction against Microsoft’s $68.7 billion acquisition of Activision Blizzard. This transaction is slated to close on October 13th, adding to Microsoft’s corporate landscape.
+
+With the stage set, let’s go deeper into the complexities of the IRS-Microsoft feud and its possible ramifications for the IT industry and the broader financial sphere.
+
+Featured image credit: Olga DeLawrence/Unsplash
+
+Summary: The Internal Revenue Service (IRS) has targeted Microsoft, claiming that the tech giant owes $28.9 billion in past taxes, as well as penalties and interest.
+Microsoft’s tax transformationMicrosoft’s corporate VP for worldwide tax and customs, Daniel Goff, responded to the IRS audit results in a blog post.
+“The IRS says Microsoft owes an additional $28.9 billion in tax for 2004 to 2013, plus penalties and interest.
+We believe we have always followed the IRS’ rules and paid the taxes we owe in the U.S. and around the world.
+Since 2004, we have paid over $67 billion in taxes to the U.S.,” Microsoft said in an official statement.
+
+Other Blogs by Onur Demirkol: https://dataconomy.com/author/onurdemirkol/

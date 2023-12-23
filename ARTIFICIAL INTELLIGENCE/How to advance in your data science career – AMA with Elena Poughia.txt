@@ -1,0 +1,100 @@
+Title: How to advance in your data science career – AMA with Elena Poughia
+
+Article Link: https://dataconomy.com/2020/03/26/how-to-advance-in-your-data-science-career-ama-with-elena-poughia/
+
+Author: Kim Deen
+
+Publish Date: 2020-03-26
+
+Article:
+On March 18th at 6 PM CET, Elena Poughia, Data Natives’ CEO and curator shared her tips on how advance in your data science career during a live Ask Me Anything Session available via DN Club. Here is the recap of the AMA session with selected Q&As.
+
+In January we started our online community club: datanatives.club. The timing couldn’t be more right. Throughout our self-quarantines, because of COVID-19, it is important to stay connected. Luckily you have 78.000+ fellow Data Natives lovers out there to online mingle with.
+
+We also want to give you the opportunity these weeks at home to refresh your brain with new ideas and knowledge. One of those ways is through ‘Ask me Anything’ sessions, where you can ask all the questions you ever had about how to advance your career in Data Science. Because this might just be the right time for you to step back and think about the future.
+
+During the first AMA online session, we talked with our founder & CEO Elena Poughia. Running a popular data brand for the past years, managing a diverse tech team and being as connected as she is, she is just the right data boss to get inspired by. You asked a lot of questions via the Typeform, as well as in the chat during the session.
+
+If you missed the session, here is a summary of some of the most insightful questions and answers:
+
+What resources and training routine do you recommend for interviews in data science, especially with the large tech companies?
+
+Before you even start to search for a role, it’s important to know which data science path is right for you – analytics, engineering, or machine learning? It will vary what questions you’ll be asked, because it will be specific to your chosen field.
+
+But despite differences in the type, there will always be a similar interview loop. For example, they will ask you what kind of programming languages you are familiar with. Python, R, are the most popular ones in the data science space. C/C++, Java and Scala are common too.
+
+What other technicalities do I need to prepare?
+
+Big Data technologies are a little hard to follow, considering new tools are developing the time. However, we would recommend learning Spark, because it is very common.
+
+Of course, you need to prepare for questions around data analysis, data collection, data cleaning, and feature engineering. I would also like to highlight that it is important for you to think about machine learning models. For example, what kind of models you can train – supervised, or unsupervised.
+
+Find at the end of this article a list of resources we recommend for you to practice.
+
+How can I best present myself?
+
+When you are applying, think about how interested you are in the company and in the role. You need to proactively show that you are interested in the project that you will be building together. You need to show that you really want to be working with that team. The bottom line – it’s also about the culture of the company.
+
+Right now, many of us are working remotely – connecting becomes more important because of that. You want to get the feeling that you are being seen, understood and supported by the company because you will get into many situations where good communication is the key. Working remotely is only possible when both sides provide enough information, so there is an understanding of what everyone is working on. In this way, it will feel good to participate and build that project together.
+
+Another thing to think about: how well does your skill set match the job requirements? You also shouldn’t back off when the job ad doesn’t exactly match your profile – you can grow into the position. But when you read the job ad, you do need to get the feeling that it’s you there are looking for. And you should feel close to the topic. Again, it’s important for you and for them to get a good fit when it comes to company culture.
+
+To advance in the data science career, what is better to improve? Statistics skills or programming & developing skills?
+
+What skills you need to improve really depends on your career goals and your general interests. Therefore, it’s hard to say whether you need to develop programming or statistical skills.
+
+I would say one advantage of being in Data Science, is that it’s such a new field, it’s always changing and improving. A lot of Data Scientists who started working didn’t consider themselves as such, because the title wasn’t available back then to describe the profession. Eventually, a lot of resources and tools become available as you go.
+
+Programming is important in landing the first job, so you do need to be able to program. There are also easy programming languages to start with. A popular program is Python, it’s quite common in the data science space.
+
+But you don’t need to put a lot of pressure, you can always become more skilled and experienced in broader topics and skillsets. I would really emphasize here that this is life-long learning on the job. Especially now that we are all more home, this is an opportunity for you to advance your career and learn new things.
+
+How can I gain experience?
+
+Some people say that two years is the maximum you should spend focusing on your studies and training, but you can also enter the workforce before that. If you are switching careers, don’t take too long to educate yourself, but jump in and use the knowledge you gained in your previous background.
+
+It would be best to reserve at least half of the week to develop your skills. Right now, I would say take online courses that focus on the skills you want to learn. You can also do courses that are not related to data science. It can also be a programming course in a relevant language, for example. It will be good to educate yourself on data science through sources like Data Science Central and Dataconomy.
+
+Also, at Data Natives we organize projects where you can gain experience. Recently we organized a #HackCorona Hackathon, where we scouted 23 digital solutions to challenges in the coronavirus crisis. Keep an eye on our channels for more!
+
+What about connections, how important is it to network?
+
+It is good to be connected as much as possible to a community. For example, there are a lot of Python data communities around the world that you can be connected to. Try to meet like-minded people, so you can exchange resources. Essentially your network will be the way to advance your career and these communities will help you with problems you encounter.
+
+I’m in the process of wrapping up my master’s in mathematics. Should I wait to finish or apply?
+
+No, don’t wait, go for it now! Don’t even think about it. Go and apply as much as you can. When you apply you can say that you are still enrolled as a student. In fact, I don’t know where you are based, but in Germany, if you are a student, you start as a working student (Werkstudent) and that’s a really good way to enter the job market. It’s like an internship, but you get paid. Then in many cases, you get hired full time after you finish your studies. This is actually one of the best ways to get a job.
+
+What is your background, Elena?
+
+Well, that’s the funny thing. My background is in economics and arts, so very different. But I fell in love with data science five years ago, because I think it’s such an enriching and multifaceted field and it really helps us to advance research.
+
+Right now, having this online session together, so many terabytes of data are processed. This I find very fascinating. I really want to support data scientists and hence, we are doing these online sessions. We want to answer all your questions, so you can advance your career. If we can help you find the right path for you and give you the right resources to reach your goals, our mission is accomplished!
+
+That was it, dear Data Natives. We’ll come soon with a new AMA session, with some of the most interesting data scientists out there.
+
+Finally, some resources we recommend for you:
+
+–Glassdoor to assess companies offering jobs in data.
+
+–Leetcode to practice SQL questions
+
+–Data Science Interview – free collection of data science interview questions and answers.
+
+–The DS interview for real interview questions.
+
+–Dataquest sources for key concepts and to quiz yourself on everything from Python to SQL, to Machine Learning.
+
+–Acing AI Interviews for articles with data science interview questions from big companies.
+
+–HackerRank for coding challenges you can work through.
+
+–Codewars to test your skills.
+
+Summary: On March 18th at 6 PM CET, Elena Poughia, Data Natives’ CEO and curator shared her tips on how advance in your data science career during a live Ask Me Anything Session available via DN Club.
+Of course, you need to prepare for questions around data analysis, data collection, data cleaning, and feature engineering.
+To advance in the data science career, what is better to improve?
+It will be good to educate yourself on data science through sources like Data Science Central and Dataconomy.
+–Leetcode to practice SQL questions–Data Science Interview – free collection of data science interview questions and answers.
+
+Other Blogs by Kim Deen: https://dataconomy.com/author/kim-deen/

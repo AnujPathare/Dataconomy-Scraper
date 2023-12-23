@@ -1,0 +1,56 @@
+Title: “A great deal of tech challenges in our industry are ultimately challenges in understanding people.”-Interview with Quantcast’s Peter Sirota
+
+Article Link: https://dataconomy.com/2016/04/08/great-deal-tech-challenges-industry-ultimately-challenges-understanding-people-interview-quantcasts-peter-sirota/
+
+Author: Darya Niknamian
+
+Publish Date: 2016-04-08
+
+Article:
+
+
+As Senior Vice President of Engineering, Peter Sirota is responsible for scaling engineering and managing, organizing and utilizing Quantcast’s tremendous understanding of real-time consumer behavior.
+
+
+
+What is the impact of big data and how is it being used to identify patterns and trends especially now with media and publishers becoming active members in the industry?
+
+Big data impacts all aspects of the media and digital advertising industries — from marketing, strategy and creative, to editorial calendars and more. With so much information available, data and machine learning are being used daily to better understand human behavior and unlock actionable insights for brands and publishers. Those insights are not necessarily advertising specific, analyzing patterns in Big Data can help publishers and marketers build better and more relevant products for their customers.
+
+How can marketers and publishers target their audiences and customers using data?
+
+Today, marketers and publishers can understand their audience like never before. At the heart of any business is the customer. Using data and advanced modeling techniques, we can now create personalized experiences for consumers, reaching them online at critical moments within their decision-making process. There are two parts to understanding and targeting your customers. First, you need to understand their interests. This can be done by analyzing massive amounts of data where you can understand user behavior across millions of sites. Second, you need to understand the context in which a particular request is made in real-time. Details such as time of day, location, and sequence of sites that a customer visited before coming to your site could provide critical insights about timeliness of your message.
+
+What transferrable skills did you learn as GM of Amazon Elastic MapReduce that you have been able to apply to your role as SVP of Engineering at Quantcast?
+
+At Amazon we built highly scalable, durable and easy to use Big Data services. They are currently used by tens of thousands of customers including consumer brands such as Netflix or Unilever, financial regulators such as FINRA, and ad tech customers such as AdRoll and others.Building these services at scale and working with these customers taught me the importance of collection, storage, analysis and sharing of Big Data regardless of business size or type. Coming to Quantcast, the experience I gained at Amazon sure comes in handy. Quantcast operates at a Big Data scale so it’s like building a massive service all over again. Quantcast is a very customer centric company and working with customers, understanding their needs, and delivering solutions that are effective and easy to use is as relevant at Quantcast as it was at Amazon.
+
+What kind of interesting and unique data have you seen recently?
+
+Some of the interesting datasets I’ve recently seen include data from Tivo that provides panel data on media interest. Another example is data from V12 that provide shopping interest data. It’s interesting to scale that data across publishers to see things like what type of car folks prefer who read The Economist.
+
+What kinds of tech challenges are you looking to solve at scale?
+
+A great deal of tech challenges in our industry are ultimately challenges in understanding people. Understanding human behavior in the digital world is at the heart of what we do at Quantcast and through our proprietary data and modeling techniques, we’re tackling the challenge of understanding people, at scale. For example, we recently developed a new product called Audience Grid which allows us to work closely with data partners from across the industry to help paint a picture of what consumer’s online and offline behaviors are. To help provide these insights and integrate different data into the fine grained signal we already receive from 100 million destinations we need to build up massively scalable and reliable systems.
+
+What do you think the future of AdTech looks like?
+
+The AdTech industry has a couple of unique characteristics. First, unlike many other industries, AdTech accumulates tremendous amounts of human behavioral data. Second, any incremental improvement in analytics or modeling of that data has a direct impact on the performance of marketing campaigns and hence the revenue of the AdTech companies. Those two characteristics fuel the substantial innovation in data modeling and distributed system development that is transforming digital advertising. Over time, AdTech will make any advertising a more precise science instead of the intuitive, hard to measure art that largely exists today. This in turn will help make ads more relevant to consumers which could shrink the overall amount of ads we see in any medium across any device.
+
+We face a lot of challenges along the way as the industry goes through this transformation. There is a lot of bot and other fraud going on as well as brand safety issues. Great AdTech companies invest heavily in addressing those issues. It will always be a game of cat and mouse but over time the impact of those issues will be negligible. There are also a lot of issues with attribution fraud, where last touch attribution of credit is incentivizing the wrong behaviors in AdTech companies. Marketers will become a lot more sophisticated in evaluating performance of AdTech companies and companies that drive pure net incrementality are going to win.
+
+Finally, successful AdTech companies will help their customers not only run performance and brand advertising campaigns but also help customers understand their consumers better. Many of our customers value our performance as much as the insights that we are able to generate explaining to them who likes their products, how consumers react to them and why. This partnership will be fundamental between successful AdTech companies and marketers.
+
+image credit: Roman Makhmutov
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: A great deal of tech challenges in our industry are ultimately challenges in understanding people.
+There are also a lot of issues with attribution fraud, where last touch attribution of credit is incentivizing the wrong behaviors in AdTech companies.
+Marketers will become a lot more sophisticated in evaluating performance of AdTech companies and companies that drive pure net incrementality are going to win.
+Finally, successful AdTech companies will help their customers not only run performance and brand advertising campaigns but also help customers understand their consumers better.
+This partnership will be fundamental between successful AdTech companies and marketers.
+
+Other Blogs by Darya Niknamian: https://dataconomy.com/author/darya-niknamian/

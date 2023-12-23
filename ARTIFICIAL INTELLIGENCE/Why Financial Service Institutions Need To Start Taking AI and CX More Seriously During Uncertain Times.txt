@@ -1,0 +1,70 @@
+Title: Why Financial Service Institutions Need To Start Taking AI and CX More Seriously During Uncertain Times
+
+Article Link: https://dataconomy.com/2021/09/23/financial-service-institutions-ai-cx/
+
+Author: Kiara Taylor
+
+Publish Date: 2021-09-23
+
+Article:
+If there has been a silver lining to the pandemic, it’s been added great momentum and speed to digital transformation. Financial Service Institutions (FSIs) are entrenched in an industry that is time-honored and, as a result, often old-fashioned. However, FSIs must embrace developments in technology, specifically AI and customer experience (CX), to keep up with modern customer demands.
+
+The financial services industry has been the slowest to adapt to technology despite being well-suited for it. This article will delve into why financial service institutions (FSIs) have been hesitant to adopt new technologies and why they need to focus on customer experience by embracing technology, specifically AI.
+
+Keep up with changing customer expectations
+
+Online banking was held back by poor customer utilization and a lack of attractive platforms in the past. Covid ushered in an era of tech-savvy, digitally reliant customers out of necessity.
+
+Older individuals who may have never been interested in online shopping or paying bills online now found that they were forced to find ways to continue their everyday activities safely. These customers were taught valuable tech skills in the past year and a half. More importantly, they have begun to realize the ease and convenience offered by online solutions.
+
+Building an aesthetically pleasing, easy-to-use, and professional-looking website is essential for financial institutions to attract and retain new clients. Simple interfaces are often best, creating a clear and seamless experience for the end-user. Creating an optimized website for your customer segment is vital to remaining competitive.
+
+Essential functions and features should not be difficult to find on your home page. Thought needs to be given to the overall design and how the page draws attention to the most important links on the main page. If your customers can easily navigate your site, you are much more likely to retain their business.
+
+With that being said, it’s vital to ensure that your website is accessible to all – even those with disabilities such as visual or cognitive impairments. The design of your website and apps should seek to create a feeling of flow throughout the pages so that none appear disjointed from the others.
+
+Building a mobile-friendly version of your website is absolutely integral to meeting modern customer expectations. With more than 40% of traffic to online banking platforms coming from mobile devices, it’s clear that this is a segment that cannot be ignored.
+
+Using AI for CX
+
+Every tap, click, scroll, or swipe on your website contains insight into customer behaviors. This can be used to inform your web design team as they create an experience that is easy to navigate. Finding a web developer that understands and prioritizes customer experience in the design of your website is integral.
+
+Professionals who are knowledgeable in coding and web design can be hard to come by, however. The need for these skills is seen in the amount of online technical learning courses (otherwise known as ‘bootcamps’) that have popped up, offering to teach coding and web development in an intense but shortened period. The average online bootcamp course will take four months or less to complete, which is significantly less than if you were to attend a comparable university course.
+
+Even though they may be hard to come by, it is essential to hold out for the right software engineer or web designer who can optimize your website. Whether they are veteran coders or recent graduates, a focus on what the customer needs above all is essential to designing an optimized website or app.
+
+Using customer data – and AI – to create an optimal CX
+
+As the use of online platforms has increased, so has the amount of customer data gathered. Companies now find themselves sitting on a treasure trove of data regarding customer behaviors.
+
+However, it’s not uncommon for them to struggle in analyzing it all. Artificial intelligence (AI) can help organizations make the most of their customer data, inspiring data-driven web design that anticipates a customer’s every need.
+
+By leveraging AI, FSIs can implement analytic platforms to identify and target top opportunities and challenges in real-time. Alerts designed around KPIs – whether based on a predefined target or an anomaly – can help financial institutions efficiently serve their customers.
+
+AI can quickly analyze customer data and detect patterns. Organizations can then use this information to more intelligently direct projects around customer needs. Innovations that will bring the highest return on investment can be pinpointed by AI-driven analysis of customer data. This data can be used as undeniable proof for projects to gain necessary buy-in from key decision-makers such as stakeholders, stockholders, or C-Suite executives.
+
+AI also empowers your brand to create a personalized experience for your customers by providing you with in-depth knowledge of their behaviors. Customers are more likely to remain loyal to brands that offer promotions, product recommendations, and services catered to their needs.
+
+According to recent surveys, 58% of respondents cited managing their expenses as their number one reason for using a personal finance app. Providing personalized ways for customers to more efficiently manage their expenses online will increase customer retention for a brand.
+
+Financial Services Institutions and Fintech
+
+One thing to consider is that in the past year and a half, more individuals have embraced fintech than ever before, particularly in online stock trading. The use of online stock trading apps has increased dramatically in the past year, with many pursuing day trading for the first time due to having more time (and money from government stimulus packages) on their hands.
+
+It’s vital that financial institutions are compatible with such highly used apps, or even better if they develop some of their own as well. According to online marketer and trader Gary Stevens from Hosting Canada, it’s imperative to ensure that you can connect your bank account to your investment platform of choice.
+
+“These are some of the factors considered and approached a trader should utilize to choose the right platform,” says Stevens. “For instance, is the trading platform integrated with banking services? Some brokerage services make it possible to transfer money from trading accounts to other banking accounts, even savings.”
+
+It’s never too late to change
+
+Although FSIs have been dragging their heels when embracing technology, it’s time for them to adapt to new circumstances. Unemployment and fears of the coronavirus have kept customers loyal to their existing financial institutions, which is one reason why FSIs haven’t felt as pressured to embrace new technology.
+
+However, as the world slowly goes back to normal, this customer complacency may change. Consumers are always looking around for better deals or services, and competitor FSIs are vying for their business. FSIs must look to technology to enhance their products and services and remain relevant to the population they serve.
+
+Summary: Financial Service Institutions (FSIs) are entrenched in an industry that is time-honored and, as a result, often old-fashioned.
+The financial services industry has been the slowest to adapt to technology despite being well-suited for it.
+Building an aesthetically pleasing, easy-to-use, and professional-looking website is essential for financial institutions to attract and retain new clients.
+Using customer data – and AI – to create an optimal CXAs the use of online platforms has increased, so has the amount of customer data gathered.
+It’s vital that financial institutions are compatible with such highly used apps, or even better if they develop some of their own as well.
+
+Other Blogs by Kiara Taylor: https://dataconomy.com/author/kiara-taylor/

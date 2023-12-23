@@ -1,0 +1,56 @@
+Title: The Data Pipeline – Analytics at the Speed of Business
+
+Article Link: https://dataconomy.com/2017/04/10/data-pipeline-analytics-business/
+
+Author: Alex Bordei
+
+Publish Date: 2017-04-10
+
+Article:
+Business leaders are growing weary of making further investments in business intelligence (BI) and big data analytics. Beyond the challenging technical components of data-driven projects, BI and analytics services have yet to live up to the hype.
+
+Early adopters and proponents were quick to frame solutions as miraculous reservoirs of insight and functionality. However, big data has not met many C-level executives’ expectations. This disconnect has many executives delaying projects, filing end-to-end big data solutions under “perhaps, in the future.”
+
+Increasing interest and investment in distributed computing, AI, machine learning and IoT are generating practical and user-friendly tools for ingesting, storing, processing, analyzing and visualizing data. Still, the necessary IT, data-science and development operations are time-consuming and often entail large resource displacements.
+
+This is where data pipelines are uniquely fit to save the day. The data pipeline is an ideal mix of software technologies that automate the management, analysis and visualization of data from multiple sources, making it available for strategic use.
+
+What Does a Data Pipeline Do?
+
+The straightforward answer is “whatever you need it to do,” meaning that there are virtually endless and evolving ways of designing and using data pipelines. However, at a strategic business level, data pipelines have two fundamental use cases:
+
+Data-enabled functionality – From automated customer targeting and financial fraud detection to robotic process automation (RPA) and even real-time medical care, data pipelines are a viable solution to power product features regardless of industry. For example, adding data-enabled features to the shopping cart of an e-commerce platform has never been easier than with today’s streaming analytics technologies. The ability to easily create flexible, reliable and scalable data pipelines that integrate and leverage cutting-edge technologies pave the way for industry innovations and keep data-driven businesses ahead of the curve.
+
+BI and analytics – Data pipelines favor a modular approach to big data, allowing companies to bring their zest and know-how to the table. Data pipelines are designed with convenience in mind, tending to specific organizational needs. Stand-alone BI and analytics tools usually offer one-size-fits-all solutions that leave little room for personalization and optimization.
+
+By developing and implementing data pipelines, data scientists and BI specialists benefit from multiple viable options regarding data preparation, management, processing, and data visualization. Data pipelines are an incredibly fruitful way of tackling technology experimentation and data exploration.
+
+How Do I Build a Great Data Pipeline?
+
+This insightful piece by Michael Li links the success of a data pipeline to three fundamental requirements. Meeting these three criteria alone does not guarantee good data pipelines, but it helps ensure that data and research results are reliable and useful to the business:
+
+Reproducibility – As with any science, data science must be subjected to thorough testing and third-party validation. As Li puts it, “Science that cannot be reproduced by an external third party is just not science.” Furthermore, data scientists benefit from the existing tools of software engineering, which allows them to isolate all the dependencies of the analysis – the analysis code, the data sources and the algorithmic randomness – making the data pipelines reproducible.
+
+Consistency – Having access to correctly formatted data and to the tools required to preprocess incorrectly formatted data is crucial for the success of your data pipeline. Whether it is checking in all code and data into a revision control repository or placing code under source control and locking down data sources in external pipelines, securing data sources is fundamental to consistent data and reproducible data pipelines.
+
+A Common ETL – ETL refers to the Extract, Transform, and Load process, which is responsible for importing data from the source systems and storing it into a data repository. With the proliferation of Hadoop, ETL has been subjected to modernization and now poses less of a challenge to the deployment of a great data pipeline. Nonetheless, sharing ETL code between research and production reduces errors and decidedly ensures reproducible results in the use of the data pipeline.
+
+Apart from these three fundamental requirements, there is also a case to be made in favor of efficient resource orchestration and collaboration capabilities. After all, why favor a modular approach to big data if not for the benefits granted by the ability to best streamline research and development operations and shrink that time to market to the bare minimum?
+
+What else do I need to know?
+
+Whether the goal is using BI and analytics to drive decision making or delivering data-driven functionality to products and services, data pipelines are the solution of choice. By intelligently leveraging powerful big data and cloud technologies, businesses can now gain benefits that, only a few years ago, would have completely eluded them due to the rigid, resource-intensive and time-consuming conundrum that big data used to be.
+
+Data pipelines are not miraculous insight and functionality machines either, but instead are the best end-to-end solution to meet the real-world expectations of business leaders. After gaining access to this technology, the only remaining concern is finding and hiring those elusive, yet game-changing developers and data scientists.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Business leaders are growing weary of making further investments in business intelligence (BI) and big data analytics.
+BI and analytics – Data pipelines favor a modular approach to big data, allowing companies to bring their zest and know-how to the table.
+By developing and implementing data pipelines, data scientists and BI specialists benefit from multiple viable options regarding data preparation, management, processing, and data visualization.
+Consistency – Having access to correctly formatted data and to the tools required to preprocess incorrectly formatted data is crucial for the success of your data pipeline.
+Whether it is checking in all code and data into a revision control repository or placing code under source control and locking down data sources in external pipelines, securing data sources is fundamental to consistent data and reproducible data pipelines.
+
+Other Blogs by Alex Bordei: https://dataconomy.com/author/alex-bordei/

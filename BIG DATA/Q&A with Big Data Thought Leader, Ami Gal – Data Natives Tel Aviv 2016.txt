@@ -1,0 +1,72 @@
+Title: Q&A with Big Data Thought Leader, Ami Gal – Data Natives Tel Aviv 2016
+
+Article Link: https://dataconomy.com/2016/08/15/qa-big-data-thought-leader-ami-gal-data-natives-tel-aviv-2016/
+
+Author: Rachel Wolfson
+
+Publish Date: 2016-08-15
+
+Article:
+Meet Ami Gal, Data Natives Tel Aviv 2016 Speaker
+
+Ami Gal is the CEO and Founder of SQream Technologies , a big data startup based in Tel Aviv, Israel. Ami is an expert when it comes to big data and will serve as a speaker during Data Natives Tel Aviv 2016.
+
+Ami will be discussing how SQream’s technology leverages GPUs for large-scale data crunching. Here is what Ami has to say about how big data is being applied to drive innovation:
+
+Q: What motivated you to start SQream Technologies?
+
+I’ve been working on high computing performance challenges for more than 20 years. CPU-based computing has always been limited, expensive and complex in scale. I’ve always been fascinated by the option of scaling with GPUs as they offer so many cores and parallel computing capabilities.
+
+Before SQream, I tried to accomplish high-compute with GPUs a few times without succeeding. When the opportunity to establish a GPU database company came along, it was clear to me that I had to go for it, and turn years of brainstorming into actions and reality.
+
+At the time SQream was founded in 2010, the common industry view was that we [SQream] were completely insane for trying to compete with big players like Oracle, with a GPU database. Today, however, it’s evident that next generation databases are running on GPUs with leading companies such as SQream and others.
+
+Q: What is SQream doing differently from other big data companies?
+
+SQream’s core technology and innovation leverages GPUs for large scale data crunching. SQream brings simplicity to big data through next generation robust solutions that can tackle challenges so big, which are often considered out of scope.
+
+Adding simplicity to such high volume challenges in the business world is one thing SQream does well, but our technology also has an impact on humankind. SQream is being utilized in areas such as:
+
+Homeland Security – Where speed and scale are critical
+
+Cyber Defense – For risk and threat allocation in real time
+
+Research and Healthcare – Enabling an outcome of more precise and knowledgeable clinical treatments, more bandwidth and precision to genome research that will enable an educated, more precise clinical treatment in areas such as cancer and Parkinson.
+
+Q: How is big data advancing healthcare in 2016?
+
+Based on what we know from our clients and from the market, cancer research based on big data analysis has advanced tremendously this past year and is anticipated to accelerate even more going forward. Predictive analysis for exposing a possible disease outbreak is advancing, along with more precise, personalized medicine. These are just two examples of how big data is affecting healthcare.
+
+SQream Technologies and other big data technology companies enable the handling and correlation of large-scale datasets originating from a wide range of sources, in order to get to insights that are more accurate and are based on a larger statistic sampling. In addition, SQream and its GPU capabilities enable much more advanced machine and deep learning algorithms on top of those datasets, accelerating research around the aforementioned by leaps and bounds.
+
+Q: Explain Big Data’s role in genome research?
+
+Genome research includes heavy analytical workloads that cannot be analyzed on a human level. In order to find patterns and reach educational and actionable conclusions, big data technologies are necessary. It is surprising that even today, genome research institutions are doing manual, highly time consuming singular comparisons of post-sequenced data, using a file base (yes, a file base!). This is one of the reasons why genomic research is taking years to complete.
+
+At SQream, we addressed this problem by developing GenomeStack , a database solution that enables bioinformatics researchers to pre upload commonly used genomic databases such as 1000 Genome to SQream’s database, upload the genomic post sequence data from the research, and with a click of a button perform a simultaneous large-scale database search lasting a few seconds or minutes – as opposed to weeks or months when using a file base.
+
+Summarizing it into one sentence – SQream can cut research time and significantly shorten time to cure – by months and even years.
+
+Q: How will big data’s role impact the future?
+
+The impact of big data is already being felt in almost every aspect of our lives and its role is only growing. Thanks to big data we are able to watch television with less disruptions (network optimization), shop more effectively (with personalized ads and discounts that match our shopping history, needs and preferences) and work more effectively (with more comprehensive reports and information analyzed and delivered quickly).
+
+Big data’s role in the future will have a major effect in areas such as our driving experience – with self-driving cars and systems that manage traffic more effectively, we will spend less time in traffic jams and hopefully be able to decrease the number of accidents.
+
+As a result of less traffic, we will breath air that is less polluted. Instead of physically going to stores or wasting long hours online searching for the right products at optimized prices, we will have it delivered to us directly – saving us time and money.
+
+We will be medically diagnosed and treated in a more tuned and precise manner, perhaps even alerted enough time in advance to prevent a life threatening condition. Nature disasters will be predicted and human lives will be saved as a result. These are only a few examples of how big data technologies and digitalization are changing the world.
+
+This is exactly what’s driving SQream to continue delivering a next generation GPU database able to handle such previously unseen amounts of data constantly being generated in an accelerating speed. When I say “accelerating speed”, I am referring to the following facts – From the beginning of recorded time until 2003, the world created 5 billion gigabytes (exabytes) of data. In 2011, that exact same amount of data was created every two days. In 2013, the same amount was created every ten minutes.
+
+In other words – the quantities of data being generated don’t only accumulate over time – as time goes on, the amounts being generated only expand. The world is spinning faster and faster and we have designed a database from scratch addressing exactly the implications and challenges that arise with it. In every challenge lies opportunity.
+
+Join us for Data Natives Tel Aviv 2016. Save your spot by registering today!
+
+Summary: Meet Ami Gal, Data Natives Tel Aviv 2016 SpeakerAmi Gal is the CEO and Founder of SQream Technologies , a big data startup based in Tel Aviv, Israel.
+Ami is an expert when it comes to big data and will serve as a speaker during Data Natives Tel Aviv 2016.
+Here is what Ami has to say about how big data is being applied to drive innovation:Q: What motivated you to start SQream Technologies?
+In order to find patterns and reach educational and actionable conclusions, big data technologies are necessary.
+These are only a few examples of how big data technologies and digitalization are changing the world.
+
+Other Blogs by Rachel Wolfson: https://dataconomy.com/author/r-wolfson/

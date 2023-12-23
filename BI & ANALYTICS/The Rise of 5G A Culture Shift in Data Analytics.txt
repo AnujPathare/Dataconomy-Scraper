@@ -1,0 +1,66 @@
+Title: The Rise of 5G: A Culture Shift in Data Analytics
+
+Article Link: https://dataconomy.com/2018/06/25/the-rise-of-5g-a-culture-shift-in-data-analytics/
+
+Author: David Flower
+
+Publish Date: 2018-06-25
+
+Article:
+Over the last several years, the global database market has made significant strides toward leveraging real-time information. As telcos and other industries prepare for the transition to 5G, it’s apparent that real-time data analytics are key for organizations looking to capitalize on the promise of 5G.
+
+Although the current global focus across telecommunications providers to get the infrastructure in place to support 5G speeds has prompted strategy discussions in almost every market, a new report by Ctia has found that China holds the lead in the race to 5G, especially as its wireless carriers are actually committed to the next-generation technology standard. But regardless of geographic location, to operate at scale with high availability, establishing a fast data strategy to leverage 5G to its fullest potential should be on every telcos to-do list.
+
+How telcos should prepare for 5G
+
+Five years ago, all communication service providers (CSPs) were dealing with the emergence of big data, or large data sets; now there’s fast data (the application of data analytics to data sets in real-time), or data in motion/streaming data. With 5G, providers will be tasked with supporting lower latencies (as low as a millisecond for some applications) and higher throughput than with 4G. At the same time, telcos will have to manage the increases in data traffic from smartphones and signaling from notifications and IoT devices.
+
+A number of industry leaders have already started updating their IT strategies to handle the data speed and volume that will be driven by 5G-powered applications. For instance, Nokia recently made long-term investments in their database infrastructure to support the increased data traffic and speeds that come with 5G.
+
+But why the concern over who gets there first? 5G promises to power our future; self-driving cars, virtual reality and smart cities are relying on the technology. In short, whichever country gets 5G networks up and running first will have a huge global investment and hiring advantage. Add to that the adoption of a fast data strategy, and telcos will be prepared with the capabilities to interact with the rich, real-time data streams running through 5G networks. With a fast data strategy, providers will have the following strategic advantages:
+
+
+
+
+
+Detect declining quality of service (QoS) in the network and quickly remediate any issues.
+
+Adjust network traffic in real-time to fix performance perception issues.
+
+Make real-time service upgrades or contract extension offers to make the most out of customer interactions.
+
+Gain insights into “soft errors” that might not be flagged as an issue by a network engineer.
+
+Transmit real-time messaging to customers experiencing degraded service to alert them to proactivity in mitigating issues.
+
+Why Asian markets are ahead in the race
+
+There are various underlying drivers behind the explosive growth in data platforms and steady progression toward 5G speeds in the Asian market and how they are setting the pace for other geographies to follow:
+
+Asian markets are more willing to test and adopt new technologies
+
+There is an inevitable risk when implementing new technology – whether financial, security concerns, compatibility issues, etc. – there is always a pain in change, however, the benefits are becoming irrefutable.
+
+As with any business decision, companies must be willing and able to address these concerns. The hesitation to adopt alternative database solutions is driven more by the inherent culture or mindset of the company, and Asian markets appear to have a more advanced appetite for next-generation technologies. These companies are more receptive to testing new applications and data platforms.
+
+Moving away from the one-size-fits-all approach
+
+Organizations in the past typically wanted a single source supplier for their database infrastructure. While in theory this traditional, legacy approach minimizes the complexity of the operation, the reality is the ability of modern data platforms to integrate with one another makes this a non-issue. With more emerging database technologies coming into the market, organizations can now select the right tool for the right job. Within China in particular, there is this mandate to remove the dependency on large corporate IT suppliers, namely Oracle and IBM, and drive organizations toward specialized technologies and away from the one-size-fits-all approach.
+
+Economic growth centred around technology
+
+The economy in Asia is growing around technology and IT innovation. The recent $27 million investment by Alibaba in a round of funding for the European company MariaDB in November is a perfect example of how the Asian market is pushing the boundary of in-memory database technology. China specifically is leading the IT development space – according to a recent discussion paper from McKinsey Global Institute, China has one of the most active digital-investment and start-up ecosystems in the world.
+
+
+
+Add to that the fact that Beijing plans to deploy 5G on a large commercial scale by 2020, and China’s top carriers are all poised to meet this timeline. The Chinese government has also already distributed a good portion of the necessary radio frequencies. In other words, the collaboration between government, industry and telecom is unique in China. This is a deep contrast to the division of government and industry in the U.S., as the federal government recently leaked plans to run a national 5G network, instead of supporting ongoing industry projects.
+
+The end goal remains the same irrespective of location: 5G is expected to vastly improve digital infrastructure, greatly impacting national competitiveness, benefits to the environment, and our overall quality of life.
+
+Summary: As telcos and other industries prepare for the transition to 5G, it’s apparent that real-time data analytics are key for organizations looking to capitalize on the promise of 5G.
+How telcos should prepare for 5GFive years ago, all communication service providers (CSPs) were dealing with the emergence of big data, or large data sets; now there’s fast data (the application of data analytics to data sets in real-time), or data in motion/streaming data.
+Add to that the adoption of a fast data strategy, and telcos will be prepared with the capabilities to interact with the rich, real-time data streams running through 5G networks.
+With a fast data strategy, providers will have the following strategic advantages:Detect declining quality of service (QoS) in the network and quickly remediate any issues.
+Make real-time service upgrades or contract extension offers to make the most out of customer interactions.
+
+Other Blogs by David Flower: https://dataconomy.com/author/david-flower/

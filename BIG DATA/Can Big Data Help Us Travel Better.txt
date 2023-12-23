@@ -1,0 +1,50 @@
+Title: Can Big Data Help Us Travel Better?
+
+Article Link: https://dataconomy.com/2016/04/12/can-big-data-help-us-travel-better/
+
+Author: Hannah Augur
+
+Publish Date: 2016-04-12
+
+Article:
+There are hundreds of hotel booking sites online. They all have their own method of matching customers with options. There are basic options, like how many bedrooms for less than $200, and users will still end up searching through several pages before finding the right offer. Generic offers and bad results may be a thing of the past with big data. Travelers only care about having a good trip, and companies leveraging big data are going to make customers very happy.
+
+Travel Better Without Even Noticing
+
+Customers, however, won’t always recognize a big data play when they see it. Hotels and airlines are busy trying not to lose money, and the result is often smart campaigns and incredible deals. No matter the weather or time of year, hotels want to be full. Red Roof Inn has admitted to using available weather and flight cancellation data to build an algorithm to keep their hotels full. Factoring in weather severity, time of day and cancellations, they knew just how many stranded passengers they could market to. With these insights, they used geo-based marketing to reach those stranded passengers’ smart phones. These campaigns boosted Red Roof Inn’s business 10% from 2013 to 2014.
+
+Emmanuel Marchal, former director at LikeCube, which leveraged big data for consumer travel sites, spoke to tnooz about the move towards data-based travel.
+
+“Big data applications are moving from profiling to true personalization. For example, true personalization would enable a site to recommend a specific hotel to a specific traveler based on their specific wants, needs, and previous purchase patterns, rather than a generic set of recommendations based on the type of traveler.”
+
+Options like one bedroom or non-smoking do not encapsulate all the minute details a traveler considers when booking. Travelers are looking for something that fits their style, taste, and needs. By analyzing past bookings, social media, and even hashtags, companies are able to extract far more specific information. Data can also be harnessed by booking companies to create clusters of booking styles, like under twenty world traveler, or over forty with two children. Websites can even use data to extract meaning about their offers. If a hotel knows that 50% of their customers take advantage of a particular offer, they can push that to the forefront when speaking to certain kinds of customers. Data can also be used to build better review systems, as it could weigh reviews in favor of those written by accredited accounts, ensuring better reliability. By extracting sensible meaning from thousands of questionable reviews, a data-based system may be able to recognize that a hotel isn’t just a “4 out of 5” among customers, but that it has a fabulous pool, terrible bathrooms, and friendly staff.
+
+Geo-Specific Offers
+
+Geo-fencing goes one step further, hooking users up with valuable real-time information. One example is GateGuru. This app uses weather forecasts, security wait times and real-time flight status information to find customers in an airport. It is highly time- and geographically-sensitive, and works very well within smart-phone-centric cultures. The moment a plane lands, phones light up with relevant offers. Walking past a crowded cafe, users might receive a coupon to visit a competitor. Asli Hamamci, managing director and senior partner at Mindshare, noted how these methods may work particularly well with millennials.
+
+“When we look at silent travelers, it’s usually millennials and they do not want human interaction when it comes to travel…A lot of luxury brands are allowing you to order breakfast before you get to the hotel, through the app.”
+
+“Try standing in the middle of Times Square and you get 1,000 restaurants on Yelp or TripAdvisor. That’s not helpful.”
+
+These wise words from a Skift study voices the problem with data-driven travel: It’s a process. There are still plenty of hurdles to be overcome, not the least of which is the nuisance factor. While the apps are working just as intended, they are not yet ready to fully help customers. Travelocity has been leading the path in big data-integration into travel sites, but even founder Terry Jones recognizes that the field is not yet ready: “Ninety percent of the data that we have has been created in the last two years and 85% of it is unstructured data.” In fact, several websites are already using data, and it doesn’t always make the customer happy. TripAdvisor, Expedia and Travelocity have been harnessing big data for years, and it has drastically increased their profits. There are several case studies of big data bringing these companies back into fighting form. E-commerce companies have worked wonders—but they haven’t fully cracked the code.
+
+In theory, users may be elated to receive practical, timely deals, but that is not the current case. When the plane touches down, and phones light up, users are often less than happy to be badgered by marketing. Furthermore, while marketing and travel companies are happy to reach more customers, they are also somewhat oblivious to their customers’ perception of their campaigns. The “creep factor” associated with constant tracking and marketing is not something consumers are quite ready for. Even IBM and CNBC have recognized that unexpected, personalized marketing like this can be perceived as creepy. Users need to have opted in to these programs, and the returned suggestions need to be helpful—otherwise customers are going to turn tail and run.
+
+Travel’s Final Frontier
+
+Now, companies are closing in on the final frontier for data in travel: Wearables. Phones are only the first step toward immediate advertising, and data collection, as one study from SITA suggests. From real-time directions to reminders to wear sunscreen, the travel industry wants to rope wearables into the mix. Disney’s MagicBand allows visitors to access parks, unlock hotel rooms, and purchase food or merchandise with just a tap. Plus, they offer far less intrusive notifications than smartphones. Wearables are also a great two-way street, if users choose to opt in. Companies can get the data needed to offer better deals, and customers are afforded a new level of ease. Wearables offer a certain subtlety that smart phones do not. With just a vibration, they can alert wearers to new, relevant information. This small “nudge” might prove friendlier, and more readily acceptable, than the creepy affront of unexpected marketing campaigns.
+
+image credit: Jay Mantri
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Generic offers and bad results may be a thing of the past with big data.
+Travelers only care about having a good trip, and companies leveraging big data are going to make customers very happy.
+Travel Better Without Even NoticingCustomers, however, won’t always recognize a big data play when they see it.
+Emmanuel Marchal, former director at LikeCube, which leveraged big data for consumer travel sites, spoke to tnooz about the move towards data-based travel.
+TripAdvisor, Expedia and Travelocity have been harnessing big data for years, and it has drastically increased their profits.
+
+Other Blogs by Hannah Augur: https://dataconomy.com/author/hannah-augur/

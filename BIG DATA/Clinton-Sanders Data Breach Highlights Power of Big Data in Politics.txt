@@ -1,0 +1,46 @@
+Title: Clinton-Sanders Data Breach Highlights Power of Big Data in Politics
+
+Article Link: https://dataconomy.com/2016/03/04/clinton-sanders-data-breach-highlights-power-of-big-data-in-politics/
+
+Author: Hannah Augur
+
+Publish Date: 2016-03-04
+
+Article:
+Big Data Breaches and Big Databases are setting the scene for the presidential election this year. What kind of data do politicians wield and just how much is it worth?
+
+Obama may have pioneered the big data campaign, but the 2016 elections are pitting data scientist against data scientist. The recent data leak spat between the Clinton and Sanders parties offers not only insight into just how much they know about voters, but how modern campaigns are a new beast. Their entire structure is fascinating, new, and (we hope) more democratic.
+
+How important is voter data? In the distant past, campaigns would sometimes simply throw messages and ads into a general area and hope for the best. The internet and social media has completely altered this system. Campaigns can appeal to voters on a much more individualized level. Social media allows opinions to spread and change quickly. The amount of data is far more specific than in the past and, as a result, that much more valuable. Last year, when Clinton stated that “61 percent of our donors were women,” she raised flags. The system through which supporters sent money did not, in fact, have a gender input option. One journalist reached out and asked the campaign how in the world they could be certain it was 61%. Staffer Josh Schwerin replied, “It was determined through an internal analysis.” He continues: “The simplest approach… is to use historical birth records to estimate the likely sex of a first name.”
+
+That’s a relatively tame example of data that could be leaked. When the Sanders campaign noticed that some of the Clinton data was accessible on their end, they knew something was wrong and feared their data had been compromised. Though the two parties use the same program, some data should not be visible outside of the campaign. The Sanders party would later be accused of accessing vital Clinton information and, as punishment, was locked out of the Democratic National Committee’s files.
+
+Exactly how much is that data worth? $600,000 per day, it seems. That’s how much Sanders intends to sue the DNC for locking them out, despite a contractual stipulation that 10-day notice be given before any changes are made to access rights. It’s worth noting how many people see the collapse of Romney’s data crash on election day as a final factor in his loss. In contrast, according to Wired, Obama’s 2012 campaign “began the election year confident it knew the name of every one of the 69,456,897 Americans whose votes had put him in the White House.” That data may, in fact, be worth more than $600,000.
+
+The DNC’s Love Affair with Big Data began with the Obama campaign. They, of course, did not share data during the election; after elections, however, was a different story. The national data director for the Obama campaigns of 2008 and 2012, Ethan Roeder, explains that data collected by any and all candidates was absolutely invaluable for the party as a whole. Candidates should keep their data private during primaries, but, once primaries are finished, it should be shared.
+
+So where is all of this data? As many campaign managers lament, old data is not very useful. People move often and, suddenly, all of those numbers and data points from the last election are questionable. Keeping on top of new data is a big, expensive job; one party can’t do it. Rather, there are large companies who specialize in just this sort of thing. In this case, NGP VAN connects campaigns to voter databases. With a slogan like “nearly every major campaign in America is powered by NGP VAN” paired with a photo of Obama, there is no doubt that external companies like these run the show. NGP VAN does all of the work and gift wraps it into a neat package for campaigns to access. Names, addresses, donations, affiliations, and anything they can get their hands on is compiled here. But that’s only the half of it. Companies like TargetSmart, which works with NPG VAN, compiles consumer and interest data to turn those numbers into something valuable and marketable.
+
+Data makes elections beautiful. For all of the concern about data being used to pad platforms and support marketing, there is something very grassroots about the movement. The influx of big data has not necessarily given more power to those in charge. Campaign managers and politicians do know more about their voters than ever—but they also know what stance must be taken on issues. The internet and social media have completely revamped the system and given the general public far more power. Now that the world can see and measure how voters respond, changes in approaches can happen much more swiftly. Twitter and social data has created some of the most interesting numbers this election.
+
+There are also fears that social data will turn politics into something uglier. In an interview with TechRepublic, campaign veteran Joe Trippi explains why social media may be as dangerous as it is empowering:
+
+“Twitter: Again it’s a power thing. Social proof. If three friends you trust tweet that the hot new movie sucks, does it matter anymore how much the studio spends on TV ads? Are you going to go see it?”
+
+
+
+Trippi’s outlook on data in the future of politics is equally bleak. At the moment, campaigns are just running to catch up with the times. They are trying to learn from Obama’s 2008 and 2012 campaigns, and fully implement what already exists. No matter how it’s painted, Trippi maintains that the focus “has moved from empowering people, to frankly, manipulating people in a targeted way.” Having worked in the industry for three decades now, Trippi’s expert opinion may be the icing on the already complicated political cake. In the end, your view of who was really at fault in the data breach, or how ethical it is for this data to be used, probably strongly correlates to who you would vote for. Regardless of individual opinions, results have shown that big data can lead to big support. It will be hard to pry such powerful tools from campaigns in the future.
+
+image credit: Diego Cambiaso
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Big Data Breaches and Big Databases are setting the scene for the presidential election this year.
+Obama may have pioneered the big data campaign, but the 2016 elections are pitting data scientist against data scientist.
+The influx of big data has not necessarily given more power to those in charge.
+There are also fears that social data will turn politics into something uglier.
+Regardless of individual opinions, results have shown that big data can lead to big support.
+
+Other Blogs by Hannah Augur: https://dataconomy.com/author/hannah-augur/

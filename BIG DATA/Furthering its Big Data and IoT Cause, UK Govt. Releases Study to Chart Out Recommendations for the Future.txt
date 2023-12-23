@@ -1,0 +1,36 @@
+Title: Furthering its Big Data and IoT Cause, UK Govt. Releases Study to Chart Out Recommendations for the Future
+
+Article Link: https://dataconomy.com/2014/12/22/furthering-its-big-data-and-iot-cause-uk-govt-releases-study-to-chart-out-recommendations-for-the-future/
+
+Author: Dan Gray
+
+Publish Date: 2014-12-22
+
+Article:
+Keeping in line with UK’s recent policy to tap the growing influence of Big Data and Data Analytics, two reports that intend to define and provide further insight into Big Data and the Internet of Things in order to “propel the UK to future growth and help it stay ahead in the global race,” have been released by the UK government.
+
+The first report dubbed, “HM Government Horizon Scanning Programme, Emerging Technologies: Big Data,” sets out to, firstly, define Big Data, secondly, Point out ‘ High-level trends in Big Data’ and Opportunities for Big Data applications.
+
+While the research for this study was being carried out, a ‘community of interest’ had been established comprising policy leads and analysts from across government with an interest in Big Data. This paper draws on their insights, insights from the private sector, academics, and the extensive open source literature on the Big Data topic, reveals the report.
+
+Providing a working definition of Big Data, the report states that, “Big Data refers to both large volumes of data with high level of complexity and the analytical methods applied to them which require more advanced techniques and technologies in order to derive meaningful information and insights in real time”.
+
+Another research paper was published from the government’s chief scientific adviser Sir Mark Walport, called The Internet of Things: Making the most of the Second Digital Revolution.
+
+Commissioned earlier this year at the 2014 CeBIT Trade Fair in Hanover by the Prime Minister, the Chief Scientific Adviser through seminars and inputs from experts in academia, industry and government, has deduced recommendations both for the Government and enterprises based on three main objectives:
+
+To explain what government can do to help achieve the potential economic value of the Internet of Things. To set out what Internet of Things applications can do to improve the business of government – maintaining infrastructure, delivering public services and protecting citizens. 3. To distill this evidence into a set of recommendations.
+
+Follow @DataconomyMedia
+
+
+
+(image credit: Michael D Beckwith)
+
+Summary: The first report dubbed, “HM Government Horizon Scanning Programme, Emerging Technologies: Big Data,” sets out to, firstly, define Big Data, secondly, Point out ‘ High-level trends in Big Data’ and Opportunities for Big Data applications.
+While the research for this study was being carried out, a ‘community of interest’ had been established comprising policy leads and analysts from across government with an interest in Big Data.
+This paper draws on their insights, insights from the private sector, academics, and the extensive open source literature on the Big Data topic, reveals the report.
+Providing a working definition of Big Data, the report states that, “Big Data refers to both large volumes of data with high level of complexity and the analytical methods applied to them which require more advanced techniques and technologies in order to derive meaningful information and insights in real time”.
+To set out what Internet of Things applications can do to improve the business of government – maintaining infrastructure, delivering public services and protecting citizens.
+
+Other Blogs by Dan Gray: https://dataconomy.com/author/dan-gray/

@@ -1,0 +1,30 @@
+Title: London Fintech scene on the rise
+
+Article Link: https://dataconomy.com/2014/04/16/london-fintech-scene-rise/
+
+Author: Artur Lapinsch
+
+Publish Date: 2014-04-16
+
+Article:
+The London fintech scene is on the rise.
+
+London is not only the financial hub of Europe, it has also taken the place of the global fintech capital. Building on its traditional strength in financial technology services, it is able to draw on the expertise of around 135k employees in that field.
+
+One of the startups at the forefront of this boom is TransferWise, a company founded four years ago by one of the founders of Skype. TransferWise has started dismantling the long standing business model of the likes of Western Union and MoneyGram by offering a cheap alternative to the traditional means of remitting cash.
+
+Amongst the other preserves being taken apart by new players are the mobile payments and asset management areas, in addition to crowdfunding, which has taken it on itself to provide liquidity to those unable to receive it. Photopay, for example, a company selected to take part in the FinTech Innovation Lab, uses a phone’s built-in camera to identify relevant information from payslips, and then applies them to execute payment. The regulatory implications that attach themselves to any business model in that sector are acting as brakes on business models new and old, however. While not limited to fintech startups in London, regulatory approval is often required when it comes to dealing with finance. Security and money laundering are among the concerns that come into play. TransferWise, for example, is regulated by the Financial Services Authority (FSA) in the United Kingdom. Once regulatory hurdles have been surmounted, significant new business opportunities await. Barclays’ payment transfer app, for example, is responsible for 20-30 percent of new corporate business.
+
+According to Ismail Ahmed, co-founder of WorldRemit, London is unbeatable as a location for fintech startups. The existing finance ecosphere provides a wealth of talent, both tech and non-tech, that is unmatched anywhere else. Almost more importantly, London’s status attracts investors. Finding funding is always a bottle-neck for startups but the numerous success stories in contributed to a higher growth rate of funding than we find in Silicon Valley. A total of over $700m flowed to the British and Irish fintech universe between 2008 and 2013, with deal sizes growing at an annualized rate of 74%. In contrast, Silicon Valley’s growth rate was only 13%.
+
+That being said, Silicon Valley is still playing an entirely different game. Silicon Valley’s fintech companies raised $950m in 2013 alone, in excess of a third more than the British market managed to raise since 2008. As a result, despite the ease of access to funding compared to the rest of Europe, London’s venture funding market is significantly less liquid than that of the Valley. The other big challenge is being accepted by the existing players. London’s finance industry is not particularly welcoming to new sources of irritation. London still has some catching up to do, but it’s doing so fast.
+
+Image Credit: Information Age
+
+Summary: The London fintech scene is on the rise.
+London is not only the financial hub of Europe, it has also taken the place of the global fintech capital.
+While not limited to fintech startups in London, regulatory approval is often required when it comes to dealing with finance.
+According to Ismail Ahmed, co-founder of WorldRemit, London is unbeatable as a location for fintech startups.
+That being said, Silicon Valley is still playing an entirely different game.
+
+Other Blogs by Artur Lapinsch: https://dataconomy.com/author/artur-lapinsch/

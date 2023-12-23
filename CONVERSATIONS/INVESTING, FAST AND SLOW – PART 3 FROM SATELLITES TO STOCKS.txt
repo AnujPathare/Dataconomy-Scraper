@@ -1,0 +1,78 @@
+Title: INVESTING, FAST AND SLOW – PART 3: FROM SATELLITES TO STOCKS
+
+Article Link: https://dataconomy.com/2017/09/29/investing-fast-slow-part-3-satellites-stocks/
+
+Author: Dr. David Stolin
+
+Publish Date: 2017-09-29
+
+Article:
+Financial markets offer countless ways of making (or losing) money. A key distinction among them is the investment horizon, which can range from fractions of a second to years. Previously, I sat down to talk about investing and data with co-founders of new investment management firms representing the high-frequency and low-frequency extremes: Walnut Algorithms and Global Systematic Investors. This time, I am speaking with Alexandru Agachi, COO of Empiric Capital, a data-driven asset manager whose stockholding horizon averages one month.
+
+YOUR FOUNDERS HAVE A SATELLITE COMMUNICATIONS BACKGROUND. HOW COME?
+
+Alexandru Agachi: Well, they are radio frequency engineers by training, so their core skillset is signal processing. These are people who spent their lives designing hardware and software that ultimately aims to deal with increasing the information-to-noise ratio in the tools that they use. In their case, these used to be antennas and satellite communication systems on airplanes and in the maritime industry as well as in defense systems. That whole field gives you exposure to a wide range of signal processing and pattern recognition techniques that can then be extrapolated to working with financial time series and financial data.
+
+GIVEN THIS HIGHLY TECHNICAL BACKGROUND, WHY FOCUS ON STOCKS AND NOT, SAY, FINANCIAL DERIVATIVES?
+
+AA: Our founders were creating this investment solution for themselves first, which is a reason you’d start with equities – the S&P500, the STOXX 600, large companies, liquid stocks, low turnover. They give you enough breadth that you can apply quantitative solutions and the idea behind everything we’ve done to date was also to do something original, because obviously, we’re not the first quant fund. When you’re asking that question, I imagine you’re looking at futures, at CTAs, and there are so many firms doing this very well. So we wanted to start everything from scratch. We started with proprietary pattern recognition models rather than factor models. It was not easy but it ultimately paid off because we ended up with much more original research than otherwise, and it’s starting to show.
+
+IN THE FORM OF HIGH RETURNS?
+
+AA: Well, in the form of quality of returns and therefore investor interest, I would say. In the form of being able to add something to investors’ portfolios, something that diversifies them, something that is not that correlated to everything else they already have in their portfolios. If you look at the CTA space, the top 20 CTAs tend to have an intra category correlation of around 70% from what I see, which is why you keep hearing more and more that the CTA space has been commoditized.
+
+AREN’T THE SIGNAL PROCESSING TECHNIQUES YOU USE ALSO BECOMING COMMODITIZED?
+
+AA: Absolutely. I think that you see a democratization of finance in general, including quantitative finance, but the barrier to entry is still very, very high. We estimate, for example, that we spent eight, nine years just building our back-test machine and we think that that’s the first thing a quant team should do because, without that, you’re blind.
+
+BUT THE PATTERNS IN STOCK RETURNS THAT YOU EXPLOIT ARE LIABLE TO CHANGE AS A RESULT OF TRADING BY QUANT FIRMS SUCH AS YOURS…
+
+AA: I think you’re absolutely right. So that’s one of the fundamental truths in investing. The markets are dynamic. They keep evolving, and that is part of why it’s such a challenging industry to be in, and we often say in the quant space that you judge a quantitative firm by its research program, not by where it is today. This also proves to be one of the main challenges for scientists and engineers who come into finance from deterministic universes – finance is a probabilistic universe and the structure of the data itself regularly changes, unlike in many other fields. So that’s why you obviously need to believe in your research program, in your ability to keep abreast with these changes in the market. I think these new strategies are certainly getting more and more popular, but we’re still far away from a place where the quant hedge fund space, which is now at about 930 billion dollars, changes the overall S&P500 market structure. It’s still tiny compared to the overall investment base of the S&P500.
+
+DID YOU HAVE TO WORRY ABOUT OVERFITTING YOUR MODELS TO THE DATA?
+
+AA: Well, to us it was simple because we started by spending nine months doing just theoretical research – experience based, but nonetheless theoretical, without any data. Once we came up with our first pattern recognition algos, we started testing them with market data and then refining and optimizing them. But we didn’t have to worry about overfitting because we didn’t start by doing data mining. So it was a very clean approach. Now, obviously, a lot of quant teams look for patterns in the data. Then, of course, overfitting becomes increasingly important and you have to look into how they approach the problem and what patterns they find and how they come up with them in order to know just how worried you should be about overfitting. When we compare our backtest outputs with actual performance, it’s of course not perfectly matching, but it’s extremely close over the almost two years since we started live trading. So that’s why we have very good confidence that what gets output by our backtest machine is very close to what will happen in reality.
+
+CAN YOU TALK ABOUT YOUR ACTUAL STOCK SELECTION PROCESS?
+
+AA: We approach the problem entirely from an automated stock-picking perspective. So far, we have about 60 stocks on the long side at any point in time and then we have about a dozen stocks on the short side and that also is what drives our net exposure to the market. The idea is that the long arm is independent from the short arm, so each one of them scans our investment universe of 1,100 stocks every day and only invests where and if it sees an opportunity. And then the stocks in our portfolio every day compete among themselves and with the stocks outside of our portfolio.
+
+TELL ME ABOUT THE DATA YOU USE
+
+AA: The only data that we use in our investment system right now is end-of- day price data. It’s the most available and transparent data out there and the reason we’ve done this is because when you’re working in investment management, ultimately you’re trying to predict two things: returns and covariances. So that’s why we started working with hard data, which is the daily price data for all the instruments in our investment universe. The way we view it, you start with hard data and then you enter the realm of soft data, which includes accounting and sentiment data. What we’re going to start doing towards the end of this year, I expect, is to add these fundamental quant models and sentiment models, but these will be in our system as filters – for example, to tilt the portfolio or to eliminate certain stocks from a risk management perspective. That’s how we view the data world: you start with hard data, and then on top of it you add the soft data and you keep building up.
+
+YOU SOUND CAUTIOUS ABOUT ALTERNATIVE DATA SOURCES…
+
+AA: What you hear a lot with this soft data that get sold to funds is that there’s a very fast alpha decay with it. And you can easily notice a flurry of alternative data companies trying to sell data to investment firms, yet very few of the latter – none to my knowledge – have managed to build highly successful investment systems with alternative data at their core yet. But it will certainly be a key area of research for the industry in the years to come. Like the application of machine learning to investing, it is not an easy problem, but with enough time and work it can certainly be implemented successfully. Ultimately, to generate sustainable alpha you can look at data that no one else has or you can look at the same data as everyone else but in a different way, and these are the two ways that we explore in our quantitative investment system.
+
+WHY DID YOU SETTLE ON PYTHON AS YOUR DEVELOPMENT TOOL?
+
+AA: It was a very easy decision. If you go to things like C++ or Java, you’ll have software engineers specialized in those languages and they’re going to be perfectly fluent and comfortable with them, but they’re not at all as widespread as Python in academic departments. What we find is that you can go to a mathematics department, a statistics one, a machine learning one and people tend to be comfortable with Python and so are software programmers. If you go for other languages, you’re going to start having problems in terms of harmony inside the team. And as several of our team members have academic backgrounds rooted in research, and we also have academic partnerships in place, a versatile language that crosses from academia to industry was the right choice for us when we started.
+
+IN ORDER TO ATTRACT INVESTORS, DON’T YOU HAVE TO SELL THEM A BLACK BOX?
+
+AA: The human brain is by far the blackest darkest box out there, I think a lot of people overlook this. It’s such a fallacy to think that because you meet a fund manager once a year, which is a typical industry model, you know how they think – and especially how they think under stressful, on-the-job situations, and in a consistent manner over time, which is what really interests you when you judge a human versus a model. It’s important to put this in the context of the research done for the past couple of decades by experts, whether psychologists or behavioral economists, who specialize in studying the use of models versus experts. As the Nobel Prize Daniel Kahneman concluded after decades of research in this area, “Hundreds of studies have shown that wherever we have sufficient information to build a model, it will perform better than most people.” I always frame the debate in that framework. And what happens in the quantitative space, is that people who are comfortable with quant teams and with quant investment solutions always judge the research team, the people behind the models. And this is the right way.
+
+WHAT’S YOUR TAKE ON THE FUTURE OF HUMAN ANALYSTS?
+
+AA: Any part of investing where you have large amounts of publicly available data will be automated. Whether that’s going to be driven by a higher alpha from quantitative systems or whether it’s going to be driven by cost pressures at the industry level, I see automation coming. Automation is expanding from the two ends of the value-add spectrum in investing. – It is coming from the low- level end – passive, smart beta, and factor models, where quantitative systems have become the norm in recent years. And it is coming from the high- level end, with strategies exhibiting very high Sharpe ratios and uncorrelated return streams. If you look at the risk/ return profile of the top quantitative products in the world, and what they accomplished over often two decades of investing, they are unbeaten in the investment universe to my knowledge. And this is why the majority of them are closed to outside investors at this point. However, there are two caveats to that. One is data. Any subfield of investing where you lack large amounts of reliable data cannot be automated, and quants typically don’t even try to do that; without reliable data, quants do not see. The other one is the concentrated style of investing, which again is not suited to statistical frameworks and quantitative systems. Quantitative funds make small gains on large numbers of investments. The concentrated style where you have a ten-to-one leverage on one investment hypothesis and then it really works or really doesn’t work, it’s not something that quants do.
+
+AND HOW WOULD YOU DESCRIBE THE EVOLUTION OF THE QUANT SPACE?
+
+AA: It’s a fast-growing field that’s still in its infancy. I meet our peers all over the world and so many times you’d meet people who have been building firms for 20 years now with amazing academic reputations and they tell you, “Every week we still learn something new.” In the quant space we all feel that we’re still in the early days of quantitative investing. And what a lot of people don’t realize is that quantitative firms have come up with a whole new way of building an investment firm from the ground up. When you visit these quantitative firms, they are more akin to technology firms than to traditional investment firms. They’ve reinvented everything: the way they source the data, the way they do pre-trade compliance, post-trade compliance, risk management. It’s a whole new way of approaching investment, much leaner and in some ways much healthier. Many of these firms are bringing real teamwork to investing. The hedge fund space used to be dominated by the star manager model. When you look at quantitative firms, it’s completely different: even if you wanted to measure someone’s impact specifically, it would be very difficult because it’s all teamwork and incremental improvements every single day.
+
+DO DATA SCIENTISTS NEED A FINANCE BACKGROUND TO SUCCEED AT AN INVESTMENT FIRM?
+
+AA: Many quantitative firms have a bias for hiring people entirely from outside of finance. You hire scientists and engineers, with diverse experiences in machine learning, astrophysics, healthcare. Working with data is what they all have in common. They never worked in investing before, and once you hire them, they need to understand the problem set and the domain knowledge in finance, this is part of the challenge, of course. But once they do, it is amazing how quickly they start thriving with financial data.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: And then the stocks in our portfolio every day compete among themselves and with the stocks outside of our portfolio.
+The other one is the concentrated style of investing, which again is not suited to statistical frameworks and quantitative systems.
+When you visit these quantitative firms, they are more akin to technology firms than to traditional investment firms.
+When you look at quantitative firms, it’s completely different: even if you wanted to measure someone’s impact specifically, it would be very difficult because it’s all teamwork and incremental improvements every single day.
+AA: Many quantitative firms have a bias for hiring people entirely from outside of finance.
+
+Other Blogs by Dr. David Stolin: https://dataconomy.com/author/dstolin/

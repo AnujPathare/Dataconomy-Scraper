@@ -1,0 +1,56 @@
+Title: 5 Ways The Healthcare Industry Could Use Big Data—and Why It’s Not
+
+Article Link: https://dataconomy.com/2017/08/07/5-ways-healthcare-big-data/
+
+Author: Ryan Ayers
+
+Publish Date: 2017-08-07
+
+Article:
+Big data has rapidly made its way into a wide range of industries. Healthcare is ripe for big data initiatives—as one of the largest and most complex industries in the United States, there is an incredible number of potential applications for predictive analytics. While some healthcare organizations have begun to see the value in using big data, the industry as a whole has been very slow to adopt big data initiatives for a number of reasons. Here are just 5 of the many ways healthcare could use big data—and why they’re not leveraging it to its greatest potential.
+
+Preventing Medication Errors
+
+Medication errors are a serious problem in healthcare organizations. Because humans will always make the occasional error (even something as simple as choosing the wrong medication in a pull-down menu), patients sometimes end up with the wrong medication—which could cause harm or even death. Big data can help reduce these error rates dramatically by analyzing the patient’s records with all medications prescribed, and flagging anything that seems out of place. MedAware, an Israeli startup has already developed this type of software, with encouraging results. Records for 747,985 patients were analyzed in a clinical study, and from those, 15,693 were flagged. From a sample of 300, about 75% of these alerts were validated, showing that the software could be an important tool for physicians, potentially saving the industry up to $21 billion per year.
+
+Unfortunately, as with many big data initiatives in healthcare, there are some roadblocks to widespread adoption. Due to the age of many healthcare IT systems, implementation of these devices can be slow to catch on. Additionally, healthcare data is very sensitive, and organizations have to be very careful about security and compliance with federal regulations.
+
+Identifying High-Risk Patients
+
+Many healthcare systems have to contend with high rates of patients repeatedly using the emergency department, which drives up healthcare costs and does not lead to better care or outcomes for these patients. Using predictive analytics, some hospitals have been able to reduce the number of ER visits by identifying high-risk patients and offering customized, patient-centric care.
+
+Currently, one of the major hurdles to overcome in identifying high-risk patients is lack of data. Overall, there are simply too few data points, making it near impossible to get an accurate picture of the real risks, as well as the reasons for these risks.
+
+Reducing Hospital Costs and Wait Times
+
+As with many other industries, there is enormous potential for cutting costs with big data in healthcare. There’s also an opportunity to reduce wait times—something that costs everyone money. One hospital in Paris is using predictive analytics to assist with staffing. By predicting admission rates over the next two weeks, the hospital can then allocate staff based on those numbers. There are so many ways hospitals could cut costs using predictive analytics, but few organizations have done so yet.
+
+Hospital budgets are complex, and though the ROI (return on investment) potential is high, some organizations are simply not ready to invest in big data. They may be replacing old equipment with new cutting-edge technology or allocating money elsewhere, despite the fact that they could save millions.
+
+Preventing Security Breaches & Fraud
+
+According to one study, the healthcare industry is 200% more likely to experience a data breach than other industries, simply because the personal data is so valuable. With this in mind, some organizations have used big data to help prevent fraud and security threats. For example, The Centers for Medicare and Medicaid Services were able to prevent a staggering $210.7 million in fraud in just one year using big data analytics.
+
+Unfortunately, in addition to the preventative benefits of big data, there are also some big security risks. Many organizations are wary of making themselves more vulnerable than they already are, which is understandable considering federal patient information regulations.
+
+Enhancing Patient Engagement & Outcomes
+
+Consumer interest in devices that monitor steps taken, hours slept, heart rate, and other data on a daily basis shows that introducing these devices as a physician aid could help improve patient engagement and outcomes. New wearables can track specific health trends and relay them back to the cloud where they can be monitored by physicians. This can be helpful for everything from asthma to blood pressure, and help patients stay independent and reduce unnecessary doctors’ visits.
+
+These wearables are unfortunately still in their infancy, and complications with insurance, software compatibility, and many other obstacles are currently limiting their usefulness.
+
+Widespread Use of Electronic Health Records (EHR)
+
+Overall, the industry could save as much as $400 billion by properly leveraging big data, yet adoption is frustratingly slow. The good news is that most hospitals have finally switched over to using electronic health records (EHR), which is making it easier for health care professionals easier access to data. That’s a great first step in making implementation easier for big data platforms as there’s a lot more data to work with. However, with the cautious approach many hospitals take to change, and an overwhelming number of possible applications, many administrators are overwhelmed and unsure of where to start. Yet as more healthcare organizations jump on board with big data, these practices will become the norm rather than the exception.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: While some healthcare organizations have begun to see the value in using big data, the industry as a whole has been very slow to adopt big data initiatives for a number of reasons.
+Here are just 5 of the many ways healthcare could use big data—and why they’re not leveraging it to its greatest potential.
+Unfortunately, as with many big data initiatives in healthcare, there are some roadblocks to widespread adoption.
+Unfortunately, in addition to the preventative benefits of big data, there are also some big security risks.
+Yet as more healthcare organizations jump on board with big data, these practices will become the norm rather than the exception.
+
+Other Blogs by Ryan Ayers: https://dataconomy.com/author/ryan-ayers/

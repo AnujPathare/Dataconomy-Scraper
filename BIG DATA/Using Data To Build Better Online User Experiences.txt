@@ -1,0 +1,64 @@
+Title: Using Data To Build Better Online User Experiences
+
+Article Link: https://dataconomy.com/2017/03/25/using-data-user-experiences/
+
+Author: Daniel Keller
+
+Publish Date: 2017-03-25
+
+Article:
+Do you know what an Exabyte is? One Exabyte is equal to one billion gigabytes. So if something is 2.5 exabytes in size, numerically it is written as 2,500,000,000 gigabytes. The full value, showing the gigabytes numerically as well, is probably too many zeroes for anyone to comprehend. Regardless, 2.5 exabytes signifies the amount of data created daily on the Internet.
+
+This consumer data is the stuff of every marketing director’s dreams. Harvesting and using that information is something that should be handled with care, however, because consumers care. They care about how you get their information and how you use it.
+
+Personal Information Collection
+
+Most Americans have no confidence in the security of the communication services they use and the organizations that have control of their data. In fact, they have a deep distrust in the abilities of both government and private organizations to protect the personal data they collect.
+
+Close to 75 percent feel it is important that they themselves should control who can access their personal data. They realize they can’t avoid being tracked in today’s digital world, but they do feel strongly that they should have some say in how their data is used.
+
+Social Media Data
+
+Nearly three-fourths of U.S. Internet users have social media accounts, many of them more than one. In 2005, the Pew Research Center started tracking the number of adult users in the U.S. who opened social media accounts. That number was an estimated five percent in that first year, but by 2011, it had grown to 50 percent and today stands at about 70 percent.
+
+The real gold in these accounts is users’ social identities. Some of the most successful businesses today are the ones who have tapped into this rich vein of information about user affiliations, media interactions, brand favorites, and more. They are mining with permission through applications that offer users the ability to log into a site with their current social media profiles.
+
+Personalized Online Experience
+
+Have you observed when you sign into a site where you have a membership that, along with your name and password, you now have the option to sign in with one of your social accounts such as Facebook or LinkedIn? Signing in this way is a growing trend because consumers like the idea of foregoing all those passwords for different sites and using just one sign-in throughout their Internet visit.
+
+By signing in with their social media identity, membership sites can then request access to all of their personal information as well. Those using their social logins are also helping businesses they visit to increase their user registration rates by up to 90 percent. Some 800 million logins were made on social media sites in 2013, so you can understand why businesses want to access consumer identity information.
+
+Permission and Trust
+
+If your business is looking to tap into this goldmine of information, it’s wise to explore the importance of getting user permission before you take up your gold pick. Permission and trust are important on both sides of the consumer/business relationship. Here are some suggestions for gaining both and building your organization’s online reputation and trust in your brand. Along with these suggestions, you will find useful information about how to improve your online reputation through ReputationDefender.
+
+Don’t Get Too Nosy
+
+Don’t ask for information you don’t need. Do you really need a phone number, birth date or gender? Personal information is very personal to most consumers and they certainly question why you need it. If the perceived value of joining your site is less than protecting their privacy, they may just back out of registration and leave you with nothing. If you don’t need it, but would still like to have that information, consider making those questions optional.
+
+The User Experience
+
+For information you deem mandatory, relate to the user how that information will be used to enhance their personal experience on your site. You may want to suggest it will help you tailor content and/or entertainment for them. Explain the benefits they will receive by sharing each data point.
+
+Show Your Transparency
+
+Using plain and simple language, let users know how and why you collect their information. Set up a page with their user information that they can visit and review at any time. Give them a choice by letting them review and edit it, as well as opt out of sharing it, whenever they wish.
+
+Play the Waiting Game
+
+Consumer trust must be earned. But the wait can be worth when you give users the chance to comment about your products or services. Many will share their experiences and suggestions with you, giving you much richer information than you could ever gain at the initial signup.
+
+The amount of data available through social sites is too valuable to ignore, no matter what the size of your business. If you mine it carefully and thoughtfully, with respect to user privacy, it can indeed be a goldmine.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: In fact, they have a deep distrust in the abilities of both government and private organizations to protect the personal data they collect.
+Close to 75 percent feel it is important that they themselves should control who can access their personal data.
+Social Media DataNearly three-fourths of U.S. Internet users have social media accounts, many of them more than one.
+Set up a page with their user information that they can visit and review at any time.
+The amount of data available through social sites is too valuable to ignore, no matter what the size of your business.
+
+Other Blogs by Daniel Keller: https://dataconomy.com/author/daniel-keller/

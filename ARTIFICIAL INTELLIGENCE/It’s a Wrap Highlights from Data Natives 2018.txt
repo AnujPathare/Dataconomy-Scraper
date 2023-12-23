@@ -1,0 +1,74 @@
+Title: It’s a Wrap: Highlights from Data Natives 2018
+
+Article Link: https://dataconomy.com/2018/12/04/its-a-wrap-highlights-from-data-natives-2018/
+
+Author: Diksha Dutta
+
+Publish Date: 2018-12-04
+
+Article:
+How do you merge the perspectives of the data scientists, entrepreneurs, investors, student and CTO’s under one roof when it comes to data-driven decisions? How do you bring together the likes of Google and IBM with academics and universities to find answers to the most relevant questions in the world of data and technology? How do you combine the tech trends ranging from AI and Blockchain into digital health or data analytics into the field of sports? You would have got some of these answers if you were one of the 2000 enthusiasts to attend Data Natives 2018.
+
+A hundred and thirty speakers shared their views on the most relevant tech trends affecting lives and economies across the globe. Here are a few highlights to make you relive parts of this conference through the perspective of some of our speakers.
+
+Artificial Intelligence can destroy inequality between nations; here is how
+
+Bart De Witte, Chair Faculty of Futur Medicine, Futur.io and Director Digital Health, IBM DACH, started his talk by explaining how social media platforms such as Facebook, Instagram, Snapchat are really good at capturing our attention by providing us with information, services and entertainment. These platforms resell our attention to advertisers and please their shareholders. It is well known that we are not their customers, we are their product.
+
+“After providing you with information, I won’t resell your attention to advertisers to benefit some shareholders, but I hopefully will convince all —or at least many of you—that we as a collective have to resell our attention to humanity, and let us become a product for society, if we want to create a future that is desirable. In 40 to 50 years from now, we will probably have access to a much broader form of AI that is capable of helping us to prevent, diagnose and treat diseases. We are currently creating the foundation of medical Artificial Intelligence that will permeate every aspect of our lives and health,” he says.
+
+He continued by saying that we are most probably the only generation, that has the opportunity, to build medical Artificial Intelligence, that has the opportunity to further destroy inequality between different nations; progress of equality in one and the same nation and lastly, the real improvement of man.
+
+He adds, “Technology is not a verb —it is capable of doing great things. But it doesn’t want to do great things. It doesn’t want anything. It’s up to us, as a collective to decide how we will develop AI in healthcare. Do we look at it, as a technology that allows us to build the next unicorns or do we look at it as something we as a collective can develop together in an open-sourced way, governed by all of us, following the rules of our societies, to serve both the needs and the wants humanity.”
+
+The relationship of Data with Machine Learning, Deep Learning and AI systems
+
+How can you have a conference on tech and not hear straight from the horse’s mouth? Yes, we are talking about IBM. Romeo Kienzler, Chief Data Scientist, IBM Watson IoT delivered the Keynote at Data Natives. He says, “If data is the oil for Machine Learning, it is plutonium for Deep Learning and AI systems. The most important matters to address are openness, fairness and robustness. Training a deep learning neural network has become a commodity. So, who owns the most relevant data always wins.”
+
+Romeo gave Mozilla Commonvoice and DeepSpeech as an example of how to unlock AI. In addition, he emphasized the importance of data protection in order to prevent AI oligopoly. He gave the recent Uber hack as an example and encouraged attendees to encrypt their emails, use secure messengers like Signal or TOX, and of course to not forget their annual donation to the Wikimedia foundation.
+
+Removing model bias against minorities and robustness against adversarial noise attacks was the second major point to address in his talk. Therefore IBM open-sourced all relevant tooling in that space which is all part of IBM One AI – in the cloud, in your data centre, on your desktop or on the IBM PowerAI supercomputer. Finally, he gave an outlook taking recent advancements in robotics, 3D printing and neural network synthesis (AI that creates AI) into account.
+
+Are the drugs we consuming authentic? Blockchain can help you answer
+
+The startups in the unconference room had pitches ranging from topics such as Blockchain in Health Tech to sports tech and “privacy by design” in GDPR. One of the talks was by Lea Dias, CEO and CoFounder, Protolync who flew from Paris to talk at Data Natives 2018.
+
+With the estimated cost of counterfeit drugs valued at $90 billion and cost of lives estimated at over 700 000, there is a growing imperative to bring traceability, transparency and security to the medication supply chain. Currently, the medication supply chain is flooded with fake drugs, incomplete and falsified information, complicated and complex supply chain logistics and error-prone manual processes, leading to inefficiencies, errors and wastage.
+
+“Blockchain technology ensures seamless transparency and traceability of medications information along global supply chains, thereby improving inventory and stock management. Traceability of medications from manufacturer to customer verifies the authenticity of returned, recalled or missing medication, and provides transparency on consent in clinical trials, hence improving the quality and reliability of clinical trial data,” she says.
+
+In addition, Blockchain technology establishes an immutable hack-resistant permission-based ecosystem, eliminating fraud and allowing information to be shared securely with partners and clients without any fear of information leaks.
+
+The evolving role of AI: What is ROI on AI?
+
+More and more companies are claiming to use AI to improve their processes- but it can be difficult to assess the return on investment for AI-based solutions when no case studies or benchmarks exist. Not to mention, success in AI projects relies on a number of predetermined factors: having the right amount and right type of data, having the right staff to tackle the problem and having a use case where AI is appropriate, for example. Investors, entrepreneurs, intrapreneurs and companies will discuss the current state of ROI on AI and share some learnings.
+
+Claudia Pohlink, Head of Intelligence at Deutsche Telekom Innovation Laboratories gave a perspective straight from the customer’s mind, “For our customers at Deutsche Telekom, AI plays a major role already today to keep the high quality of our network and customer interactions. But before you dream of AI, do your homework. And that means, clean up your data, establish a well-organized data management and take care of data quality.”
+
+But what is the ROI on AI when it comes to venture capital investments. Stephen Candelmo from Azafran Partners tells us, “In the end, ROI of AI is the same as any business…how are you saving the customer money or how are you helping the customer make more money? Understand the specific metrics as to how you do that whether through human augmentation for greater efficiency in systems and processes or enhancing sales results through AI…”
+
+Data and Research in Digital Health
+
+Hours of research goes into any disruptive innovation and how could we not highlight the work of researches in the field. Johannes Starlinger, Project Leader Health Data Science & Digital Health Architect mentioned that in the Data Science in Perioperative Care Lab at the Department of Anesthesiology and Operative Intensive Care Medicine (CCM/CVK) at Charité – Universitätsmedizin Berlin, they combine data from a number of clinical sources to do statistical, predictive, and visual analyses.
+
+“While this includes a large amount of structured data continuously recorded in our intensive care units, much important data recorded in clinical settings today is contained in free form text and not readily accessible to analytical processing,” he says.
+
+He adds that for English language clinical text, tools, terminologies, and corpora are available to automate the extraction of structured data. For most other languages, including German, such tools and resources are rare and everyone has to build their own data extraction pipelines and tools sets from scratch – if they can get legal access to sufficiently sized corpora of clinical text at all. In fact, one of the most pertinent hurdles is the (un)availability of clinical texts to the community knowledgeable in building text mining systems. To overcome this hurdle and to fuel development in clinical natural language processing, we have to find ways to engage patients in safely sharing their medical documents (and data) with researchers within and outside the healthcare system itself.
+
+Data Privacy and Data Ethics
+
+You cannot end a conference on Big Data without talking about privacy, which was a major topic of discussion throughout the panels. Martin Lopatka, Senior Staff Data Scientist/Applied Statistician at Mozilla questions, “How do we perform research into web browsing activity in a privacy-respectful manner? We ask permission. We acknowledge and identify the biases of an opt-in data collection model and we supplement these shortcomings with non-personally identifiable data where possible. We try hard to have a human-readable privacy policy and get real informed consent by default. We believe in transparency around every study launched on this platform; as such, both the code and the results are discussed in the open.”
+
+Dennis Grishin, CoFounder, Nebula Genomics says that when people talk about how a data-driven solution is going to have an impact, it’s usually about how to make data accessible, analyze it, use the gained insight etc: “However, with genomics, we are facing the unique challenge that the data that we want does not exist yet. The main challenge that we are facing is the data generation. How can we incentivize more people to sequence their genomes? What are the obstacles that deter them? How can we solve these issues? These are the challenges that we are trying to solve at Nebula Genomics. We believe that by addressing privacy concerns that many people have and shifting the sequencing costs to biopharma companies we can accelerate the beginning of a genomics age that is going to transform medical research and healthcare.”
+
+Let us leave you with a fun question asked by Cassie Kozyrkov, Chief Decision Scientist at Google– “What spaceship would you choose? One that never flew but you thoroughly tested it, or one where you have no idea how the thing flies, but it successfully flew many times before?” Cassie would pick the one she tested, as crafted testing is the basis of trust.
+
+Elena Poughia, Managing Director at Dataconomy Media and Head Curator at Data Natives conference captures the essence of all the excitement we went through, “Data Natives exceeded our expectations this year. More attendees than anticipated eager to stay till the very last talk on the second day to learn. Hands-on nerdy content by unapologetically honest and sincere practitioners. It is apparent that Data Natives is more than a conference. Its a community of tech disruptors.”
+
+Summary: You would have got some of these answers if you were one of the 2000 enthusiasts to attend Data Natives 2018.
+Romeo Kienzler, Chief Data Scientist, IBM Watson IoT delivered the Keynote at Data Natives.
+One of the talks was by Lea Dias, CEO and CoFounder, Protolync who flew from Paris to talk at Data Natives 2018.
+Elena Poughia, Managing Director at Dataconomy Media and Head Curator at Data Natives conference captures the essence of all the excitement we went through, “Data Natives exceeded our expectations this year.
+It is apparent that Data Natives is more than a conference.
+
+Other Blogs by Diksha Dutta: https://dataconomy.com/author/diksha-dutta/

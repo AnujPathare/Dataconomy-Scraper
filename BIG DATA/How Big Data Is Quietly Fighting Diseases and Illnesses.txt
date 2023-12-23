@@ -1,0 +1,48 @@
+Title: How Big Data Is Quietly Fighting Diseases and Illnesses
+
+Article Link: https://dataconomy.com/2016/01/18/how-big-data-is-quietly-fighting-diseases-and-illnesses/
+
+Author: Hannah Augur
+
+Publish Date: 2016-01-18
+
+Article:
+As Big Data becomes more and more integral to healthcare, everyone on the food chain will begin to see changes. Governments, universities, businesses, everyone has a stake in the future of health care. In recent years, Big Data has already offered up amazing proof of its applications, by helping stop the spread of Ebola, and combating the very common and devastating condition, Sepsis. It also may emerge as a surprising competitor in the world of social debate by spreading evidence-based knowledge on health.
+
+Ebola
+
+Given the scale of the Ebola outbreak in Africa in 2014, it’s no surprise that big data was brought in to combat it. It transformed the playing field from one based on estimations and anecdotal information into a precise response. With limited resources, it was vital in predicting the disease’s geographical spread and sending relief organizations accordingly. This started with mobile mapping, allowing the CDC and Swedish non-profit Flowminder, to both map typical population movement patterns, as well as measuring where cases seemed to be popping up. By tracking sources of calls to helplines, they could understand and predict outbreak locations.
+
+Other measures included more specific tracking, focusing on those that have been infected. David Bolton of Qlik, a big data analytics company which also created an Ebola-tracking app, prvoides an example that “port, train and flight data, as well as number plate recognition, can all help track potentially infected people and identify who they may have come into contact with.”
+
+Apart from tracking the spread of Ebola cases, the CDC also needed to coordinate their people and efforts. For this reason, they turned to BioMosiac, which tracked the global air transportation network in realtime. The program helped synthesize aggregated maps of diverse data sets, including anything from weather and climate data, to global distribution of poultry or confirmed disease cases. This data tracked people moving between countries and ports, and gave the CDC the chance to herd more at-risk populations through airports and security checks that will deliver a more thorough health screening and security check. Nothing about the fight against ebola was traditional. Turning to complex data sets and analysis is what brought containment about so quickly.
+
+Sepsis
+
+Unlike the rapid spreading Ebola, Sepsis, also termed “blood poisoning,” exists in individual cases. It occurs when the body releases extreme immune system measures to fight off infection. This triggers serious inflammation and can lead to damage or failure of the body’s organs. Though not often talked about, it is one of the most expensive conditions to treat, and can be incredibly hard to catch. Symptoms of Sepsis precursors are uselessly generic: chills, fever, rapid heart rate. The real symptoms occur quickly and can be tough to reverse once the patient goes into shock. Mortality rates are incredibly high, and over one million people a year are diagnosed with severe sepsis in the U.S. alone.
+
+That’s why Amara Health Analytics was founded. Bedside monitors were already collecting data on heart rate, respiratory rate and other signs. However, that information was useless if not quickly and correctly interpreted. By consulting a big data repository and charting indicators of Sepsis, they were able to create a predictive model based on this data gathered from bedside monitors. Simply by hooking these machines to a cloud-based system, they replaced the fuzzy, traditional methods of diagnosis with accurate, evidence-based and detail-oriented analysis.
+
+Last year, Penn Medicine was able to reduce their overall mortality rates by 4%, after much hard work and research. Thanks to the HITECH Act in 2009, offices must keep Electronic Health Records, making everything digital. This means an unprecedented amount of data. The team at Penn Medicine has created algorithms that make it much easier to recognize early stages of Sepsis. If a client’s data points are found to match that of other patients who had Sepsis, the nurses are notified accordingly. Moreover, the team has applied machine learning to the mix, making their algorithms even better each day. While these programs can’t yet fully integrate genetic factors, it helped Penn Medicine identify the condition a full 24 hours earlier—which, quite simply, could mean life or death. With these new algorithms, they’ve cut their mortality rates from 17% to 13%.
+
+Polio
+
+While there are plenty more instances of big data fighting off disease (Malaria, Dengue fever, the flu), there is also the strange social case for big data in health care. Yes, data helped the CDC make a weighty decision between controlling polio outbreaks or trying to eradicate the disease all together. Their well-informed decision has changed the future of polio entirely. There is no question that big data led to making that crucial decision to eradicate polio, simultaneously helping the world and proving just how many ways data can help the world. There is, however, a much murkier use of data.
+
+Vaccines. For every pro-vaccine page online, you will find two that are anti-vaccine. Some hope the data will change these dialogues. Many social commentators are confident that big data will crush the anti-vaccination movement. With studies popping up every day or being unearthed from the 1980’s, trying to maneuver the discussion is very daunting. That’s why data collected from countries, continents, and major organizations like WHO may help tip the scales. This chart from the Council on Foreign Relations focusing on sharing evidence and numbers in an easy-to-read way. The Vaccine-Preventable Outbreaks chart lets users explore data based on year or disease type. Project Tycho at Pitt University created data sets from 87,950,807 cases between 1888 and 2011. The goal was to map this data against vaccination campaigns and determine exactly how effective each program was. The Tycho program was supported both by the Bill and Melinda Gates Foundation and the National Institutes of Health.
+
+As one of big data’s biggest selling points is the ability to make unfathomable information clear and visible, many see it as the defining voice in the argument.
+
+Researchers, doctors, patients and businesses all benefit greatly from the consistent use of big data in the healthcare industry. Epidemic horrors like Ebola and very common illnesses like Sepsis will never be the same. The question is much less “when will big data be used next,” but “where is it being used already?” Chances are, it’s already affecting many of us.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: As Big Data becomes more and more integral to healthcare, everyone on the food chain will begin to see changes.
+PolioWhile there are plenty more instances of big data fighting off disease (Malaria, Dengue fever, the flu), there is also the strange social case for big data in health care.
+Many social commentators are confident that big data will crush the anti-vaccination movement.
+Researchers, doctors, patients and businesses all benefit greatly from the consistent use of big data in the healthcare industry.
+The question is much less “when will big data be used next,” but “where is it being used already?” Chances are, it’s already affecting many of us.
+
+Other Blogs by Hannah Augur: https://dataconomy.com/author/hannah-augur/

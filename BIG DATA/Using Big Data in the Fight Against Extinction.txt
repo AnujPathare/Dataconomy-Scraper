@@ -1,0 +1,40 @@
+Title: Using Big Data in the Fight Against Extinction
+
+Article Link: https://dataconomy.com/2014/06/07/using-big-data-fight-extinction/
+
+Author: Eileen McNulty
+
+Publish Date: 2014-06-07
+
+Article:
+A new study led by Duke University, has been looking into the ways we can use Big Data in the fight against species extinction. The wealth of information now available means conservationists and policy makers can more readily identify high-risk species, and implement change to save them before it’s too late.
+
+“Online databases, smartphone apps, crowd-sourcing and new hardware devices are making it easier to collect data on species,” said Stuart L. Pimm, Doris Duke Professor of Conservation Ecology at Duke.
+
+“When combined with data on land-use change and the species observations of millions of amateur citizen scientists, technology is increasingly allowing scientists and policymakers to more closely monitor the planet’s biodiversity and threats to it.”
+
+Two databases which have been instrumental in their research are Red List of Threatened Species and Protected Planet. They’ve also gathered data from mapping tools such as SavingSpecies and biodiversitymapping.org. Pimm explains that the value of these tools is in allowing researchers to spot patterns and correlations, and hopefully enable conservation efforts to be more focused. “We now know that most land-based species have small geographical ranges — smaller than the U.S. state of Delaware — and are geographically concentrated. The same pattern seems to hold for marine life, according to new data we are reviewing. Species with small ranges are disproportionately likely to go extinct,” Pimm said. “This knowledge offers the hope that we can concentrate our conservation efforts on critical places around the planet.”
+
+But even these resources are limited- the Red List, for instance, currently only lists information on 70,000 species, and investment is essential to help it gather data on more.
+
+Of course, knowledge is only the first step. In order to do something about the extinction rates, this awareness has to be converted into action, and systemic changes into the way we approach our environment.
+
+Read more here.
+
+(Photo credit: Dallas Krentzel)
+
+Follow @DataconomyMedia
+
+
+
+Interested in more content like this? Sign up to our newsletter, and you wont miss a thing!
+
+[mc4wp_form]
+
+Summary: A new study led by Duke University, has been looking into the ways we can use Big Data in the fight against species extinction.
+“Online databases, smartphone apps, crowd-sourcing and new hardware devices are making it easier to collect data on species,” said Stuart L. Pimm, Doris Duke Professor of Conservation Ecology at Duke.
+They’ve also gathered data from mapping tools such as SavingSpecies and biodiversitymapping.org.
+“We now know that most land-based species have small geographical ranges — smaller than the U.S. state of Delaware — and are geographically concentrated.
+Species with small ranges are disproportionately likely to go extinct,” Pimm said.
+
+Other Blogs by Eileen McNulty: https://dataconomy.com/author/eileen-mcnulty/

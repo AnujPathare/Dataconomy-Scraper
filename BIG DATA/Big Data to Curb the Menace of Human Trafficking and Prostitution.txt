@@ -1,0 +1,42 @@
+Title: Big Data to Curb the Menace of Human Trafficking and Prostitution
+
+Article Link: https://dataconomy.com/2015/01/24/big-data-to-curb-the-menace-of-human-trafficking-and-prostitution/
+
+Author: Eileen McNulty
+
+Publish Date: 2015-01-24
+
+Article:
+Polaris program launched seven years back is helping monitor human trafficking activities and offering hotline services. The project which has received upto 75,000 calls, would require specialists to rummage through a document detailing 215 protocols for handling specific situations and a list of 3000 resources including various agencies and link them to the caller’s location on Google maps.
+
+Palantir Technologies’ philanthropic division offered Polaris a solution in December 2012 which simplified Polaris’ network resources into a single dashboard. By overlapping the various parameters the specialists can pinpoint the specific response at a specific location in a given situation.
+
+Palantir’s CEO Alex Karp says- “Palantir’s software platform helps solve the hardest and most important problems in the world. Some institutions have the resources to pay for our products, and some don’t. Whatever the situation, our approach with all our clients is the same: to deploy our products to transform their institutions and to maximize their results.”
+
+Jennifer Kimball, director of Polaris’ data analysis program says- “It was a very complicated process, and in the calls where that matters most – where you’re helping someone in crisis right now and she’s calling from her hotel room and worried her pimp is going to come back – you really don’t want to spend 10 minutes trying to find the right person to help her,” “You want to be able to respond immediately.”
+
+Theresa Leigh, a working group member of the Program on Human Trafficking and Modern Day Slavery at Harvard University’s Kennedy School of Government says- “We’re starting to see a lot more interdisciplinary involvement across fields, especially from engineering,” She adds that partnerships between anti-trafficking organizations and tech giants like Facebook and Google are in part a result of how those services have been abused by traffickers.
+
+According to the U.S. Trafficking In Persons Report, there may be more than 20 million trafficking victims at any time in the world, but only about 40,000 victims are identified each year. To connect victims of human trafficking to the organizations who can help them, Google recently launched a new feature that displays human trafficking hotline numbers when users type in relevant keywords in search.
+
+In July 2014, Google launched this feature for the U.S., Japan and South Korea and are making it available in 9 more countries in 14 different languages. The hotlines play an indispensable role in the fight against human trafficking. Victims may be unfamiliar with support agencies or organizations in their area or unaware there is help available at all.
+
+These hotlines can make life-changing connections to services like crisis response, emergency housing, counseling, and legal aid at the moment victims need them. Confidential hotlines make certain victims receive the anonymity and protection they need to stay safe.
+
+Amongst other developments, efforts are being made to track digital footprint left by traffickers. “Sex trafficking, like many other organized crimes, leaves classic electronic footprints,” Manhattan District Attorney Cyrus Vance Jr. says. “Unless you are working systematically to find those footprints and clues, you are not going to find them.” Barry Koch, senior vice president and chief compliance officer at Western Union says- “We built models and utilized technology to identify transactions that had red flag-indicators, which we then investigated and in many instances we shared our results with law enforcement, which is required under certain regulations,” Koch says. “We did it consistent to the right to financial privacy. These are not just exercises in data dumping.”
+
+Other programs, like Memex, have stuck with using Internet data that’s accessible to the general public. “There isn’t an expectation of privacy and that’s why we’ve drawn a bright line for this program to only look at publicly available information,” DARPA program manager Christopher White says.
+
+Follow @DataconomyMedia
+
+
+
+(Image credit: Christian Junker, via Flickr)
+
+Summary: Polaris program launched seven years back is helping monitor human trafficking activities and offering hotline services.
+Palantir Technologies’ philanthropic division offered Polaris a solution in December 2012 which simplified Polaris’ network resources into a single dashboard.
+Trafficking In Persons Report, there may be more than 20 million trafficking victims at any time in the world, but only about 40,000 victims are identified each year.
+To connect victims of human trafficking to the organizations who can help them, Google recently launched a new feature that displays human trafficking hotline numbers when users type in relevant keywords in search.
+The hotlines play an indispensable role in the fight against human trafficking.
+
+Other Blogs by Eileen McNulty: https://dataconomy.com/author/eileen-mcnulty/

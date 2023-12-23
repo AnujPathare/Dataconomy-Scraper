@@ -1,0 +1,38 @@
+Title: Turning Big Data into Defence Strategies- the D2D CRC Launces
+
+Article Link: https://dataconomy.com/2014/07/01/turning-big-data-defence-strategies-d2d-crc-launces/
+
+Author: Eileen McNulty
+
+Publish Date: 2014-07-01
+
+Article:
+Today sees the launch of the Data to Decisions Cooperative Research Centre (D2D CRC) in Australia. The $88m centre will be headquartered in South Australia, and will collate and analyse vast swathes of data gathered from Australia’s Defence and National Security agencies, with the hope of allowing them to make better-informed and more timely decisions. The project is supported by seven Australian universities and 14 industry partners, including Unisys, BAE Systems, Pivotal, and SAS.
+
+Sanjay Mazumdar, CEO of D2D CRC and the Defence and Systems Innovation Centre has said the idea for the centre came about as a result of considering what problems Australia’s defence and intelligence agencies would face in the future. “We quite quickly realised that one of the challenges they’ve all got is in relation to the amount of data that they actually have within their organisations or have access to, and how they can manage, store, and translate that data into information intelligence so they can actually do something about,” he said.
+
+“That challenge is becoming greater and greater as the amount of data continues to grow. I often use the analogy it’s like what they’re trying to do is find the needle in the haystack, but the problem is the data haystack is growing a phenomenal rate, and there’s a lot more complex type of data available, like images that are far more complex than just reports. So as we started to speak to various groups in defence and national security, we quite quickly realised there was a technological challenge that they were facing.
+
+“The other aspect we quickly realised we needed to help them with was the policy element of that and how they can find balance between the need for national security and the need for privacy and data protection.”
+
+Projections for growth during the D2D CRC’s five-year funding period include employing 189 staff, educating 50 PhD students, and training over 1,000 data scientists. Allow the centre will be focused solely around gathering and analysing defence and intelligence data, Mazumdar has stated that their findings could be applied in other sectors also. “We’re already working with a couple of other areas looking at how these sorts of techniques can be applied in other sectors like mining and health”, he said.
+
+Read more here.
+
+(Image credit: Flickr)
+
+Follow @DataconomyMedia
+
+
+
+Interested in more content like this? Sign up to our newsletter, and you wont miss a thing!
+
+[mc4wp_form]
+
+Summary: Today sees the launch of the Data to Decisions Cooperative Research Centre (D2D CRC) in Australia.
+The project is supported by seven Australian universities and 14 industry partners, including Unisys, BAE Systems, Pivotal, and SAS.
+Sanjay Mazumdar, CEO of D2D CRC and the Defence and Systems Innovation Centre has said the idea for the centre came about as a result of considering what problems Australia’s defence and intelligence agencies would face in the future.
+So as we started to speak to various groups in defence and national security, we quite quickly realised there was a technological challenge that they were facing.
+Allow the centre will be focused solely around gathering and analysing defence and intelligence data, Mazumdar has stated that their findings could be applied in other sectors also.
+
+Other Blogs by Eileen McNulty: https://dataconomy.com/author/eileen-mcnulty/

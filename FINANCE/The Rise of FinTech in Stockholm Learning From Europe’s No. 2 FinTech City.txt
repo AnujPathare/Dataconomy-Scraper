@@ -1,0 +1,56 @@
+Title: The Rise of FinTech in Stockholm: Learning From Europe’s No. 2 FinTech City
+
+Article Link: https://dataconomy.com/2015/09/29/the-rise-of-fintech-in-stockholm-learning-from-europes-no-2-fintech-city/
+
+Author: Hannah Augur
+
+Publish Date: 2015-09-29
+
+Article:
+London, Berlin, and Amsterdam are all prominent tech hubs. However, earlier this year, a study from the Stockholm School of Economics revealed that Stockholm is not only rising in popularity in the tech sector, it is easily Europe’s number 2 city for FinTech. Best of all, reviewing the city’s history and analyzing cultural factors doesn’t just shed some light as to why, it gives us great insight into what makes a FinTech environment productive.
+
+A brief history of the “Unicorn Factory”
+
+Stockholm’s market­topping tech sector didn’t just pop out of nowhere; it started decades ago. A financial crisis,housing market and currency crash in the 1980’s would slowly be remedied through foreign investments and a growing ICT sector. These foreign relationships not only meant money, but the ability and preparedness to complete globally.
+
+The spread of tech in the early 90’s was further amplified by a tax subsidy provided by the government for the purchase of personal computers, allowing coming generations to have an unmatched level of familiarity with technology.
+
+By 2000, 76% of homes in Sweden would have a personal computer. For comparison, that rate was 51% in the USA. Much more impressively, they would go on to claim the world’s third highest internet penetration and fourth highest smart phone penetration—surpassing even the US and UK.
+
+Start­ups and that sweet Swedish modesty
+
+These high penetration rates mean a great affinity for tech, how to use it and, and how to be comfortable around it. This may be why the Stockholm region employs 197,000 people, that’s 18% of the population, in high­tech fields. In fact, as of 2014 there were at least 4,600 full­time employees specifically in the field of FinTech. That’s a 44% increase from 2010. US­ native, techie, and “start­up­whisperer” Tyler Crowley frankly told Sweden’s The Local “In terms of the tech scene, Stockholm happens to be the best anywhere on earth right now.” Perhaps it is the Scandinavian Law of Jante, whereby individual success is seen as inappropriate that has developed their peculiar but effective marketing strategy. While American companies are famous for flashy commercials regardless of the product itself, Stockholm does just the opposite. The goal is a product that gets customers talking—a product that markets itself.
+
+While names like Silicon Valley and NYC always manage to get ears prickling, Stockholm has a perfect mixture of the Modest Swede traits and intelligent immigrants. While no country’s immigration tendencies are easy to explain, Stockholm does rely heavily on immigrant workers in tech fields—and many are touting that as part of Stockholm’s reasons for success. With incredibly talented immigrant workers to mix things up, the Stockholm FinTech scene seems to have everything.
+
+Sauna Culture
+
+Multiple studies also point to the Scandinavian management style as a major role in their success. Programmers aren’t just hired to be a cog in a machine, they use their knowledge to design and create valuable products. A bottom-­up structure that focuses on “all for one and one for all,” the atmosphere may be akin to the ubiquitous sauna, where all barriers are released. Thanks to these lower distances in perceived power, the goal of a great product overcomes the goal of keeping the boss happy. In fact, despite long­held perceptions, salaries in Stockholm are relatively lower than those of other major hubs. This allows for a totally different dynamic than you may find elsewhere, in more fragmented companies.
+
+The fact that Stockholm already sounds much more inviting and community­ centric than hubs like NYC is also important. The city itself is small enough to foster a sense of trust, and communication. The FinTech meetup scene is rumored to be friendly, expansive and productive. Rather than seeing successful firms as competition, they serve as real­-life role models.
+
+What’s happening to all these Stockholm start­ups?
+
+Without even noticing, you likely use tech with Sweedish roots everyday. If you Skype, use Spotify or play Candy Crush, you’re looking at Swedish handiwork.
+
+Stockholm’s FinTech Startups raised a total $226 million last year, that’s nearly one­fifth of all investments in Europe. Swedish bank, Nordea, just launched a program to accelerate FinTech startups. We’ve already written about KnCMiner, the bitcoin mining company that raised a cool $15 million. Cyrex secured $10 million in May. Then there’s the unicorn Klarna, who remains of Europe’s leading providers of payment solutions. In fact, they are even eyeing the US market. So where exactly are all these millions of dollars coming from?
+
+As we already discussed, traditional banks in the US are struggling to keep up with the financial sector. Conversely, other companies around the world are getting ahead of the game by investing in FinTech—and they’re investing plenty of money in Stockholm. In the past two years, Intel Capitol, Mastercard and American Express Ventures have invested in one Stockholm FinTech company, iZettle. The mobile payment solution, complete with app and card reader, allows small businesses and individuals alike to complete card transactions with the help of a smart phone. Investments like these and exit payments make up a huge percentage of the Stockholm FinTech finances, and continue to drive Stockholm up the global FinTech­scoreboard.
+
+“But I Don’t Live in Sweden…”
+
+“Good ideas aren’t enough for success.”
+
+Daniel Blomquist, partner at venture capital firm Creandum, explains that Stockholm’s success is also driven by a “high level of execution intelligence.” Workers don’t just focus on writing code, they focus on a marketable, useful product. While strong social security, a history in tech and finance are shaping the FinTech hub, there are many lessons to be learned from the burgeoning city.
+
+There are educated and driven people all over the world. What’s happening in Stockholm is the result of far more complex factors. How do employees and employers interact? How do employees view their work and role? They don’t just churn out decent companies. Stockholm has earned itself the title of tech “Unicorn Factory.” Creating “Unicorns,” start­ups that become so successful that they are mythical, takes a lot more than GPA and money. With a background like theirs, there is no question Stockholm will hold onto their place of reverence atop the FinTech scene…maybe one day they’ll even break first place.
+
+(top image: iZettle)
+
+Summary: However, earlier this year, a study from the Stockholm School of Economics revealed that Stockholm is not only rising in popularity in the tech sector, it is easily Europe’s number 2 city for FinTech.
+A brief history of the “Unicorn Factory”Stockholm’s market­topping tech sector didn’t just pop out of nowhere; it started decades ago.
+With incredibly talented immigrant workers to mix things up, the Stockholm FinTech scene seems to have everything.
+In the past two years, Intel Capitol, Mastercard and American Express Ventures have invested in one Stockholm FinTech company, iZettle.
+Investments like these and exit payments make up a huge percentage of the Stockholm FinTech finances, and continue to drive Stockholm up the global FinTech­scoreboard.
+
+Other Blogs by Hannah Augur: https://dataconomy.com/author/hannah-augur/

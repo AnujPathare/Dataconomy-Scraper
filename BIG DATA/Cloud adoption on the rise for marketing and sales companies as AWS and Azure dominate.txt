@@ -1,0 +1,70 @@
+Title: Cloud adoption on the rise for marketing and sales companies as AWS and Azure dominate
+
+Article Link: https://dataconomy.com/2017/08/25/cloud-adoption-aws-azure/
+
+Author: Ralph Tkatchuk
+
+Publish Date: 2017-08-25
+
+Article:
+A recent Cowen survey reveals that businesses are showing increased adoption of cloud computing. Leaders Amazon Web Services (AWS) and Microsoft Azure also continue to control majority of the public cloud market.
+
+Organizations are also looking to benefit from increased cloud adoption. Design software giant Adobe’s Q2 earnings report showed 27 percent growth. Its cloud-based services continue to contribute to the company’s growth with its Creative Cloud division leading the charge raking in $1.01 billion in Q2. Adobe ditched its perpetual licensing model for its design applications for a subscription-based model in 2013. While Adobe inked a partnership with Microsoft to use Azure to power its main services, Adobe still continues to use AWS and its own infrastructure.
+
+More organizations are also shifting business functions such as communication and sales and marketing toward cloud-based services which now prompt software-as-a-service providers to invest more in partnering with AWS and Azure for their additional infrastructure needs. Companies such as Salesforce and Sitecore rely on the public cloud to augment their data centers.
+
+In addition, niche players offering specialized features such as virtual labs for use in sales demos and proofs of concept and development and test workflow automation are also getting attention from independent software developers. The survey covered 551 SMEs, mid-market, and enterprise organizations.
+
+Here are some key insights from the Cowen survey.
+
+Cloud adoption on the rise
+
+Public cloud adoption by companies of all sizes is on the rise and companies are set to spend more on cloud resources in 2017. Companies are expected to spend 16 percent more in 2017 compared to last year. SMBs and mid-market customers are seen to scale up their spending by 18 and 17 percent respectively while enterprises will have a more conservative 13 percent increase.
+
+Adoption is being fueled by the need for a scalable infrastructure to support an evolving workload. Currently, 18 percent of workloads are currently supported by public cloud and 77 percent of businesses are likely to add more software-as-as-service (SaaS) workloads.
+
+AWS and Azure dominate
+
+Continuing their dominance of the public cloud market are AWS and Azure. AWS continues to be popular with the SMB segment while Azure retains its appeal to enterprise customers.
+
+AWS and Azure led all providers in the survey’s ease-of-use criteria. AWS led in user interface, API complexity, and reporting and billion. Azure led in management and monitoring, software and data integration, technical support, and training and documentation.
+
+These findings seek to affirm Gartner’s recently released 2017 Magic Quadrant for cloud infrastructure-as-a-service (IaaS). AWS and Azure continue to occupy the “leaders” quadrant mainly due to their position in the market. Niche players, however, are also making headway in the market largely enabled by specific use cases demanded by customers.
+
+Sales and marketing move to the cloud
+
+As the Cowen survey indicates, companies are looking to move business functions such as testing and developing, web hosting, and e-mail and communications functions to SaaS. Other specialized business functions such as sales and marketing workflows are also being transitioned to the cloud.
+
+Adobe Marketing Cloud has become the company’s second biggest division next to Creative Cloud accounting for 27 percent of revenue. Adobe’s digital marketing platform is composed of marketing and analytics solutions and enjoys wide use among sales and marketing organizations especially with increased mobile adoption by consumers.
+
+Enterprise apps like CRMs and marketing automation are now available as cloud-based services and many of these SaaS companies use either AWS or Azure for their public cloud infrastructure. For example, popular CRM Salesforce partnered with AWS as its preferred public cloud infrastructure provider. The Salesforce deal earned AWS $400 million. Microsoft may have its own enterprise applications for sales and marketing in Microsoft Dynamics but is also known to partner with other developers such as Sitecore and Act-On.
+
+It is with these partnerships that contribute to AWS and Azure’s growth.
+
+Room for niche players
+
+Still, organizations may require different approaches to their infrastructure specific to their contexts. For instance, ISVs are now looking to streamline their workflows using approaches like DevOps. Such approaches need special automation and integration features built on top of the infrastructure layer. As such, niche providers have started to figure in Gartner’s quadrant. Providers like Oracle (through Ravello) and Skytap offer virtual labs that cater to specialized requirements.
+
+ISVs start to face short and more frequent release cycles thus the need for a capable cloud infrastructure. Other cloud-based virtual lab providers like CloudShare provide solutions to cover development and testing, sales demos, and virtual training through cloud-based virtual labs. Using such an infrastructure, ISVs can readily transition from one phase of the business process to the next. This helps reduce the friction among developers, sales and marketing, and training teams.
+
+In a recent DevOps talk, CloudShare R&D VP Muly Gottlieb illustrated how the major cloud providers have limited capabilities in addressing such needs out-of-the-box. Functionalities such as use of templates for environments configured as part of complex topologies and integration of tools and scripts to automate processes are only made available by niche and premium providers.
+
+Time for the next wave of cloud services?
+
+The Cowen survey also showed that while AWS still leads the market in terms of size by a considerable margin, Azure appears to be building a loyal following. Only 37 percent of Azure customers are expected to add or replace their vendors in the next two years compared to 53 percent of AWS.
+
+These may suggest that customers are now open to trying out a variety of providers to build their ideal infrastructure. AWS enjoys the luxury of being first to market but now that cloud has hit the mainstream and with enterprise as the more lucrative segment, players like Microsoft are now showing their savvy.
+
+Requirements are also evolving which opens up opportunities for premium turnkey services that serve specialized use cases. At least in these segments, niche providers can challenge giants like AWS and Azure.
+
+Like this article? Subscribe to our weekly newsletter to never miss out!
+
+Follow @DataconomyMedia
+
+Summary: Leaders Amazon Web Services (AWS) and Microsoft Azure also continue to control majority of the public cloud market.
+Companies such as Salesforce and Sitecore rely on the public cloud to augment their data centers.
+Cloud adoption on the risePublic cloud adoption by companies of all sizes is on the rise and companies are set to spend more on cloud resources in 2017.
+AWS and Azure dominateContinuing their dominance of the public cloud market are AWS and Azure.
+Adobe Marketing Cloud has become the company’s second biggest division next to Creative Cloud accounting for 27 percent of revenue.
+
+Other Blogs by Ralph Tkatchuk: https://dataconomy.com/author/ralph-tkatchuk/

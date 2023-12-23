@@ -1,0 +1,144 @@
+Title: Big Data: The Bridge to Success
+
+Article Link: https://dataconomy.com/2015/01/19/big-data-the-bridge-to-success/
+
+Author: Paul Forrest
+
+Publish Date: 2015-01-19
+
+Article:
+Paul Forrest has some twenty-five years experience of helping businesses to solve complex business problems, deliver their transformation goals and to achieve tangible strategic outcomes. Hands on and deep thinking, he has worked with many FTSE 100 clients, Global 500 businesses and major Government entities around the world including Ford Motor Company, VAG Group, BAE Systems, GSK, AkzoNobel, RBS, HBOS, Diageo, Bacardi, Wal-Mart, British Airways, Virgin Galactic, Etisalat, British Telecom, Vodafone and Allen & Overy. Paul also sits on the board of a number of agile, disruptive and challenger businesses whilst supporting value creation programmes for Private Equity backed businesses. He joined the board of MBN Solutions to help establish the platform for growth and focuses on the development of the senior team, management practices and MBN’s core focus around Insight and Analytics.
+
+Not realising the potential benefits of ‘Big Data’? Here, I present a little food for thought at the start of the year doused with a little common sense. Sometimes a gentle nudge or reminder of what’s missing helps to focus the mind on what skills a business should be searching for. With this in mind, I introduce my take on the need for more ‘Bridging’ skills in organisations seeking to benefit from ‘Big Data’.
+
+So, it’s 2015- what do we know about how Data-Driven Companies are performing?
+
+You can’t help but to have noticed that Big Data is growing in popularity for column inches in the business press. Everywhere from the mainstream broadsheets right through to regular articles in the Harvard Business Review one can learn of the latest perspectives on Big Data and the likely relevance to your business. So why is it that we arrive at the start of 2015 with many businesses struggling to make sense of the opportunity and how to go about making the most of it?
+
+Ok, so lets start with my regular health warning here… These are my opinions and observations. They are based on the work I perform at board level with many leading, large listed businesses seeking to get the most from their insight and data enabled initiatives. Whilst I’m not the greatest fan of the ‘Big Data’ expression, I use it here in the same way people use ‘bucket terms’ in business. It serves a purpose and is not intended to differentiate the myriad initiatives that exist in this space.
+
+Context
+
+According to Gartner’s recent Big Data Industry Insights report, it’s clear that many organisations are increasing their investments in Big Data. What is clearer still is that a large proportion continues to struggle to gain significant business value from those investments.
+
+Add into the mix other sentiment and survey results such as a recent CSC survey and you discover that five of every nine Big Data projects never reach completion and many others fall short of their stated objectives. So what can these surveys offer in terms of clues?
+
+My own analysis here suggests no real surprises. Often, board level sponsors, business managers, data and IT groups are not aligned on the business problem they need to solve. Also, employees frequently lack the skills required to frame insight questions or analyse data.
+
+Many more simply don’t take a strategic approach to their initiatives and fail to follow what we have come to regard as cornerstone rules (more on these later). So, is there a ‘Silver Bullet’ available to help solve these issues?
+
+Silver Bullet?
+
+Many of us have come to understand this term as a general metaphor, where ‘Silver Bullet’ refers to any straightforward solution perceived to have extreme effectiveness. The phrase typically appears with an expectation that some new development or practice will easily cure a major prevailing problem.
+
+Without wishing to be too controversial, my analysis of the missing link could yield ‘extreme effectiveness‘ but not as a result of a new development.
+
+So what are we discussing here? In its simplest terms, I’m referring to a role best described as ‘The Bridge’. ‘The Bridge’ is a reference to a skillset more than a specific role. It may even be a cultural characteristic but what is clear, is that for many organisations failing to realise the benefits they seek from data, the root cause is the disconnect between key stakeholders including the board, the IT department, those at the sharp end of the business and those responsible for processing, storing and analysing the data available to the enterprise.
+
+Now… to be clear, this is not necessarily an independent role I see as being required in isolation of other activities – think of it more as a matrix management activity or a core skill requirement for middle and senior management. In essence, if you could equip your business analysts, data scientists, insight staff and IT team with these skills in a coterminous fashion; I think you’d be close to the desired state. But this requires education; awareness and a heap of soft skills still often overlooked in corporate staff and management development programmes.
+
+Buy or Build?
+
+The perennial question of whether or not you develop your own or simply hire someone with the requisite ‘Bridge’ skills and characteristics is a challenging one for many businesses. These are rare people. Managers at the front end of the business with a deep enough appreciation for how data can answer previously unanswered questions, IT practitioners with deep, relevant and up to date domain expertise, data practitioners with the ability to translate their knowledge into easy to follow guidance for business are not likely to be readily available.
+
+‘Buying’ them in is equally challenging. As already noted, these are not necessarily people with a role literally and exclusively relating to the tenets of this paper. Instead, they are likely to be traits you have to specifically look for whilst recruiting other staff. Perhaps the closest cousin is the Business Analyst. I prefer to consider these skills and traits which all senior managers should be able to master to ensure that the expertise is rooted in the business and available ‘on tap’. This means that unless you’re in a hiring cycle, you may need to consider building your own ‘Bridge’.
+
+Building The Bridge
+
+So if The Bridge is the missing link to get you from the mass of data, analysts and technology to a real, positive business outcome, what should you be looking for?
+
+Awareness and Education
+
+Tremendous appreciation for the strategy, people, systems and operational characteristics of the business provides an obvious start for the necessary awareness. In terms of education, the starting point must be greater awareness, in terms of what the art of the possible is… what can be achieved and what the thought process and practical approach to framing issues and improvement opportunities must be at the heart of this. Some high achieving organisations I work with consider this is something that should be endemic across the whole business and at all levels. The best way to achieve this is likely to be an item of debate for some years to come but in essence, the key methods include:
+
+Reciprocal secondments
+
+In-house and external Training and seminars
+
+Enhanced/structured continuous professional development
+
+Online communities
+
+Individual reading
+
+Business Safaris – Reading groups
+
+Programmed action research
+
+Individual action research
+
+Membership of professional bodies
+
+Whilst not intended to be an exhaustive list, there should be few surprises here. The issue for many is that most soft skills training tends to be focused on developing deeper skills utilised for the delivery of ‘business as usual’ rather than developing a whole new awareness of a data driven business. Perhaps its time to think outside of the box?
+
+Soft skills to deliver ‘The Bridge’
+
+There are a number of specific areas of focus including those that are more readily incorporated into soft skills training. These may, to some extent, seem like common sense (and perhaps they are), but start by looking at your key managers and match these soft skills on the basis of competency on one axis and capability on the other… How many appear in the top right quadrant?… So, whether you seek to build the skills into your own team or recruit key team members to be your ‘Bridge’, the starting point, as a minimum, are the following.
+
+Ability to Communicate
+
+The nature of The Bridge means that they’ll be spending much of their time interacting with people from a variety of backgrounds across the business. This ranges from users, customers or clients, to management and teams of scientists, analysts and IT developers. The ultimate success of an initiative depends on the details being clearly communicated and understood between all parties, especially the project requirements, any requested changes and results from the testing.
+
+Technical Skills
+
+For your ‘Bridge’ to be able to identify solutions for the business, they need to know and understand the data available to the business, its current use, storage, ownership and currency. Remember, you’re not expecting people here to be able to craft their own solutions and develop deep data taxonomies etc. Bringing ‘bridge skills’ into play necessitates understanding new outcomes that can be achieved with the data worked in a different way – answering previously unanswered questions. This in turn means having a good understanding of the benefits the latest analytical approaches and the insight, analytics and scientific skills available to or within the business offers. Ultimately, you will need a data scientist, analyst or insight specialist to ‘make the magic happen’.
+
+The ability to test data solutions and hypothesis and design business what if scenarios is an important technical skill, and they’ll only gain respect and build confidence in the Data Science teams and business end-users if they can demonstrate that they can speak with authority in the dual languages of business and data, whilst being technically strong in the appreciation of data tools.
+
+Analytical Skills
+
+To be able to properly interpret and translate the business’ needs into data and operational requirements, every ‘Bridge’ needs very strong analytical skills. A significant amount of their job will be analysing data, documents and scenarios, reviewing user journeys and operational workflow to determine the right courses of action to take.
+
+Problem Solving Skills
+
+Building on their analytical skills, your ‘Bridge’ will also need to be able to look at the data and use out of the box thinking to help craft solutions for their business users. Again, clearly, they are not the main practitioners responsible for crafting a solution; this is the domain of the Data Scientist or insight analyst etc. No, our ‘Bridge’ here is responsible for facilitating the efficient and effective interplay between the key stakeholders from the business and the data practitioners.
+
+Decision-Making Skills
+
+It is key in any business that the board or key decision makers do not abdicate management responsibility. However, your ‘Bridge’ should be available to help make important decisions in the data solution building process. The ‘Bridge’ acts as a consultant to managers and the advisor for the data and IT teams together, so they need to be ready to be asked any number of questions. Your ‘Bridge’ needs to know how to assess a situation, take in relevant information from your stakeholders and work collaboratively to plan out a course of action.
+
+Influencing and Negotiation skills
+
+The ‘Bridge’ is the liaison between the users, data scientists, analysts, developers, management and the clients. This means a careful balancing act of differing interests whilst trying to achieve the best outcome for the business. To do so requires an outstanding ability to persuade and negotiate.
+
+Agility
+
+Corporate agility is a trait for an organisation wishing to get the best out of a ‘Bridge’. However, individual agility is a mandatory requirement. Agile and flexible, and have no trouble taking on the unique challenges of every new business project with a rich data driven theme and mastering both the requirements and the personalities in the collaborating teams.
+
+Management Competencies and Change Management Traits
+
+The most successful ‘Bridge’ is likely to have a skill set that allows them to demonstrate their abilities across the board, while being experts in managing business processes, developing a project, focusing on outcomes, strategic planning, change management and being able to communicate effectively to their business partners. They need a strong fundamental set of data knowledge, systems and tools, be able to grasp engineering concepts and be aware of complex modelling techniques together with the ability to write effectively on such subjects in plain and simple language. If they master all of these skills, they’ll be a phenomenal ‘Bridge’, that any business would be lucky to have on board.
+
+Conclusion
+
+For many businesses, Big Data initiatives are not failing per se, it is simply that the organisations facing failure have yet to find an implementation model that allows them to exploit the initiatives to deliver expected outcomes. This is a matter of Business Maturity and assembling the right team (see the rules below). In many cases where failure prevails, it is the absence of the right skills that has caused the failure. To help overcome these hurdles and maximise business value from data, organisations should seek out those in their ranks with the skills to be the ‘Bridge” and then consider the following steps to significantly shorten the time-to-value and contribute to business success using big data initiatives.
+
+My advice? Follow these simple rules:
+
+Maintain one instance of each data set not multiple copies (thus avoiding version control issues and problems with validity or currency of data)
+
+Find ways to focus on faster deployment of data – the faster the more valuable the outcome – particularly when it comes to predicative analysis
+
+Consider diverse data sources including social and collaborative data sourcing from peers, competitors and data exchanges.
+
+Data has value – not always immediately, so keep what you can and focus on exponential growth of your data storage needs
+
+Use your ‘Bridge’ to work with the business to identify and plan to solve real pain points. Identifying the unmet need is key and interpretation of the pain into tenets of a solution is where your ‘Bridge’ should really shine. They can then help specify solutions for the data scientists and analysts to build with the IT team.
+
+Ultimately, it’s about bringing the right people together at the right time and facilitating their buy in and commitment to business solutions to complex business problems. Get it right and maximise the prospects of your ‘Big Data’ initiatives.
+
+Want help to find people who fit the bill? DataIQ’s Big Data Recruitment Partner,MBN Solutions can help. Alternatively, if you are wrestling with the lack of a ‘Bridge’ for a specific delivery initiative or project, contact Advanced Capability Solutions Big Data team via the link.
+
+Follow @DataconomyMedia
+
+
+
+(Image credit: scraping.pro)
+
+Summary: Not realising the potential benefits of ‘Big Data’?
+You can’t help but to have noticed that Big Data is growing in popularity for column inches in the business press.
+Whilst I’m not the greatest fan of the ‘Big Data’ expression, I use it here in the same way people use ‘bucket terms’ in business.
+ContextAccording to Gartner’s recent Big Data Industry Insights report, it’s clear that many organisations are increasing their investments in Big Data.
+Alternatively, if you are wrestling with the lack of a ‘Bridge’ for a specific delivery initiative or project, contact Advanced Capability Solutions Big Data team via the link.
+
+Other Blogs by Paul Forrest: https://dataconomy.com/author/pforrest/

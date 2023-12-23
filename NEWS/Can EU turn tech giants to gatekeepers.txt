@@ -1,0 +1,66 @@
+Title: Can EU turn tech giants to gatekeepers?
+
+Article Link: https://dataconomy.com/2023/09/07/can-eu-turn-tech-giants-to-gatekeepers/
+
+Author: Eray Eliaçık
+
+Publish Date: 2023-09-07
+
+Article:
+A seismic shift is underway in the halls of European power. The European Commission has unfurled a regulatory juggernaut poised to transform the landscape of Big Tech as we know it: the Digital Markets Act (DMA). This groundbreaking legislation, a triumph of determination in the face of digital dominance, marks Europe’s resolute bid to level the playing field in the tech arena.
+
+But why does this matter? The DMA is not just another set of bureaucratic guidelines; it’s a resounding declaration that the era of unchecked tech supremacy is drawing to a close. In this article, we’ll delve into the DMA’s core provisions, identify the ‘gatekeepers’ it seeks to rein in and explore the profound implications for both the tech giants and the digital realm itself.
+
+Defining the DMA’s gatekeepers
+
+The term “gatekeeper” is central to the DMA’s mission. These gatekeepers are tech companies that wield substantial market influence, and they are now bound by a set of stringent obligations aimed at leveling the digital playing field. The list of gatekeepers reads like a who’s who of the tech world, with Alphabet, Amazon, Apple, Meta, and Microsoft hailing from the United States and ByteDance representing China.
+
+It’s D-Day for #DMA! The most impactful online companies will now have to play by our EU rules.#Gatekeepers are: Alphabet
+
+Amazon
+
+Apple
+
+ByteDance
+
+Meta
+
+Microsoft DMA means more choice for consumers. Fewer obstacles for smaller competitors. Opening the gates to the Internet🇪🇺 pic.twitter.com/xaTluUfBax — Thierry Breton (@ThierryBreton) September 6, 2023
+
+The DMA identifies 22 core platform services that these gatekeepers must bring into compliance by March 2024. These services span various domains, including social networks (such as TikTok, Facebook, Instagram, and LinkedIn), messaging services (WhatsApp and Messenger), intermediation (Google Maps, Google Play, Google Shopping, Amazon Marketplace, Apple’s App Store, and Meta Marketplace), video sharing (YouTube), advertising services (Google, Amazon, and Meta), web browsers (Chrome and Safari), search engines (Google Search), and operating systems (Android, iOS, and Windows).
+
+Rules of engagement
+
+The DMA introduces a set of rules tailored to each core platform service, ensuring that gatekeepers operate fairly and transparently. For example, major messaging apps will need to ensure interoperability with competitors. Operating systems will be required to support third-party app stores and alternative in-app payment options.
+
+Additionally, search engines like Google and potential additions like Microsoft’s Bing will have to offer users a choice of other search engines. Operating system providers must allow users to uninstall pre-installed apps and customize system defaults, such as virtual assistants and web browsers. Gatekeepers will also be prohibited from favoring their products and services over those of competitors on their platforms.
+
+The gatekeeper criteria
+
+The DMA employs specific criteria to designate companies and their services as gatekeepers. Among these criteria are annual turnover thresholds of over €7.5 billion and market capitalization exceeding €75 billion. Services must also boast more than 45 million monthly active users within the European Union.
+
+Industry responses
+
+Unsurprisingly, tech giants have reacted with mixed sentiments to their gatekeeper designations. Apple expressed concerns about the DMA’s potential impact on user privacy and security while committing to delivering exceptional products and services to Reuters. Meta, the parent company of Facebook and Instagram, and Microsoft welcomed the investigations into their services’ potential inclusion under the DMA.
+
+Google is in the process of reviewing its designation and assessing the implications, with a focus on meeting the new requirements while preserving the user experience. Amazon is collaborating with the European Commission to finalize its implementation plans.
+
+ByteDance, the company behind TikTok, stands out as a vocal critic of its gatekeeper designation. TikTok’s Brussels public policy head, Caroline Greer, expressed strong disagreement with the decision, emphasizing how TikTok has introduced choice into a market traditionally dominated by incumbents.
+
+The road ahead
+
+For gatekeepers that fail to comply with the DMA’s regulations, the European Commission wields a formidable arsenal of penalties. These include fines of up to 10 percent of a company’s global turnover, which can escalate to 20 percent for repeat offenders. Structural remedies, such as forcing a gatekeeper to divest part of its business, are also on the table.
+
+While the DMA represents a significant milestone in regulating Big Tech, it is far from the end of the story. Legal challenges are expected, echoing previous battles between tech giants and regulators. As the European Commission forges ahead with its ambitious digital agenda, the world watches closely, aware that the outcome will have far-reaching implications for the future of the digital economy.
+
+The DMA signifies Europe’s resolve to rebalance the power dynamics in the tech industry, aiming to foster innovation, protect consumers, and ensure fair competition in the digital age. As tech giants brace for compliance, the regulatory landscape continues to evolve, with profound consequences for the tech industry and society as a whole.
+
+For more detailed information, click here.
+
+Summary: In this article, we’ll delve into the DMA’s core provisions, identify the ‘gatekeepers’ it seeks to rein in and explore the profound implications for both the tech giants and the digital realm itself.
+These gatekeepers are tech companies that wield substantial market influence, and they are now bound by a set of stringent obligations aimed at leveling the digital playing field.
+The gatekeeper criteriaThe DMA employs specific criteria to designate companies and their services as gatekeepers.
+The road aheadFor gatekeepers that fail to comply with the DMA’s regulations, the European Commission wields a formidable arsenal of penalties.
+As tech giants brace for compliance, the regulatory landscape continues to evolve, with profound consequences for the tech industry and society as a whole.
+
+Other Blogs by Eray Eliaçık: https://dataconomy.com/author/eray-eliacik/

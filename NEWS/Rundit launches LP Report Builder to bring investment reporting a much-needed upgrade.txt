@@ -1,0 +1,38 @@
+Title: Rundit launches LP Report Builder to bring investment reporting a much-needed upgrade
+
+Article Link: https://dataconomy.com/2023/10/04/rundit-launches-lp-report-builder/
+
+Author: Stewart Rogers
+
+Publish Date: 2023-10-04
+
+Article:
+In today’s rapidly evolving investment landscape, staying ahead of the curve is crucial for venture capital firms, private equity firms, investment companies, and family offices. That’s where Rundit – a portfolio management and monitoring solutions provider – wants to make a difference and bring the investment industry up-to-date. Ironically, the investors that are funding the future still wrestle with outdated tools like Excel spreadsheets, LP portals, and static PDF reports.
+
+Rundit has long been committed to reshaping the way investment reporting is done. Founded in 2017 in Helsinki, Finland, by a team of entrepreneurs with expertise in fintech, funding, and finance, it has $3 million in funding and customers in over 30 countries.
+
+Today, Rundit has launched its LP Report Builder, designed to give investors seamless reports and enriched insights. Instead of cumbersome spreadsheets or static documents, it offers an automated and visually appealing web-based presentation. But it’s about more than providing easier access or better-looking dashboards.
+
+Investment regulations are continually evolving to enhance transparency and protect investors. The U.S. Securities and Exchange Commission (SEC) recently introduced new rules under the Investment Advisers Act of 1940. These rules require registered private fund advisers to provide investors with detailed quarterly statements covering private fund performance, fees, and expenses.
+
+While these regulations are relatively new in the United States, they have long been in place in Europe. The company claims that its LP Report Builder makes it easier for firms to comply with these regulations, bridging the gap between regulatory environments.
+
+Crucially, it adheres to EIF-Invest Europe-ILPA compliance standards, fostering trust and credibility between fund managers and their limited partners (LPs).
+
+EIF-Invest Europe-ILPA compliance standards refer to guidelines and best practices that private equity and venture capital firms adhere to when reporting to their investors, particularly limited partners (LPs). These standards are designed to enhance transparency, accuracy, and consistency in reporting, ensuring that LPs receive comprehensive and reliable information about the performance of their investments.
+
+By simplifying the reporting process, Rundit’s solution allows professionals to focus on what truly matters: analyzing data, identifying trends, and making strategic moves.
+
+“Our goal is to empower investors with real-time insights that drive better decision-making while freeing them from the burden of consolidating information from multiple data sources,” Jori Karstikko, CEO and co-founder at Rundit, said.
+
+It might not be as sexy as augmented reality or Web3, but by providing an innovative, automated, and visually appealing solution, Rundit allows investors to stay ahead of the curve. In an industry where time is money, this tool streamlines the reporting process, fosters trust between fund managers and LPs, and ultimately enhances decision-making in the fast-paced investment landscape.
+
+This news was originally published at ArcticStartup and is reproduced with permission
+
+Summary: In today’s rapidly evolving investment landscape, staying ahead of the curve is crucial for venture capital firms, private equity firms, investment companies, and family offices.
+That’s where Rundit – a portfolio management and monitoring solutions provider – wants to make a difference and bring the investment industry up-to-date.
+Rundit has long been committed to reshaping the way investment reporting is done.
+Today, Rundit has launched its LP Report Builder, designed to give investors seamless reports and enriched insights.
+These rules require registered private fund advisers to provide investors with detailed quarterly statements covering private fund performance, fees, and expenses.
+
+Other Blogs by Stewart Rogers: https://dataconomy.com/author/stewart-rogers/

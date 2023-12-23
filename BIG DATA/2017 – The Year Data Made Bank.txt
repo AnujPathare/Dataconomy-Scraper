@@ -1,0 +1,64 @@
+Title: 2017 – The Year Data Made Bank?
+
+Article Link: https://dataconomy.com/2017/02/01/2017-year-data-made-bank/
+
+Author: Duena Blomstrom
+
+Publish Date: 2017-02-01
+
+Article:
+Financial data finally starting to pay off
+
+If you are in Finance, you would have read at least one of the many predictions articles that poured from all directions on the internet in the past month. This is not trying to be yet another one but focus on the CX angle of one of them.
+
+Most of the FinTech forecasts herald the advent -or victorious prevalence depending on the knowledge level of the author- of a few technology trends: blockchain, chat bots, robo-advisory and AI, PSD2 and data analytics in 2017.
+
+This last one is perhaps the most interesting one from a customer experience perspective because if we are to be honest, this is in no way a new idea such as blockchain, and not even one that needed to “cook” and be developed as AI. The ability to collect, slice and dice data has been around at this very level, for a good few years already. So why haven’t financial institutions “made bank” on it yet?
+
+While retailer have gotten savvier and savvier at squeezing every bit of relevancy of every piece of information we give them to strengthen their brand, in banking, we’ve seen excitement around terms such as “big data”; “customer analytics and segmentation” and even the (now completely defunct) lofty goal-phrase of “single customer view” come and go and nothing intrinsically changed in the way data is used.
+
+Proverbial Target anecdote aside, no bank targets the newly pregnant mother with an offer for cots and no one clearly buying various elements of a vacation is being reminded of getting (or even already owning) a travel insurance.
+
+One could argue that the very fact that this famous Financial Times personal data monetisation evaluation tool (which allows consumers to verify what their information is worth to retailers) simply doesn’t include Financial data is telling.
+
+When asked, banks cite a desire to protect the consumer’s privacy as one of the reasons why they have not started digging into their data – but that’s a lie. They also claim the consumers absolutely do not want them to give them actionable advice depending on their spend and this too, is at a minimum a gross generalisation as report after report have shown.
+
+The real reason why we as consumers didn’t see any of the benefits of handing over so much data is two fold: one is bank culture and the second one is technology impotence. The do not want to use the data and they can not use the data.
+
+The cultural part is fodder for a much larger discussion, but suffice it to say it is what you’d expect: banks are huge organisations with obscenely complicated internal dynamics and a resulting inability to make courageous changes at fundamental business model level, which means they are stuck in the status quo and sadly, this status quo involves rigid age-old products and no peeking into the consumer data chest.
+
+As for technology impotence it’s much simpler: they can’t use data they don’t understand.
+
+Yes, bank may store every byte of information possible but it’s an incomprehensible byte before basic mechanisms such as categorisation engines and data analytic dashboards are in place. In other words, they can see Mr. Smith has spent £ -221.50 they only knew it went to gnerguk0001 and that it had the transaction ID 2UK170802G2110116 and the reference No. 55542763846387652450981 but evidently none of that is enabling the bank to tell Mr. Smith he is paying twice as much as the average consumer of his age and income bracket in energy bills and suggest 1-2 alternative providers while showing him what making those savings would do for his savings in a few years’ time.
+
+The only way that 2017 is going to be the year where Data will finally be taken seriously, is if both of these two reasons are removed and while the former is still in question, in my opinion, the latter is thankfully changing across the board as many more banks have now become technology potent in this area.
+
+“Cross Sales” vs. “Life Assistance”
+
+Transactions already tell banks what your family looks like, and what you need in terms of next, extra or better financial and non-financial services. Buying a size 12 plimsole in M&S can only mean you have a 5-7 year old to raise. All the bank has to work out is “when and how” not “if,” they should tell us about their “goHenry” equivalent card and the junior ISA.
+
+Making regular payments to a care agency can only mean you have an elderly relative. All that banks need to decide is “when and how” not “if”, they should engage us about the pension top-up product or even a burial service insurance.
+
+Put into perspective, the mere fact that comparison sites, financial advisors, insurance brokers and the likes have developed as a parallel industry to banking, is a sign that banks have spectacularly failed at their job if we agree their job is to not only to store and move money, but offer the consumer all the information and actions connected to their money as services.
+
+The beauty of it is that “doing the right thing by the consumer” by giving them the experience they deserve through attaching meaning and intelligence to their data, is that it’s a win-win – as much a moral imperative as a means to drive business and banks are in a uniquely insightful position to do so.
+
+It’s not business – it’s personal
+
+Lastly, and to me most importantly, making use of data is good Emotional Banking™ practice. Customers instinctively feel that there is great intrinsic power and opportunity in transactional knowledge and, if employed for the good, they will not perceive it in a creepy “I know what you did last summer” fashion. They simply know they have offered slices of their lives in information and that feels intimate, it is arguably why they develop Irrational Bank Loyalty ™ towards their financial services provider.
+
+Giving away so much of our data is emotionally connecting in a way banks need to be courageous enough to explore to become beloved brands. It puts them at the forefront of helping consumers achieve a better financial standing by helping them save and spend more intelligently and that can very well be addictively important.
+
+Consumers attach so much of their identity to their financial success –this article in the Economist wonders which came first happiness or money- that it follows they would be delighted with their bank contributing to it. Not to mention utterly surprised if they did.
+
+An ad for a savings account on the side bar of a current-account-only-customer’s incomprehensible transaction list, may have been what passed for cross-sales, customer insight and marketing in most banks until now, but keeping in mind it will from hereon be “anyone’s game” with the arrival of PSD2, challengers and big brands who will build smartly, it simply won’t cut the proverbial P&L mustard anymore.
+
+Blockchain and AI may well need a few more years before making a difference but my transactional data and yours is already in our banks, they now know what it means, so all they need to do in order to make 2017 the year they really became relevant to their customers, is be willing to help us act on it to become a smarter consumers and convince us they’re a brand worth banking on.
+
+Summary: Financial data finally starting to pay offIf you are in Finance, you would have read at least one of the many predictions articles that poured from all directions on the internet in the past month.
+One could argue that the very fact that this famous Financial Times personal data monetisation evaluation tool (which allows consumers to verify what their information is worth to retailers) simply doesn’t include Financial data is telling.
+The do not want to use the data and they can not use the data.
+Yes, bank may store every byte of information possible but it’s an incomprehensible byte before basic mechanisms such as categorisation engines and data analytic dashboards are in place.
+Giving away so much of our data is emotionally connecting in a way banks need to be courageous enough to explore to become beloved brands.
+
+Other Blogs by Duena Blomstrom: https://dataconomy.com/author/duena-blomstrom/

@@ -1,0 +1,88 @@
+Title: Curate your big data to unleash its power
+
+Article Link: https://dataconomy.com/2022/04/11/data-curation-definition-benefits/
+
+Author: Hasan Selman
+
+Publish Date: 2022-04-11
+
+Article:
+Data curation is the active management of data throughout its lifecycle of interest and usefulness. The lifespan of data is determined by how long analysts and researchers are interested in it, which means as long as it can be reused to create more value.
+
+What is data curation?
+
+The process of data curation involves the creation, organization, and maintenance of data sets so that they can be accessed and utilized by organizations. Curation entails collecting, structuring, indexing, and cataloging data. Curated data is used by businesses to make decisions, while academics use it for scientific research purposes.
+
+The overall objective of data curation is to reduce the time it takes to get insights from raw data by organizing and bringing together relevant information into structured, searchable data assets. An organization’s data strategy must include data curation, an essential element of a corporate data plan since it supports companies’ ability to utilize their data and adhere to data-related legal and security obligations.
+
+Data curation allows data to be gathered and controlled so that everyone can utilize it. It would be hard to acquire, process, and validate big data in organizations without data curation. Data curation can be aware of the quality of the data. This way, organizations keep the valuable data and let go inapplicable.
+
+In some cases, data curation refers to various tasks, including data management, data generation, modification, verification, extraction, integration, standardization, conversion, maintenance, quality assurance, and validation. It also includes integrity as well as provenance checks.
+
+How is data curated?
+
+Data curation primarily focuses on comprehending and organizing data metadata, the set of information about the data itself. Therefore, data curation involves comprehending where and how data is generated and what is stored. The process includes building searchable indexes on the data sets being curated; a data catalog also is frequently developed.
+
+The data curation process involves identifying, cleaning, and transforming data. The first step is data identification. It ensures that the correct dataset is provided to the right team. The next step is to clean the data by looking for anomalies such as missing values. Lastly, data transformation formats the data for specific consumption scenarios.
+
+Self-service analytical tools and contemporary data catalogs are becoming more popular as data curation becomes necessary. These assist in curating both data and metadata, which means that data management efforts are more successful.
+
+Data curation organizes the data that is accumulating every second. Even if the datasets are huge, the curation process can assist organizations in managing them methodically so that researchers and scientists can work with them most helpfully. The data then becomes accessible to data scientists, and they may utilize it to produce insights that the company can trust.
+
+Benefits of data curation
+
+Data curation organizes data and makes it findable and accessible. It also enables business users to trace data lineage. The process categorizes data by various characteristics, such as whether it’s public, private, or protected.
+
+Data curation helps organizations see what data they can utilize. This is an essential need as the generated, and collected data grows. This visibility also aids in the optimal use of data since BI and data science teams, corporate executives, and other teams can discover and access the information they require for analytics applications and operational decision-making.
+
+Users will have more confidence in the data if they know it’s accurate, trustworthy, and up to date. Trust towards data builds faith in data-driven decisions and initiatives and speeds business activities based on data analytics.
+
+Data curation helps organizations avoid being overwhelmed by the growth in data volumes and the diversification of data sources
+
+Data is collected by many source systems in many organizations, ranging from conventional business applications to new edge computing devices linked to the internet of things. For analysis, big data systems frequently keep a mix of structured, unstructured, and semi-structured data. More business-related data is collected through various external sources.
+
+Data curation helps organizations avoid being overwhelmed by the growth in data volumes and the diversification of data sources by organizing what might otherwise be a disorganized procedure of data ingestion and utilization. The ability to track data sets and users who cannot access the data they need would be impossible without it.
+
+In recent years, machine learning algorithms have made significant progress in comprehending the consumer market. AI is made up of neural networks that communicate and can apply Deep Learning to recognize patterns. However, humans must at least initially intervene to have algorithmic behavior directed towards practical learning. The aim of data curation is for people to add their expertise to what the machine has automated. This leads to preparing for intelligent self-service procedures and establishing organizations for insights.
+
+What is the difference between data curation vs data governance?
+
+Data governance is a company approach, and data curation is an iterative process. While data governance establishes the responsibilities, procedures, and rules that regulate data management activities, data curation focuses on optimizing metadata to make data available, attainable, and permanent. Data governance and data curation are inextricably linked. Data curation is an integral part of successful data governance.
+
+Who is responsible for the data curation process?
+
+Data curators are in charge of the curation throughout the data lifecycle from ingestion to consumption. Data curators are experts in business data who understand the company’s circumstances and can generate valuable data assets for company users. Multiple data curators may be employed by an organization to manage data from various domains, each with their own domain.
+
+Domain curators maintain and share data domain knowledge, which aids data analysts in comprehending the characteristics of the data they deal with. Researchers, data curators, and developers may all contribute to enriching a database with information.
+
+Data curators may add metadata and necessary context. Their work is often confused with the database administrator, who creates datasets and metadata from several databases. It’s also critical for data curators to observe data governance regulations while organizing data for a company. Lead curators are the individuals who moderate data catalog content for companies. Lead curators have a significant level of responsibility for metadata and catalog quality.
+
+What is the difference between data curators vs data stewards?
+
+The difference between data curators and data stewards lies in what data curators eventually aim to do.
+
+It is worth repeating that data curators are not database designers or database administrators. They are the people who maintain and manage a data set’s metadata to provide greater context for data users. Their responsibilities extend beyond databases to include the company’s data process and data roadmap. Data stewards are in charge of an organization’s databases and overall data strategy.
+
+Data curators are data scientists who specialize in the domain and industry-specific data sets, data groupings, analysis variables, and data pipelines. The goal is to ensure that the correct person receives data when needed and that data users know how to utilize it when they find it. Data curators also verify security and privacy standards and quality when dealing with specific data sets.
+
+Data stewards maintain databases, data processes, and overall data vision. They’re concerned with laying the groundwork for data governance and access controls, mapping data to business needs, and developing strategic data plans.
+
+Challenges of data curation
+
+Curation can be time-consuming and costly, especially for big data curation. Different data curation methods are required to sort and manage many diverse data sets correctly. Furthermore, for decades, businesses have stockpiled data without giving it much thought about what they plan to do with it or how to keep it safe from deterioration. Many organizations would like to utilize this data. Still, they have no idea where to begin or lack a solid business data strategy for the journey ahead. Organizations must first clearly understand what data provides the most significant value, why and how it can be utilized, and ensure success before data curation.
+
+Future of data curation
+
+Organizations and enterprises continue to apply big data concepts. Data has demonstrated how crucial it is in expanding previously unknown opportunities in business operation and success. As data grows, organizations will increasingly invest in data curation to speed up processing and analysis to enhance operations and produce better outcomes.
+
+The ability to quickly monitor and analyze data on their own becomes the difference between successful organizations and others. Those who master data curation will be the most successful and surpass their industry competition.
+
+Data curation allows organizations to crystallize their data stores and value them. Using a smart data curation platform ensures that a company is fed with clean, helpful data to gain a competitive edge and take the lead in the market.
+
+Summary: In some cases, data curation refers to various tasks, including data management, data generation, modification, verification, extraction, integration, standardization, conversion, maintenance, quality assurance, and validation.
+Data curation primarily focuses on comprehending and organizing data metadata, the set of information about the data itself.
+It’s also critical for data curators to observe data governance regulations while organizing data for a company.
+The difference between data curators and data stewards lies in what data curators eventually aim to do.
+Data curators are data scientists who specialize in the domain and industry-specific data sets, data groupings, analysis variables, and data pipelines.
+
+Other Blogs by Hasan Selman: https://dataconomy.com/author/hasan-selman/

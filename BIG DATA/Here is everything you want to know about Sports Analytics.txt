@@ -1,0 +1,78 @@
+Title: Here is everything you want to know about Sports Analytics
+
+Article Link: https://dataconomy.com/2018/08/24/here-is-everything-you-want-to-know-about-sports-analytics/
+
+Author: Abhimanyu Sundar
+
+Publish Date: 2018-08-24
+
+Article:
+If we’re talking about sports analytics, I have to bring up the “Moneyball” reference. Honestly speaking though, sports analytics has come a really long way from the times of Moneyball. Moneyball got the ball rolling, and, boy! has the ball gathered enormous momentum today. Better technology surprisingly advanced real-time video data capture and with advanced analytics evolving all the time, sports analytics has become one of the most dynamic fields.
+
+On November 25th-26th 2019, we are bringing together a global community of data-driven pioneers to talk about the latest trends in tech & data at Data Natives Conference 2019. Get your ticket now at a discounted Early Bird price!
+
+How powerful can Sports Analytics be?
+
+Analytics has gone beyond just tracking data on paper and gaining actionable insights. Today real-time videos are used for the purpose of finding key analysis points. If you have been interested in the world of sports analytics, you might have heard of the company SportVU. SportVU is a camera system hung from the rafters of dugouts or any place which can leverage a camera and that has the whole view of the play area. The cameras capture data at the rate of 25 frames per second. Take the case of baseball or basketball, the camera tracks every movement of the ball and the position of the players throughout the game in real time. Analytics companies provide statistics based on the recorded data and combining this with state of the art statistical algorithms and softwares.
+
+Making use of player tracking, analytics companies can provide performance metrics about players. Taking the above example in case, a simple thing like, what was the position of the players X,Y and Z when the ball at the points A,B and C. Seeing the potential of companies like SportVU, it is adopted by many teams in the MLB, NBA and MLS. Today, it is the official tracking partner of the NBA! There are many other similar tools like the IBM Slamtracker for tennis and Replay Technologies.
+
+Do all the different types of analytics fit in for every sport?
+
+Most definitely not! Each and every sport is unique and the analysis performed for each sport will vary in terms of methodology. One thing that is universal to all sports when it comes to predictive analytics is that “more data will lead to better results”. Predictive analytics particularly suffers when there is fewer data and when critical interactions have less linearity.
+
+An ideal example of this would be the sport of soccer. With less sophisticated metrics to play around with, the team composition can vary a lot. This makes the available data not too helpful for predictions. If you take the case of physiological metrics, soccer is way ahead of the curve. Having more data is definitely more advantageous. Just like how analysis has shown the effect of pitch framing (the art of making a pitch near the border appear to be a strike) in baseball. The offensive line play in football also greatly benefits from having tons of data.
+
+We have spoken about data in soccer, baseball, football and basketball. All the sports do not have the same testing metrics. They differ in terms of the metrics being measured. It may be player profiling, distance management, throughput conversions etc. All of these will not be applicable in all sports. Finding innovative ways of using these methods in the most unconventional ways is what will actually help you gain the analytics advantage.
+
+The world of Motorsports
+
+When you take the case of team sports that are played on the field, data is measured on the field and the analysis is done post the game off the field. Yes, the data is measured in real-time, however, the analysis is done post the game. The game is reviewed, advanced analytics helps reach conclusions and the necessary changes are incorporated in practice and put into full effect from the following games. When it comes to the world of motorsports, it a whole different ball-game, data is recorded in real-time, analysis is done in real-time and actionable solutions reincorporated during the race. The power of advanced analytics in motorsports is unparalleled.
+
+Let me give you a better understanding of with an example:
+
+I don’t want to give you an example that is too technically detailed and you end up thinking “what was the whole point of this?”
+
+The 2005 Monaco Grand Prix!
+
+Schumacher smashes into David Coulthard. Schumacher’s nosecone is detached and Coulthard’s suspension is beyond repair. All the other drivers approach the turn ladled with debris and the cars involved in the collision. The marshals deployed the safety car. Note* Kimi was leading the race.
+
+During the safety car period, the most logical thing for all drivers to do was to pit, change tires, refuel and get back out to take the win. The race winning move was when the McLaren team radioed and asked Kimi not to pit and stay out. This seemed like a bad move initially. Kimi however fired in a few quick fire laps and increased his lead to a mind-blowing 35 seconds. He pits on lap 42 and came out of the pits with a 13 second lead, brand new tires and fuel to finish the race. The Flying Finn grabbed P1!
+
+So what made McLaren make such a gutsy decision? It was the intelligence from the many analysts who were working on real-time computations like how much fuel was there, how light was the car because of the reduced fuel, how much longer would the tires last, wind resistance, average lap times, lap time variances, so on and so forth. All of this done in real-time lead to the decision in a matter of minutes. This was probably the first time in my opinion that real-time advanced analytics was put into use by an F1 team.
+
+MOTO GP!
+
+The most eminent example of the use of Machine Learning and Artificial intelligence in motorsports is in Moto GP. When Ducati turned to AI and ML by partnering with Accenture, it was a decision that was looked upon rather cynically. They decided to use this approach beginning 2012. Ducati was nowhere to be found amongst the title contenders. Only the Yamahas and Hondas were dominating. Things needed to change. 100 IoT sensors were put on the bikes to track performance data. New perspectives were created using simulations and bike performance assessment reports under a range of various conditions. Advanced analytics and ML techniques were applied to simulate data from previous successful tests. This helped the engineers optimize the bike configuration for any race. There are 18 races in a season and as many configurations and simulations were tested to prepare for any scenario and make sure the bikes performed at max capacity at all times. The impacts of these changes were visible. The change in one setting would trigger a change in another setting and this could be predicted. Even without testing, the impact that a potential change in the configuration could have could be predicted. This made the strategy rock solid for race day.
+
+Ducati managed to make their bikes smarter with every turn, here is how:
+
+Data is gathered by the sensors on the bike which captured and the analytics algorithm is applied.
+
+
+
+Real insights are used alter the bike configuration taking variables like track conditions, rubber compound and intelligent testing.
+
+
+
+Under a huge array of track and weather conditions, the bike’s performance was simulated and monitored. Ducati Corse applied ML techniques combined with the data from the IoT sensors and saved a lot of effort that goes into traditional on track testing.
+
+
+
+Specialized data visualization tools designed to view this particular data gave the engineers new ways to optimize the bike configurations and achieve faster lap times.
+
+
+
+Now you know why Dovizioso and Lorenzo are setting the track on fire in 2018.
+
+Stay Ahead of the Game
+
+The importance of analytics in sports is can be felt by everyone in the sporting industry. Analytics provide insights, analysis provide results, in real-time too! Every sport in the world today has some sort of analytics going on. There is always a dedicated team of analysts working tirelessly to provide insights to improve performance. The best teams in their respective sports follow a rigorous analytics practice and advanced analytics gives them the competitive advantage and be better than the rest!
+
+Summary: Better technology surprisingly advanced real-time video data capture and with advanced analytics evolving all the time, sports analytics has become one of the most dynamic fields.
+Making use of player tracking, analytics companies can provide performance metrics about players.
+This was probably the first time in my opinion that real-time advanced analytics was put into use by an F1 team.
+Analytics provide insights, analysis provide results, in real-time too!
+The best teams in their respective sports follow a rigorous analytics practice and advanced analytics gives them the competitive advantage and be better than the rest!
+
+Other Blogs by Abhimanyu Sundar: https://dataconomy.com/author/abhimanyu-sundar/

@@ -1,0 +1,52 @@
+Title: Crypto Securities: Long Blockchain Short Wall Street?
+
+Article Link: https://dataconomy.com/2015/10/08/crypto-securities-long-blockchain-short-wall-street/
+
+Author: Arunkumar Krishnakumar
+
+Publish Date: 2015-10-08
+
+Article:
+The global securities market is worth more than $100 Trillion. Any technology that would add efficiencies to the exchange, settlement and reporting of transactions happening in this market should be welcome. Blockchain has been in the news recently because, it has the potential to disrupt this industry through the use of crypto securities. With the advent of the internet we saw seamless exchange of information, and with the advent of blockchain we see exchange of value (bitcoins/crypto securities), and possibly exchange of risk (P2P Insurance).
+
+What is a crypto security
+
+A security traded on a blockchain based network is a crypto security. Over the last few weeks and months, the distributed ledger topic has been discussed at length, and I wanted to add further content to this widely discussed topic. There are some key benefits that the blockchain technology offers to the highly regulated banking industry.
+
+Transparency
+
+Regulations such as MIFID II, Volcker and Dodd Frank mandate transaction reporting to ensure transparency within capital markets. Blockchain not only offers this transparency but also provides accuracy to transaction reporting because of the hashing mechanism used. The secure hash algorithm used in blockchain (SHA 256) takes the key from the previous block that has already been authenticated. And due to the consensus protocol being followed, one new transaction is agreed across the entire network before getting added there is no need for a central authority – at least not in theory.
+
+Timeliness
+
+The Internet of things, where technology is embedded into various objects that customers interact with and data is shared across the network, when combined with distributed ledgers could make clearing and settlements of securities a near real time process. Consider a security transaction where physical settlement is required, and as soon as the security is handed over to the buyer, the data is shared about it to your settlement systems through IoT, it adds major efficiencies to the post trade lifecycle. If the security exchange process is virtual, it can be done in seconds over blockchain as updates to title of securities happen in real time. Currently this process takes many hours if not days with various manual checks done at various points and inefficiencies in the global collateral management market are estimated to cost banks up to $4 billion annually.
+
+Digital assets and a few other blockchain firms have especially focused on repos and syndicated loans as there are massive efficiencies to be had in the trade lifecycle of these products.
+
+Traceability
+
+Imagine a transaction involving asset backed securities and there is a need to understand the valuation of the assets underlying. There is very minimal opportunity today to get all the information required for valuation, clearing, settlement and disbursement of such complex and niche products. Blockchain solves that problem too. Using blockchain it is possible to hold the entire life of a security or a collateral and see history of valuations (if need be). This provides confidence to investors.
+
+Also, collateral management is quite an important part of risk management and pricing of securities. When there is end to end traceability available on securities/collateral or any underlying used in a transaction, it helps improve risk management by providing more accurate information to price the security. This level of transparency and traceability could potentially make some of these securities more liquid.
+
+Blockchain is also being experimented by various capital market players who are custodians of securities, especially gold. It is important to keep track of the origin and the life of a commodity like gold to be able to price it accurately.
+
+Disintermediation
+
+The first wave of fintech use cases focussed on disintermediation in clusters such as payments, wealth management etc., But the next wave of disruption led by Blockchain will take disintermediation to an unprecedented level. With all transactions happening peer to peer, there won’t be a need for an exchange at all. This will add efficiencies to custodian and prime brokerage services and eliminate or reduce the need for a middleman.
+
+Of the securities that are traded in the market, a lot of them are borrowed. During the 2008 crisis, many market participants were shorting securities without actually owning them. This brought down the price of securities, creating an endogenous cycle that drove the markets down. The regulators have since then kept a close eye on shorting to keep them under check. With a blockchain driven platform, the ownership of securities is pretty clear and reckless shorting of securities can be controlled automatically. Prime brokers, who make a good slice of their revenues in the securities lending market, may lose a big slice of their commission if blockchain had its way.
+
+If P2P transactions of crypto securities became the norm, that would hurt the middlemen making money by facilitating inefficient and time consuming processes. Many players in investment banking may find that highly inconvenient.
+
+In spite of all these bullish features, Blockchain and its use cases in crypto securities have various disadvantages as well. A topic for another day!!
+
+(image credit: Sam Valadi, CC2.0)
+
+Summary: The global securities market is worth more than $100 Trillion.
+Blockchain has been in the news recently because, it has the potential to disrupt this industry through the use of crypto securities.
+What is a crypto securityA security traded on a blockchain based network is a crypto security.
+If P2P transactions of crypto securities became the norm, that would hurt the middlemen making money by facilitating inefficient and time consuming processes.
+In spite of all these bullish features, Blockchain and its use cases in crypto securities have various disadvantages as well.
+
+Other Blogs by Arunkumar Krishnakumar: https://dataconomy.com/author/arunkumar-krishnakumar/
